@@ -2144,3 +2144,120 @@ ul, ol {
     background-size: 200% 100%;
     animation: shimmer 1.5s infinite;
 }
+
+/* ---- 骨架屏：轮播图 ---- */
+.skeleton-carousel {
+    width: 100%; height: 380px;
+    border-radius: var(--radius-lg);
+}
+
+/* ---- 骨架屏：快讯列表 ---- */
+.skeleton-news-item {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 0; border-bottom: 1px solid var(--border-light);
+}
+.skeleton-news-item::before {
+    content: ''; display: inline-block; width: 48px; height: 14px;
+    border-radius: 4px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite; flex-shrink: 0;
+}
+.skeleton-news-item::after {
+    content: ''; display: inline-block; height: 14px;
+    flex: 1; border-radius: 4px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：卡片网格 ---- */
+.skeleton-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 16px; }
+.skeleton-grid .skeleton-card {
+    height: 260px; border-radius: var(--radius-md);
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+.skeleton-grid .skeleton-card.featured { grid-row: span 2; height: auto; min-height: 300px; }
+
+/* ---- 骨架屏：列表布局 (AI研究) ---- */
+.skeleton-list { display: flex; flex-direction: column; gap: 12px; }
+.skeleton-list-item {
+    display: flex; gap: 12px; align-items: center;
+    height: 90px; border-radius: var(--radius-md);
+    padding: 12px; box-sizing: border-box;
+}
+.skeleton-list-item::before {
+    content: ''; width: 120px; height: 66px; border-radius: 6px; flex-shrink: 0;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+.skeleton-list-item::after {
+    content: ''; flex: 1; height: 14px; border-radius: 4px; margin-top: 10px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：简单列表 (AI应用/行业/热榜) ---- */
+.skeleton-simple { display: flex; flex-direction: column; gap: 12px; }
+.skeleton-simple-item {
+    height: 36px; border-radius: 6px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：政策法规 ---- */
+.skeleton-policy { display: flex; flex-direction: column; gap: 12px; }
+.skeleton-policy-card {
+    display: flex; align-items: center; gap: 12px;
+    height: 80px; border-radius: var(--radius-md); padding: 12px; box-sizing: border-box;
+}
+.skeleton-policy-card::before {
+    content: ''; width: 40px; height: 40px; border-radius: 6px; flex-shrink: 0;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+.skeleton-policy-card::after {
+    content: ''; flex: 1; height: 14px; border-radius: 4px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：开源表格 ---- */
+.skeleton-table { display: flex; flex-direction: column; gap: 8px; }
+.skeleton-row {
+    height: 44px; border-radius: 6px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：工具箱 ---- */
+.skeleton-tools { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.skeleton-tool {
+    height: 56px; border-radius: 8px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+
+/* ---- 骨架屏：标签云 ---- */
+.skeleton-tags {
+    display: flex; flex-wrap: wrap; gap: 8px; padding: 8px 0;
+}
+.skeleton-tags span {
+    display: inline-block; height: 26px; border-radius: 20px;
+    background: linear-gradient(90deg, var(--bg-tertiary) 25%, var(--border-light) 50%, var(--bg-tertiary) 75%);
+    background-size: 200% 100%; animation: shimmer 1.5s infinite;
+}
+.skeleton-tags span:nth-child(1) { width: 50px; }
+.skeleton-tags span:nth-child(2) { width: 70px; }
+.skeleton-tags span:nth-child(3) { width: 45px; }
+.skeleton-tags span:nth-child(4) { width: 85px; }
+.skeleton-tags span:nth-child(5) { width: 55px; }
+.skeleton-tags span:nth-child(6) { width: 65px; }
+.skeleton-tags span:nth-child(7) { width: 75px; }
+.skeleton-tags span:nth-child(8) { width: 40px; }
+
+/* 响应式骨架屏 */
+@media (max-width: 768px) {
+    .skeleton-grid { grid-template-columns: 1fr 1fr; }
+    .skeleton-grid .skeleton-card.featured { grid-column: span 2; min-height: 200px; }
+    .skeleton-tools { grid-template-columns: repeat(2, 1fr); }
+}
