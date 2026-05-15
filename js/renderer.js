@@ -197,7 +197,7 @@ var ContentRenderer = (function() {
                 '<article class="policy-card">' +
                     '<div class="policy-flag">' + esc(item.flag) + '</div>' +
                     '<div class="policy-body">' +
-                        '<h4><a href="#">' + esc(item.title) + '</a></h4>' +
+                        '<h4><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.title) + '</a></h4>' +
                         '<p>' + esc(item.desc) + '</p>' +
                         '<div class="policy-meta">' +
                             '<span class="policy-date">' + esc(item.date) + '</span> ' +
@@ -267,7 +267,7 @@ var ContentRenderer = (function() {
 
         var html = '';
         siteData.aiTools.forEach(function(tool) {
-            html += '<a href="#" class="tool-item"><span class="tool-icon">' + esc(tool.icon) + '</span><span class="tool-name">' + esc(tool.name) + '</span></a>';
+            html += '<a href="' + safeUrl(tool.url) + '"' + (tool.url ? ' target="_blank" rel="noopener"' : '') + ' class="tool-item"><span class="tool-icon">' + esc(tool.icon) + '</span><span class="tool-name">' + esc(tool.name) + '</span></a>';
         });
         container.innerHTML = '<div class="tools-grid">' + html + '</div>';
     }
