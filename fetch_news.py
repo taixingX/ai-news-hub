@@ -401,6 +401,7 @@ def build_carousel_slides(articles):
             'time': a.get('pub_date', '今天'),
             'views': f"{max(10, 100 - i*15)}.{i*3}K",
             'bg': assign_bg(i),
+            'url': a.get('link', ''),
         })
     while len(slides) < 4:
         slides.append({
@@ -423,6 +424,7 @@ def build_quick_news(articles):
             'time': datetime.datetime.now().strftime('%H:%M'),
             'text': a['title'][:60],
             'hot': len(quick) == 0,
+            'url': a.get('link', ''),
         })
     while len(quick) < 8:
         quick.append({'time': '--:--', 'text': '资讯持续更新中...', 'hot': False})
@@ -445,6 +447,7 @@ def build_llm_section(articles):
             'comments': str(max(10, 300 - i*40)),
             'bg': assign_bg(i + 4),
             'category': cat_key_map.get(cat, 'gpt'),
+            'url': a.get('link', ''),
         }
         if i == 0:
             item['featured'] = True
@@ -487,6 +490,7 @@ def build_research_section(arxiv_articles, rss_articles):
             'time': a.get('pub_date', '今天'),
             'bg': assign_bg(i + 6),
             'category': 'paper',
+            'url': a.get('link', ''),
         })
 
     return {
@@ -514,6 +518,7 @@ def build_application_section(articles):
             'title': a['title'][:70],
             'time': a.get('pub_date', '今天'),
             'emoji': emojis[i % len(emojis)],
+            'url': a.get('link', ''),
         })
     while len(items) < 6:
         items.append({'rank': len(items)+1, 'title': 'AI应用资讯持续更新中...', 'time': '今天'})
@@ -536,6 +541,7 @@ def build_industry_section(articles):
             'title': a['title'][:70],
             'time': a.get('pub_date', '今天'),
             'emoji': emojis[i % len(emojis)],
+            'url': a.get('link', ''),
         })
 
     return {
@@ -615,6 +621,7 @@ def build_sidebar_hot_rank(articles):
             'top3': i < 3,
             'title': a['title'][:50],
             'heat': f"{max(10, 120 - i*10)}.{i*3}万热度" if i < 3 else '',
+            'url': a.get('link', ''),
         })
     while len(hot) < 10:
         hot.append({'rank': len(hot)+1, 'top3': False, 'title': '持续更新中...'})

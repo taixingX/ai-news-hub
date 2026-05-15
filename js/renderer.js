@@ -17,6 +17,13 @@ var ContentRenderer = (function() {
         return d.innerHTML;
     }
 
+    function safeUrl(url) {
+        if (url && url !== '#' && url.startsWith('http')) {
+            return esc(url);
+        }
+        return '#';
+    }
+
     /**
      * 渲染头条轮播图
      */
@@ -31,7 +38,7 @@ var ContentRenderer = (function() {
         siteData.carouselSlides.forEach(function(slide, i) {
             var activeCls = i === 0 ? ' active' : '';
             slidesHtml +=
-                '<div class="carousel-slide' + activeCls + '" style="--slide-bg: ' + slide.bg + ';">' +
+                '<a href="' + safeUrl(slide.url) + '" class="carousel-slide' + activeCls + '" style="--slide-bg: ' + slide.bg + ';"' + (slide.url ? ' target="_blank" rel="noopener"' : '') + '>' +
                     '<div class="slide-tag">' + esc(slide.tag) + '</div>' +
                     '<h2 class="slide-title">' + esc(slide.title) + '</h2>' +
                     '<p class="slide-summary">' + esc(slide.summary) + '</p>' +
@@ -40,7 +47,7 @@ var ContentRenderer = (function() {
                         '<span class="slide-time">' + esc(slide.time) + '</span> ' +
                         '<span class="slide-views">👁 ' + esc(slide.views) + '</span>' +
                     '</div>' +
-                '</div>';
+                '</a>';
             dotsHtml += '<span class="dot' + activeCls + '"></span>';
         });
 
@@ -59,7 +66,7 @@ var ContentRenderer = (function() {
         siteData.quickNews.forEach(function(item) {
             html += '<li class="quick-news-item' + (item.hot ? ' hot' : '') + '">' +
                 '<span class="time">' + esc(item.time) + '</span> ' +
-                '<a href="#">' + esc(item.text) + '</a>' +
+                '<a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.text) + '</a>' +
             '</li>';
         });
         list.innerHTML = html;
@@ -83,7 +90,7 @@ var ContentRenderer = (function() {
                             '<div class="image-overlay"><span class="card-tag">' + esc(item.tag) + '</span></div>' +
                         '</div>' +
                         '<div class="news-card-body">' +
-                            '<h3 class="news-card-title"><a href="#">' + esc(item.title) + '</a></h3>' +
+                            '<h3 class="news-card-title"><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.title) + '</a></h3>' +
                             '<p class="news-card-desc">' + esc(item.desc) + '</p>' +
                             '<div class="news-card-footer">' +
                                 '<span class="source">' + esc(item.source) + '</span> ' +
@@ -97,7 +104,7 @@ var ContentRenderer = (function() {
                     '<article class="news-card" data-category="' + esc(item.category || '') + '">' +
                         '<div class="news-card-image" style="background: ' + item.bg + ';"></div>' +
                         '<div class="news-card-body">' +
-                            '<h3 class="news-card-title"><a href="#">' + esc(item.title) + '</a></h3>' +
+                            '<h3 class="news-card-title"><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.title) + '</a></h3>' +
                             '<div class="news-card-footer">' +
                                 '<span class="source">' + esc(item.source) + '</span> ' +
                                 '<span class="time">' + esc(item.time) + '</span> ' +
@@ -126,7 +133,7 @@ var ContentRenderer = (function() {
                 '<article class="list-news-item" data-category="' + esc(item.category || '') + '">' +
                     '<div class="list-news-thumb" style="background: ' + item.bg + ';"></div>' +
                     '<div class="list-news-info">' +
-                        '<h3><a href="#">' + esc(item.title) + '</a></h3>' +
+                        '<h3><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.title) + '</a></h3>' +
                         (item.desc ? '<p class="desc">' + esc(item.desc) + '</p>' : '') +
                         '<div class="meta">' +
                             (item.tag ? '<span class="tag ' + esc(item.tagClass || '') + '">' + esc(item.tag) + '</span>' : '') +
@@ -152,7 +159,7 @@ var ContentRenderer = (function() {
             var rankCls = item.rank <= 3 ? ' rank-' + item.rank : '';
             html +=
                 '<article class="simple-news-item">' +
-                    '<h4><a href="#"><span class="rank-badge' + rankCls + '">' + item.rank + '</span> ' + esc(item.title) + '</a></h4>' +
+                    '<h4><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '><span class="rank-badge' + rankCls + '">' + item.rank + '</span> ' + esc(item.title) + '</a></h4>' +
                     '<span class="item-time">' + esc(item.time) + '</span>' +
                 '</article>';
         });
@@ -170,7 +177,7 @@ var ContentRenderer = (function() {
         siteData.sections.industry.items.forEach(function(item) {
             html +=
                 '<article class="simple-news-item">' +
-                    '<h4><a href="#">' + esc(item.title) + '</a></h4>' +
+                    '<h4><a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '>' + esc(item.title) + '</a></h4>' +
                     '<span class="item-time">' + esc(item.time) + '</span>' +
                 '</article>';
         });
@@ -216,7 +223,7 @@ var ContentRenderer = (function() {
             rowsHtml +=
                 '<tr>' +
                     '<td class="rank-cell">' + p.rank + '</td>' +
-                    '<td><a href="#" class="project-name">' + esc(p.name) + '</a></td>' +
+                    '<td><a href="' + safeUrl(p.url) + '"' + (p.url ? ' target="_blank" rel="noopener"' : '') + ' class="project-name">' + esc(p.name) + '</a></td>' +
                     '<td class="project-desc">' + esc(p.desc) + '</td>' +
                     '<td><span class="lang-tag ' + esc(p.langClass) + '">' + esc(p.lang) + '</span></td>' +
                     '<td class="stars-cell">' + esc(p.stars) + '</td>' +
@@ -244,7 +251,7 @@ var ContentRenderer = (function() {
             var cls = item.top3 ? ' top3' : '';
             html +=
                 '<li class="hot-item' + cls + '">' +
-                    '<a href="#"><span class="rank-num">' + item.rank + '</span> ' + esc(item.title) + '</a>' +
+                    '<a href="' + safeUrl(item.url) + '"' + (item.url ? ' target="_blank" rel="noopener"' : '') + '><span class="rank-num">' + item.rank + '</span> ' + esc(item.title) + '</a>' +
                     (item.heat ? '<span class="heat">' + esc(item.heat) + '</span>' : '') +
                 '</li>';
         });
