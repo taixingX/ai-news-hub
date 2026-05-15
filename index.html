@@ -18,8 +18,8 @@
                 <span><i class="icon-location"></i> 全球站</span>
             </div>
             <div class="top-bar-right">
-                <a href="#" class="subscribe-btn"><i class="icon-rss"></i> 订阅资讯</a>
-                <a href="#" class="login-btn"><i class="icon-user"></i> 登录 / 注册</a>
+                <a href="#" onclick="document.querySelector('.subscribe-widget').scrollIntoView({behavior:'smooth'});return false;" class="subscribe-btn"><i class="icon-rss"></i> 订阅资讯</a>
+                <a href="#" onclick="alert('登录功能开发中');return false;" class="login-btn"><i class="icon-user"></i> 登录 / 注册</a>
             </div>
         </div>
     </div>
@@ -116,7 +116,7 @@
                 <div class="headline-main">
                     <!-- 轮播区域 (由 renderer.js 动态渲染) -->
                     <div class="carousel" id="carousel">
-                        <div class="carousel-inner" id="carouselInner"></div>
+                        <div class="carousel-inner" id="carouselInner"><div class="skeleton-carousel"></div></div>
                         <div class="carousel-controls">
                             <button class="carousel-btn prev" id="carouselPrev">‹</button>
                             <div class="carousel-dots" id="carouselDots"></div>
@@ -139,10 +139,10 @@
 
                     <div class="quick-news-header">
                         <h3><span class="live-dot"></span> 实时快讯</h3>
-                        <a href="#" class="more-link">更多 ›</a>
+                        <a href="#section-llm" class="more-link">更多 ›</a>
                     </div>
                     <!-- 快讯列表 (由 renderer.js 动态渲染) -->
-                    <ul class="quick-news-list" id="quickNewsList"></ul>
+                    <ul class="quick-news-list" id="quickNewsList"><li class="skeleton-news-item"></li><li class="skeleton-news-item"></li><li class="skeleton-news-item"></li><li class="skeleton-news-item"></li><li class="skeleton-news-item"></li></ul>
                 </aside>
             </section>
 
@@ -168,10 +168,10 @@
                                     <button class="sec-tab" data-subcat="domestic">国产</button>
                                 </div>
                             </div>
-                            <a href="#" class="section-more">查看更多 →</a>
+                            <a href="#section-llm" class="section-more">查看更多 →</a>
                         </div>
                         <!-- 渲染容器: 大模型卡片 -->
-                        <div id="render-llm"></div>
+                        <div id="render-llm"><div class="skeleton-grid"><div class="skeleton-card featured"></div><div class="skeleton-card"></div><div class="skeleton-card"></div><div class="skeleton-card"></div></div></div>
                     </section>
 
                     <!-- 广告位 #4 - 内容区中部通栏 -->
@@ -195,15 +195,16 @@
                                     AI研究
                                 </h2>
                                 <div class="section-tabs">
-                                    <button class="sec-tab active" data-subcat="paper">论文</button>
+                                    <button class="sec-tab active" data-subcat="all">全部</button>
+                                    <button class="sec-tab" data-subcat="paper">论文</button>
                                     <button class="sec-tab" data-subcat="benchmark">基准测试</button>
                                     <button class="sec-tab" data-subcat="theory">理论突破</button>
                                 </div>
                             </div>
-                            <a href="#" class="section-more">查看更多 →</a>
+                            <a href="#section-research" class="section-more">查看更多 →</a>
                         </div>
                         <!-- 渲染容器: AI研究列表 -->
-                        <div id="render-research"></div>
+                        <div id="render-research"><div class="skeleton-list"><div class="skeleton-list-item"></div><div class="skeleton-list-item"></div><div class="skeleton-list-item"></div><div class="skeleton-list-item"></div><div class="skeleton-list-item"></div></div></div>
                     </section>
 
                     <!-- AI应用 + 行业动态 双列布局 -->
@@ -215,10 +216,10 @@
                                     <span class="title-icon">⚡</span>
                                     AI应用
                                 </h2>
-                                <a href="#" class="section-more">更多 →</a>
-                            </div>
-                            <!-- 渲染容器: AI应用列表 -->
-                            <div id="render-application"></div>
+                            <a href="#section-application" class="section-more">更多 →</a>
+                        </div>
+                        <!-- 渲染容器: AI应用列表 -->
+                            <div id="render-application"><div class="skeleton-simple"><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div></div></div>
                         </section>
 
                         <!-- 行业动态 -->
@@ -228,10 +229,10 @@
                                     <span class="title-icon">📊</span>
                                     行业动态
                                 </h2>
-                                <a href="#" class="section-more">更多 →</a>
-                            </div>
-                            <!-- 渲染容器: 行业动态列表 -->
-                            <div id="render-industry"></div>
+                            <a href="#section-industry" class="section-more">更多 →</a>
+                        </div>
+                        <!-- 渲染容器: 行业动态列表 -->
+                            <div id="render-industry"><div class="skeleton-simple"><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div></div></div>
                         </section>
                     </div>
 
@@ -244,10 +245,10 @@
                                     政策法规
                                 </h2>
                             </div>
-                            <a href="#" class="section-more">查看更多 →</a>
+                            <a href="#section-policy" class="section-more">查看更多 →</a>
                         </div>
                         <!-- 渲染容器: 政策法规卡片 -->
-                        <div id="render-policy"></div>
+                        <div id="render-policy"><div class="skeleton-policy"><div class="skeleton-policy-card"></div><div class="skeleton-policy-card"></div><div class="skeleton-policy-card"></div></div></div>
                     </section>
 
                     <!-- 广告位 #5 - 内容区下部通栏 -->
@@ -272,7 +273,7 @@
                             <a href="https://github.com/trending?since=daily" target="_blank" class="section-more">GitHub Trending →</a>
                         </div>
                         <!-- 渲染容器: 开源项目表格 -->
-                        <div id="render-openSource"></div>
+                        <div id="render-openSource"><div class="skeleton-table"><div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div><div class="skeleton-row"></div></div></div>
                     </section>
                 </div>
 
@@ -284,7 +285,7 @@
                             <h3>🔥 热门排行 TOP 10</h3>
                         </div>
                         <!-- 渲染容器: 侧栏热榜 -->
-                        <div id="render-hotRank"></div>
+                        <div id="render-hotRank"><div class="skeleton-simple"><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div><div class="skeleton-simple-item"></div></div></div>
                     </div>
 
                     <!-- AI工具箱 -->
@@ -293,7 +294,7 @@
                             <h3>🛠️ 常用AI工具</h3>
                         </div>
                         <!-- 渲染容器: AI工具网格 -->
-                        <div id="render-tools"></div>
+                        <div id="render-tools"><div class="skeleton-tools"><div class="skeleton-tool"></div><div class="skeleton-tool"></div><div class="skeleton-tool"></div><div class="skeleton-tool"></div></div></div>
                     </div>
 
                     <!-- 标签云 -->
@@ -302,7 +303,7 @@
                             <h3>🏷️ 热门标签</h3>
                         </div>
                         <!-- 渲染容器: 标签云 -->
-                        <div id="render-tags"></div>
+                        <div id="render-tags"><div class="skeleton-tags"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div></div>
                     </div>
 
                     <!-- 订阅区块 -->
@@ -343,31 +344,31 @@
                     </div>
                     <p class="footer-desc">聚焦全球人工智能领域的最新动态、前沿研究和产业趋势。为AI从业者、研究者和爱好者提供一站式资讯服务。</p>
                     <div class="social-links">
-                        <a href="#" title="微信">微信</a>
-                        <a href="#" title="微博">微博</a>
-                        <a href="#" title="Twitter/X">X</a>
-                        <a href="#" title="GitHub">GitHub</a>
-                        <a href="#" title="RSS">RSS</a>
+                        <a href="#subscribe" title="微信">微信</a>
+                        <a href="https://weibo.com" target="_blank" rel="noopener" title="微博">微博</a>
+                        <a href="https://x.com" target="_blank" rel="noopener" title="Twitter/X">X</a>
+                        <a href="https://github.com/taixingX" target="_blank" rel="noopener" title="GitHub">GitHub</a>
+                        <a href="#" onclick="alert('RSS功能开发中');return false;" title="RSS">RSS</a>
                     </div>
                 </div>
                 <div class="footer-col">
                     <h4>内容分类</h4>
                     <ul>
-                        <li><a href="#">大模型动态</a></li>
-                        <li><a href="#">AI研究前沿</a></li>
-                        <li><a href="#">AI应用案例</a></li>
-                        <li><a href="#">行业动态</a></li>
-                        <li><a href="#">政策法规</a></li>
-                        <li><a href="#">开源项目</a></li>
+                        <li><a href="#section-llm">大模型动态</a></li>
+                        <li><a href="#section-research">AI研究前沿</a></li>
+                        <li><a href="#section-application">AI应用案例</a></li>
+                        <li><a href="#section-industry">行业动态</a></li>
+                        <li><a href="#section-policy">政策法规</a></li>
+                        <li><a href="#section-open-source">开源项目</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
                     <h4>快速链接</h4>
                     <ul>
-                        <li><a href="#">关于我们</a></li>
-                        <li><a href="#">联系方式</a></li>
-                        <li><a href="#">投稿指南</a></li>
-                        <li><a href="#">广告合作</a></li>
+                        <li><a href="#home">关于我们</a></li>
+                        <li><a href="#subscribe" onclick="document.querySelector('.subscribe-widget').scrollIntoView({behavior:'smooth'});return false;">联系方式</a></li>
+                        <li><a href="#" class="section-more">投稿指南</a></li>
+                        <li><a href="#subscribe" onclick="document.querySelector('.subscribe-widget').scrollIntoView({behavior:'smooth'});return false;">广告合作</a></li>
                         <li><a href="#">隐私政策</a></li>
                         <li><a href="#">使用条款</a></li>
                     </ul>
