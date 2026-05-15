@@ -264,8 +264,9 @@ ul, ol {
     margin-left: 2px;
 }
 
-/* 下拉菜单 */
-.has-dropdown:hover .dropdown-menu {
+/* 下拉菜单 - hover 显示 + click 显示 */
+.has-dropdown:hover .dropdown-menu,
+.has-dropdown.dropdown-open .dropdown-menu {
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
