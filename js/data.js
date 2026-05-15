@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-15 13:17:09
+ * 生成时间: 2026-05-15 13:24:44
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -47,42 +47,42 @@ var siteData = {
     ],
     "quickNews": [
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "金融服务中代理人工智能的数据准备情况",
             "hot": true
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "在自治系统时代建立人工智能和数据主权",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "就连 GoPro 也转向防御",
             "hot": false
         },
         {
-            "time": "13:17",
+            "time": "13:24",
             "text": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
             "hot": false
         }
@@ -154,7 +154,7 @@ var siteData = {
                     "category": "gpt"
                 },
                 {
-                    "title": "手机的智能体AI，正在因为天玑全面跃升",
+                    "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
                     "source": "量子位",
                     "time": "5小时前",
                     "views": "40.28K",
@@ -269,32 +269,32 @@ var siteData = {
                 },
                 {
                     "rank": 4,
-                    "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
-                    "time": "刚刚",
+                    "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+                    "time": "5小时前",
                     "emoji": "🔍"
                 },
                 {
                     "rank": 5,
-                    "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
-                    "time": "5小时前",
+                    "title": "世界有望实现其健康目标",
+                    "time": "4小时前",
                     "emoji": "⚖️"
                 },
                 {
                     "rank": 6,
-                    "title": "世界有望实现其健康目标",
-                    "time": "4小时前",
+                    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+                    "time": "2026-05-15",
                     "emoji": "🎵"
                 },
                 {
                     "rank": 7,
-                    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-                    "time": "2026-05-15",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "📝"
                 },
                 {
                     "rank": 8,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
+                    "time": "1小时前",
                     "emoji": "🤖"
                 },
                 {
@@ -425,7 +425,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,074",
+                    "stars": "+372,075",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -443,7 +443,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,039",
+                    "stars": "+245,037",
                     "url": "https://github.com/facebook/react"
                 },
                 {
@@ -452,7 +452,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+233,272",
+                    "stars": "+233,273",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
@@ -470,7 +470,7 @@ var siteData = {
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+192,243",
+                    "stars": "+192,252",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -479,7 +479,7 @@ var siteData = {
                     "desc": "仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。",
                     "lang": "Rust",
                     "langClass": "lang-rust",
-                    "stars": "+191,530",
+                    "stars": "+191,531",
                     "url": "https://github.com/ultraworkers/claw-code"
                 }
             ]
@@ -537,13 +537,13 @@ var siteData = {
         {
             "rank": 9,
             "top3": false,
-            "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
+            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
             "heat": ""
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
+            "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
             "heat": ""
         }
     ],
@@ -693,12 +693,6 @@ var siteData = {
             "snippet": "由 Devon Gethers 和 Karlton Haney 创立的风险投资公司 Meridian Ventures 周五宣布筹集 3500 万美元的第二只基金，以支持那些推迟 MBA 学位的人创办的种子期前和种子期公司。"
         },
         {
-            "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Osaurus￼ 将本地和云 AI 模型结合在 Mac 应用程序中，将用户的内存、文件和工具保留在自己的硬件上。"
-        },
-        {
             "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
             "category": "大模型动态",
             "tag": "llm",
@@ -717,6 +711,12 @@ var siteData = {
             "snippet": "融入日常使用的各类终端"
         },
         {
+            "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该平台以 AI Agent 为核心"
+        },
+        {
             "title": "手机的智能体AI，正在因为天玑全面跃升",
             "category": "大模型动态",
             "tag": "llm",
@@ -733,12 +733,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "15岁离家，23岁创业"
-        },
-        {
-            "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该平台以 AI Agent 为核心"
         },
         {
             "title": "世界有望实现其健康目标",
@@ -763,6 +757,12 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "说明需求，Qoder就能帮你实现"
+        },
+        {
+            "title": "印度 Uber 竞争对手 Rapido 以 30 亿美元估值筹集 2.4 亿美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Rapido 通过提供成本更低、更灵活的交通方式（例如摩托车和机动三轮车）的叫车服务来推动其增长。"
         },
         {
             "title": "下载：在轨道上制造药物和美国宇航局的核动力航天器",
