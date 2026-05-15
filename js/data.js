@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-15 14:08:30
+ * 生成时间: 2026-05-15 22:03:46
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -41,7 +41,7 @@ var siteData = {
         {
             "tag": "重磅 · 应用",
             "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
-            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、",
+            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。 This moment has been nearly a decade in the making:",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
@@ -51,49 +51,49 @@ var siteData = {
     ],
     "quickNews": [
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "金融服务中代理人工智能的数据准备情况",
             "hot": true,
             "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "在自治系统时代建立人工智能和数据主权",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
         },
         {
-            "time": "14:08",
-            "text": "Runway 最初是帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "time": "22:03",
+            "text": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
             "hot": false,
             "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
         },
         {
-            "time": "14:08",
+            "time": "22:03",
             "text": "就连 GoPro 也转向防御",
             "hot": false,
             "url": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/"
@@ -127,7 +127,7 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Runway 最初是帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+                    "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
                     "source": "TechCrunch AI",
                     "time": "刚刚",
                     "views": "80.0K",
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】EntityBench：实现实体一致的长距离多镜头视频生成",
-                    "desc": "多镜头视频生成将单镜头生成扩展到连贯的视觉叙事，但在长序列中保持跨镜头的角色、对象和位置的一致性仍然是一个挑战。现有的评估通常使用独立生成的提示集，其实体覆盖范围有限且一致性指标简单，使得标准化比较变得困难。我们引入了 EntityBench，这是一个源自真实叙事媒体的 140 集（2,491 个镜...",
+                    "title": "Cerebras IPO 为 Benchmark 带来了数十亿美元的收益，但 VC Eric Vishria 几乎没有参加会议",
+                    "desc": "Benchmark 几乎从不支持硬件初创公司。因此，埃里克·维什里亚 (Eric Vishria) 10 年前就犹豫不决，才同意听取 Cerebras 的建议。...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "20小时前",
+                    "source": "TechCrunch AI",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15199v1"
+                    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/"
                 },
                 {
-                    "title": "【arXiv】ATLAS：主体视觉推理还是潜在视觉推理？一言以蔽之",
-                    "desc": "视觉推理通常与中间视觉状态交织在一起，已成为该领域的一个有前途的方向。一种简单的方法是在推理过程中通过统一模型直接生成图像，但这在计算上是昂贵的并且在架构上并不简单。最近的替代方案包括通过代码或工具调用进行代理推理，以及通过可学习的隐藏嵌入进行潜在推理。然而，代理方法会因外部执行而产生上下文切换延迟...",
+                    "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国短剧如何成为人工智能内容机器中国的短剧行业是由专为智能手机滚动而制作的小规模、情节剧和色情节目推动的。现在，许多产品完全是用“”来制造的。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "20小时前",
+                    "source": "MIT Tech Review",
+                    "time": "1小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15198v1"
+                    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
                 },
                 {
-                    "title": "【arXiv】RefDecoder：通过条件视频解码增强视觉生成",
-                    "desc": "视频生成为大量下游应用提供动力。然而，虽然事实上的标准，即潜在扩散模型，通常采用严格条件的去噪网络，但它们的解码器通常保持无条件。我们观察到，这种结构不对称会导致细节的严重丢失以及相对于输入图像的不一致。为了解决这个问题，我们认为解码器需要同等的条件来保持结构完整性。我们引入RefDecoder，一...",
+                    "title": "中国短剧如何成为AI内容机器",
+                    "desc": "在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与她的肉融为一体。她悬浮起来，然后落下。她的胸口出现了一条龙形纹身。 “两个月，”男人说。 “给我一个继承人，或者……...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "20小时前",
+                    "source": "MIT Tech Review",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15196v1"
+                    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
                 },
                 {
-                    "title": "【arXiv】VGGT-$Ω$",
-                    "desc": "最近的前馈重建模型（例如 VGGT）已被证明与传统的基于优化的重建器具有竞争力，同时还提供对其他任务有用的几何感知功能。在这里，我们表明这些模型的质量可预测地随着模型和数据大小而变化。为此，我们引入了 VGGT-$Ω$，它大大提高了静态和动态场景的重建精度、效率和能力。以前所未有的规模训练该模型...",
+                    "title": "金融服务中代理人工智能的数据准备情况",
+                    "desc": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "20小时前",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15195v1"
-                },
-                {
-                    "title": "【arXiv】对齐潜在几何图形以实现图像生成中的球流匹配",
-                    "desc": "用于图像生成的潜在流匹配通常将高斯噪声沿着线性路径传输到变分自动编码器潜在。然而，两个端点都集中在薄球壳中，即使预处理对齐了它们的半径，欧几里得弦也会留下这些球壳。通过将每个潜在标记分解为径向和角度分量，我们通过分量交换探针表明，解码的感知和语义内容主要由方向承载，其中半径贡献很大...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "20小时前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15193v1"
-                },
-                {
-                    "title": "【arXiv】RAVEN：具有一致性模型 GRPO 的实时自回归视频外推",
-                    "desc": "因果自回归视频扩散模型通过从先前生成的内容推断未来的块来支持实时流生成。从高保真双向教师中提取此类生成器可以产生具有竞争力的几步模型，但训练期间遇到的历史分布与推理过程中出现的历史分布之间持续存在的差距限制了长期的生成质量。我们介绍实时自回归视频外推网络（RAVEN），一个...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "20小时前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15190v1"
+                    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
                 }
             ]
         },
@@ -309,37 +287,23 @@ var siteData = {
                 },
                 {
                     "rank": 6,
-                    "title": "RefDecoder：通过条件视频解码增强视觉生成",
-                    "time": "20小时前",
-                    "emoji": "🎵",
-                    "url": "http://arxiv.org/abs/2605.15196v1"
-                },
-                {
-                    "rank": 7,
-                    "title": "VGGT-Edit：具有残差场预测的前馈原生 3D 场景编辑",
-                    "time": "20小时前",
-                    "emoji": "📝",
-                    "url": "http://arxiv.org/abs/2605.15186v1"
-                },
-                {
-                    "rank": 8,
                     "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
                     "time": "2026-05-15",
-                    "emoji": "🤖",
+                    "emoji": "🎵",
                     "url": "https://36kr.com/p/3810308239465986?f=rss"
                 },
                 {
-                    "rank": 9,
+                    "rank": 7,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "📝",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 10,
+                    "rank": 8,
                     "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
                     "time": "1小时前",
-                    "emoji": "🌐",
+                    "emoji": "🤖",
                     "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/"
                 }
             ]
@@ -429,21 +393,24 @@ var siteData = {
                     "title": "欧盟《AI法案》全面生效：全球最严AI监管落地实施",
                     "desc": "高风险AI系统需经过严格合规审查，违规企业最高面临全球营业额6%的罚款。首批受影响企业名单已公布。",
                     "date": "2026-05-01 生效",
-                    "level": "强制性"
+                    "level": "强制性",
+                    "url": "https://artificialintelligenceact.eu/"
                 },
                 {
                     "flag": "🇨🇳",
                     "title": "中国发布《生成式AI服务管理暂行办法》修订版",
                     "desc": "新增关于AI训练数据版权保护条款，要求服务提供者建立内容溯源机制，强化深度合成标识规范。",
                     "date": "2026-04-15 发布",
-                    "level": "部门规章"
+                    "level": "部门规章",
+                    "url": "https://www.cac.gov.cn/2023-07/13/c_1690898327011755.htm"
                 },
                 {
                     "flag": "🇺🇸",
                     "title": "美国白宫发布《AI权利法案蓝图》2.0版本",
                     "desc": "强调算法透明度、隐私保护和反歧视原则，要求联邦政府所有AI采购必须通过伦理审查流程。",
                     "date": "2026-03-20 更新",
-                    "level": "行政指导"
+                    "level": "行政指导",
+                    "url": "https://www.whitehouse.gov/ostp/ai-bill-of-rights/"
                 }
             ]
         },
@@ -459,7 +426,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+444,790",
+                    "stars": "+444,789",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -468,7 +435,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,089",
+                    "stars": "+372,087",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -477,7 +444,7 @@ var siteData = {
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+354,800",
+                    "stars": "+354,801",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -513,7 +480,7 @@ var siteData = {
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+192,316",
+                    "stars": "+192,308",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -574,7 +541,7 @@ var siteData = {
         {
             "rank": 7,
             "top3": false,
-            "title": "Runway 最初是帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
             "heat": "",
             "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
         },
@@ -603,72 +570,76 @@ var siteData = {
     "aiTools": [
         {
             "icon": "💬",
-            "name": "ChatGPT"
+            "name": "ChatGPT",
+            "url": "https://chat.openai.com"
         },
         {
             "icon": "🤖",
-            "name": "Claude"
+            "name": "Claude",
+            "url": "https://claude.ai"
         },
         {
             "icon": "🔍",
-            "name": "Perplexity"
+            "name": "Perplexity",
+            "url": "https://www.perplexity.ai"
         },
         {
             "icon": "🎨",
-            "name": "Midjourney"
+            "name": "Midjourney",
+            "url": "https://www.midjourney.com"
         },
         {
             "icon": "🎵",
-            "name": "Suno"
+            "name": "Suno",
+            "url": "https://suno.com"
         },
         {
             "icon": "🎬",
-            "name": "Runway"
+            "name": "Runway",
+            "url": "https://runway.ml"
         },
         {
             "icon": "📝",
-            "name": "Jasper"
+            "name": "Jasper",
+            "url": "https://www.jasper.ai"
         },
         {
             "icon": "💻",
-            "name": "Cursor"
+            "name": "Cursor",
+            "url": "https://cursor.sh"
         }
     ],
     "hotTags": [
-        {
-            "text": "模型",
-            "size": "large"
-        },
         {
             "text": "Claude",
             "size": "large"
         },
         {
             "text": "AI",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "Code",
             "size": "medium"
         },
         {
-            "text": "代理",
+            "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "人工智能",
-            "size": "small"
-        },
-        {
-            "text": "视频",
-            "size": "small"
-        },
-        {
             "text": "Ventures",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "Anthropic",
+            "size": "small"
+        },
+        {
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "模型",
             "size": "small"
         },
         {
@@ -676,7 +647,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "VGGT",
+            "text": "Salesforce",
+            "size": "small"
+        },
+        {
+            "text": "Slackbot",
+            "size": "small"
+        },
+        {
+            "text": "Elon",
+            "size": "small"
+        },
+        {
+            "text": "Musk",
             "size": "small"
         },
         {
@@ -684,15 +667,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "编辑",
-            "size": "small"
-        },
-        {
-            "text": "SANA",
-            "size": "small"
-        },
-        {
-            "text": "WM",
+            "text": "航天",
             "size": "small"
         }
     ],
@@ -719,7 +694,7 @@ var siteData = {
             "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、官方价格以及有关“卡车”的重大新闻。"
+            "snippet": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。 This moment has been nearly a decade in the making: The company first a"
         },
         {
             "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
@@ -734,7 +709,7 @@ var siteData = {
             "snippet": "一位 Reddit 用户最近写道，他“迫切需要帮助”：他说，大约一个月来，他的手机一直被来自“陌生人”的电话淹没，他们“正在寻找律师、产品设计师、锁匠”。来电者显然被谷歌的生成式人工智能误导了。&#160; 3 月份，我们通过 WhatsA"
         },
         {
-            "title": "Runway 最初是帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "AI 视频生成初创公司 Runway 押注视频生成是通往世界模型的道路。作为人工智能局外人是一种优势，而不是一种负担。"
@@ -809,7 +784,7 @@ var siteData = {
             "title": "印度 Uber 竞争对手 Rapido 以 30 亿美元估值筹集 2.4 亿美元",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Rapido 通过为摩托车和机动三轮车等成本更低、更灵活的交通方式提供叫车服务来推动其增长。"
+            "snippet": "Rapido 通过提供成本更低、更灵活的交通方式（例如摩托车和机动三轮车）的叫车服务来推动其增长。"
         },
         {
             "title": "下载：在轨道上制造药物和美国宇航局的核动力航天器",
@@ -818,64 +793,64 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。在轨制造药物的计划即将商业化 一家名为 Varda Space Industries 的初创公司押注药品的未来在于轨道。公司已签订“"
         },
         {
-            "title": "EntityBench：实现实体一致的长距离多镜头视频生成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "多镜头视频生成将单镜头生成扩展到连贯的视觉叙事，但在长序列中保持跨镜头的角色、对象和位置的一致性仍然是一个挑战。现有的评估通常使用独立生成的提示集，其实体覆盖范围有限且一致性指标简单，使得标准化比较变得困难。我们引入了 EntityBenc"
+            "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐"
         },
         {
-            "title": "ATLAS：主体视觉推理还是潜在视觉推理？一言以蔽之",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉推理通常与中间视觉状态交织在一起，已成为该领域的一个有前途的方向。一种简单的方法是在推理过程中通过统一模型直接生成图像，但这在计算上是昂贵的并且在架构上并不简单。最近的替代方案包括通过代码或工具调用进行代理推理，以及通过可学习的隐藏嵌入"
+            "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "一场关于“涌现”的未来实验大会。"
         },
         {
-            "title": "RefDecoder：通过条件视频解码增强视觉生成",
+            "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "视频生成为大量下游应用提供动力。然而，虽然事实上的标准，即潜在扩散模型，通常采用严格条件的去噪网络，但它们的解码器通常保持无条件。我们观察到，这种结构不对称会导致细节的严重丢失以及相对于输入图像的不一致。为了解决这个问题，我们认为解码器需要"
+            "snippet": "当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。\n  “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面"
         },
         {
-            "title": "VGGT-$Ω$",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "最近的前馈重建模型（例如 VGGT）已被证明与传统的基于优化的重建器具有竞争力，同时还提供对其他任务有用的几何感知功能。在这里，我们表明这些模型的质量可预测地随着模型和数据大小而变化。为此，我们引入了 VGGT-$Ω$，它大大提高了静态和动"
+            "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。\n  其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。\n "
         },
         {
-            "title": "对齐潜在几何图形以实现图像生成中的球流匹配",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "用于图像生成的潜在流匹配通常将高斯噪声沿着线性路径传输到变分自动编码器潜在。然而，两个端点都集中在薄球壳中，即使预处理对齐了它们的半径，欧几里得弦也会留下这些球壳。通过将每个潜在标记分解为径向和角度分量，我们通过分量交换探针表明，解码的感知"
+            "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，北京思创航天精密制造有限公司（以下简称“思创航天”）近日完成新一轮数千万元融资，由丹诚资本独家投资。\n  思创航天前身为沈阳融创精密制造有限公司航天项目中心（融创精密为上市公司富创精密全"
         },
         {
-            "title": "RAVEN：具有一致性模型 GRPO 的实时自回归视频外推",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "因果自回归视频扩散模型通过从先前生成的内容推断未来的块来支持实时流生成。从高保真双向教师中提取此类生成器可以产生具有竞争力的几步模型，但训练期间遇到的历史分布与推理过程中出现的历史分布之间持续存在的差距限制了长期的生成质量。我们介绍实时自回"
+            "title": "挪瓦咖啡2025年营收7至8亿元，利润约为6千万元 | 独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 钟艺璇\n  编辑 | 乔芊\n  36氪从多个独立信源独家获悉，挪瓦咖啡2025年营收7至8亿元，利润约为6千万元。\n  2025年是挪瓦咖啡规模迅速扩张的一年，从2024年底的1200多家，到2025年底突破1万家，挪瓦咖啡也顺势"
         },
         {
-            "title": "FutureSim：重播世界事件以评估自适应代理",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "人工智能代理越来越多地部署在动态、开放的环境中，这些环境需要适应新信息的到来。为了有效地衡量现实用例的这种能力，我们建议构建基础模拟，按照事件发生的顺序重播现实世界事件。我们构建了 FutureSim，智能体可以在其中预测超出其知识范围的世"
+            "title": "麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 钟艺璇编辑 | 乔芊\n  2025年，糖水这个老品类突然火了一把。\n  这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家、300家。尤其麦记牛奶，2025年初，它的门店数量只有53家，一年后，它"
         },
         {
-            "title": "Articraft：用于可扩展铰接式 3D 资产生成的代理系统",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "学习理解铰接式 3D 对象的瓶颈是缺乏大型且多样化的数据集。在本文中，我们建议利用大型语言模型（LLM）来缩小这一差距并大规模生成铰接资产。我们将生成铰接式 3D 资产的问题简化为编写构建该资产的程序的问题。然后我们引入一个新的代理系统 A"
+            "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，消费级桌面CNC与智能数字制造平台「无限工坊（Infimaker）」近日宣布，连续获得多轮融资，融资金额近亿元，投资机构包括美团战投、昆仑资本及奇绩创坛。本轮资金将主要用于产品研发、供应"
         },
         {
-            "title": "VGGT-Edit：具有残差场预测的前馈原生 3D 场景编辑",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "高质量 3D 场景重建最近已向通用前馈架构发展，从而能够在单次前向传递中生成复杂的环境。然而，尽管它们在静态场景感知方面表现强劲，但这些模型在响应动态人类指令方面仍然有限，这限制了它们在交互式应用中的使用。现有的编辑方法通常依赖于 2D 提"
+            "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元"
         },
         {
-            "title": "几何一致性的定量视频世界模型评估",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "生成视频模型越来越多地作为隐式世界模型进行研究，但评估它们是否产生物理上合理的 3D 结构和运动仍然具有挑战性。大多数现有的视频评估流程严重依赖于人类判断或学习的分级器，这可能是主观的，并且对几何故障的诊断能力很弱。我们引入 PDI-Ben"
+            "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额投入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营"
         }
     ]
 }
