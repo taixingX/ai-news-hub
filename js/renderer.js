@@ -85,7 +85,7 @@ var ContentRenderer = (function() {
         sec.items.forEach(function(item) {
             if (item.featured) {
                 cardsHtml +=
-                    '<article class="news-card featured">' +
+                    '<article class="news-card featured" data-category="' + esc(item.category || '') + '">' +
                         '<div class="news-card-image" style="background: ' + item.bg + ';">' +
                             '<div class="image-overlay"><span class="card-tag">' + esc(item.tag) + '</span></div>' +
                         '</div>' +
