@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-15 12:47:54
+ * 生成时间: 2026-05-15 13:17:09
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,8 +10,8 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "独家 · 研究",
-            "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。看到自己的身体被用于深度伪造色情内容时感到震惊 当 Jennifer 在 2023 年找到一份研究工作时，她通过面部识",
+            "title": "金融服务中代理人工智能的数据准备情况",
+            "summary": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
@@ -19,8 +19,8 @@ var siteData = {
         },
         {
             "tag": "重磅 · 应用",
-            "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
-            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、",
+            "title": "在自治系统时代建立人工智能和数据主权",
+            "summary": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数据输入第三方人工智能模型，您将获得强大的结果。但您的数据会通过不属于您的系统，不",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
@@ -28,17 +28,17 @@ var siteData = {
         },
         {
             "tag": "独家 · 研究",
-            "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
-            "summary": "2023 年，当 Jennifer 找到一份为一家非营利组织做研究的工作时，她通过面部识别程序拍摄了新的专业头像。她想看看这项技术是否会调出她 10 多年前（当时她 20 岁出头）制作的色情视频。事实",
+            "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。看到自己的身体被用于深度伪造色情内容时感到震惊 当 Jennifer 在 2023 年找到一份研究工作时，她通过面部识",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
-            "summary": "一位 Reddit 用户最近写道，他“迫切需要帮助”：他说，大约一个月来，他的手机一直被来自“陌生人”的电话淹没，他们“正在寻找律师、产品设计师、锁匠”。来电者显然被谷歌的生成式人工智能误导了。&#1",
+            "tag": "重磅 · 应用",
+            "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
+            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
@@ -47,43 +47,43 @@ var siteData = {
     ],
     "quickNews": [
         {
-            "time": "12:47",
-            "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
+            "time": "13:17",
+            "text": "金融服务中代理人工智能的数据准备情况",
             "hot": true
         },
         {
-            "time": "12:47",
+            "time": "13:17",
+            "text": "在自治系统时代建立人工智能和数据主权",
+            "hot": false
+        },
+        {
+            "time": "13:17",
+            "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
+            "hot": false
+        },
+        {
+            "time": "13:17",
             "text": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "hot": false
         },
         {
-            "time": "12:47",
+            "time": "13:17",
             "text": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "hot": false
         },
         {
-            "time": "12:47",
+            "time": "13:17",
             "text": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "hot": false
         },
         {
-            "time": "12:47",
-            "text": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
+            "time": "13:17",
+            "text": "就连 GoPro 也转向防御",
             "hot": false
         },
         {
-            "time": "12:47",
-            "text": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
-            "hot": false
-        },
-        {
-            "time": "12:47",
-            "text": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-            "hot": false
-        },
-        {
-            "time": "12:47",
-            "text": "智能无处不在：OpenClaw预示的AI未来",
+            "time": "13:17",
+            "text": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
             "hot": false
         }
     ],
@@ -115,46 +115,46 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-                    "source": "量子位",
-                    "time": "8小时前",
+                    "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
+                    "category": "domestic",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "“两人薪资评定全程与其父黄仁勋无关”..."
+                    "desc": "由 Devon Gethers 和 Karlton Haney 创立的风险投资公司 Meridian Ventures 周五宣布筹集 3500 万美元的第二只基金，以支持那些推迟 MBA 学位的人创办的种子期前和种子期公司。..."
                 },
                 {
-                    "title": "智能无处不在：OpenClaw预示的AI未来",
+                    "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
                     "source": "量子位",
-                    "time": "6小时前",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt"
                 },
                 {
-                    "title": "手机的智能体AI，正在因为天玑全面跃升",
+                    "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
                     "source": "量子位",
-                    "time": "5小时前",
+                    "time": "6小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt"
                 },
                 {
-                    "title": "坐到马斯克和库克中间的湖南女人",
+                    "title": "智能无处不在：OpenClaw预示的AI未来",
                     "source": "量子位",
-                    "time": "5小时前",
+                    "time": "6小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt"
                 },
                 {
-                    "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+                    "title": "手机的智能体AI，正在因为天玑全面跃升",
                     "source": "量子位",
                     "time": "5小时前",
                     "views": "40.28K",
@@ -189,7 +189,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper"
                 },
@@ -199,7 +199,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper"
                 },
@@ -209,7 +209,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper"
                 },
@@ -219,7 +219,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper"
                 },
@@ -229,7 +229,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper"
                 },
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "18小时前",
+                    "time": "19小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper"
                 }
@@ -251,57 +251,63 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
+                    "title": "在自治系统时代建立人工智能和数据主权",
                     "time": "昨天",
                     "emoji": "🔥"
                 },
                 {
                     "rank": 2,
-                    "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
-                    "time": "刚刚",
+                    "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
+                    "time": "昨天",
                     "emoji": "💡"
                 },
                 {
                     "rank": 3,
-                    "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
-                    "time": "5小时前",
+                    "title": "就连 GoPro 也转向防御",
+                    "time": "刚刚",
                     "emoji": "🎬"
                 },
                 {
                     "rank": 4,
-                    "title": "世界有望实现其健康目标",
-                    "time": "3小时前",
+                    "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
+                    "time": "刚刚",
                     "emoji": "🔍"
                 },
                 {
                     "rank": 5,
-                    "title": "在自治系统时代建立人工智能和数据主权",
-                    "time": "23小时前",
+                    "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+                    "time": "5小时前",
                     "emoji": "⚖️"
                 },
                 {
                     "rank": 6,
-                    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
-                    "time": "2026-05-15",
+                    "title": "世界有望实现其健康目标",
+                    "time": "4小时前",
                     "emoji": "🎵"
                 },
                 {
                     "rank": 7,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？",
+                    "time": "2026-05-15",
                     "emoji": "📝"
                 },
                 {
                     "rank": 8,
-                    "title": "RefDecoder：通过条件视频解码增强视觉生成",
-                    "time": "18小时前",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🤖"
                 },
                 {
                     "rank": 9,
-                    "title": "VGGT-Edit：具有残差场预测的前馈原生 3D 场景编辑",
-                    "time": "18小时前",
+                    "title": "RefDecoder：通过条件视频解码增强视觉生成",
+                    "time": "19小时前",
                     "emoji": "📊"
+                },
+                {
+                    "rank": 10,
+                    "title": "VGGT-Edit：具有残差场预测的前馈原生 3D 场景编辑",
+                    "time": "19小时前",
+                    "emoji": "🌐"
                 }
             ]
         },
@@ -311,62 +317,62 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
-                    "time": "2026-05-15",
+                    "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
+                    "time": "刚刚",
                     "emoji": "🔥"
                 },
                 {
                     "rank": 2,
-                    "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
+                    "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
                     "time": "2026-05-15",
                     "emoji": "💰"
                 },
                 {
                     "rank": 3,
-                    "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
+                    "title": "长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家",
                     "time": "2026-05-15",
                     "emoji": "🏭"
                 },
                 {
                     "rank": 4,
-                    "title": "挪瓦咖啡2025年营收7至8亿元，利润约为6千万元 | 独家",
+                    "title": "36氪首发｜航天发动机核心部件厂商获投，国内唯一具备核心部件一站式制造能力的民营企业",
                     "time": "2026-05-15",
                     "emoji": "🌏"
                 },
                 {
                     "rank": 5,
-                    "title": "麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访",
+                    "title": "挪瓦咖啡2025年营收7至8亿元，利润约为6千万元 | 独家",
                     "time": "2026-05-15",
                     "emoji": "📉"
                 },
                 {
                     "rank": 6,
-                    "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
+                    "title": "麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访",
                     "time": "2026-05-15",
                     "emoji": "🔄"
                 },
                 {
                     "rank": 7,
-                    "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
+                    "title": "36氪首发 | 前大疆核心成员做消费级CNC，获美团、昆仑资本、奇绩创坛投资近亿元",
                     "time": "2026-05-15",
                     "emoji": "🚀"
                 },
                 {
                     "rank": 8,
-                    "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
+                    "title": "2026年上半年最火赛道：具身智能行业前4月融资超200笔，总规模超550亿元",
                     "time": "2026-05-15",
                     "emoji": "🤝"
                 },
                 {
                     "rank": 9,
-                    "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
+                    "title": "阿里巴巴等来收获期，外卖大战已无大波澜",
                     "time": "2026-05-15",
                     "emoji": "📰"
                 },
                 {
                     "rank": 10,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
+                    "time": "2026-05-15",
                     "emoji": "🏢"
                 }
             ]
@@ -410,7 +416,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+444,787",
+                    "stars": "+444,790",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -419,7 +425,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,059",
+                    "stars": "+372,074",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -428,7 +434,7 @@ var siteData = {
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+354,796",
+                    "stars": "+354,800",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -437,7 +443,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,038",
+                    "stars": "+245,039",
                     "url": "https://github.com/facebook/react"
                 },
                 {
@@ -446,7 +452,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+233,271",
+                    "stars": "+233,272",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
@@ -455,7 +461,7 @@ var siteData = {
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,114",
+                    "stars": "+195,115",
                     "url": "https://github.com/tensorflow/tensorflow"
                 },
                 {
@@ -464,7 +470,7 @@ var siteData = {
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+192,214",
+                    "stars": "+192,243",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -473,7 +479,7 @@ var siteData = {
                     "desc": "仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。",
                     "lang": "Rust",
                     "langClass": "lang-rust",
-                    "stars": "+191,525",
+                    "stars": "+191,530",
                     "url": "https://github.com/ultraworkers/claw-code"
                 }
             ]
@@ -483,61 +489,61 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
+            "title": "金融服务中代理人工智能的数据准备情况",
             "heat": "120.0万热度"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
+            "title": "在自治系统时代建立人工智能和数据主权",
             "heat": "110.3万热度"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
+            "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "heat": "100.6万热度"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
+            "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "heat": ""
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
+            "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "heat": ""
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
+            "title": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "heat": ""
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
+            "title": "就连 GoPro 也转向防御",
             "heat": ""
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "智能无处不在：OpenClaw预示的AI未来",
+            "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
             "heat": ""
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "手机的智能体AI，正在因为天玑全面跃升",
+            "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
             "heat": ""
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
             "heat": ""
         }
     ],
@@ -577,15 +583,15 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "模型",
+            "size": "large"
+        },
+        {
             "text": "Claude",
             "size": "large"
         },
         {
             "text": "Code",
-            "size": "large"
-        },
-        {
-            "text": "模型",
             "size": "medium"
         },
         {
@@ -605,15 +611,15 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "Ventures",
+            "size": "small"
+        },
+        {
             "text": "Anthropic",
             "size": "small"
         },
         {
             "text": "Agent",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
             "size": "small"
         },
         {
@@ -629,15 +635,27 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Ventures",
+            "text": "Salesforce",
             "size": "small"
         },
         {
-            "text": "编码",
+            "text": "Slackbot",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "金融服务中代理人工智能的数据准备情况",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。"
+        },
+        {
+            "title": "在自治系统时代建立人工智能和数据主权",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数据输入第三方人工智能模型，您将获得强大的结果。但您的数据会通过不属于您的系统，不受您设置的治理。您所依赖的保护措施"
+        },
         {
             "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "category": "AI研究",
@@ -663,22 +681,34 @@ var siteData = {
             "snippet": "一位 Reddit 用户最近写道，他“迫切需要帮助”：他说，大约一个月来，他的手机一直被来自“陌生人”的电话淹没，他们“正在寻找律师、产品设计师、锁匠”。来电者显然被谷歌的生成式人工智能误导了。&#160; 3 月份，我们通过 WhatsA"
         },
         {
+            "title": "就连 GoPro 也转向防御",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "与当今许多其他公司一样，这家运动相机制造商在评估可能的销售时正在寻求国防应用。"
+        },
+        {
+            "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "由 Devon Gethers 和 Karlton Haney 创立的风险投资公司 Meridian Ventures 周五宣布筹集 3500 万美元的第二只基金，以支持那些推迟 MBA 学位的人创办的种子期前和种子期公司。"
+        },
+        {
             "title": "Osaurus 将本地和云端 AI 模型带到您的 Mac 上",
             "category": "AI应用",
             "tag": "application",
             "snippet": "Osaurus￼ 将本地和云 AI 模型结合在 Mac 应用程序中，将用户的内存、文件和工具保留在自己的硬件上。"
         },
         {
-            "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国短剧如何成为人工智能内容机器中国的短剧行业是由专为智能手机滚动而制作的小规模、情节剧和色情节目推动的。现在，许多产品完全是用“”来制造的。"
-        },
-        {
             "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "“两人薪资评定全程与其父黄仁勋无关”"
+        },
+        {
+            "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AIME 26 得分 95.83"
         },
         {
             "title": "智能无处不在：OpenClaw预示的AI未来",
@@ -705,12 +735,6 @@ var siteData = {
             "snippet": "15岁离家，23岁创业"
         },
         {
-            "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AIME 26 得分 95.83"
-        },
-        {
             "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
             "category": "大模型动态",
             "tag": "llm",
@@ -726,7 +750,7 @@ var siteData = {
             "title": "中国短剧如何成为AI内容机器",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与她的肉融为一体。她悬浮起来，然后落下。她的胸口出现了一条龙形纹身。 “两个月，”男人说。 “给我一个继承人，或者……"
+            "snippet": "在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与她的肉融为一体。她悬浮起来，然后落下。她的胸前出现了一条龙形纹身。 “两个月，”男人说。 “给我一个继承人，或者……"
         },
         {
             "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
@@ -745,18 +769,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。在轨制造药物的计划即将商业化 一家名为 Varda Space Industries 的初创公司押注药品的未来在于轨道。公司已签订“"
-        },
-        {
-            "title": "金融服务中代理人工智能的数据准备情况",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。"
-        },
-        {
-            "title": "在自治系统时代建立人工智能和数据主权",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数据输入第三方人工智能模型，您将获得强大的结果。但您的数据会通过不属于您的系统，不受您设置的治理。您所依赖的保护措施"
         },
         {
             "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
@@ -811,12 +823,6 @@ var siteData = {
             "category": "行业动态",
             "tag": "industry",
             "snippet": "文｜彭倩\n  编辑｜乔芊\n  阿里千亿巨额投入后，回报正在逐一兑现。\n  财报显示，阿里巴巴2026年第四财季（即自然年Q1）营收2433.8亿元，同比增长3%。若不考虑高鑫零售和银泰等已出售业务的收入，同口径收入同比增长为11%。\n  营"
-        },
-        {
-            "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "图源：公众号「职场Bonus」（ID：ZhiChangHongLi）\n  “能留在牌桌上，就算是‘错误’也会值钱。”\n  \n  图源：公众号「职场Bonus」（ID：ZhiChangHongLi）\n  杭州东站，检票口上方巨幅红色广告牌——"
         }
     ]
 }
