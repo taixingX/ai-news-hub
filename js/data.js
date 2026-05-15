@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-15 14:45:00
+ * 生成时间: 2026-05-15 14:47:23
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -51,49 +51,49 @@ var siteData = {
     ],
     "quickNews": [
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "金融服务中代理人工智能的数据准备情况",
             "hot": true,
             "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "在自治系统时代建立人工智能和数据主权",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
             "hot": false,
             "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
         },
         {
-            "time": "14:44",
+            "time": "14:47",
             "text": "智能无处不在：OpenClaw预示的AI未来",
             "hot": false,
             "url": "https://www.qbitai.com/2026/05/417958.html"
@@ -516,7 +516,7 @@ var siteData = {
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+192,356",
+                    "stars": "+192,362",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -525,7 +525,7 @@ var siteData = {
                     "desc": "仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。",
                     "lang": "Rust",
                     "langClass": "lang-rust",
-                    "stars": "+191,537",
+                    "stars": "+191,538",
                     "url": "https://github.com/ultraworkers/claw-code"
                 }
             ]
