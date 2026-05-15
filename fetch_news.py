@@ -562,21 +562,24 @@ def build_policy_section():
                 'title': '欧盟《AI法案》全面生效：全球最严AI监管落地实施',
                 'desc': '高风险AI系统需经过严格合规审查，违规企业最高面临全球营业额6%的罚款。首批受影响企业名单已公布。',
                 'date': '2026-05-01 生效',
-                'level': '强制性'
+                'level': '强制性',
+                'url': 'https://artificialintelligenceact.eu/'
             },
             {
                 'flag': '🇨🇳',
                 'title': '中国发布《生成式AI服务管理暂行办法》修订版',
                 'desc': '新增关于AI训练数据版权保护条款，要求服务提供者建立内容溯源机制，强化深度合成标识规范。',
                 'date': '2026-04-15 发布',
-                'level': '部门规章'
+                'level': '部门规章',
+                'url': 'https://www.cac.gov.cn/2023-07/13/c_1690898327011755.htm'
             },
             {
                 'flag': '🇺🇸',
                 'title': '美国白宫发布《AI权利法案蓝图》2.0版本',
                 'desc': '强调算法透明度、隐私保护和反歧视原则，要求联邦政府所有AI采购必须通过伦理审查流程。',
                 'date': '2026-03-20 更新',
-                'level': '行政指导'
+                'level': '行政指导',
+                'url': 'https://www.whitehouse.gov/ostp/ai-bill-of-rights/'
             }
         ]
     }
@@ -785,14 +788,14 @@ def main():
 
     # AI 工具（保留静态）
     ai_tools = [
-        {'icon': '💬', 'name': 'ChatGPT'},
-        {'icon': '🤖', 'name': 'Claude'},
-        {'icon': '🔍', 'name': 'Perplexity'},
-        {'icon': '🎨', 'name': 'Midjourney'},
-        {'icon': '🎵', 'name': 'Suno'},
-        {'icon': '🎬', 'name': 'Runway'},
-        {'icon': '📝', 'name': 'Jasper'},
-        {'icon': '💻', 'name': 'Cursor'},
+        {'icon': '💬', 'name': 'ChatGPT', 'url': 'https://chat.openai.com'},
+        {'icon': '🤖', 'name': 'Claude', 'url': 'https://claude.ai'},
+        {'icon': '🔍', 'name': 'Perplexity', 'url': 'https://www.perplexity.ai'},
+        {'icon': '🎨', 'name': 'Midjourney', 'url': 'https://www.midjourney.com'},
+        {'icon': '🎵', 'name': 'Suno', 'url': 'https://suno.com'},
+        {'icon': '🎬', 'name': 'Runway', 'url': 'https://runway.ml'},
+        {'icon': '📝', 'name': 'Jasper', 'url': 'https://www.jasper.ai'},
+        {'icon': '💻', 'name': 'Cursor', 'url': 'https://cursor.sh'},
     ]
 
     # 组装最终 JS
