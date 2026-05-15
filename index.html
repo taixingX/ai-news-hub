@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI全球资讯 - 智汇天下 | Global AI News Hub</title>
+    <meta name="description" content="AI全球资讯网 - 聚集全球人工智能最新动态、大模型进展、AI应用案例、研究突破、行业趋势的一站式资讯平台">
+    <meta name="keywords" content="AI资讯,人工智能,大模型,ChatGPT,GPT,机器学习,深度学习,AIGC,科技新闻,AI研究">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+    <!-- 顶部工具栏 -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-left">
+                <span><i class="icon-calendar"></i> <span id="current-date"></span></span>
+                <span><i class="icon-location"></i> 全球站</span>
+            </div>
+            <div class="top-bar-right">
+                <a href="#" class="subscribe-btn"><i class="icon-rss"></i> 订阅资讯</a>
+                <a href="#" class="login-btn"><i class="icon-user"></i> 登录 / 注册</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 主导航栏 -->
+    <header class="main-header">
+        <div class="container">
+            <div class="logo-area">
+                <div class="logo">
+                    <span class="logo-icon">🤖</span>
+                    <div class="logo-text">
+                        <h1>AI全球资讯</h1>
+                        <p class="logo-subtitle">智汇天下 · 连接未来</p>
+                    </div>
+                </div>
+            </div>
+            <nav class="main-nav" id="mainNav">
+                <ul class="nav-list">
+                    <li class="nav-item active"><a href="#home">首页</a></li>
+                    <li class="nav-item has-dropdown">
+                        <a href="#llm">大模型 <span class="arrow">▾</span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#" data-category="gpt">GPT系列</a></li>
+                            <li><a href="#" data-category="claude">Claude系列</a></li>
+                            <li><a href="#" data-category="gemini">Gemini系列</a></li>
+                            <li><a href="#" data-category="open-source">开源大模型</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a href="#research">AI研究</a></li>
+                    <li class="nav-item"><a href="#application">AI应用</a></li>
+                    <li class="nav-item"><a href="#industry">行业动态</a></li>
+                    <li class="nav-item"><a href="#policy">政策法规</a></li>
+                    <li class="nav-item"><a href="#open-source">开源项目</a></li>
+                    <li class="nav-item"><a href="#opinion">深度观点</a></li>
+                </ul>
+            </nav>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="搜索AI资讯..." autocomplete="off">
+                <button class="search-btn" id="searchBtn"><i class="icon-search"></i></button>
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">☰</button>
+        </div>
+    </header>
+
+    <!-- 二级分类导航 -->
+    <div class="sub-nav-bar">
+        <div class="container">
+            <div class="sub-nav-tabs" id="subNavTabs">
+                <button class="sub-tab active" data-filter="all">全部</button>
+                <button class="sub-tab" data-filter="hot">🔥 热门</button>
+                <button class="sub-tab" data-filter="breakthrough">🚀 突破性进展</button>
+                <button class="sub-tab" data-filter="release">📢 产品发布</button>
+                <button class="sub-tab" data-filter="funding">💰 融资动态</button>
+                <button class="sub-tab" data-filter="tutorial">📚 教程指南</button>
+                <button class="sub-tab" data-filter="event">🎯 大会活动</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 广告位 #1 - 二级导航下方通栏 -->
+    <div class="ad-banner ad-content-top">
+        <div class="container">
+            <div class="ad-slot" data-ad-position="content-banner-1" data-ad-size="1200x90">
+                <div class="ad-placeholder">
+                    <span class="ad-label">广告</span>
+                    <span class="ad-info">1200 × 90</span>
+                    <a href="#" class="ad-link">AI算力云平台 — 首月免费试用，RTX 4090仅需 ¥1.99/小时 ›</a>
+                </div>
+                <button class="ad-close" title="关闭广告">×</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 广告位 #2 - 二级导航下方通栏 -->
+    <div class="ad-banner ad-content-top">
+        <div class="container">
+            <div class="ad-slot" data-ad-position="content-banner" data-ad-size="1200x100">
+                <div class="ad-placeholder">
+                    <span class="ad-label">广告</span>
+                    <span class="ad-info">1200 × 100</span>
+                    <a href="#" class="ad-link">🚀 Claude API 企业版 — 100万Token免费额度，无限并发，99.9%可用性保障 ›</a>
+                </div>
+                <button class="ad-close" title="关闭广告">×</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 主要内容区 -->
+    <main class="main-content">
+        <div class="container">
+
+            <!-- 头条轮播 + 快讯 -->
+            <section class="headline-section">
+                <div class="headline-main">
+                    <!-- 轮播区域 (由 renderer.js 动态渲染) -->
+                    <div class="carousel" id="carousel">
+                        <div class="carousel-inner" id="carouselInner"></div>
+                        <div class="carousel-controls">
+                            <button class="carousel-btn prev" id="carouselPrev">‹</button>
+                            <div class="carousel-dots" id="carouselDots"></div>
+                            <button class="carousel-btn next" id="carouselNext">›</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 右侧快讯列表 + 广告位 -->
+                <aside class="quick-news">
+                    <!-- 广告位 #3 - 侧栏竖向广告 -->
+                    <div class="ad-slot ad-sidebar" data-ad-position="sidebar-top" data-ad-size="300x250">
+                        <div class="ad-placeholder">
+                            <span class="ad-label">广告</span>
+                            <span class="ad-info">300 × 250</span>
+                            <a href="#" class="ad-link">🎯 Hugging Face Pro — 无限模型下载速度，团队协作一站式AI开发平台 ›</a>
+                        </div>
+                        <button class="ad-close" title="关闭广告">×</button>
+                    </div>
+
+                    <div class="quick-news-header">
+                        <h3><span class="live-dot"></span> 实时快讯</h3>
+                        <a href="#" class="more-link">更多 ›</a>
+                    </div>
+                    <!-- 快讯列表 (由 renderer.js 动态渲染) -->
+                    <ul class="quick-news-list" id="quickNewsList"></ul>
+                </aside>
+            </section>
+
+            <!-- 分类内容区域 -->
+            <div class="content-grid">
+
+                <!-- 左侧主内容 -->
+                <div class="content-main">
+
+                    <!-- 大模型动态 -->
+                    <section class="news-section" id="section-llm">
+                        <div class="section-header">
+                            <div class="section-title-row">
+                                <h2 class="section-title">
+                                    <span class="title-icon">🧠</span>
+                                    大模型动态
+                                </h2>
+                                <div class="section-tabs">
+                                    <button class="sec-tab active" data-subcat="all">全部</button>
+                                    <button class="sec-tab" data-subcat="gpt">GPT</button>
+                                    <button class="sec-tab" data-subcat="claude">Claude</button>
+                                    <button class="sec-tab" data-subcat="gemini">Gemini</button>
+                                    <button class="sec-tab" data-subcat="domestic">国产</button>
+                                </div>
+                            </div>
+                            <a href="#" class="section-more">查看更多 →</a>
+                        </div>
+                        <!-- 渲染容器: 大模型卡片 -->
+                        <div id="render-llm"></div>
+                    </section>
+
+                    <!-- 广告位 #4 - 内容区中部通栏 -->
+                    <div class="ad-banner ad-content-mid">
+                        <div class="ad-slot" data-ad-position="content-mid-banner" data-ad-size="1200x80">
+                            <div class="ad-placeholder">
+                                <span class="ad-label">广告</span>
+                                <span class="ad-info">1200 × 80</span>
+                                <a href="#" class="ad-link">📊 AI数据分析平台 — 一键生成研报，支持100+数据源，免费试用30天 ›</a>
+                            </div>
+                            <button class="ad-close" title="关闭广告">×</button>
+                        </div>
+                    </div>
+
+                    <!-- AI研究 -->
+                    <section class="news-section" id="section-research">
+                        <div class="section-header">
+                            <div class="section-title-row">
+                                <h2 class="section-title">
+                                    <span class="title-icon">🔬</span>
+                                    AI研究
+                                </h2>
+                                <div class="section-tabs">
+                                    <button class="sec-tab active" data-subcat="paper">论文</button>
+                                    <button class="sec-tab" data-subcat="benchmark">基准测试</button>
+                                    <button class="sec-tab" data-subcat="theory">理论突破</button>
+                                </div>
+                            </div>
+                            <a href="#" class="section-more">查看更多 →</a>
+                        </div>
+                        <!-- 渲染容器: AI研究列表 -->
+                        <div id="render-research"></div>
+                    </section>
+
+                    <!-- AI应用 + 行业动态 双列布局 -->
+                    <div class="two-column-grid">
+                        <!-- AI应用 -->
+                        <section class="news-section compact" id="section-application">
+                            <div class="section-header">
+                                <h2 class="section-title">
+                                    <span class="title-icon">⚡</span>
+                                    AI应用
+                                </h2>
+                                <a href="#" class="section-more">更多 →</a>
+                            </div>
+                            <!-- 渲染容器: AI应用列表 -->
+                            <div id="render-application"></div>
+                        </section>
+
+                        <!-- 行业动态 -->
+                        <section class="news-section compact" id="section-industry">
+                            <div class="section-header">
+                                <h2 class="section-title">
+                                    <span class="title-icon">📊</span>
+                                    行业动态
+                                </h2>
+                                <a href="#" class="section-more">更多 →</a>
+                            </div>
+                            <!-- 渲染容器: 行业动态列表 -->
+                            <div id="render-industry"></div>
+                        </section>
+                    </div>
+
+                    <!-- 政策法规 -->
+                    <section class="news-section" id="section-policy">
+                        <div class="section-header">
+                            <div class="section-title-row">
+                                <h2 class="section-title">
+                                    <span class="title-icon">⚖️</span>
+                                    政策法规
+                                </h2>
+                            </div>
+                            <a href="#" class="section-more">查看更多 →</a>
+                        </div>
+                        <!-- 渲染容器: 政策法规卡片 -->
+                        <div id="render-policy"></div>
+                    </section>
+
+                    <!-- 广告位 #5 - 内容区下部通栏 -->
+                    <div class="ad-banner ad-content-mid">
+                        <div class="ad-slot" data-ad-position="content-lower-banner" data-ad-size="1200x80">
+                            <div class="ad-placeholder">
+                                <span class="ad-label">广告</span>
+                                <span class="ad-info">1200 × 80</span>
+                                <a href="#" class="ad-link">🎓 AI在线课程平台 — 500+实战项目，从入门到就业，前100名免费 ›</a>
+                            </div>
+                            <button class="ad-close" title="关闭广告">×</button>
+                        </div>
+                    </div>
+
+                    <!-- 开源项目推荐 -->
+                    <section class="news-section" id="section-open-source">
+                        <div class="section-header">
+                            <h2 class="section-title">
+                                <span class="title-icon">🔓</span>
+                                开源项目热榜
+                            </h2>
+                            <a href="https://github.com/trending?since=daily" target="_blank" class="section-more">GitHub Trending →</a>
+                        </div>
+                        <!-- 渲染容器: 开源项目表格 -->
+                        <div id="render-openSource"></div>
+                    </section>
+                </div>
+
+                <!-- 右侧边栏 -->
+                <aside class="sidebar">
+                    <!-- 热榜TOP10 -->
+                    <div class="sidebar-widget hot-rank-widget">
+                        <div class="widget-header">
+                            <h3>🔥 热门排行 TOP 10</h3>
+                        </div>
+                        <!-- 渲染容器: 侧栏热榜 -->
+                        <div id="render-hotRank"></div>
+                    </div>
+
+                    <!-- AI工具箱 -->
+                    <div class="sidebar-widget tools-widget">
+                        <div class="widget-header">
+                            <h3>🛠️ 常用AI工具</h3>
+                        </div>
+                        <!-- 渲染容器: AI工具网格 -->
+                        <div id="render-tools"></div>
+                    </div>
+
+                    <!-- 标签云 -->
+                    <div class="sidebar-widget tags-widget">
+                        <div class="widget-header">
+                            <h3>🏷️ 热门标签</h3>
+                        </div>
+                        <!-- 渲染容器: 标签云 -->
+                        <div id="render-tags"></div>
+                    </div>
+
+                    <!-- 订阅区块 -->
+                    <div class="sidebar-widget subscribe-widget">
+                        <div class="subscribe-card">
+                            <h3>📮 订阅每日AI简报</h3>
+                            <p>每天早上8点，精选最重要的10条AI资讯送达您的邮箱</p>
+                            <form class="subscribe-form" onsubmit="return false;">
+                                <input type="email" placeholder="输入您的邮箱地址" required>
+                                <button type="submit" class="subscribe-submit">免费订阅</button>
+                            </form>
+                            <p class="subscribe-note">已有 <strong>128,000+</strong> 订阅者</p>
+                        </div>
+                    </div>
+
+                    <!-- 广告位 #6 - 侧栏底部广告 -->
+                    <div class="ad-slot ad-sidebar ad-sidebar-bottom" data-ad-position="sidebar-bottom" data-ad-size="300x180">
+                        <div class="ad-placeholder">
+                            <span class="ad-label">广告</span>
+                            <span class="ad-info">300 × 180</span>
+                            <a href="#" class="ad-link">🌐 AI翻译API — 支持200+语言，99.9%准确率，百万字符免费 ›</a>
+                        </div>
+                        <button class="ad-close" title="关闭广告">×</button>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </main>
+
+    <!-- 底部 -->
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col about-col">
+                    <div class="footer-logo">
+                        <span class="logo-icon">🤖</span>
+                        <strong>AI全球资讯</strong>
+                    </div>
+                    <p class="footer-desc">聚焦全球人工智能领域的最新动态、前沿研究和产业趋势。为AI从业者、研究者和爱好者提供一站式资讯服务。</p>
+                    <div class="social-links">
+                        <a href="#" title="微信">微信</a>
+                        <a href="#" title="微博">微博</a>
+                        <a href="#" title="Twitter/X">X</a>
+                        <a href="#" title="GitHub">GitHub</a>
+                        <a href="#" title="RSS">RSS</a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>内容分类</h4>
+                    <ul>
+                        <li><a href="#">大模型动态</a></li>
+                        <li><a href="#">AI研究前沿</a></li>
+                        <li><a href="#">AI应用案例</a></li>
+                        <li><a href="#">行业动态</a></li>
+                        <li><a href="#">政策法规</a></li>
+                        <li><a href="#">开源项目</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>快速链接</h4>
+                    <ul>
+                        <li><a href="#">关于我们</a></li>
+                        <li><a href="#">联系方式</a></li>
+                        <li><a href="#">投稿指南</a></li>
+                        <li><a href="#">广告合作</a></li>
+                        <li><a href="#">隐私政策</a></li>
+                        <li><a href="#">使用条款</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>友情链接</h4>
+                    <ul>
+                        <li><a href="https://arxiv.org" target="_blank">arXiv AI</a></li>
+                        <li><a href="https://huggingface.co" target="_blank">Hugging Face</a></li>
+                        <li><a href="https://github.com/trending" target="_blank">GitHub Trending</a></li>
+                        <li><a href="https://paperswithcode.com" target="_blank">Papers With Code</a></li>
+                        <li><a href="https://www.theverge.com/ai-artificial-intelligence" target="_blank">The Verge AI</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 AI全球资讯 (ai-global.news) | 内容仅供参考，不构成投资建议</p>
+                <p class="icp">ICP备案号：京ICP备XXXXXXXX号-X | 信息网络传播视听节目许可证号：XXXXXX</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 回到顶部按钮 -->
+    <button class="back-to-top" id="backToTop" title="回到顶部">↑</button>
+
+    <!-- 搜索结果弹窗 -->
+    <div class="search-modal" id="searchModal">
+        <div class="search-modal-content">
+            <div class="search-modal-header">
+                <input type="text" id="modalSearchInput" placeholder="搜索AI资讯..." autofocus>
+                <button class="close-modal" id="closeSearchModal">&times;</button>
+            </div>
+            <div class="search-results" id="searchResults">
+                <p class="search-hint">输入关键词开始搜索...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS 加载顺序：数据 → 渲染引擎 → 交互逻辑 -->
+    <script src="js/data.js"></script>
+    <script src="js/renderer.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
