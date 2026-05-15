@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-15 13:43:33
+ * 生成时间: 2026-05-15 22:03:46
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -41,7 +41,7 @@ var siteData = {
         {
             "tag": "重磅 · 应用",
             "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
-            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、",
+            "summary": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。 This moment has been nearly a decade in the making:",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
@@ -51,52 +51,52 @@ var siteData = {
     ],
     "quickNews": [
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "金融服务中代理人工智能的数据准备情况",
             "hot": true,
             "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "在自治系统时代建立人工智能和数据主权",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "看到自己的身体被用于深度伪造色情内容时感到震惊",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
             "text": "人工智能聊天机器人正在泄露人们的真实电话号码",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
         },
         {
-            "time": "13:43",
+            "time": "22:03",
+            "text": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
+        },
+        {
+            "time": "22:03",
             "text": "就连 GoPro 也转向防御",
             "hot": false,
             "url": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/"
-        },
-        {
-            "time": "13:43",
-            "text": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/"
         }
     ],
     "sections": {
@@ -127,35 +127,25 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
+                    "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
                     "source": "TechCrunch AI",
                     "time": "刚刚",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "由 Devon Gethers 和 Karlton Haney 创立的风险投资公司 Meridian Ventures 周五宣布筹集 3500 万美元的第二只基金，以支持那些推迟 MBA 学位的人创办的种子期前和种子期公司。..."
-                },
-                {
-                    "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-                    "source": "量子位",
-                    "time": "9小时前",
-                    "views": "70.7K",
-                    "comments": "260",
-                    "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/417943.html"
+                    "desc": "AI 视频生成初创公司 Runway 押注视频生成是通往世界模型的道路。作为人工智能局外人是一种优势，而不是一种负担。..."
                 },
                 {
                     "title": "智能无处不在：OpenClaw预示的AI未来",
                     "source": "量子位",
                     "time": "7小时前",
-                    "views": "60.14K",
-                    "comments": "220",
-                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+                    "views": "70.7K",
+                    "comments": "260",
+                    "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
                     "url": "https://www.qbitai.com/2026/05/417958.html"
                 },
@@ -163,9 +153,9 @@ var siteData = {
                     "title": "手机的智能体AI，正在因为天玑全面跃升",
                     "source": "量子位",
                     "time": "6小时前",
-                    "views": "50.21K",
-                    "comments": "180",
-                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "views": "60.14K",
+                    "comments": "220",
+                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
                     "url": "https://www.qbitai.com/2026/05/417968.html"
                 },
@@ -173,11 +163,21 @@ var siteData = {
                     "title": "坐到马斯克和库克中间的湖南女人",
                     "source": "量子位",
                     "time": "6小时前",
+                    "views": "50.21K",
+                    "comments": "180",
+                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/417965.html"
+                },
+                {
+                    "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+                    "source": "量子位",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/417965.html"
+                    "url": "https://www.qbitai.com/2026/05/417961.html"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】EntityBench：实现实体一致的长距离多镜头视频生成",
-                    "desc": "多镜头视频生成将单镜头生成扩展到连贯的视觉叙事，但在长序列中保持跨镜头的角色、对象和位置的一致性仍然是一个挑战。现有的评估通常使用独立生成的提示集，其实体覆盖范围有限且一致性指标简单，使得标准化比较变得困难。我们引入了 EntityBench，这是一个源自真实叙事媒体的 140 集（2,491 个镜...",
+                    "title": "Cerebras IPO 为 Benchmark 带来了数十亿美元的收益，但 VC Eric Vishria 几乎没有参加会议",
+                    "desc": "Benchmark 几乎从不支持硬件初创公司。因此，埃里克·维什里亚 (Eric Vishria) 10 年前就犹豫不决，才同意听取 Cerebras 的建议。...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "19小时前",
+                    "source": "TechCrunch AI",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15199v1"
+                    "url": "https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/"
                 },
                 {
-                    "title": "【arXiv】ATLAS：主体视觉推理还是潜在视觉推理？一言以蔽之",
-                    "desc": "视觉推理通常与中间视觉状态交织在一起，已成为该领域的一个有前途的方向。一种简单的方法是在推理过程中通过统一模型直接生成图像，但这在计算上是昂贵的并且在架构上并不简单。最近的替代方案包括通过代码或工具调用进行代理推理，以及通过可学习的隐藏嵌入进行潜在推理。然而，代理方法会因外部执行而产生上下文切换延迟...",
+                    "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国短剧如何成为人工智能内容机器中国的短剧行业是由专为智能手机滚动而制作的小规模、情节剧和色情节目推动的。现在，许多产品完全是用“”来制造的。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "19小时前",
+                    "source": "MIT Tech Review",
+                    "time": "1小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15198v1"
+                    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
                 },
                 {
-                    "title": "【arXiv】RefDecoder：通过条件视频解码增强视觉生成",
-                    "desc": "视频生成为大量下游应用提供动力。然而，虽然事实上的标准，即潜在扩散模型，通常采用严格条件的去噪网络，但它们的解码器通常保持无条件。我们观察到，这种结构不对称会导致细节的严重丢失以及相对于输入图像的不一致。为了解决这个问题，我们认为解码器需要同等的条件来保持结构完整性。我们引入RefDecoder，一...",
+                    "title": "中国短剧如何成为AI内容机器",
+                    "desc": "在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与她的肉融为一体。她悬浮起来，然后落下。她的胸口出现了一条龙形纹身。 “两个月，”男人说。 “给我一个继承人，或者……...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "19小时前",
+                    "source": "MIT Tech Review",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15196v1"
+                    "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
                 },
                 {
-                    "title": "【arXiv】VGGT-$Ω$",
-                    "desc": "最近的前馈重建模型（例如 VGGT）已被证明与传统的基于优化的重建器具有竞争力，同时还提供对其他任务有用的几何感知功能。在这里，我们表明这些模型的质量可预测地随着模型和数据大小而变化。为此，我们引入了 VGGT-$Ω$，它大大提高了静态和动态场景的重建精度、效率和能力。以前所未有的规模训练该模型...",
+                    "title": "金融服务中代理人工智能的数据准备情况",
+                    "desc": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "19小时前",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15195v1"
-                },
-                {
-                    "title": "【arXiv】对齐潜在几何图形以实现图像生成中的球流匹配",
-                    "desc": "用于图像生成的潜在流匹配通常将高斯噪声沿着线性路径传输到变分自动编码器潜在。然而，两个端点都集中在薄球壳中，即使预处理对齐了它们的半径，欧几里得弦也会留下这些球壳。通过将每个潜在标记分解为径向和角度分量，我们通过分量交换探针表明，解码的感知和语义内容主要由方向承载，其中半径贡献很大...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "19小时前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15193v1"
-                },
-                {
-                    "title": "【arXiv】RAVEN：具有一致性模型 GRPO 的实时自回归视频外推",
-                    "desc": "因果自回归视频扩散模型通过从先前生成的内容推断未来的块来支持实时流生成。从高保真双向教师中提取此类生成器可以产生具有竞争力的几步模型，但训练期间遇到的历史分布与推理过程中出现的历史分布之间持续存在的差距限制了长期的生成质量。我们介绍实时自回归视频外推网络（RAVEN），一个...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "19小时前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.15190v1"
+                    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
                 }
             ]
         },
@@ -303,7 +281,7 @@ var siteData = {
                 {
                     "rank": 5,
                     "title": "世界有望实现其健康目标",
-                    "time": "4小时前",
+                    "time": "5小时前",
                     "emoji": "⚖️",
                     "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/"
                 },
@@ -327,20 +305,6 @@ var siteData = {
                     "time": "1小时前",
                     "emoji": "🤖",
                     "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/"
-                },
-                {
-                    "rank": 9,
-                    "title": "RefDecoder：通过条件视频解码增强视觉生成",
-                    "time": "19小时前",
-                    "emoji": "📊",
-                    "url": "http://arxiv.org/abs/2605.15196v1"
-                },
-                {
-                    "rank": 10,
-                    "title": "VGGT-Edit：具有残差场预测的前馈原生 3D 场景编辑",
-                    "time": "19小时前",
-                    "emoji": "🌐",
-                    "url": "http://arxiv.org/abs/2605.15186v1"
                 }
             ]
         },
@@ -350,10 +314,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
-                    "time": "刚刚",
+                    "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+                    "time": "2026-05-15",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/"
+                    "url": "https://36kr.com/p/3810607581634056?f=rss"
                 },
                 {
                     "rank": 2,
@@ -413,10 +377,10 @@ var siteData = {
                 },
                 {
                     "rank": 10,
-                    "title": "独家对谈｜广告人小马宋的烟火与锋芒：非精英们的精英生存指南",
-                    "time": "2026-05-15",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3807543008698118?f=rss"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 }
             ]
         },
@@ -459,7 +423,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+444,791",
+                    "stars": "+444,789",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -468,7 +432,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,084",
+                    "stars": "+372,087",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -477,7 +441,7 @@ var siteData = {
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+354,799",
+                    "stars": "+354,801",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -495,7 +459,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+233,277",
+                    "stars": "+233,281",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
@@ -513,7 +477,7 @@ var siteData = {
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+192,281",
+                    "stars": "+192,308",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -522,7 +486,7 @@ var siteData = {
                     "desc": "仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。",
                     "lang": "Rust",
                     "langClass": "lang-rust",
-                    "stars": "+191,533",
+                    "stars": "+191,536",
                     "url": "https://github.com/ultraworkers/claw-code"
                 }
             ]
@@ -574,30 +538,30 @@ var siteData = {
         {
             "rank": 7,
             "top3": false,
+            "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "heat": "",
+            "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/"
+        },
+        {
+            "rank": 8,
+            "top3": false,
             "title": "就连 GoPro 也转向防御",
             "heat": "",
             "url": "https://techcrunch.com/2026/05/15/even-gopro-is-pivoting-to-defense/"
         },
         {
-            "rank": 8,
-            "top3": false,
-            "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/"
-        },
-        {
             "rank": 9,
-            "top3": false,
-            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-            "heat": "",
-            "url": "https://www.qbitai.com/2026/05/417943.html"
-        },
-        {
-            "rank": 10,
             "top3": false,
             "title": "智能无处不在：OpenClaw预示的AI未来",
             "heat": "",
             "url": "https://www.qbitai.com/2026/05/417958.html"
+        },
+        {
+            "rank": 10,
+            "top3": false,
+            "title": "手机的智能体AI，正在因为天玑全面跃升",
+            "heat": "",
+            "url": "https://www.qbitai.com/2026/05/417968.html"
         }
     ],
     "aiTools": [
@@ -636,11 +600,11 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "模型",
+            "text": "Claude",
             "size": "large"
         },
         {
-            "text": "Claude",
+            "text": "AI",
             "size": "large"
         },
         {
@@ -648,43 +612,27 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "AI",
-            "size": "medium"
-        },
-        {
-            "text": "代理",
-            "size": "medium"
-        },
-        {
             "text": "人工智能",
-            "size": "small"
-        },
-        {
-            "text": "视频",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "Ventures",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "Anthropic",
             "size": "small"
         },
         {
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "模型",
+            "size": "small"
+        },
+        {
             "text": "Agent",
-            "size": "small"
-        },
-        {
-            "text": "VGGT",
-            "size": "small"
-        },
-        {
-            "text": "智能",
-            "size": "small"
-        },
-        {
-            "text": "编辑",
             "size": "small"
         },
         {
@@ -693,6 +641,22 @@ var siteData = {
         },
         {
             "text": "Slackbot",
+            "size": "small"
+        },
+        {
+            "text": "Elon",
+            "size": "small"
+        },
+        {
+            "text": "Musk",
+            "size": "small"
+        },
+        {
+            "text": "智能",
+            "size": "small"
+        },
+        {
+            "text": "航天",
             "size": "small"
         }
     ],
@@ -719,7 +683,7 @@ var siteData = {
             "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、官方价格以及有关“卡车”的重大新闻。"
+            "snippet": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。 This moment has been nearly a decade in the making: The company first a"
         },
         {
             "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
@@ -734,22 +698,16 @@ var siteData = {
             "snippet": "一位 Reddit 用户最近写道，他“迫切需要帮助”：他说，大约一个月来，他的手机一直被来自“陌生人”的电话淹没，他们“正在寻找律师、产品设计师、锁匠”。来电者显然被谷歌的生成式人工智能误导了。&#160; 3 月份，我们通过 WhatsA"
         },
         {
+            "title": "Runway 始于帮助电影制片人。现在它想在人工智能领域击败谷歌。",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI 视频生成初创公司 Runway 押注视频生成是通往世界模型的道路。作为人工智能局外人是一种优势，而不是一种负担。"
+        },
+        {
             "title": "就连 GoPro 也转向防御",
             "category": "AI应用",
             "tag": "application",
             "snippet": "与当今许多其他公司一样，这家运动相机制造商在评估可能的销售时正在寻求国防应用。"
-        },
-        {
-            "title": "Meridian Ventures 推出 3500 万美元基金以支持 MBA 延期创始人",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "由 Devon Gethers 和 Karlton Haney 创立的风险投资公司 Meridian Ventures 周五宣布筹集 3500 万美元的第二只基金，以支持那些推迟 MBA 学位的人创办的种子期前和种子期公司。"
-        },
-        {
-            "title": "英伟达给黄仁勋儿女涨薪了！年薪百万美元，“凭能力而不是身份”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "“两人薪资评定全程与其父黄仁勋无关”"
         },
         {
             "title": "智能无处不在：OpenClaw预示的AI未来",
@@ -800,28 +758,34 @@ var siteData = {
             "snippet": "在一间灯光昏暗的卧室里，一名受惊的年轻女子被一名高大、肌肉发达的男子扔到床上。他抓住她的手，火焰般的藤蔓爬过她的身体，与她的肉融为一体。她悬浮起来，然后落下。她的胸口出现了一条龙形纹身。 “两个月，”男人说。 “给我一个继承人，或者……"
         },
         {
-            "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
             "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "说明需求，Qoder就能帮你实现"
         },
         {
+            "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
             "title": "印度 Uber 竞争对手 Rapido 以 30 亿美元估值筹集 2.4 亿美元",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Rapido 通过为摩托车和机动三轮车等成本更低、更灵活的交通方式提供叫车服务来推动其增长。"
+            "snippet": "Rapido 通过提供成本更低、更灵活的交通方式（例如摩托车和机动三轮车）的叫车服务来推动其增长。"
         },
         {
             "title": "下载：在轨道上制造药物和美国宇航局的核动力航天器",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。在轨制造药物的计划即将商业化 一家名为 Varda Space Industries 的初创公司押注药品的未来在于轨道。公司已签订“"
+        },
+        {
+            "title": "2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐"
         },
         {
             "title": "36氪「属于年轻浪潮的派对」WAVES2026丨今年盛夏",
