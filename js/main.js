@@ -258,7 +258,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // ========================================
-    // 4. 二级分类Tab切换
+    // 4. 二级分类Tab切换 + 内容筛选
     // ========================================
     var subNavTabs = document.querySelectorAll('#subNavTabs .sub-tab');
     subNavTabs.forEach(function(tab) {
@@ -266,14 +266,50 @@ document.addEventListener('DOMContentLoaded', function() {
             subNavTabs.forEach(function(t) { t.classList.remove('active'); });
             tab.classList.add('active');
 
-            // 这里可以添加筛选逻辑
             var filter = this.getAttribute('data-filter');
-            console.log('切换筛选:', filter);
+            filterContentByTag(filter);
         });
     });
 
+    /**
+     * 根据全局标签筛选所有板块内容
+     * @param {string} filter - 标签值: all/hot/breakthrough/release/funding/tutorial/event
+     */
+    function filterContentByTag(filter) {
+        if (filter === 'all') {
+            // 全部显示
+            document.querySelectorAll('.news-card[data-category], .list-news-item[data-category], .simple-news-item').forEach(function(el) {
+                el.style.display = '';
+            });
+            return;
+        }
+
+        // 标签映射到关键词匹配（基于卡片标题和描述中的隐含标签）
+        var tagKeywords = {
+            'hot': ['热门', '爆火', '破纪录', '亿', 'TOP', '重磅'],
+            'breakthrough': ['突破', '首次', '首创', '里程碑', '革新', '颠覆'],
+            'release': ['发布', '上线', '推出', '开源', '更新', '正式'],
+            'funding': ['融资', '投资', '估值', 'IPO', '上市', '获投'],
+            'tutorial': ['教程', '指南', '入门', '实战', '如何', '方法'],
+            'event': ['大会', '峰会', '大会', 'WWDC', 'ICML', 'CVPR', 'NeurIPS']
+        };
+
+        var keywords = tagKeywords[filter] || [];
+
+        document.querySelectorAll('.news-card, .list-news-item').forEach(function(el) {
+            var text = (el.textContent || '').toLowerCase();
+            var match = keywords.some(function(kw) { return text.indexOf(kw.toLowerCase()) !== -1; });
+            el.style.display = match ? '' : 'none';
+        });
+
+        // 简单列表项始终显示（信息量少不好筛）
+        document.querySelectorAll('.simple-news-item').forEach(function(el) {
+            el.style.display = '';
+        });
+    }
+
     // ========================================
-    // 5. 板块内Tab切换
+    // 5. 板块内Tab切换 + 分类筛选
     // ========================================
     var secTabs = document.querySelectorAll('.sec-tab');
     secTabs.forEach(function(tab) {
@@ -281,6 +317,41 @@ document.addEventListener('DOMContentLoaded', function() {
             var siblings = this.parentElement.querySelectorAll('.sec-tab');
             siblings.forEach(function(t) { t.classList.remove('active'); });
             this.classList.add('active');
+
+            // 获取选中的分类值
+            var subcat = this.getAttribute('data-subcat');
+            if (!subcat) return;
+
+            // 找到当前板块的渲染容器，筛选其中的卡片/列表项
+            var section = this.closest('.news-section');
+            if (!section) return;
+
+            var renderContainer = section.querySelector('[id^="render-"]');
+            if (renderContainer) {
+                var items = renderContainer.querySelectorAll('.news-card, .list-news-item');
+                items.forEach(function(item) {
+                    if (subcat === 'all') {
+                        item.style.display = '';
+                    } else {
+                        var cat = item.getAttribute('data-category') || '';
+                        item.style.display = (cat === subcat || cat.toLowerCase().indexOf(subcat.toLowerCase()) !== -1) ? '' : 'none';
+                    }
+                });
+
+                // 检查是否有可见项，无则显示空状态提示
+                var visibleCount = 0;
+                items.forEach(function(item) { if (item.style.display !== 'none') visibleCount++; });
+                var emptyHint = renderContainer.querySelector('.filter-empty-hint');
+                if (visibleCount === 0 && !emptyHint) {
+                    var hint = document.createElement('div');
+                    hint.className = 'filter-empty-hint';
+                    hint.style.cssText = 'text-align:center;padding:40px;color:var(--text-tertiary);';
+                    hint.innerHTML = '<div style="font-size:36px;margin-bottom:8px;">📭</div><p>该分类下暂无内容</p>';
+                    renderContainer.appendChild(hint);
+                } else if (visibleCount > 0 && emptyHint) {
+                    emptyHint.remove();
+                }
+            }
         });
     });
 
@@ -303,7 +374,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // ========================================
-    // 7. 移动端菜单
+    // 7. 移动端菜单 + 桌面端下拉菜单
     // ========================================
     var mobileMenuToggle = document.getElementById('mobileMenuToggle');
     var mainNav = document.getElementById('mainNav');
@@ -316,7 +387,7 @@ document.addEventListener('DOMContentLoaded', function() {
             document.body.style.overflow = isOpen ? 'hidden' : '';
         });
 
-        // 下拉菜单点击展开
+        // 下拉菜单点击展开（移动端专用）
         var dropdownItems = mainNav.querySelectorAll('.has-dropdown');
         dropdownItems.forEach(function(item) {
             var link = item.querySelector(':scope > a');
@@ -332,6 +403,86 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+
+    // 桌面端：导航下拉菜单 click 展开/收起（与 hover 共存）
+    var allDropdowns = document.querySelectorAll('.has-dropdown');
+    allDropdowns.forEach(function(item) {
+        var link = item.querySelector(':scope > a');
+
+        // 点击箭头/链接时切换下拉菜单
+        if (link) {
+            link.addEventListener('click', function(e) {
+                if (window.innerWidth > 768) {
+                    e.preventDefault();
+                    var isOpen = item.classList.contains('dropdown-open');
+
+                    // 关闭其他已打开的下拉
+                    allDropdowns.forEach(function(other) {
+                        other.classList.remove('dropdown-open');
+                        var otherArrow = other.querySelector('.arrow');
+                        if (otherArrow) otherArrow.textContent = '▾';
+                    });
+
+                    if (!isOpen) {
+                        item.classList.add('dropdown-open');
+                        var arrow = this.querySelector('.arrow');
+                        if (arrow) arrow.textContent = '▴';
+                    }
+                }
+            });
+        }
+
+        // 点击页面其他区域关闭下拉
+        document.addEventListener('click', function(e) {
+            if (!item.contains(e.target)) {
+                item.classList.remove('dropdown-open');
+                var arrow = item.querySelector('.arrow');
+                if (arrow) arrow.textContent = '▾';
+            }
+        });
+    });
+
+    // 主导航项点击：滚动到对应板块 + 高亮当前项
+    var navLinks = mainNav ? mainNav.querySelectorAll('.nav-item > a[href^="#"]') : [];
+    navLinks.forEach(function(anchor) {
+        anchor.addEventListener('click', function(e) {
+            var targetId = this.getAttribute('href');
+            if (targetId === '#' || !targetId) return;
+
+            // 映射 nav href 到实际 section id
+            var idMap = {
+                '#home': 'section-llm',
+                '#llm': 'section-llm',
+                '#research': 'section-research',
+                '#application': 'section-application',
+                '#industry': 'section-industry',
+                '#policy': 'section-policy',
+                '#open-source': 'section-open-source'
+            };
+
+            var sectionId = idMap[targetId];
+            if (sectionId) {
+                e.preventDefault();
+                var targetEl = document.getElementById(sectionId);
+                if (targetEl) {
+                    var offsetTop = targetEl.offsetTop - 120;
+                    window.scrollTo({ top: offsetTop, behavior: 'smooth' });
+                }
+
+                // 高亮当前导航项
+                mainNav.querySelectorAll('.nav-item').forEach(function(ni) { ni.classList.remove('active'); });
+                var parentLi = this.closest('.nav-item');
+                if (parentLi && !parentLi.classList.contains('has-dropdown')) {
+                    parentLi.classList.add('active');
+                }
+            }
+
+            // 关闭移动端菜单
+            if (mainNav) mainNav.classList.remove('open');
+            if (mobileMenuToggle) mobileMenuToggle.textContent = '☰';
+            document.body.style.overflow = '';
+        });
+    });
 
     // ========================================
     // 8. 导航栏滚动效果
@@ -402,9 +553,12 @@ document.addEventListener('DOMContentLoaded', function() {
     setInterval(simulateQuickNewsTime, 60000);
 
     // ========================================
-    // 11. 平滑滚动锚点导航
+    // 11. 平滑滚动锚点导航（非主导航项的通用锚点）
     // ========================================
     document.querySelectorAll('a[href^="#"]').forEach(function(anchor) {
+        // 跳过已经在导航栏处理过的链接
+        if (anchor.closest('.main-nav')) return;
+
         anchor.addEventListener('click', function(e) {
             var targetId = this.getAttribute('href');
             if (targetId === '#') return;
@@ -417,11 +571,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     top: offsetTop,
                     behavior: 'smooth'
                 });
-
-                // 关闭移动端菜单
-                if (mainNav) mainNav.classList.remove('open');
-                if (mobileMenuToggle) mobileMenuToggle.textContent = '☰';
-                document.body.style.overflow = '';
             }
         });
     });
