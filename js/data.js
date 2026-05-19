@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-18 12:52:34
+ * 生成时间: 2026-05-19 11:43:25
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "人工智能淘金热中的富人和穷人",
-            "summary": "当前人工智能热潮的氛围并不好，即使是在科技行业也是如此。",
-            "source": "TechCrunch AI",
+            "tag": "重磅 · 应用",
+            "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+            "summary": "底层范式变了",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
-        },
-        {
-            "tag": "行业 · 动态",
-            "title": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
-            "summary": "人工智能驱动的营销平台 Nectar Social 周四宣布，已筹集 3000 万美元的 A 轮融资，由 Menlo Ventures 及其与 Anthropic 共同创建的 Anthology Fu",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
-        },
-        {
-            "tag": "独家 · 研究",
-            "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
-            "summary": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+            "url": "https://www.qbitai.com/2026/05/419515.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "真正让我坐直的离线办公桌小工具",
-            "summary": "Deep Care 的 350 美元设备价格昂贵，但它可以离线运行，可以帮助你改善姿势和运动习惯",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+            "summary": "落地全球27城",
+            "source": "量子位",
+            "time": "9小时前",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.qbitai.com/2026/05/419597.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+            "summary": "提前查好路况，定好闹钟，明天线下见！",
+            "source": "量子位",
+            "time": "8小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://www.qbitai.com/2026/05/419901.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+            "summary": "文本领域、视觉领域双双国产第一",
+            "source": "量子位",
+            "time": "8小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/"
+            "url": "https://www.qbitai.com/2026/05/419822.html"
         }
     ],
     "quickNews": [
         {
-            "time": "12:52",
-            "text": "人工智能淘金热中的富人和穷人",
+            "time": "11:43",
+            "text": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
             "hot": true,
-            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+            "url": "https://www.qbitai.com/2026/05/419515.html"
         },
         {
-            "time": "12:52",
-            "text": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
+            "time": "11:43",
+            "text": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+            "url": "https://www.qbitai.com/2026/05/419597.html"
         },
         {
-            "time": "12:52",
-            "text": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+            "time": "11:43",
+            "text": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+            "url": "https://www.qbitai.com/2026/05/419901.html"
         },
         {
-            "time": "12:52",
-            "text": "真正让我坐直的离线办公桌小工具",
+            "time": "11:43",
+            "text": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/"
+            "url": "https://www.qbitai.com/2026/05/419822.html"
         },
         {
-            "time": "12:52",
-            "text": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+            "time": "11:43",
+            "text": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/418964.html"
+            "url": "https://www.qbitai.com/2026/05/419913.html"
         },
         {
-            "time": "12:52",
-            "text": "下载：马斯克诉奥特曼第三周，以及特朗普的科技交易",
+            "time": "11:43",
+            "text": "西奥·贝克花了四年时间调查斯坦福大学。在他离开之前，这是他的发现。",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/"
+            "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/"
         },
         {
-            "time": "12:52",
-            "text": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
+            "time": "11:43",
+            "text": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/419256.html"
+            "url": "https://www.qbitai.com/2026/05/419990.html"
         },
         {
-            "time": "12:52",
-            "text": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+            "time": "11:43",
+            "text": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/419386.html"
+            "url": "https://www.qbitai.com/2026/05/420083.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "人工智能淘金热中的富人和穷人",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+                    "source": "量子位",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+                    "url": "https://www.qbitai.com/2026/05/419597.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "当前人工智能热潮的氛围并不好，即使是在科技行业也是如此。..."
+                    "desc": "落地全球27城..."
                 },
                 {
-                    "title": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+                    "source": "量子位",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/419901.html"
                 },
                 {
-                    "title": "真正让我坐直的离线办公桌小工具",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+                    "source": "量子位",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/"
+                    "url": "https://www.qbitai.com/2026/05/419822.html"
                 },
                 {
-                    "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+                    "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "6小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/418964.html"
+                    "url": "https://www.qbitai.com/2026/05/419913.html"
                 },
                 {
-                    "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
-                    "source": "量子位",
-                    "time": "7小时前",
+                    "title": "西奥·贝克花了四年时间调查斯坦福大学。在他离开之前，这是他的发现。",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/419256.html"
+                    "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】IVGT：用于神经场景表示的隐式视觉几何变换器",
-                    "desc": "从未摆出的多视图图像中重建连贯的 3D 几何和外观是计算机视觉中的一个基本但具有挑战性的问题。大多数现有的视觉几何基础模型通过回归像素对齐的点图来预测显式几何，通常存在冗余和有限的几何连续性。我们提出了 IVGT，一种隐式视觉几何变换器，它可以从无姿态多视图图像中隐式地建模连续且连贯的几何形状。这个...",
+                    "title": "【arXiv】这些视图可以成为一个场景吗？当 3D 基础模型产生幻觉时评估多视图 3D 一致性",
+                    "desc": "多视图 3D 评估假设所评分的图像是对一个静态 3D 场景的观察。这种假设在 NVS 和稀疏视图重建中可能会失败：输入或生成的输出可能包含伪影、异常帧、重复视图或噪声，但仍然获得高 3D 一致性分数。现有的基于参考的指标需要真实数据，而 MEt3R 等无真实数据的指标则依赖于学习到的重建主干，而这些...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16258v1"
+                    "url": "http://arxiv.org/abs/2605.18754v1"
                 },
                 {
-                    "title": "【arXiv】为人工智能时代设计数据中心供电层次结构",
-                    "desc": "对人工智能加速器的需求正在迅速增加机架功率密度，预计到 2027 年每次部署的功率密度将接近 1MW。这给数据中心供电设计人员带来了重大挑战。随着功率密度的增加，为不同目标密度设计的数据中心可能会浪费功率，即可能无法使用其传输层次结构已配置的所有功率。设计必须在较长的数据中心生命周期和多代硬件中保持...",
+                    "title": "【arXiv】DashAttention：可微分和自适应稀疏层次注意力",
+                    "desc": "当前的分层注意力方法，例如 NSA 和 InfLLMv2，根据粗略注意力分数选择前 k 个相关键值 (KV) 块，然后对所选标记应用细粒度的 softmax 注意力。然而，top-k 操作假设任何查询的相关标记的数量是固定的，并且它排除了稀疏阶段和密集阶段之间的梯度流。在这项工作中，我们提出了 Da...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16255v1"
+                    "url": "http://arxiv.org/abs/2605.18753v1"
                 },
                 {
-                    "title": "【arXiv】用于智能公用事业计费 CO 2 分析和可持续资源优化的生成式 AI 框架",
-                    "desc": "现在，配电公用事业公司预计将提供客户可以实际阅读的账单，为每售出的千瓦时附加一个可防御的碳数，并根据电网压力和排放限制安排负载。我们提出了一种端到端框架，将四种生产级功能统一在一个架构屋顶下；一个生成人工智能代理，根据受限解码策略从结构化数字输入中起草每个客户的自然语言账单；一个基于变压器的预测器。...",
+                    "title": "【arXiv】WavFlow：波形空间中的音频生成",
+                    "desc": "现代音频生成主要依赖于潜在空间压缩，这会带来额外的复杂性和潜在的信息丢失。在这项工作中，我们用 WavFlow 挑战这种范例，WavFlow 是一个直接在原始波形空间中生成高保真音频而无需中间表示的框架。为了克服高维和低能量信号建模的固有困难，我们通过波形修补将音频重塑为 2D 令牌网格，并引入幅度...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16250v1"
+                    "url": "http://arxiv.org/abs/2605.18749v1"
                 },
                 {
-                    "title": "【arXiv】人工智能介导的沟通可以引导集体意见",
-                    "desc": "生成式人工智能（AI）越来越多地融入到人类交换意见的在线平台中；大语言模型 (LLM) 现在可以润色 LinkedIn 上的用户帖子，并为 X 上共享的内容提供上下文。虽然之前的研究表明，人工智能可以在人类与人工智能交互过程中表达偏见意见并塑造个人观点，但人们很少关注它在调解人与人交流时对集体意见形...",
+                    "title": "【arXiv】Aurora：使用工具使用代理进行统一视频编辑",
+                    "desc": "最近的视频编辑模型已经集中在统一的调节设计上：单个扩散变压器共同消耗文本、源视频和参考图像，一组权重涵盖替换、删除、风格转移和参考驱动的插入。该设计很灵活，但它假设用户已经提供了模型就绪的文本、参考图像和用于本地编辑的空间基础，而实际的请求经常会忽略这些。我们推出 Aurora，一个代理视频编辑框架...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16245v1"
+                    "url": "http://arxiv.org/abs/2605.18748v1"
                 },
                 {
-                    "title": "【arXiv】高效视觉-语言-行动策略蒸馏的离线语义指导",
-                    "desc": "数十亿参数的视觉-语言-动作（VLA）策略最近在机器人操作方面表现出了令人印象深刻的性能，但其规模和推理成本仍然是实时闭环控制的主要障碍。我们引入了 \\textbf{VLA-AD}，这是一个蒸馏框架，它使用视觉语言模型作为离线语义监督器，将大型 VLA 教师转换为轻量级学生策略。 VLA-AD 不是...",
+                    "title": "【arXiv】代码作为代理线束",
+                    "desc": "最近的大型语言模型（LLM）在理解和生成代码方面表现出了强大的能力，从竞争性编程到存储库级软件工程。在新兴的代理系统中，代码不再只是目标输出。它越来越多地充当代理推理、行动、环境建模和基于执行的验证的操作基础。我们通过代理工具的视角来构建这一转变，并引入代码作为代理工具：一个统一的视图...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16241v1"
+                    "url": "http://arxiv.org/abs/2605.18747v1"
                 },
                 {
-                    "title": "【arXiv】使用自主法学硕士引导的树搜索进行前瞻性多病原体疾病预测",
-                    "desc": "传染病的概率预测对于公共卫生至关重要，但依赖于专家建模团队的劳动密集型手动模型管理。这种定制开发限制了精细地理分辨率或新兴病原体的可扩展性。在这里，我们提出了一个使用大型语言模型（LLM）引导的树搜索来迭代生成、评估和优化可执行预测软件的自治系统。在 2025-2026 年期间进行全面前瞻性、实时评...",
+                    "title": "【arXiv】ESI-Bench：迈向闭合感知-行动循环的具体空间智能",
+                    "desc": "空间智能通过感知-行动循环展开：智能体采取行动来获取观察结果，并推理观察结果如何随着行动而变化。他们不是被动地处理所见的东西，而是主动地揭示看不见的东西——仅通过被动传感无法解决的被遮挡的结构、动力学、遏制和功能。通过将观察者重新塑造为行动者，我们超越了先前假设神谕观察的空间智能表述。我们介绍...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.16238v1"
+                    "url": "http://arxiv.org/abs/2605.18746v1"
                 }
             ]
         },
@@ -274,65 +274,72 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
-                    "time": "5小时前",
+                    "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/05/419396.html"
+                    "url": "https://www.qbitai.com/2026/05/419515.html"
                 },
                 {
                     "rank": 2,
-                    "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
-                    "time": "4天前",
+                    "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+                    "time": "4小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/"
+                    "url": "https://www.qbitai.com/2026/05/420084.html"
                 },
                 {
                     "rank": 3,
                     "title": "世界有望实现其健康目标",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "🎬",
                     "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/"
                 },
                 {
                     "rank": 4,
-                    "title": "在自治系统时代建立人工智能和数据主权",
-                    "time": "3天前",
+                    "title": "Kin Health 融资 900 万美元，为患者打造人工智能记事本",
+                    "time": "20小时前",
                     "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
+                    "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/"
                 },
                 {
                     "rank": 5,
-                    "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-                    "time": "2小时前",
+                    "title": "影石：重新定义性价比",
+                    "time": "2026-05-19",
                     "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/05/419515.html"
+                    "url": "https://36kr.com/p/3815841756028425?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
-                    "time": "2026-05-18",
+                    "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+                    "time": "2026-05-19",
                     "emoji": "🎵",
-                    "url": "https://36kr.com/p/3814695536336387?f=rss"
+                    "url": "https://36kr.com/p/3805660478184966?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-                    "time": "2026-05-18",
+                    "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+                    "time": "2026-05-19",
                     "emoji": "📝",
-                    "url": "https://36kr.com/p/3814408307711492?f=rss"
+                    "url": "https://36kr.com/p/3815459487587847?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "8点1氪丨多款燃油车大降价，降幅最高近30%；蜜雪冰城上线黄仁勋同款饮品；“巴菲特慈善午餐”回归，获拍900万美元",
+                    "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
                     "time": "2026-05-18",
                     "emoji": "🤖",
-                    "url": "https://36kr.com/p/3814030630084354?f=rss"
+                    "url": "https://36kr.com/p/3814695536336387?f=rss"
                 },
                 {
                     "rank": 9,
+                    "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+                    "time": "2026-05-18",
+                    "emoji": "📊",
+                    "url": "https://36kr.com/p/3814408307711492?f=rss"
+                },
+                {
+                    "rank": 10,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "🌐",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
@@ -343,65 +350,51 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
-                    "time": "昨天",
+                    "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
+                    "time": "2026-05-19",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+                    "url": "https://36kr.com/p/3816109626138119?f=rss"
                 },
                 {
                     "rank": 2,
-                    "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
-                    "time": "2026-05-18",
+                    "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
+                    "time": "2026-05-19",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3810598875307780?f=rss"
+                    "url": "https://36kr.com/p/3816036564147718?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
-                    "time": "2026-05-18",
+                    "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+                    "time": "2026-05-19",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3814570248412677?f=rss"
+                    "url": "https://36kr.com/p/3814860909600261?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
+                    "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
                     "time": "2026-05-18",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3814368445259270?f=rss"
+                    "url": "https://36kr.com/p/3810598875307780?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "36氪首发 | 获超千万融资，「律动节拍」用演出票撬起千亿跨城观演赛道",
+                    "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
                     "time": "2026-05-18",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3813463119863553?f=rss"
+                    "url": "https://36kr.com/p/3814570248412677?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？",
-                    "time": "2026-05-17",
-                    "emoji": "🔄",
-                    "url": "https://36kr.com/p/3813305543794440?f=rss"
-                },
-                {
-                    "rank": 7,
-                    "title": "又诞生一位千亿女富豪",
-                    "time": "2026-05-17",
-                    "emoji": "🚀",
-                    "url": "https://36kr.com/p/3813040859258373?f=rss"
-                },
-                {
-                    "rank": 8,
                     "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
                     "time": "2026-01-16",
-                    "emoji": "🤝",
+                    "emoji": "🔄",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
-                    "rank": 9,
+                    "rank": 7,
                     "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
                     "time": "2026-01-13",
-                    "emoji": "📰",
+                    "emoji": "🚀",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 }
             ]
@@ -448,7 +441,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,067",
+                    "stars": "+445,130",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -457,7 +450,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,866",
+                    "stars": "+373,139",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -466,7 +459,7 @@ var siteData = {
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+355,005",
+                    "stars": "+355,059",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -475,44 +468,44 @@ var siteData = {
                     "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+298,321",
+                    "stars": "+298,480",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 5,
+                    "name": "facebook/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+245,128",
+                    "url": "https://github.com/facebook/react"
+                },
+                {
+                    "rank": 6,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+233,570",
+                    "stars": "+233,668",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
+                    "name": "TheAlgorithms/Python",
+                    "desc": "所有算法均用Python实现",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+221,186",
+                    "url": "https://github.com/TheAlgorithms/Python"
+                },
+                {
+                    "rank": 8,
                     "name": "tensorflow/tensorflow",
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,146",
+                    "stars": "+195,160",
                     "url": "https://github.com/tensorflow/tensorflow"
-                },
-                {
-                    "rank": 7,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+188,519",
-                    "url": "https://github.com/n8n-io/n8n"
-                },
-                {
-                    "rank": 8,
-                    "name": "ohmyzsh/ohmyzsh",
-                    "desc": "🙃 一个令人愉快的社区驱动（拥有 2,500 多个贡献者）框架，用于管理您的 zsh 配置。包括 300 多个可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、140 多个主题让您的早晨更加有趣，还有一个自动更新工具，让您可以轻松跟上社区的最新更新。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+187,105",
-                    "url": "https://github.com/ohmyzsh/ohmyzsh"
                 }
             ]
         }
@@ -521,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "人工智能淘金热中的富人和穷人",
+            "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/"
+            "url": "https://www.qbitai.com/2026/05/419515.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
+            "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/"
+            "url": "https://www.qbitai.com/2026/05/419597.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
+            "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+            "url": "https://www.qbitai.com/2026/05/419901.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "真正让我坐直的离线办公桌小工具",
+            "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/"
+            "url": "https://www.qbitai.com/2026/05/419822.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+            "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/418964.html"
+            "url": "https://www.qbitai.com/2026/05/419913.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "下载：马斯克诉奥特曼第三周，以及特朗普的科技交易",
+            "title": "西奥·贝克花了四年时间调查斯坦福大学。在他离开之前，这是他的发现。",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/"
+            "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
+            "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/419256.html"
+            "url": "https://www.qbitai.com/2026/05/419990.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
+            "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/419386.html"
+            "url": "https://www.qbitai.com/2026/05/420083.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
+            "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/419373.html"
+            "url": "https://www.qbitai.com/2026/05/420084.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
+            "title": "世界有望实现其健康目标",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/419278.html"
+            "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/"
         }
     ],
     "aiTools": [
@@ -633,19 +626,19 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "人工智能",
+            "text": "Claude",
+            "size": "large"
+        },
+        {
+            "text": "模型",
             "size": "large"
         },
         {
             "text": "AI",
-            "size": "large"
-        },
-        {
-            "text": "Claude",
             "size": "medium"
         },
         {
-            "text": "LLM",
+            "text": "OpenAI",
             "size": "medium"
         },
         {
@@ -653,11 +646,15 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "马斯克",
+            "size": "small"
+        },
+        {
             "text": "代理",
             "size": "small"
         },
         {
-            "text": "模型",
+            "text": "人工智能",
             "size": "small"
         },
         {
@@ -665,7 +662,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "视频",
+            "size": "small"
+        },
+        {
+            "text": "Labs",
             "size": "small"
         },
         {
@@ -673,128 +674,72 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "VLA",
-            "size": "small"
-        },
-        {
-            "text": "现在",
-            "size": "small"
-        },
-        {
-            "text": "马斯克",
-            "size": "small"
-        },
-        {
             "text": "智能",
             "size": "small"
         },
         {
-            "text": "FORGE",
+            "text": "视图",
+            "size": "small"
+        },
+        {
+            "text": "奥特曼",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "人工智能淘金热中的富人和穷人",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "当前人工智能热潮的氛围并不好，即使是在科技行业也是如此。"
-        },
-        {
-            "title": "营销操作系统 Nectar Social 获 Menlo 领投的 3000 万美元 A 轮融资",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "人工智能驱动的营销平台 Nectar Social 周四宣布，已筹集 3000 万美元的 A 轮融资，由 Menlo Ventures 及其与 Anthropic 共同创建的 Anthology Fund 领投。"
-        },
-        {
-            "title": "如果作者让人工智能完成所有工作，研究存储库 ArXiv 将禁止作者一年",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "ArXiv 正在采取更多措施来打击科学论文中粗心使用大型语言模型的行为。"
-        },
-        {
-            "title": "真正让我坐直的离线办公桌小工具",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Deep Care 的 350 美元设备价格昂贵，但它可以离线运行，可以帮助你改善姿势和运动习惯"
-        },
-        {
-            "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "全球规模最大、参与人数最多的大学生超算赛事"
-        },
-        {
-            "title": "下载：马斯克诉奥特曼第三周，以及特朗普的科技交易",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。在马斯克诉奥特曼案审判的最后一周，“"
-        },
-        {
-            "title": "30万奖金池，这道汉语方言对话题等你来解丨第十一届信也科技杯全球AI算法大赛",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "更有NLPCC2026直通名额"
-        },
-        {
-            "title": "8B模型做生物实验：实验步骤顺序不乱、剂量无幻觉｜ICLR 2026",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "超越GPT-4o"
-        },
-        {
-            "title": "信通院&清华提出FedRE：用「纠缠」搞定联邦学习三难困境 | CVPR 26",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "隐私和性能我全都要"
-        },
-        {
-            "title": "黄仁勋北京必吃榜我们都尝了！后海酒吧老板：他答应以后每年来一次",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "老黄严选北京游"
-        },
-        {
-            "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Lecun这次是真跟Hinton爆了……"
-        },
-        {
-            "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+            "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "五项维度全部排名第一"
+            "snippet": "底层范式变了"
         },
         {
-            "title": "下载：深度伪造色情片被盗的身体和人工智能共享私人号码",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。看到自己的身体被用于深度伪造色情内容时感到震惊 当 Jennifer 在 2023 年找到一份研究工作时，她通过面部识别程序进行了新的专业头像拍摄。她想要——"
-        },
-        {
-            "title": "特斯拉 Semi 可能对电动卡车运输来说意义重大",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Tesla Semi 已正式上市。该公司最近发布了一张第一辆汽车从其新的全面生产线上下线的照片。这一时刻已经酝酿了近十年：该公司于 2017 年底首次发布了这款卡车。现在我们已经得到了最终的电池规格、官方价格以及有关“卡车”的重大新闻。"
-        },
-        {
-            "title": "看到自己的身体被用于深度伪造色情内容时感到震惊",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "2023 年，当 Jennifer 找到一份为一家非营利组织做研究的工作时，她通过面部识别程序拍摄了新的专业头像。她想看看这项技术是否会调出她 10 多年前（当时她 20 岁出头）制作的色情视频。事实上它确实回来了——"
-        },
-        {
-            "title": "华为“养”出半个具身智能创业圈",
+            "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "正在经历一次罕见的人才外溢。"
+            "snippet": "落地全球27城"
         },
         {
-            "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国短剧如何成为人工智能内容机器中国的短剧行业是由专为智能手机滚动而制作的小规模、情节剧和色情节目推动的。现在，许多产品完全是用“”来制造的。"
+            "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "提前查好路况，定好闹钟，明天线下见！"
+        },
+        {
+            "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "文本领域、视觉领域双双国产第一"
+        },
+        {
+            "title": "L2++「五冠王」文远知行：自动驾驶版的张雪机车，专治各种不服",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "赛车有张雪，智驾有文远"
+        },
+        {
+            "title": "西奥·贝克花了四年时间调查斯坦福大学。在他离开之前，这是他的发现。",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "“这个世界上的[年轻人]普遍认为，现在为初创公司筹集资金比获得实习机会更容易。这很了不起，对吧？”"
+        },
+        {
+            "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "1/10 成本、Opus 4.7 级表现"
+        },
+        {
+            "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "所谓的真实……真的重要吗？"
+        },
+        {
+            "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "发布MT Lambda"
         },
         {
             "title": "世界有望实现其健康目标",
@@ -815,64 +760,112 @@ var siteData = {
             "snippet": "金融服务公司在商业人工智能方面有独特的需求。他们在监管最严格的行业之一运营，同时对第二个更新的外部事件做出响应。因此，代理人工智能在金融服务领域的成功更多地取决于系统的复杂程度，而不是系统的复杂程度。"
         },
         {
-            "title": "在自治系统时代建立人工智能和数据主权",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "当生成式人工智能首次从研究实验室转移到现实世界的商业应用时，企业达成了默契：“现在提供能力，稍后进行控制。”将您的专有数据输入第三方人工智能模型，您将获得强大的结果。但您的数据会通过不属于您的系统，不受您设置的治理。您所依赖的保护措施"
-        },
-        {
-            "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "底层范式变了"
-        },
-        {
             "title": "马斯克诉奥特曼第三周：埃隆·马斯克和萨姆·奥特曼因彼此的可信度而互相攻击。现在陪审团将选择一方。",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官萨姆·奥特曼的可信度展开了激烈的争论。 Altman 因其涉嫌在与 OpenAI 开展业务的公司中撒谎和自我交易的历史而受到盘问。但他进行了反击，将马斯克描绘"
+            "snippet": "更新：5 月 18 日星期一，陪审团站在 OpenAI 一边，做出咨询裁决，认定马斯克的主张已超出诉讼时效。美国地区法官伊冯·冈萨雷斯·罗杰斯接受了这一判决。在马斯克诉奥特曼案审判的最后一周，律师们就埃隆·马斯克和 OpenAI 首席执行官"
         },
         {
-            "title": "IVGT：用于神经场景表示的隐式视觉几何变换器",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "从未摆出的多视图图像中重建连贯的 3D 几何和外观是计算机视觉中的一个基本但具有挑战性的问题。大多数现有的视觉几何基础模型通过回归像素对齐的点图来预测显式几何，通常存在冗余和有限的几何连续性。我们提出了 IVGT，一种隐式视觉几何变换器，它"
-        },
-        {
-            "title": "为人工智能时代设计数据中心供电层次结构",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "对人工智能加速器的需求正在迅速增加机架功率密度，预计到 2027 年每次部署的功率密度将接近 1MW。这给数据中心供电设计人员带来了重大挑战。随着功率密度的增加，为不同目标密度设计的数据中心可能会浪费功率，即可能无法使用其传输层次结构已配置"
-        },
-        {
-            "title": "用于智能公用事业计费 CO 2 分析和可持续资源优化的生成式 AI 框架",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "现在，配电公用事业公司预计将提供客户可以实际阅读的账单，为每售出的千瓦时附加一个可防御的碳数，并根据电网压力和排放限制安排负载。我们提出了一种端到端框架，将四种生产级功能统一在一个架构屋顶下；一个生成人工智能代理，根据受限解码策略从结构化数"
-        },
-        {
-            "title": "人工智能介导的沟通可以引导集体意见",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "生成式人工智能（AI）越来越多地融入到人类交换意见的在线平台中；大语言模型 (LLM) 现在可以润色 LinkedIn 上的用户帖子，并为 X 上共享的内容提供上下文。虽然之前的研究表明，人工智能可以在人类与人工智能交互过程中表达偏见意见并"
-        },
-        {
-            "title": "高效视觉-语言-行动策略蒸馏的离线语义指导",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "数十亿参数的视觉-语言-动作（VLA）策略最近在机器人操作方面表现出了令人印象深刻的性能，但其规模和推理成本仍然是实时闭环控制的主要障碍。我们引入了 \\textbf{VLA-AD}，这是一个蒸馏框架，它使用视觉语言模型作为离线语义监督器，将"
-        },
-        {
-            "title": "使用自主法学硕士引导的树搜索进行前瞻性多病原体疾病预测",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "传染病的概率预测对于公共卫生至关重要，但依赖于专家建模团队的劳动密集型手动模型管理。这种定制开发限制了精细地理分辨率或新兴病原体的可扩展性。在这里，我们提出了一个使用大型语言模型（LLM）引导的树搜索来迭代生成、评估和优化可执行预测软件的自"
-        },
-        {
-            "title": "层等效性不仅仅是层的属性：测试冗余的方式会改变您发现的内容",
+            "title": "下载：中国的人工智能戏剧工厂和世界卫生组织缺失的健康目标",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "当研究人员询问两个变压器层的压缩是否“等效”时，他们经常将不同的测试混为一谈。替换询问一个图层的地图是否可以替换另一图层的地图；交换询问两层交换位置时是否大致可通勤。两者都是输出接地的 swap-KL 探针，但它们不需要一致：在预训练的 T"
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国短剧如何成为人工智能内容机器中国的短剧行业是由专为智能手机滚动而制作的小规模、情节剧和色情节目推动的。现在，许多产品完全是用“”来制造的。"
+        },
+        {
+            "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "生成论文远比消化容易"
+        },
+        {
+            "title": "下载：马斯克诉奥特曼第三周，以及特朗普的科技交易",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。在马斯克诉奥特曼案审判的最后一周，“"
+        },
+        {
+            "title": "开源工具制造商 Grafana Labs 称黑客窃取了其代码，拒绝支付赎金",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该开源项目表示，黑客窃取了其代码库，并威胁称，如果该公司不付款，就会公布其源代码。"
+        },
+        {
+            "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "芯片与系统级双重创新"
+        },
+        {
+            "title": "Kin Health 融资 900 万美元，为患者打造人工智能记事本",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "该应用程序类似于会议记录员——你可以记录医生的就诊情况，它会返回会议的人工智能摘要以及后续步骤，如果你愿意的话，你可以与家人和朋友分享所有这些内容。"
+        },
+        {
+            "title": "亚马逊新的 Alexa+ 支持功能可以生成播客剧集",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "随着亚马逊将其助手扩展为个性化人工智能内容平台，亚马逊的 Alexa+ 现在可以按需生成定制人工智能播客。"
+        },
+        {
+            "title": "氪星晚报 ｜SpaceX即将成为马斯克旗下第二家上市公司；京东、洋河集团等在宿迁成立新动能股权投资基金，出资额10亿",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "大公司：\n  圆通速递：4月快递产品收入60.71亿元，同比增长5.49%36氪获悉，圆通速递公告，4月快递产品收入60.71亿元，同比增长5.49%；业务完成量27.26亿票，同比增长1.22%；快递产品单票收入2.23元，同比增长4.2"
+        },
+        {
+            "title": "裸辞九个月，降薪跳槽，一个80后营销人如何“上岸甲方”？｜百万年薪系列013",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "图源：公众号「有三思 U Sense」）\n  2023年秋，杭州亚运会湖州赛区。于成龙手持亚运火炬跑过城市街巷，掌心传来的温度让他想起十四年前，那个没有暖气的冬天。\n  彼时他在河南安阳的一间出租屋里，裹着羽绒服改方案，手指冻得握不住笔。他"
+        },
+        {
+            "title": "影石：重新定义性价比",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者 | 张帆\n  坚持做后来者\n  近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等费用高企，公司归母净利润仅为9."
+        },
+        {
+            "title": "鲸跃动力获星海图数千万元种子轮投资，用「数据+模型+末端执行」打造开箱即用的Robo Labor丨涌现新项目",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜王欣逸\n  编辑｜邱晓芬\n  一句话介绍\n  鲸跃动力成立于2026年，以「数据+模型+末端执行」闭环，提供面向场景、可快速部署的Robo Labor（机器人劳动力），让物理劳动力像AWS算力一样，可订阅、可弹性扩容、开箱即用，替代人类"
+        },
+        {
+            "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款"
+        },
+        {
+            "title": "8点1氪丨贾跃亭又融资4.77亿元；巨力索具旗下十余家企业已注销；超越茅台，A股“新股王”诞生",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "今日热点导览\n  \n   瑞幸咖啡正式上线两款含酒精的特调饮品\n   京张高铁试点推出“自行车随身行”服务\n   马斯克：计划今年进行首例用于治疗失明的Neuralink植入手术\n   韩国法院要求三星电子罢工行动不得影响产量\n   多家理"
+        },
+        {
+            "title": "氪星晚报 ｜百度：一季度营收321亿元，AI业务收入136亿元；马斯克预计今年美国将广泛使用自动驾驶汽车；巨力索具旗下十余家企业已注销",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "大公司：\n  索辰科技：物理AI业务目前尚处于布局初期\n  36氪获悉，索辰科技公告，公司股票于2026年5月14日至5月18日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司近期实施的募投项目“物理合成数据"
+        },
+        {
+            "title": "番茄小说正推动 AI 动漫上院线，开放头部IP改编权限｜36氪独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者｜兰杰 李晓霞\n  编辑｜乔芊\n  36氪独家获悉，据多位接近字节跳动人士消息，字节旗下的番茄小说正在推动AI动漫上院线。在这一过程中，会开放番茄小说平台头部IP的改编权限。\n  之于番茄小说，如何更好地挖掘平台上好IP的潜力和商业价值"
+        },
+        {
+            "title": "科氪 | 性能极限与跨界尝试：红魔11S Pro系列深度体验",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "在智能手机行业普遍面临镜头模组日益凸出、机身内部堆叠空间受限的背景下，电竞旗舰由于其对散热和功耗的极端要求，往往表现出更为激进的工业设计。作为新一代的性能导向型产品，红魔11S Pro系列通过软硬件的垂直堆叠，试图在移动终端上探索更进一步的"
+        },
+        {
+            "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：\n  朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？\n  AI创业、AI融资如火如荼，属于我的机会又在哪里？\n  别人已经在用AI做视"
         }
     ]
 }
