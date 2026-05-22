@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-21 11:57:05
+ * 生成时间: 2026-05-22 10:38:17
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-            "summary": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布",
-            "source": "VentureBeat AI",
+            "tag": "头条 · 大模型",
+            "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+            "summary": "最大提升体现在指令遵循能力上",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+            "url": "https://www.qbitai.com/2026/05/422068.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "圆桌会议：马斯克诉奥特曼审判内部",
-            "summary": "听听会议或观看下面的视频。埃隆·马斯克 (Elon Musk) 在对 OpenAI 的诉讼中败诉，他在诉讼中声称首席执行官萨姆·奥尔特曼 (Sam Altman) 和总裁格雷格·布罗克曼 (Greg ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+            "summary": "125页“令人恐惧”的推演",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+            "url": "https://www.qbitai.com/2026/05/422032.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "了解现代网络犯罪格局",
-            "summary": "2025 年全年，慧与观察到网络犯罪分子的运作方式发生了重大变化。通过分析现实世界的威胁，我们的 HPE 威胁实验室在其新的《野外报告》中强调了网络犯罪分子方法的工业化，从而使他们的活动规模、速度和结",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+            "summary": "AI会放大“自嗨”，解药只有交付结果",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
+            "url": "https://www.qbitai.com/2026/05/422001.html"
         },
         {
             "tag": "独家 · 研究",
-            "title": "下载：马斯克诉奥特曼、战争智能眼镜和 Google I/O",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么埃隆·马斯克 (Elon Musk) 输掉了对 OpenAI 的诉讼。 埃隆·马斯克 (Elon Musk",
+            "title": "气候技术公司正在转向关键矿物",
+            "summary": "美国特朗普第二届政府已经上任一年多了，对气候事业的支持很弱。但气候技术公司正在寻找在这种新环境中生存甚至繁荣的方法，包括关注脱碳之外的潜在好处。突然间，感觉好像每家气候科技公司都有一个故事——",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
+            "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/"
         }
     ],
     "quickNews": [
         {
-            "time": "11:57",
-            "text": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "time": "10:38",
+            "text": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
             "hot": true,
-            "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+            "url": "https://www.qbitai.com/2026/05/422068.html"
         },
         {
-            "time": "11:57",
-            "text": "圆桌会议：马斯克诉奥特曼审判内部",
+            "time": "10:38",
+            "text": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+            "url": "https://www.qbitai.com/2026/05/422032.html"
         },
         {
-            "time": "11:57",
-            "text": "了解现代网络犯罪格局",
+            "time": "10:38",
+            "text": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
+            "url": "https://www.qbitai.com/2026/05/422001.html"
         },
         {
-            "time": "11:57",
-            "text": "下载：马斯克诉奥特曼、战争智能眼镜和 Google I/O",
+            "time": "10:38",
+            "text": "气候技术公司正在转向关键矿物",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
+            "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/"
         },
         {
-            "time": "11:57",
-            "text": "Colossal Biosciences 正在 3D 打印的人造蛋壳中培育鸡",
+            "time": "10:38",
+            "text": "科技研究人员就网络安全的未来起诉特朗普政府",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
+            "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/"
         },
         {
-            "time": "11:57",
-            "text": "诈骗者滥用内部 Microsoft 帐户发送垃圾邮件链接",
+            "time": "10:38",
+            "text": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/"
+            "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
         },
         {
-            "time": "11:57",
-            "text": "美容预订初创公司 Fresha 在 KKR 的支持下估值达到 10 亿美元",
+            "time": "10:38",
+            "text": "下载：全人造鸡蛋以及马斯克失败的原因",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
+            "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
         },
         {
-            "time": "11:57",
-            "text": "Imperagen 筹集了 500 万英镑，将量子物理和人工智能应用于酶工程",
+            "time": "10:38",
+            "text": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/"
+            "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "source": "VentureBeat AI",
+                    "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/422068.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都..."
+                    "desc": "最大提升体现在指令遵循能力上..."
                 },
                 {
-                    "title": "诈骗者滥用内部 Microsoft 帐户发送垃圾邮件链接",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/"
+                    "url": "https://www.qbitai.com/2026/05/422032.html"
                 },
                 {
-                    "title": "美容预订初创公司 Fresha 在 KKR 的支持下估值达到 10 亿美元",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/422001.html"
                 },
                 {
-                    "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
-                    "source": "量子位",
-                    "time": "7小时前",
+                    "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/420918.html"
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
                 },
                 {
-                    "title": "General Catalyst 刚刚领投印度旅游支付市场 6300 万美元",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+                    "source": "量子位",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/"
+                    "url": "https://www.qbitai.com/2026/05/422127.html"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】扩散教师的期望方差减少",
-                    "desc": "预训练的扩散模型充当冻结教师，为下游管道（例如文本转 3D、单步蒸馏和数据归因）提供支持。这些管道消耗的教师梯度是对噪声水平和高斯噪声样本的蒙特卡罗（MC）期望；他们的估计方差主导着计算成本，因为每次绘制都需要昂贵的上游工作（渲染、模拟、编码）。我们介绍 CARV，一种计算感知的方差会计框架，可激发...",
+                    "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
+                    "desc": "在周二的 Google I/O 主题演讲中，Google DeepMind 首席执行官 Demis Hassabis 宣称我们目前“正站在奇点的山麓”。这是一个引人注目的说法——奇点是人工智能迅速超越人类智能并极大改变世界的理论上的未来时刻。但当我听到的时候，令我震惊的是……...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "17小时前",
+                    "source": "MIT Tech Review",
+                    "time": "刚刚",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21489v1"
+                    "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
                 },
                 {
-                    "title": "【arXiv】Uni-Edit：智能编辑是统一模型调优的通用任务",
-                    "desc": "目前，增强统一多模态模型（UMM）的图像理解、生成和编辑能力主要依赖于混合多任务训练。由于固有的任务冲突，这种策略需要复杂的多级管道、大量数据混合和平衡技巧，仅仅导致性能权衡，而不是真正的相互增强。为了打破这种范式，我们提出了 Uni-Edit，这是一种智能图像编辑任务，作为 UMM tu 的第一个...",
+                    "title": "增强版游戏与 2026 年其余的长寿氛围非常契合",
+                    "desc": "本周日，42 名运动员将齐聚拉斯维加斯，参加一场不同寻常的体育比赛。首届增强型运动会的参赛者被鼓励服用提高成绩的药物。目标是“突破人类表现的界限”。奥运会组织者表示，参赛者只会服用符合规定的物质。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "17小时前",
+                    "source": "MIT Tech Review",
+                    "time": "1小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21487v1"
+                    "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"
                 },
                 {
-                    "title": "【arXiv】量化超参数传递和嵌入层学习率的重要性",
-                    "desc": "超参数传输允许从小规模到大规模推断最佳优化超参数，这对于训练大型语言模型 (LLM) 至关重要。这是通过将缩放法则拟合到超参数或通过明智地选择参数化来完成的，例如最大更新（$μ$P），它使最佳超参数近似缩放不变。在本文中，我们首先开发一个框架，通过三个指标来量化超参数传输：（1）质量...",
+                    "title": "圆桌会议：人工智能能否学会理解世界？",
+                    "desc": "收听会议或观看以下内容 人工智能公司希望构建能够理解外部世界并克服法学硕士局限性的系统。最近的发展使世界模型成为人工智能讨论的前沿。观看与主编 Mat Honan、高级 AI 编辑 Will Douglas Heaven 和 AI 记者的对话...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "17小时前",
+                    "source": "MIT Tech Review",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21486v1"
+                    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
                 },
                 {
-                    "title": "【arXiv】通过定点迭代的离散扩散图像生成器的一步蒸馏",
-                    "desc": "离散扩散模型擅长视觉合成，但依赖于缓慢的迭代解码。现有的单步蒸馏方法试图绕过这个瓶颈，要么通过训练有效地加倍计算的辅助评分网络，要么通过引入专门的参数化和分段优化的多级管道。在本文中，我们介绍了定点蒸馏（FPD），这是一种端到端框架，通过部分破坏s来构建局部校正目标...",
+                    "title": "人工智能时代的创造力扩展",
+                    "desc": "讲故事是人类 DNA 的核心，源于我们表达理想、警告、希望和经历的冲动。技术始终通过媒介和传播方式交织在一起：从早期人类到现代。洞穴壁画中天然颜料和木炭的创新，通过相机进行文字再现。在我们的领导下，讲故事的格局继续发生变化。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "17小时前",
+                    "source": "MIT Tech Review",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21484v1"
-                },
-                {
-                    "title": "【arXiv】DeepWeb-Bench：需要大量跨源证据和长期推导的深度研究基准",
-                    "desc": "深度研究是前沿语言模型的一个突出用例，其中代理搜索开放网络、收集证据并通过扩展推理得出答案。前沿深度研究产品在现有基准上得分很高，因此很难仅从当前的评估数据中区分出它们的能力。我们引入 DeepWeb-Bench，这是一个深度研究基准，比当前前沿的现有基准要难得多。困难来自三个方面...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "17小时前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21482v1"
-                },
-                {
-                    "title": "【arXiv】AiraXiv：面向人类和人工智能科学家的人工智能驱动的开放访问平台",
-                    "desc": "人工智能 (AI) 的最新进展加速了人类撰写和人工智能生成的研究成果的增长，给传统学术出版系统带来了越来越大的压力，并在提交量、审稿人工作量和场地规模不断增加的情况下挑战了以会议和期刊为中心的范式的可扩展性。为了应对这些挑战，我们探索了人工智能时代的出版范式，其中人类和人工智能科学家都作为作者和读者...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "17小时前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.21481v1"
+                    "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
                 }
             ]
         },
@@ -274,73 +252,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Imperagen 筹集了 500 万英镑，将量子物理和人工智能应用于酶工程",
-                    "time": "7小时前",
+                    "title": "39万！雷军发布小米最贵SUV",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/"
+                    "url": "https://www.qbitai.com/2026/05/422088.html"
                 },
                 {
                     "rank": 2,
-                    "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
+                    "title": "芬兰手机制造商 HMD 将印度人工智能聊天机器人捆绑到新智能手机上，以进军当地市场",
+                    "time": "3小时前",
                     "emoji": "💡",
-                    "url": "https://36kr.com/p/3818927367046018?f=rss"
+                    "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/"
                 },
                 {
                     "rank": 3,
-                    "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
-                    "time": "2026-05-21",
+                    "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
+                    "time": "2026-05-22",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3818915823764610?f=rss"
+                    "url": "https://36kr.com/p/3817022407181188?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
-                    "emoji": "🔍",
-                    "url": "https://36kr.com/p/3818889074557829?f=rss"
-                },
-                {
-                    "rank": 5,
-                    "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI",
-                    "time": "2026-05-21",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3818877539091333?f=rss"
-                },
-                {
-                    "rank": 6,
-                    "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
-                    "emoji": "🎵",
-                    "url": "https://36kr.com/p/3817502775329667?f=rss"
-                },
-                {
-                    "rank": 7,
-                    "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
-                    "emoji": "📝",
-                    "url": "https://36kr.com/p/3818784445465731?f=rss"
-                },
-                {
-                    "rank": 8,
-                    "title": "9亿次点击背后，AI应用的真实江湖｜2026中国AI应用全景图谱报告",
-                    "time": "2026-05-21",
-                    "emoji": "🤖",
-                    "url": "https://36kr.com/p/3818450346738823?f=rss"
-                },
-                {
-                    "rank": 9,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "🔍",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 10,
-                    "title": "Stream3D：通过证据内存进行顺序多视图 3D 生成",
-                    "time": "18小时前",
-                    "emoji": "🌐",
-                    "url": "http://arxiv.org/abs/2605.21472v1"
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 6,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -350,73 +296,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
-                },
-                {
-                    "rank": 2,
-                    "title": "美容预订初创公司 Fresha 在 KKR 的支持下估值达到 10 亿美元",
-                    "time": "刚刚",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
-                },
-                {
-                    "rank": 3,
-                    "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
-                    "time": "22小时前",
-                    "emoji": "🏭",
                     "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
                 },
                 {
+                    "rank": 2,
+                    "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+                    "time": "3小时前",
+                    "emoji": "💰",
+                    "url": "https://www.qbitai.com/2026/05/422624.html"
+                },
+                {
+                    "rank": 3,
+                    "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+                    "time": "3小时前",
+                    "emoji": "🏭",
+                    "url": "https://www.qbitai.com/2026/05/422615.html"
+                },
+                {
                     "rank": 4,
-                    "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2天前",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3818903062004870?f=rss"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 5,
-                    "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
+                    "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
+                    "time": "2026-05-22",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3818800487679111?f=rss"
+                    "url": "https://36kr.com/p/3820318177841541?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-21",
+                    "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+                    "time": "2026-05-22",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3818651789182080?f=rss"
+                    "url": "https://36kr.com/p/3820298219425924?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "让好项目，更早被看见",
+                    "time": "2026-05-22",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3820226045104257?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "能落地的请留下，讲故事的请离场",
+                    "time": "2026-05-22",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://36kr.com/p/3820169156890759?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "Clated 希望消除短视频传播过程中的猜测",
-                    "time": "13小时前",
+                    "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
+                    "time": "2026-05-22",
                     "emoji": "📰",
-                    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/"
+                    "url": "https://36kr.com/p/3820150778531972?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "xAI 去年烧掉了 6.4B 美元——SpaceX 的 IPO 文件显示了支出远未结束的原因",
-                    "time": "13小时前",
+                    "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
+                    "time": "2026-05-22",
                     "emoji": "🏢",
-                    "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/"
+                    "url": "https://36kr.com/p/3820143885455751?f=rss"
                 }
             ]
         },
@@ -462,7 +408,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,227",
+                    "stars": "+445,278",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -471,53 +417,53 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+373,679",
+                    "stars": "+373,869",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+294,243",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+355,237",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
+                    "name": "vinta/awesome-python",
+                    "desc": "Python 框架、库、工具和资源的固定列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+298,977",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 5,
                     "name": "facebook/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,157",
+                    "stars": "+245,182",
                     "url": "https://github.com/facebook/react"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+233,941",
+                    "stars": "+234,030",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 6,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "所有算法均用Python实现",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+221,276",
-                    "url": "https://github.com/TheAlgorithms/Python"
-                },
-                {
                     "rank": 7,
-                    "name": "trekhleb/javascript-algorithms",
-                    "desc": "📝 用 Ja​​vaScript 实现的算法和数据结构，并附有解释和进一步阅读的链接",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+195,981",
-                    "url": "https://github.com/trekhleb/javascript-algorithms"
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+202,325",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
@@ -525,7 +471,7 @@ var siteData = {
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,214",
+                    "stars": "+195,230",
                     "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
@@ -535,72 +481,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
             "heat": "120.0万热度",
-            "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+            "url": "https://www.qbitai.com/2026/05/422068.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "圆桌会议：马斯克诉奥特曼审判内部",
+            "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+            "url": "https://www.qbitai.com/2026/05/422032.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "了解现代网络犯罪格局",
+            "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
+            "url": "https://www.qbitai.com/2026/05/422001.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "下载：马斯克诉奥特曼、战争智能眼镜和 Google I/O",
+            "title": "气候技术公司正在转向关键矿物",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
+            "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Colossal Biosciences 正在 3D 打印的人造蛋壳中培育鸡",
+            "title": "科技研究人员就网络安全的未来起诉特朗普政府",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
+            "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "诈骗者滥用内部 Microsoft 帐户发送垃圾邮件链接",
+            "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/"
+            "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "美容预订初创公司 Fresha 在 KKR 的支持下估值达到 10 亿美元",
+            "title": "下载：全人造鸡蛋以及马斯克失败的原因",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/"
+            "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Imperagen 筹集了 500 万英镑，将量子物理和人工智能应用于酶工程",
+            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/"
+            "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+            "title": "39万！雷军发布小米最贵SUV",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/420918.html"
+            "url": "https://www.qbitai.com/2026/05/422088.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "General Catalyst 刚刚领投印度旅游支付市场 6300 万美元",
+            "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/"
+            "url": "https://www.qbitai.com/2026/05/422127.html"
         }
     ],
     "aiTools": [
@@ -651,51 +597,39 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "模型",
+            "text": "Claude",
             "size": "large"
+        },
+        {
+            "text": "Code",
+            "size": "medium"
         },
         {
             "text": "Partner",
             "size": "medium"
         },
         {
-            "text": "人工智能",
-            "size": "medium"
-        },
-        {
-            "text": "Claude",
-            "size": "medium"
-        },
-        {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
-            "text": "Code",
-            "size": "small"
-        },
-        {
             "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "人工智能",
             "size": "small"
         },
         {
-            "text": "大会",
+            "text": "SpaceX",
             "size": "small"
         },
         {
-            "text": "代理",
+            "text": "Google",
             "size": "small"
         },
         {
-            "text": "Elon",
+            "text": "模型",
             "size": "small"
         },
         {
-            "text": "Musk",
-            "size": "small"
-        },
-        {
-            "text": "Ventures",
+            "text": "智能",
             "size": "small"
         },
         {
@@ -703,95 +637,23 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "LLM",
+            "text": "Waymo",
+            "size": "small"
+        },
+        {
+            "text": "大会",
+            "size": "small"
+        },
+        {
+            "text": "场景",
+            "size": "small"
+        },
+        {
+            "text": "Ventures",
             "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
-        },
-        {
-            "title": "圆桌会议：马斯克诉奥特曼审判内部",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "听听会议或观看下面的视频。埃隆·马斯克 (Elon Musk) 在对 OpenAI 的诉讼中败诉，他在诉讼中声称首席执行官萨姆·奥尔特曼 (Sam Altman) 和总裁格雷格·布罗克曼 (Greg Brockman) 在公司的非营利地位问"
-        },
-        {
-            "title": "了解现代网络犯罪格局",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "2025 年全年，慧与观察到网络犯罪分子的运作方式发生了重大变化。通过分析现实世界的威胁，我们的 HPE 威胁实验室在其新的《野外报告》中强调了网络犯罪分子方法的工业化，从而使他们的活动规模、速度和结构都变得更大。他们通常使用自动化和人工智"
-        },
-        {
-            "title": "下载：马斯克诉奥特曼、战争智能眼镜和 Google I/O",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么埃隆·马斯克 (Elon Musk) 输掉了对 OpenAI 的诉讼。 埃隆·马斯克 (Elon Musk) 输掉了对 OpenAI 的诉讼，该诉"
-        },
-        {
-            "title": "Colossal Biosciences 正在 3D 打印的人造蛋壳中培育鸡",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "小鸡们开始移动并开始破壳——或者说试图孵化。但不是来自鸡蛋。&#160;相反，这些鸡生长在 Colossal Biosciences 达拉斯总部的透明 3D 打印塑料杯内。这家生物技术公司今天声称，它已经开发出一种“完全人造蛋”，作为复活灭"
-        },
-        {
-            "title": "诈骗者滥用内部 Microsoft 帐户发送垃圾邮件链接",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该漏洞允许垃圾邮件发送者和诈骗者从通常用于发送真实帐户警报的合法 Microsoft 电子邮件地址发送电子邮件。"
-        },
-        {
-            "title": "美容预订初创公司 Fresha 在 KKR 的支持下估值达到 10 亿美元",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "美容和健康预订市场 Fresha 表示，它已从 KKR 的下一代技术增长基金（KKR 的增长股权部门）筹集了 8000 万美元的投资。"
-        },
-        {
-            "title": "Imperagen 筹集了 500 万英镑，将量子物理和人工智能应用于酶工程",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "生物技术公司 Imperagen 周四宣布完成 500 万英镑（670 万美元）种子轮融资，由 PXN Ventures 领投，IQ Capital 和 Northern Gritstone 参与其中。"
-        },
-        {
-            "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "RoboChallenge榜首易主，清华系玩家加冕。"
-        },
-        {
-            "title": "General Catalyst 刚刚领投印度旅游支付市场 6300 万美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Scapia 是一家将旅行预订与联名信用卡和移动支付相结合的印度初创公司，该公司表示，此次交易使其估值翻了一番。"
-        },
-        {
-            "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "核心观点都在这了~"
-        },
-        {
-            "title": "Truecaller 进军 eSIM 业务以实现收入来源多元化",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该公司表示，其计划范围从 7 天内 1 GB 到 30 天内 20 GB 不等。最初，eSIM 产品将在 29 个国家/地区上市。"
-        },
-        {
-            "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "周日来北京线下揭秘"
-        },
-        {
-            "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "全场景数据、全链条服务助力AI大模型高效迭代"
-        },
         {
             "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
             "category": "大模型动态",
@@ -811,16 +673,10 @@ var siteData = {
             "snippet": "AI会放大“自嗨”，解药只有交付结果"
         },
         {
-            "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Qwen3.7-Max即将上线阿里云百炼对外提供API服务"
-        },
-        {
-            "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+            "title": "气候技术公司正在转向关键矿物",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "加快实现‘双碳’目标。"
+            "snippet": "美国特朗普第二届政府已经上任一年多了，对气候事业的支持很弱。但气候技术公司正在寻找在这种新环境中生存甚至繁荣的方法，包括关注脱碳之外的潜在好处。突然间，感觉好像每家气候科技公司都有一个故事——"
         },
         {
             "title": "科技研究人员就网络安全的未来起诉特朗普政府",
@@ -829,16 +685,10 @@ var siteData = {
             "snippet": "自上任伊始，特朗普政府就一直在追捕研究并试图反击网上仇恨言论、骚扰、宣传和虚假信息的研究人员。现在，其中一些研究人员正在反击。上周，他们的诉讼首次出现在法庭上，这可能会对网络安全和言论自由产生全球影响。"
         },
         {
-            "title": "这就是埃隆·马斯克 (Elon Musk) 败诉 OpenAI 的原因",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "周一，马斯克诉奥特曼一案的陪审团对埃隆·马斯克造成了重大打击，一致做出咨询裁决，认为他起诉 OpenAI 的时间太晚了，因此，他的主张受到适用时效法规的限制。美国地区法官伊冯·冈萨雷斯·罗杰斯立即接受了这一决定。马斯克在 X 上宣布，他将"
-        },
-        {
-            "title": "本周对谷歌有什么期待",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。当谷歌明天开幕其年度开发者大会 I/O 时，它将在基础模型竞赛中以明显的第三名的身份出现。一年前，在 Google I/O 大会上"
+            "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。该公司主要因其在清洁钢铁生产方面所做的努力而闻名，该行业的温室气体排放量约占当今全球温室气体排放量的 8%。有了额外的资金，新"
         },
         {
             "title": "下载：全人造鸡蛋以及马斯克失败的原因",
@@ -847,46 +697,142 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Colossal Biosciences 正在 3D 打印的人造蛋壳中培育鸡，小鸡正在移动并开始破壳，或者试图孵化。但不是来自鸡蛋。相反，这些鸡是……"
         },
         {
-            "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
+            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在周二的 Google I/O 主题演讲中，Google DeepMind 首席执行官 Demis Hassabis 宣称我们目前“正站在奇点的山麓”。这是一个引人注目的说法——奇点是人工智能迅速超越人类智能并极大改变世界的理论上的未来时刻"
+        },
+        {
+            "title": "39万！雷军发布小米最贵SUV",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "特斯拉前厂长宋钢加盟后首秀"
+        },
+        {
+            "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "调整后净利润同比增长42.1%"
+        },
+        {
+            "title": "顶流里最快！智谱，你是在「喷」代码吧",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "400 个令牌/秒"
+        },
+        {
+            "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "提效数十倍，Token消耗直降70%"
+        },
+        {
+            "title": "芬兰手机制造商 HMD 将印度人工智能聊天机器人捆绑到新智能手机上，以进军当地市场",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "HMD 正在预加载 Sarvam 的 Indus 聊天机器人应用程序，该应用程序支持 22 种印度语言"
+        },
+        {
+            "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。该公司主要因其在清洁钢铁生产方面所做的努力而闻名，该行业的温室气体排放量约占当今全球温室气体排放量的 8%。有了额外的资金，新"
+            "snippet": "DeepSeek 代码即将推出"
         },
         {
-            "title": "新石器New Claw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。\n  \n  新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——"
-        },
-        {
-            "title": "业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。\n  观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.7"
-        },
-        {
-            "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+            "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能"
+            "snippet": "一个AI统一入口，搞定所有"
         },
         {
-            "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。\n  \n  具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实"
+            "title": "李飞飞再出手，空间智能的ImageNet来了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一个专门用来评测具身空间智能的新基准"
         },
         {
-            "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，"
-        },
-        {
-            "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
+            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。当99%的人还在用AI写文案、做设计时，有人把它扔进了鱼塘，只为解决一个最朴素的问题：不确定性。\n  \n  鲁敏用18年IT男转型“新农民”的经历，揭开了水"
+            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
+        },
+        {
+            "title": "下载：在线安全的未来和气候技术的重要支点",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。科技研究人员就网络安全的未来起诉特朗普政府几个月来，特朗普政府一直在追捕研究并试图反击仇恨言论的研究人员，“"
+        },
+        {
+            "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕，与 Google 在帕洛阿尔托举行的 I/O 大会同一天，Code with Claude 现场气氛热烈。 （Anth"
+        },
+        {
+            "title": "AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。\n  \n  AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加"
+        },
+        {
+            "title": "江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。\n  \n  江行智能提出工业物理AI的三层模型，这套"
+        },
+        {
+            "title": "小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。\n  YU7是小米于2025年6月推出的首款SUV，上市"
+        },
+        {
+            "title": "让智能体看见世界：CV × AI Agent 的行业场景新实践| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让智能体“看见”世界，不是给它装上摄像头那么简单。当CV遇上AI Agent，乘数效应正在发生。AI Agent不等于Chatbot，真正的价值在于静默看护与自主决策。\n  \n  AI进入产业腹地仍面临两大鸿沟：视觉认知与行业的理解。为此，"
+        },
+        {
+            "title": "让好项目，更早被看见",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "提交报道链接：https://36kr.com/seek-report-new?t=1779418211266\n  \n  36氪AI寻求报道\n  很多项目第一次被行业真正看见，往往已经不是它最需要被看见的时候。\n  那时候，它可能已经拿了融"
+        },
+        {
+            "title": "能落地的请留下，讲故事的请离场",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "让合作当场发生！\n  \n  2026年的AI行业，正在经历一次价值体系的深层重构。过去两年，聚光灯始终偏向技术侧——参数、算力、榜单排名。但今天，话语权正在向产业方转移：那些拥有真实需求、真实场景、真实业务压力的企业，开始掌握定义权。产业界"
+        },
+        {
+            "title": "圆桌对话：看见实效：从技术到处方，AI +医疗的场景落地与价值闭环| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "从五年前的技术炫技到今天的临床刚需，AI+医疗终于走过了“证明我能”的喧嚣，进入“解决痛点”的深水区。不做替代医生的空想，只做减轻负担的助手——这场对话告诉我们，AI医疗落地的第一步不是说服院长，而是赢得科室主任的信任；关键不是单点突破，而"
+        },
+        {
+            "title": "以场景为锚，以AI为翼：大健康产业的实践与突破| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "当大健康产业遇上AI，最大的难题不是技术够不够强，而是场景够不够深、信任够不够厚。百度健康用六年时间给出了自己的答案：从单点智能走向全局协同，从技术赋能走向价值创造。\n  中国慢病人群超5亿，每千人执业医生数却远低于发达国家——供需矛盾之下"
+        },
+        {
+            "title": "算力浪潮下，AI智能影像的无线化变革| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "神眸做的事情不是追逐英伟达，而是在算力浪潮的下游，用极致的低功耗芯片设计，让摄像头摆脱电线的束缚，打开一个千亿只智能视觉终端的未来。\n  \n  杨作兴带领神眸实现了摄像头功耗降低一个数量级的突破——第一代芯片达业界三分之一功耗，第二代达十分"
+        },
+        {
+            "title": "AI+数字资产：激活企业沉睡数据，释放商业价值| 2026AI Partner·北京亦庄AI+产业大会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "当AI开始帮投资机构“面试”企业、帮合作伙伴“背调”公司时，你的数据还在沉睡吗？艾迪普用22年经验告诉我们：AI时代的第一场战役，是数据治理战。\n  现在投资方、银行甚至客户都在用AI智能体“打听”你的企业——如果你的数据没有被主动整理、标"
+        },
+        {
+            "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "总部位于旧金山的云平台 Railway 在没有花费一美元营销费用的情况下悄悄聚集了 200 万开发人员。该平台周四宣布，由于人工智能应用程序需求的激增暴露了传统云基础设施的局限性，该平台在 B 轮融资中筹集了 1 亿美元。TQ Ventur"
         }
     ]
 }
