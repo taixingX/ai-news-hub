@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-23 07:59:35
+ * 生成时间: 2026-05-24 09:10:07
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-            "summary": "DeepSeek 代码即将推出",
-            "source": "量子位",
+            "tag": "头条 · 大模型",
+            "title": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
+            "summary": "Peec 帮助品牌跟踪其在人工智能搜索中的表现，它提供了欧洲初创公司的一个关键趋势的证据。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/05/422624.html"
+            "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-            "summary": "一个AI统一入口，搞定所有",
-            "source": "量子位",
+            "tag": "头条 · 大模型",
+            "title": "人工智能被用来复活死去飞行员的声音",
+            "summary": "人们在驾驶舱记录的频谱图图像上使用人工智能来重建它们，迫使 NTSB 暂时阻止对其记录系统的访问。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/05/422615.html"
+            "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "顶流里最快！智谱，你是在「喷」代码吧",
-            "summary": "400 个令牌/秒",
-            "source": "量子位",
+            "title": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
+            "summary": "该公司升级后的 Starship V3 的首次发射基本成功，该公司需要它来推动其未来几年的许多雄心勃勃的目标。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/05/422511.html"
+            "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-            "summary": "提效数十倍，Token消耗直降70%",
-            "source": "量子位",
+            "title": "蓝色起源公司在四月事故后获准发射新格伦巨型火箭",
+            "summary": "杰夫·贝索斯 (Jeff Bezos) 的火箭公司证实上个月一颗 AST SpaceMobile 卫星因发动机故障而丢失，但没有提供任何细节。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/05/422455.html"
+            "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/"
         }
     ],
     "quickNews": [
         {
-            "time": "07:59",
-            "text": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+            "time": "09:10",
+            "text": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/05/422624.html"
+            "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
         },
         {
-            "time": "07:59",
-            "text": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+            "time": "09:10",
+            "text": "人工智能被用来复活死去飞行员的声音",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422615.html"
+            "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
         },
         {
-            "time": "07:59",
-            "text": "顶流里最快！智谱，你是在「喷」代码吧",
+            "time": "09:10",
+            "text": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422511.html"
+            "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/"
         },
         {
-            "time": "07:59",
-            "text": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+            "time": "09:10",
+            "text": "蓝色起源公司在四月事故后获准发射新格伦巨型火箭",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422455.html"
+            "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/"
         },
         {
-            "time": "07:59",
-            "text": "39万！雷军发布小米最贵SUV",
+            "time": "09:10",
+            "text": "谷歌喜欢带有迪斯科舞会图标的闪光：“你们确定还想要这个吗？”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422088.html"
+            "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
         },
         {
-            "time": "07:59",
-            "text": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+            "time": "09:10",
+            "text": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422127.html"
+            "url": "https://www.qbitai.com/2026/05/423159.html"
         },
         {
-            "time": "07:59",
-            "text": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+            "time": "09:10",
+            "text": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/422068.html"
+            "url": "https://www.qbitai.com/2026/05/422811.html"
         },
         {
-            "time": "07:59",
-            "text": "圆桌会议：人工智能能否学会理解世界？",
+            "time": "09:10",
+            "text": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
+            "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
-                    "source": "量子位",
+                    "title": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/05/422624.html",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "DeepSeek 代码即将推出..."
+                    "desc": "Peec 帮助品牌跟踪其在人工智能搜索中的表现，它提供了欧洲初创公司的一个关键趋势的证据。..."
                 },
                 {
-                    "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-                    "source": "量子位",
+                    "title": "人工智能被用来复活死去飞行员的声音",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/05/422615.html"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
                 },
                 {
-                    "title": "顶流里最快！智谱，你是在「喷」代码吧",
-                    "source": "量子位",
+                    "title": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/422511.html"
+                    "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/"
                 },
                 {
-                    "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-                    "source": "量子位",
+                    "title": "蓝色起源公司在四月事故后获准发射新格伦巨型火箭",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/422455.html"
+                    "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/"
                 },
                 {
-                    "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
-                    "source": "量子位",
+                    "title": "谷歌喜欢带有迪斯科舞会图标的闪光：“你们确定还想要这个吗？”",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/422127.html"
+                    "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22821v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22823v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22819v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22818v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22817v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2605.22816v1"
@@ -274,52 +274,43 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "39万！雷军发布小米最贵SUV",
-                    "time": "昨天",
-                    "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/05/422088.html"
-                },
-                {
-                    "rank": 2,
                     "title": "MOSS：自主代理系统中通过源代码级重写进行自我进化",
-                    "time": "昨天",
-                    "emoji": "💡",
+                    "time": "2天前",
+                    "emoji": "🔥",
                     "url": "http://arxiv.org/abs/2605.22794v1"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
                     "time": "2026-05-23",
-                    "emoji": "🎬",
+                    "emoji": "💡",
                     "url": "https://36kr.com/p/3821542483857801?f=rss"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "title": "9点1氪丨永辉超市向王健林等追债超36亿元；《柳叶刀》：全球近12亿人有精神障碍；微信回应“只能撤回2分钟内消息”",
                     "time": "2026-05-23",
-                    "emoji": "🔍",
+                    "emoji": "🎬",
                     "url": "https://36kr.com/p/3821177784881541?f=rss"
                 },
                 {
-                    "rank": 5,
-                    "title": "氪星晚报｜优步与印度JSW集团达成协议，合作在印度开发及部署电动汽车；英伟达、AMD、英特尔参投，AI初创公司Hark完成7亿美元融资；神舟",
-                    "time": "2026-05-22",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3816943010071427?f=rss"
-                },
-                {
-                    "rank": 6,
+                    "rank": 4,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "🎵",
+                    "emoji": "🔍",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 7,
-                    "title": "Spotify 的人工智能赌注：更多的是一切，更少的是你想要的",
-                    "time": "15小时前",
-                    "emoji": "📝",
-                    "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/"
+                    "rank": 5,
+                    "title": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
+                    "time": "17小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/"
+                },
+                {
+                    "rank": 6,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -329,73 +320,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+                    "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/05/422624.html"
-                },
-                {
-                    "rank": 2,
-                    "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-                    "time": "昨天",
-                    "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/05/422615.html"
-                },
-                {
-                    "rank": 3,
-                    "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
-                    "time": "5小时前",
-                    "emoji": "🏭",
                     "url": "https://www.qbitai.com/2026/05/423159.html"
                 },
                 {
-                    "rank": 4,
+                    "rank": 2,
                     "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "3天前",
-                    "emoji": "🌏",
+                    "time": "4天前",
+                    "emoji": "💰",
                     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
-                    "time": "2天前",
-                    "emoji": "📉",
+                    "time": "3天前",
+                    "emoji": "🏭",
                     "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
                 },
                 {
+                    "rank": 4,
+                    "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+                    "time": "2小时前",
+                    "emoji": "🌏",
+                    "url": "https://www.qbitai.com/2026/05/423382.html"
+                },
+                {
+                    "rank": 5,
+                    "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+                    "time": "2天前",
+                    "emoji": "📉",
+                    "url": "https://www.qbitai.com/2026/05/422624.html"
+                },
+                {
                     "rank": 6,
-                    "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-23",
+                    "title": "对话VITURE姜公略：什么才是XR眼镜该有的样子？",
+                    "time": "2026-05-24",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3821533415985283?f=rss"
+                    "url": "https://36kr.com/p/3823013049045380?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+                    "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
                     "time": "2026-05-23",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3821519307591811?f=rss"
+                    "url": "https://36kr.com/p/3821533415985283?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+                    "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
                     "time": "2026-05-23",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3821371042877575?f=rss"
+                    "url": "https://36kr.com/p/3821519307591811?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+                    "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
                     "time": "2026-05-23",
                     "emoji": "📰",
-                    "url": "https://36kr.com/p/3819979202253189?f=rss"
+                    "url": "https://36kr.com/p/3821371042877575?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "千禧年流行的老式漂亮饭，居然翻红了",
+                    "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
                     "time": "2026-05-23",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3821213026570627?f=rss"
+                    "url": "https://36kr.com/p/3819979202253189?f=rss"
                 }
             ]
         },
@@ -441,7 +432,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,311",
+                    "stars": "+445,359",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -450,26 +441,26 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+374,057",
+                    "stars": "+374,265",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+355,285",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 4,
                     "name": "vinta/awesome-python",
                     "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+299,124",
+                    "stars": "+299,311",
                     "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+294,893",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 5,
@@ -477,7 +468,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,189",
+                    "stars": "+245,229",
                     "url": "https://github.com/facebook/react"
                 },
                 {
@@ -486,17 +477,17 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+234,115",
+                    "stars": "+234,243",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 7,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "所有算法均用Python实现",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+221,322",
-                    "url": "https://github.com/TheAlgorithms/Python"
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+204,339",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
@@ -504,7 +495,7 @@ var siteData = {
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,236",
+                    "stars": "+195,253",
                     "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
@@ -514,72 +505,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+            "title": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/05/422624.html"
+            "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+            "title": "人工智能被用来复活死去飞行员的声音",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/05/422615.html"
+            "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "顶流里最快！智谱，你是在「喷」代码吧",
+            "title": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/05/422511.html"
+            "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+            "title": "蓝色起源公司在四月事故后获准发射新格伦巨型火箭",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/422455.html"
+            "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "39万！雷军发布小米最贵SUV",
+            "title": "谷歌喜欢带有迪斯科舞会图标的闪光：“你们确定还想要这个吗？”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/422088.html"
+            "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
+            "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/422127.html"
+            "url": "https://www.qbitai.com/2026/05/423159.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+            "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/422068.html"
+            "url": "https://www.qbitai.com/2026/05/422811.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "圆桌会议：人工智能能否学会理解世界？",
+            "title": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
+            "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "人工智能时代的创造力扩展",
+            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
+            "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
+            "title": "什么！你说胡彦斌也在苦修Vibe Coding",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+            "url": "https://www.qbitai.com/2026/05/423213.html"
         }
     ],
     "aiTools": [
@@ -642,11 +633,15 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "人工智能",
+            "text": "模型",
             "size": "medium"
         },
         {
-            "text": "模型",
+            "text": "人工智能",
+            "size": "small"
+        },
+        {
+            "text": "Google",
             "size": "small"
         },
         {
@@ -658,19 +653,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Google",
-            "size": "small"
-        },
-        {
-            "text": "视频",
-            "size": "small"
-        },
-        {
             "text": "未来",
-            "size": "small"
-        },
-        {
-            "text": "语言",
             "size": "small"
         },
         {
@@ -678,15 +661,119 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "编码",
+            "text": "视频",
             "size": "small"
         },
         {
-            "text": "企业",
+            "text": "对话",
+            "size": "small"
+        },
+        {
+            "text": "语言",
+            "size": "small"
+        },
+        {
+            "text": "编码",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Peec 帮助品牌跟踪其在人工智能搜索中的表现，它提供了欧洲初创公司的一个关键趋势的证据。"
+        },
+        {
+            "title": "人工智能被用来复活死去飞行员的声音",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "人们在驾驶舱记录的频谱图图像上使用人工智能来重建它们，迫使 NTSB 暂时阻止对其记录系统的访问。"
+        },
+        {
+            "title": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该公司升级后的 Starship V3 的首次发射基本成功，该公司需要它来推动其未来几年的许多雄心勃勃的目标。"
+        },
+        {
+            "title": "蓝色起源公司在四月事故后获准发射新格伦巨型火箭",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "杰夫·贝索斯 (Jeff Bezos) 的火箭公司证实上个月一颗 AST SpaceMobile 卫星因发动机故障而丢失，但没有提供任何细节。"
+        },
+        {
+            "title": "谷歌喜欢带有迪斯科舞会图标的闪光：“你们确定还想要这个吗？”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谷歌表示，你现在可以将整个 Pixel 主屏幕迪斯科球化。"
+        },
+        {
+            "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "不造人形机器人，死磕餐饮后厨"
+        },
+        {
+            "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "虾的下半场才刚开始"
+        },
+        {
+            "title": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 的 Code with Claude 展示了编码的未来——无论你喜欢与否在本周于伦敦举行的 Anthropic 开发者活动“Code w"
+        },
+        {
+            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在周二的 Google I/O 主题演讲中，Google DeepMind 首席执行官 Demis Hassabis 宣称我们目前“正站在奇点的山麓”。这是一个引人注目的说法——奇点是人工智能迅速超越人类智能并极大改变世界的理论上的未来时刻"
+        },
+        {
+            "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Vibe Coding还是太权威了vibe"
+        },
+        {
+            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
+        },
+        {
+            "title": "科技研究人员就网络安全的未来起诉特朗普政府",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "自上任伊始，特朗普政府就一直在追捕研究并试图反击网上仇恨言论、骚扰、宣传和虚假信息的研究人员。现在，其中一些研究人员正在反击。上周，他们的诉讼首次出现在法庭上，这可能会对网络安全和言论自由产生全球影响。"
+        },
+        {
+            "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。该公司主要因其在清洁钢铁生产方面所做的努力而闻名，该行业的温室气体排放量约占当今全球温室气体排放量的 8%。有了额外的资金，新"
+        },
+        {
+            "title": "谷歌CEO承认Coding落后了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "搜索25年来最大改版，但谷歌还不敢一脚切到AI"
+        },
+        {
+            "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力"
+        },
+        {
+            "title": "李飞飞再出手，空间智能的ImageNet来了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一个专门用来评测具身空间智能的新基准"
+        },
         {
             "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
             "category": "行业动态",
@@ -694,40 +781,10 @@ var siteData = {
             "snippet": "DeepSeek 代码即将推出"
         },
         {
-            "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "一个AI统一入口，搞定所有"
-        },
-        {
-            "title": "顶流里最快！智谱，你是在「喷」代码吧",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "400 个令牌/秒"
-        },
-        {
-            "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "提效数十倍，Token消耗直降70%"
-        },
-        {
-            "title": "39万！雷军发布小米最贵SUV",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "特斯拉前厂长宋钢加盟后首秀"
-        },
-        {
-            "title": "联想集团Q4营收利润双创新高，兑现历史最佳财年",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "调整后净利润同比增长42.1%"
-        },
-        {
-            "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "最大提升体现在指令遵循能力上"
+            "title": "增强版游戏与 2026 年其余的长寿氛围非常契合",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "本周日，42 名运动员将齐聚拉斯维加斯，参加一场不同寻常的体育比赛。首届增强型运动会的参赛者被鼓励服用提高成绩的药物。目标是“突破人类表现的界限”。奥运会组织者表示，参赛者只会服用符合规定的物质。"
         },
         {
             "title": "圆桌会议：人工智能能否学会理解世界？",
@@ -758,12 +815,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "美国特朗普第二届政府已经上任一年多了，对气候事业的支持很弱。但气候技术公司正在寻找在这种新环境中生存甚至繁荣的方法，包括关注脱碳之外的潜在好处。突然间，感觉好像每家气候科技公司都有一个故事——"
-        },
-        {
-            "title": "科技研究人员就网络安全的未来起诉特朗普政府",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "自上任伊始，特朗普政府就一直在追捕研究并试图反击网上仇恨言论、骚扰、宣传和虚假信息的研究人员。现在，其中一些研究人员正在反击。上周，他们的诉讼首次出现在法庭上，这可能会对网络安全和言论自由产生全球影响。"
         },
         {
             "title": "通过凸松弛进行标记化",
@@ -806,66 +857,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "视觉-语言-动作（VLA）模型通过统一感知和动作，显示出通用机器人操纵的巨大潜力。然而，现有的 VLA 系统主要依赖于文本指令，很难解决具有多个相似对象的复杂场景中的空间模糊性。为了解决这个限制，我们引入手势作为并行指令模态，并提出了手势感"
-        },
-        {
-            "title": "Sensor2Sensor：用于自动驾驶的跨实施例传感器转换",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "自动驾驶系统 (ADS) 的稳健训练和验证需要大量、多样化的数据集。自动驾驶车辆 (AV) 车队收集的专有数据虽然保真度很高，但在规模、传感器配置的多样性以及地理和长尾行为覆盖范围方面受到限制。相比之下，来自行车记录仪等来源的野外数据提供了"
-        },
-        {
-            "title": "匹配原理：用于鲁棒表示学习的损失函数的几何理论",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "鲁棒性、域适应、光度和遮挡不变性、组合泛化、时间鲁棒性、对齐安全性和经典各向异性正则化通常被视为具有不同方法系列的单独问题。本文认为，它们的大部分共享结构是一个统计问题：估计标签保留部署麻烦的协方差，然后沿着范围覆盖该协方差的矩阵对编码器雅"
-        },
-        {
-            "title": "保守和非保守漂移模型的有限粒子收敛率",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们提出并分析了一种用于一步生成建模的保守漂移方法。该方法用核密度估计器（KDE）梯度速度代替原来的基于位移的漂移速度，即核平滑数据得分与核平滑模型得分的差值。该速度是一个梯度场，解决了一般基于位移的漂移场所确定的非保守性问题。我们证明连续"
-        },
-        {
-            "title": "MOSS：自主代理系统中通过源代码级重写进行自我进化",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "自主代理系统在部署后基本上是静态的：它们不会从用户交互中学习，并且反复出现的故障会持续存在，直到下一个人工驱动的更新发布修复为止。作为回应，自我进化的代理应运而生，但所有进化都将进化限制在文本可变的工件上——技能文件、提示配置、内存模式、工"
-        },
-        {
-            "title": "门控 DeltaNet-2：解耦线性注意力擦除和写入",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "线性注意力用固定大小的循环状态替换了softmax注意力的无界缓存，将序列混合减少到线性时间，并将解码减少到恒定内存。困难的部分不仅仅是要忘记什么，而是如何在不打乱现有关联的情况下编辑这个压缩的记忆。 Delta 规则模型在写入新值之前减去"
-        },
-        {
-            "title": "LCGuard：用于多代理系统中安全 KV 共享的潜在通信防护",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "基于大型语言模型 (LLM) 的多智能体系统越来越依赖中间通信来协调复杂的任务。虽然大多数现有系统通过自然语言进行通信，但最近的研究表明，潜在通信，特别是通过转换器键值 (KV) 缓存，可以提高效率并保留更丰富的任务相关信息。然而，KV 缓"
-        },
-        {
-            "title": "评估商业人工智能聊天机器人作为新闻中介的作用",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "人工智能聊天机器人正在迅速改变人们接触新闻的方式，但之前没有研究系统地测量这些系统及其专有的搜索集成和检索合成管道处理跨语言和地区的新事实的准确性。我们对 6 个人工智能聊天机器人（Gemini 3 Flash 和 Pro、Grok 4、C"
-        },
-        {
-            "title": "DeltaBox：通过毫秒级沙箱检查点/回滚扩展有状态的 AI 代理",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "LLM 支持的 AI 代理需要高频状态探索（例如，测试时树搜索和强化学习），依赖于完整沙箱状态的快速检查点和回滚（C/R），包括文件和进程状态（例如内存、上下文等）。现有机制会复制整个状态，导致每个 C/R 出现数百毫秒到数秒的延迟，这严重"
-        },
-        {
-            "title": "消息人士称，柏林新兴初创公司之一 Peec 在数月内年化收入​​翻了一番多，达到 1000 万美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Peec 帮助品牌跟踪其在人工智能搜索中的表现，它提供了欧洲初创公司的一个关键趋势的证据。"
-        },
-        {
-            "title": "SpaceX 首次发射 Starship V3，但返回时失去助推器",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该公司升级后的 Starship V3 的首次发射基本成功，该公司需要它来推动其未来几年的许多雄心勃勃的目标。"
         }
     ]
 }
