@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-25 12:50:49
+ * 生成时间: 2026-05-27 12:34:12
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 万美元的资金",
-            "summary": "SolarSquare 在预计下个月完成的融资中估值可能高达 5 亿美元。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 大模型",
+            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+            "summary": "光影之间，读懂未尽之意",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/"
-        },
-        {
-            "tag": "重磅 · 应用",
-            "title": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
-            "summary": "Apple、Meta 和 Google 提供特殊的安全模式，使您的设备更安全地抵御有针对性的间谍软件攻击。以下是这些模式的工作原理、作用以及打开方式。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/"
+            "url": "https://www.qbitai.com/2026/05/425600.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-            "summary": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验。",
-            "source": "TechCrunch AI",
+            "title": "刚刚，国产AI自己造了AI，全球首例！",
+            "summary": "训练速度比英伟达Megatron快10%",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.qbitai.com/2026/05/425511.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+            "summary": "解决卡了人类56年的数学难题",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+            "url": "https://www.qbitai.com/2026/05/425455.html"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
-            "summary": "Deep Fission 正在寻求首次公开募股，筹集 1.57 亿美元资金，尽管投资者可能难以接受这家核初创公司的故事。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 大模型",
+            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+            "summary": "MTS（技术员工）@Anthropic",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/"
+            "url": "https://www.qbitai.com/2026/05/425304.html"
         }
     ],
     "quickNews": [
         {
-            "time": "12:50",
-            "text": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 万美元的资金",
+            "time": "12:34",
+            "text": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
             "hot": true,
-            "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/"
+            "url": "https://www.qbitai.com/2026/05/425600.html"
         },
         {
-            "time": "12:50",
-            "text": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
+            "time": "12:34",
+            "text": "刚刚，国产AI自己造了AI，全球首例！",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/"
+            "url": "https://www.qbitai.com/2026/05/425511.html"
         },
         {
-            "time": "12:50",
-            "text": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
+            "time": "12:34",
+            "text": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+            "url": "https://www.qbitai.com/2026/05/425455.html"
         },
         {
-            "time": "12:50",
-            "text": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
+            "time": "12:34",
+            "text": "卡帕西Anthropic最新头衔：技术员工（MTS）",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/"
+            "url": "https://www.qbitai.com/2026/05/425304.html"
         },
         {
-            "time": "12:50",
-            "text": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+            "time": "12:34",
+            "text": "下载：打破人工智能就业恐慌",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/424277.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
         },
         {
-            "time": "12:50",
-            "text": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
+            "time": "12:34",
+            "text": "对人工智能就业歇斯底里的现实检验",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/424552.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
         },
         {
-            "time": "12:50",
-            "text": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+            "time": "12:34",
+            "text": "是时候解决初级工作中迫在眉睫的危机了。",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/424551.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
         },
         {
-            "time": "12:50",
-            "text": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
+            "time": "12:34",
+            "text": "科技公司首席执行官显然患有人工智能精神病",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/424581.html"
+            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 万美元的资金",
-                    "source": "TechCrunch AI",
+                    "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/425600.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "SolarSquare 在预计下个月完成的融资中估值可能高达 5 亿美元。..."
+                    "desc": "光影之间，读懂未尽之意..."
                 },
                 {
-                    "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
-                    "source": "TechCrunch AI",
+                    "title": "刚刚，国产AI自己造了AI，全球首例！",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+                    "url": "https://www.qbitai.com/2026/05/425511.html"
                 },
                 {
-                    "title": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
-                    "source": "TechCrunch AI",
+                    "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/05/425455.html"
                 },
                 {
-                    "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+                    "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
                     "source": "量子位",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/424277.html"
+                    "url": "https://www.qbitai.com/2026/05/425304.html"
                 },
                 {
-                    "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
-                    "source": "量子位",
-                    "time": "8小时前",
+                    "title": "科技公司首席执行官显然患有人工智能精神病",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/424552.html"
+                    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】SkillOpt：自我进化座席技能的执行策略",
-                    "desc": "今天的代理技能是手工制作的、一次性生成的，或者是通过松散控制的自我修订而演变的，其中没有一个表现得像技能的深度学习优化器，也没有一个在反馈下可靠地改进了其起点。我们认为，该技能应该作为冻结代理的外部状态进行训练，并采用与权重空间优化可重复的相同规则。据我们所知，SkillOpt 是第一个系统化的可控...",
+                    "title": "【arXiv】招聘中的算法单一文化",
+                    "desc": "许多雇主使用少数算法供应商构建的算法来筛选求职者。我们假设算法单一文化会导致同一个人和同一种族群体的成员面临拒绝。我们获取并分析了一个新颖的数据集，其中包含 300 万申请人提交的 400 万份申请，其中所有申请均由同一供应商构建的算法进行筛选。我们发现申请人结果存在明显的种族差异。在亚洲和亚洲提交...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23904v1"
+                    "url": "http://arxiv.org/abs/2605.27371v1"
                 },
                 {
-                    "title": "【arXiv】Geo-Align：通过公制几何奖励进行视频生成对齐",
-                    "desc": "近年来，摄像机控制的视频生成取得了显着的进步。然而，现有的视频到视频重新渲染方法主要依赖于使用合成数据集的监督微调。目前，同步、多视图的真实世界视频数据极其缺乏。因此，在处理分布外的现实世界视频时，流行的范式通常表现出有限的泛化能力，模型很难准确地遵循物理尺度，并且...",
+                    "title": "【arXiv】G3T 起来！重力对齐坐标系简化了点图处理",
+                    "desc": "现代前馈 3D 重建方法（例如 VGGT）可预测以相机为中心的坐标系中的像素对齐点图。然而，这种坐标系的选择并不总是最佳的。相反，我们建议在直立、重力对齐的框架中预测点图，利用许多现实世界场景中存在的强大结构线索。与以相机为中心的框架不同，重力对齐框架在视点之间共享一个公共垂直轴，从而减少了关联点所...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23903v1"
+                    "url": "http://arxiv.org/abs/2605.27372v1"
                 },
                 {
-                    "title": "【arXiv】PiD：利用像素扩散进行快速、高分辨率潜在解码",
-                    "desc": "大多数实用的高分辨率文本到图像系统，包括潜在扩散和自回归模型，在紧凑的潜在空间中执行生成，并且解码器将生成的潜在空间映射回像素。然而，潜在像素解码器是面向重建的，经过优化以反转编码器而不是合成更多细节，并且在百万像素级别变得越来越昂贵。这个缺点需要更具表现力和更高效的解码范例。受到近期进展的推动...",
+                    "title": "【arXiv】SpatialBench：您的空间基础模型是全能型选手吗？",
+                    "desc": "虽然空间基础模型在标准数据集上表现出了令人印象深刻的性能，但仍然存在一个关键问题：它们是否真正是全能的参与者，能够在不同的下游任务、任意视点、变化的场景域、不同的输入密度和特定的硬件限制中稳健地泛化？回答这个首要问题需要进行整体评估，但当前的模型主要针对专门设计的特定领域进行评估...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23902v1"
+                    "url": "http://arxiv.org/abs/2605.27367v1"
                 },
                 {
-                    "title": "【arXiv】法学硕士作为嘈杂的渠道：香农对模型能力和规模法则的看法",
-                    "desc": "大型语言模型 (LLM) 的现有缩放定律（主要是单调幂定律）无法解释新兴的非单调现象，例如灾难性过度训练和量化引起的退化，尽管计算量增加，但性能仍会恶化。我们提出了香农缩放定律，这是一个统一的理论框架，将 LLM 训练建模为噪声通道上的信息传输，以香农-哈特利定理为基础。通过将模型参数映射到通道带宽...",
+                    "title": "【arXiv】MUSE-Autoskill：通过技能创建、记忆、管理和评估进行自我进化代理",
+                    "desc": "大型语言模型 (LLM) 代理依靠可重用的技能来解决复杂的任务。然而，现有的技能创建方法将技能视为孤立的静态工件，限制了其可重用性、可靠性和长期改进。我们提出了 MUSE-Autoskill Agent（Memory-Utilizing Skill Evolution），这是一个以技能为中心的代理框...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23901v1"
+                    "url": "http://arxiv.org/abs/2605.27366v1"
                 },
                 {
-                    "title": "【arXiv】从原始经验到技能消耗：模型生成智能体技能的系统研究",
-                    "desc": "语言代理通过重用\\emph{技能}（从过去的经验中提取的结构化程序工件）不断改进。特别是，\\emph{领域级}和\\emph{模型生成}技能特别有前途。它们通过编码特定领域的重复过程来提供领域内的快速适应，并且它们的规模超越了劳动密集型的手工制作。然而，虽然提取方法不断激增，但人们的了解仍然有限，没有...",
+                    "title": "【arXiv】LocateAnything：通过并行盒解码实现快速、高质量的视觉语言基础",
+                    "desc": "视觉语言模型 (VLM) 通常将视觉基础和检测表述为坐标令牌生成问题，将每个 2D 框序列化为多个 1D 令牌，这些令牌在很大程度上独立学习和解码。这种逐个令牌的解码与盒几何形状的耦合结构不匹配，并由于严格的顺序生成而产生了实际的推理瓶颈。我们介绍 LocateAnything，一个基于 Paral...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23899v1"
+                    "url": "http://arxiv.org/abs/2605.27365v1"
                 },
                 {
-                    "title": "【arXiv】SPACENUM：重新审视 VLM 中的空间数值理解",
-                    "desc": "视觉语言模型 (VLM) 越来越多地部署在实体环境中，它们需要生成数值输出，例如动作幅度和空间坐标。尽管这些数字看起来很有意义，但仍不清楚这些数字输出是否真正基于空间感知。因此，在这项工作中，我们通过 SpaceNum 重新审视空间数值理解，SpaceNum 是一个统一的框架，它捕获了两个互补的设置...",
+                    "title": "【arXiv】检索代理配置的自然语言查询",
+                    "desc": "现代检索代理公开了许多配置选择——LLM、检索器、文档数量、跳数和综合策略——每一个都影响答案质量和服务成本。如今，这些管道通常针对每个工作负载手动调整一次，从而导致每个查询的大量优化尚未得到利用。我们提出问题：给定自然语言查询以及准确性或预算目标，从预定义的管道目录中选择最小化成本或最大化的配置...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "18小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.23898v1"
+                    "url": "http://arxiv.org/abs/2605.27361v1"
                 }
             ]
         },
@@ -274,45 +274,37 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
-                    "time": "昨天",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 2,
-                    "title": "CHRONOS：针对不断发展的数据市场的时间感知多代理协调",
-                    "time": "2天前",
+                    "title": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
+                    "time": "14小时前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2605.23887v1"
+                    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
                 },
                 {
                     "rank": 3,
-                    "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-25",
-                    "emoji": "🎬",
-                    "url": "https://36kr.com/p/3824164325412992?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "氪星晚报｜全国首单挂钩蓝色债券合约类信用衍生品交易落地山东；到2030年底全国城市生活垃圾资源化利用率力争达到76%以上；新加坡寻求将富人开",
-                    "time": "2026-05-25",
-                    "emoji": "🔍",
-                    "url": "https://36kr.com/p/3824439681520002?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "36氪首发 | 3D打印齿科龙头要切入桌面全彩造物，获君联、达晨等3亿+融资",
-                    "time": "2026-05-25",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3824073646624899?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
-                    "emoji": "🎵",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,73 +314,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 万美元的资金",
-                    "time": "昨天",
+                    "title": "Airbnb 支持的 WeRoad 融资 5800 万美元，将其团体旅游平台推向美国",
+                    "time": "4小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/"
+                    "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/"
                 },
                 {
                     "rank": 2,
-                    "title": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
-                    "time": "昨天",
+                    "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
+                    "time": "2026-05-27",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/"
+                    "url": "https://36kr.com/p/3827497128465287?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-                    "time": "5小时前",
+                    "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+                    "time": "2026-05-27",
                     "emoji": "🏭",
-                    "url": "https://www.qbitai.com/2026/05/424605.html"
+                    "url": "https://36kr.com/p/3826922264286083?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "5天前",
+                    "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+                    "time": "2026-05-27",
                     "emoji": "🌏",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3826354349412992?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
-                    "time": "4天前",
+                    "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
+                    "time": "2026-05-27",
                     "emoji": "📉",
-                    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+                    "url": "https://36kr.com/p/3825817310368385?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
-                    "time": "2026-05-25",
+                    "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+                    "time": "2026-05-27",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3824601267196037?f=rss"
+                    "url": "https://36kr.com/p/3826385821192841?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
-                    "time": "2026-05-25",
+                    "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+                    "time": "2026-05-27",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3824154127093892?f=rss"
+                    "url": "https://36kr.com/p/3826779946930822?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "对话欧洲地图商TomTom：中国订单暴涨10倍，帮助中国辅助驾驶出海｜最前线",
-                    "time": "2026-05-25",
+                    "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
+                    "time": "2026-05-26",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3820241871409543?f=rss"
+                    "url": "https://36kr.com/p/3826003757437573?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "京东加码商业地产，推出更高级大MALL",
-                    "time": "2026-05-25",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "📰",
-                    "url": "https://36kr.com/p/3824126842179969?f=rss"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 10,
-                    "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
-                    "time": "2026-05-25",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3824089662853513?f=rss"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 }
             ]
         },
@@ -434,71 +426,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,399",
+                    "stars": "+445,452",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+437,382",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+374,533",
+                    "stars": "+374,995",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+355,543",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
+                },
+                {
+                    "rank": 5,
                     "name": "vinta/awesome-python",
                     "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+299,505",
+                    "stars": "+299,814",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 4,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+295,111",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "rank": 6,
+                    "name": "facebook/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+245,292",
+                    "url": "https://github.com/facebook/react"
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+234,381",
+                    "stars": "+234,570",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 6,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+205,836",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "tensorflow/tensorflow",
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,266",
+                    "stars": "+195,277",
                     "url": "https://github.com/tensorflow/tensorflow"
-                },
-                {
-                    "rank": 8,
-                    "name": "ultraworkers/claw-code",
-                    "desc": "仓库终于解锁了。享受聚会！历史上最快超过 10 万颗星的仓库 ⭐。加入 Discord：https://discord.gg/5TUQKqFWd 使用 oh-my-codex 内置 Rust。",
-                    "lang": "Rust",
-                    "langClass": "lang-rust",
-                    "stars": "+192,468",
-                    "url": "https://github.com/ultraworkers/claw-code"
                 }
             ]
         }
@@ -507,72 +499,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 ",
+            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/"
+            "url": "https://www.qbitai.com/2026/05/425600.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
+            "title": "刚刚，国产AI自己造了AI，全球首例！",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/"
+            "url": "https://www.qbitai.com/2026/05/425511.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
+            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
+            "url": "https://www.qbitai.com/2026/05/425455.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
+            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/"
+            "url": "https://www.qbitai.com/2026/05/425304.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+            "title": "下载：打破人工智能就业恐慌",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424277.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
+            "title": "对人工智能就业歇斯底里的现实检验",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424552.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+            "title": "是时候解决初级工作中迫在眉睫的危机了。",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424551.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
+            "title": "科技公司首席执行官显然患有人工智能精神病",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424581.html"
+            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+            "title": "Robinhood 现在可以让您的人工智能代理交易股票",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424605.html"
+            "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
+            "title": "触觉具身来了个梦之队：天使轮近亿",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/424584.html"
+            "url": "https://www.qbitai.com/2026/05/425660.html"
         }
     ],
     "aiTools": [
@@ -635,15 +627,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "模型",
+            "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "Google",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "人工智能",
+            "text": "模型",
+            "size": "small"
+        },
+        {
+            "text": "ASP",
             "size": "small"
         },
         {
@@ -651,136 +647,102 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "空间",
+            "text": "Google",
             "size": "small"
         },
         {
-            "text": "语言",
+            "text": "编辑",
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "MoE",
             "size": "small"
         },
         {
-            "text": "视觉",
+            "text": "SpaceX",
             "size": "small"
         },
         {
-            "text": "视频",
+            "text": "人类",
             "size": "small"
         },
         {
-            "text": "TechCrunch",
-            "size": "small"
-        },
-        {
-            "text": "中国",
+            "text": "Salesforce",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "随着印度屋顶太阳能市场吸引了大量风险投资的兴趣，SolarSquare 正在洽谈筹集至多 6000 万美元的资金",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "SolarSquare 在预计下个月完成的融资中估值可能高达 5 亿美元。"
-        },
-        {
-            "title": "这些特殊的手机和应用程序功能可以帮助您免受间谍软件的侵害",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Apple、Meta 和 Google 提供特殊的安全模式，使您的设备更安全地抵御有针对性的间谍软件攻击。以下是这些模式的工作原理、作用以及打开方式。"
-        },
-        {
-            "title": "法拉利正在利用 IBM 的 AI 打造 F1 超级粉丝",
+            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "IBM 和法拉利车队 HP 向 TechCrunch 介绍了他们如何重新定义车迷体验。"
+            "snippet": "光影之间，读懂未尽之意"
         },
         {
-            "title": "核初创公司 Deep Fission 表示将再次上市，我有疑问",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Deep Fission 正在寻求首次公开募股，筹集 1.57 亿美元资金，尽管投资者可能难以接受这家核初创公司的故事。"
-        },
-        {
-            "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+            "title": "刚刚，国产AI自己造了AI，全球首例！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。"
+            "snippet": "训练速度比英伟达Megatron快10%"
         },
         {
-            "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
+            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "原本4亿+token、61美元的账单，直降至12美元"
+            "snippet": "解决卡了人类56年的数学难题"
         },
         {
-            "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "报名通道已开，手慢无"
+            "snippet": "MTS（技术员工）@Anthropic"
         },
         {
-            "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
+            "title": "下载：打破人工智能就业恐慌",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "获得了国际机器人研究共同体的高度认可"
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。对人工智能工作歇斯底里的现实检验尽管人们对人工智能对白领工作的威胁越来越歇斯底里，但仍然没有足够的证据表明该技术已经对白领工作产生了大规模影响。"
         },
         {
-            "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "6月10-11日盛大启幕"
-        },
-        {
-            "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "“要做机器人时代的安卓系统”"
-        },
-        {
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
-        },
-        {
-            "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "特斯拉学会“躲交警”了"
-        },
-        {
-            "title": "下载：在线安全的未来和气候技术的重要支点",
+            "title": "对人工智能就业歇斯底里的现实检验",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。科技研究人员就网络安全的未来起诉特朗普政府几个月来，特朗普政府一直在追捕研究并试图反击仇恨言论的研究人员，“"
+            "snippet": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和 Cisco）预示着我们所有知识工作者很快就会面临什么。但在你辞掉软件开发人员或金融分析师（或科技记者）的工作之前……"
         },
         {
-            "title": "气候技术公司正在转向关键矿物",
+            "title": "是时候解决初级工作中迫在眉睫的危机了。",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "美国特朗普第二届政府已经上任一年多了，对气候事业的支持很弱。但气候技术公司正在寻找在这种新环境中生存甚至繁荣的方法，包括关注脱碳之外的潜在好处。突然间，感觉好像每家气候科技公司都有一个故事——"
+            "snippet": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能已经改变了总体数据。但表面之下可能隐藏着一个令人不安的变化：职业生涯第一阶段的悄然削弱——"
         },
         {
-            "title": "科技研究人员就网络安全的未来起诉特朗普政府",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "自上任伊始，特朗普政府就一直在追捕研究并试图反击网上仇恨言论、骚扰、宣传和虚假信息的研究人员。现在，其中一些研究人员正在反击。上周，他们的诉讼首次出现在法庭上，这可能会对网络安全和言论自由产生全球影响。"
-        },
-        {
-            "title": "绿色钢铁初创公司 Boston Metal 正在加倍投资关键金属",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "据《麻省理工科技评论》独家报道，初创公司 Boston Metal 已筹集 7500 万美元资金用于生产关键金属。该公司主要因其在清洁钢铁生产方面所做的努力而闻名，该行业的温室气体排放量约占当今全球温室气体排放量的 8%。有了额外的资金，新"
-        },
-        {
-            "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+            "title": "科技公司首席执行官显然患有人工智能精神病",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "硬件不该让人适应，它应该主动适应你"
+            "snippet": "Box 首席执行官 Aaron Levie 表示：“首席执行官特别容易患人工智能精神病。”也许这可以解释人们对人工智能生产率提高的近乎宗教信仰。"
+        },
+        {
+            "title": "Robinhood 现在可以让您的人工智能代理交易股票",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Robinhood 将允许用户创建一个带有预加载余额的单独账户，供代理用于交易"
+        },
+        {
+            "title": "触觉具身来了个梦之队：天使轮近亿",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "复旦系具身新星，想让机器人真正会“触摸”"
+        },
+        {
+            "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "只需一段提示词"
+        },
+        {
+            "title": "OpenAI挖来了个F1级别车手搞公关",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "曾在Salesforce干了13年营销"
         },
         {
             "title": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
@@ -819,46 +781,76 @@ var siteData = {
             "snippet": "Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕，与 Google 在帕洛阿尔托举行的 I/O 大会同一天，Code with Claude 现场气氛热烈。 （Anth"
         },
         {
-            "title": "SkillOpt：自我进化座席技能的执行策略",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "今天的代理技能是手工制作的、一次性生成的，或者是通过松散控制的自我修订而演变的，其中没有一个表现得像技能的深度学习优化器，也没有一个在反馈下可靠地改进了其起点。我们认为，该技能应该作为冻结代理的外部状态进行训练，并采用与权重空间优化可重复的"
+            "title": "Airbnb 支持的 WeRoad 融资 5800 万美元，将其团体旅游平台推向美国",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "总部位于米兰的团体旅游初创公司 WeRoad 已筹集了 5800 万美元的 C 轮融资，由 Airbnb 领投，该公司正在为欧洲以外的首次大规模扩张做准备。此次融资使该公司筹集的总资金达到约 1 亿美元，并将为 WeRoad 从奥斯汀开始进"
         },
         {
-            "title": "Geo-Align：通过公制几何奖励进行视频生成对齐",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "近年来，摄像机控制的视频生成取得了显着的进步。然而，现有的视频到视频重新渲染方法主要依赖于使用合成数据集的监督微调。目前，同步、多视图的真实世界视频数据极其缺乏。因此，在处理分布外的现实世界视频时，流行的范式通常表现出有限的泛化能力，模型很"
-        },
-        {
-            "title": "PiD：利用像素扩散进行快速、高分辨率潜在解码",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "大多数实用的高分辨率文本到图像系统，包括潜在扩散和自回归模型，在紧凑的潜在空间中执行生成，并且解码器将生成的潜在空间映射回像素。然而，潜在像素解码器是面向重建的，经过优化以反转编码器而不是合成更多细节，并且在百万像素级别变得越来越昂贵。这个"
-        },
-        {
-            "title": "法学硕士作为嘈杂的渠道：香农对模型能力和规模法则的看法",
+            "title": "1400亿Agent入场，“流量”这条护城河要塌了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 的现有缩放定律（主要是单调幂定律）无法解释新兴的非单调现象，例如灾难性过度训练和量化引起的退化，尽管计算量增加，但性能仍会恶化。我们提出了香农缩放定律，这是一个统一的理论框架，将 LLM 训练建模为噪声通道上的信息"
+            "snippet": "看到大厂押注Agent生态的新方向"
         },
         {
-            "title": "从原始经验到技能消耗：模型生成智能体技能的系统研究",
+            "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "不再绕回2D"
+        },
+        {
+            "title": "重新思考代理人工智能时代的组织设计",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "语言代理通过重用\\emph{技能}（从过去的经验中提取的结构化程序工件）不断改进。特别是，\\emph{领域级}和\\emph{模型生成}技能特别有前途。它们通过编码特定领域的重复过程来提供领域内的快速适应，并且它们的规模超越了劳动密集型的手工"
+            "snippet": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。&#160;尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们指出人员、流程和工作流程缺乏准备。＆#160"
         },
         {
-            "title": "SPACENUM：重新审视 VLM 中的空间数值理解",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉语言模型 (VLM) 越来越多地部署在实体环境中，它们需要生成数值输出，例如动作幅度和空间坐标。尽管这些数字看起来很有意义，但仍不清楚这些数字输出是否真正基于空间感知。因此，在这项工作中，我们通过 SpaceNum 重新审视空间数值理解"
+            "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "大公司：\n  程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍\n  36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美"
         },
         {
-            "title": "ETCHR：编辑以澄清和利用推理",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "多模态大语言模型具有先进的视觉推理，但纯文本的思维链仍然是需要细粒度焦点或视图转换的问题的瓶颈。 “用图像思考”范式缩小了这一差距，但现有方法要么受到固定的预定义工具包的限制，要么从统一的多模态方法产生噪声中间图像。我们追求第三种选择：使用"
+            "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管"
+        },
+        {
+            "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。\n  Coddie团队于2026年初组建，由9"
+        },
+        {
+            "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文丨果脯\n  2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破30"
+        },
+        {
+            "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。\n  "
+        },
+        {
+            "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "文｜周鑫雨 邓咏仪\n  编辑｜张雨忻\n  硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。\n  前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司"
+        },
+        {
+            "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜周鑫雨\n  编辑｜张雨忻\n  打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：\n  这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教"
+        },
+        {
+            "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今日热点导览\n  三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡\n  算力租赁，遭传闻突袭，上市公司回应\n  胖东来成立文化娱乐公司\n  双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因\n  知情人士：字节跳动本月向Seed"
         }
     ]
 }
