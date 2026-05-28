@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-27 12:34:12
+ * 生成时间: 2026-05-28 12:49:41
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
-            "summary": "光影之间，读懂未尽之意",
+            "title": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
+            "summary": "专业影视级 AR 眼镜",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/05/425600.html"
+            "url": "https://www.qbitai.com/2026/05/425897.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "刚刚，国产AI自己造了AI，全球首例！",
-            "summary": "训练速度比英伟达Megatron快10%",
+            "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+            "summary": "看到大厂押注Agent生态的新方向",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/05/425511.html"
+            "url": "https://www.qbitai.com/2026/05/425881.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
-            "summary": "解决卡了人类56年的数学难题",
+            "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+            "summary": "不再绕回2D",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/05/425455.html"
+            "url": "https://www.qbitai.com/2026/05/425870.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
-            "summary": "MTS（技术员工）@Anthropic",
+            "title": "OpenAI挖来了个F1级别车手搞公关",
+            "summary": "曾在Salesforce干了13年营销",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/05/425304.html"
+            "url": "https://www.qbitai.com/2026/05/425857.html"
         }
     ],
     "quickNews": [
         {
-            "time": "12:34",
-            "text": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+            "time": "12:49",
+            "text": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/05/425600.html"
+            "url": "https://www.qbitai.com/2026/05/425897.html"
         },
         {
-            "time": "12:34",
-            "text": "刚刚，国产AI自己造了AI，全球首例！",
+            "time": "12:49",
+            "text": "1400亿Agent入场，“流量”这条护城河要塌了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/425511.html"
+            "url": "https://www.qbitai.com/2026/05/425881.html"
         },
         {
-            "time": "12:34",
-            "text": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+            "time": "12:49",
+            "text": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/425455.html"
+            "url": "https://www.qbitai.com/2026/05/425870.html"
         },
         {
-            "time": "12:34",
-            "text": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+            "time": "12:49",
+            "text": "OpenAI挖来了个F1级别车手搞公关",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/425304.html"
+            "url": "https://www.qbitai.com/2026/05/425857.html"
         },
         {
-            "time": "12:34",
-            "text": "下载：打破人工智能就业恐慌",
+            "time": "12:49",
+            "text": "下载：跟上人工智能的步伐，以及 IVF 的未来",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
+            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
         },
         {
-            "time": "12:34",
-            "text": "对人工智能就业歇斯底里的现实检验",
+            "time": "12:49",
+            "text": "重新思考代理人工智能时代的组织设计",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
+            "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
         },
         {
-            "time": "12:34",
-            "text": "是时候解决初级工作中迫在眉睫的危机了。",
+            "time": "12:49",
+            "text": "Oura 推出更薄、更轻的 Ring 5，起价 399 美元",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
+            "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/"
         },
         {
-            "time": "12:34",
-            "text": "科技公司首席执行官显然患有人工智能精神病",
+            "time": "12:49",
+            "text": "下载：气候技术上市，人工智能炒作指数回归",
             "hot": false,
-            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+            "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+                    "title": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/425600.html",
+                    "url": "https://www.qbitai.com/2026/05/425897.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "光影之间，读懂未尽之意..."
+                    "desc": "专业影视级 AR 眼镜..."
                 },
                 {
-                    "title": "刚刚，国产AI自己造了AI，全球首例！",
+                    "title": "1400亿Agent入场，“流量”这条护城河要塌了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/425511.html"
+                    "url": "https://www.qbitai.com/2026/05/425881.html"
                 },
                 {
-                    "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+                    "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/425455.html"
+                    "url": "https://www.qbitai.com/2026/05/425870.html"
                 },
                 {
-                    "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+                    "title": "OpenAI挖来了个F1级别车手搞公关",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/425304.html"
+                    "url": "https://www.qbitai.com/2026/05/425857.html"
                 },
                 {
-                    "title": "科技公司首席执行官显然患有人工智能精神病",
+                    "title": "Oura 推出更薄、更轻的 Ring 5，起价 399 美元",
                     "source": "TechCrunch AI",
                     "time": "刚刚",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+                    "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】招聘中的算法单一文化",
-                    "desc": "许多雇主使用少数算法供应商构建的算法来筛选求职者。我们假设算法单一文化会导致同一个人和同一种族群体的成员面临拒绝。我们获取并分析了一个新颖的数据集，其中包含 300 万申请人提交的 400 万份申请，其中所有申请均由同一供应商构建的算法进行筛选。我们发现申请人结果存在明显的种族差异。在亚洲和亚洲提交...",
+                    "title": "【arXiv】从像素到文字——迈向大规模原生单视觉模型",
+                    "desc": "当前的视觉语言模型（VLM）通常通过多级对齐将单独的图像编码器和语言解码器拼接在一起，这是一种模块化框架，不可避免地会跨帧分割像素级信号并分散早期的像素-字交互。与此同时，原生 VLM 尽管在单图像上具有令人印象深刻的性能，但在多图像、视频理解和空间智能方面仍然很大程度上未经探索。因此，我们引入 N...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27371v1"
+                    "url": "http://arxiv.org/abs/2605.28820v1"
                 },
                 {
-                    "title": "【arXiv】G3T 起来！重力对齐坐标系简化了点图处理",
-                    "desc": "现代前馈 3D 重建方法（例如 VGGT）可预测以相机为中心的坐标系中的像素对齐点图。然而，这种坐标系的选择并不总是最佳的。相反，我们建议在直立、重力对齐的框架中预测点图，利用许多现实世界场景中存在的强大结构线索。与以相机为中心的框架不同，重力对齐框架在视点之间共享一个公共垂直轴，从而减少了关联点所...",
+                    "title": "【arXiv】PEFT-Arena：从稳定性-塑性角度理解参数高效微调",
+                    "desc": "参数高效微调（PEFT）已成为适应大型语言模型的标准方法，但评估很大程度上强调下游准确性，而忽视了预训练能力的保留。我们认为 PEFT 应该通过稳定性-可塑性困境来评估：目标任务适应和抗遗忘之间的权衡。我们推出 PEFT-Arena，这是一个联合衡量下游绩效和一般能力保留的基准。跨米...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27372v1"
+                    "url": "http://arxiv.org/abs/2605.28819v1"
                 },
                 {
-                    "title": "【arXiv】SpatialBench：您的空间基础模型是全能型选手吗？",
-                    "desc": "虽然空间基础模型在标准数据集上表现出了令人印象深刻的性能，但仍然存在一个关键问题：它们是否真正是全能的参与者，能够在不同的下游任务、任意视点、变化的场景域、不同的输入密度和特定的硬件限制中稳健地泛化？回答这个首要问题需要进行整体评估，但当前的模型主要针对专门设计的特定领域进行评估...",
+                    "title": "【arXiv】VLM 可能无法在自然阅读过程中全面增强人类与 LLM 的一致性",
+                    "desc": "大型语言模型（LLM）已成为人类语言处理的越来越有用的计算模型，但目前尚不清楚视觉语言学习是否使自然阅读过程中的文本表示更加类似于人类。在这里，我们通过在严格的纯文本设置下比较紧密匹配的 LLM 和视觉语言模型 (VLM) 对来解决这个问题，从而使我们能够将多模态训练历史记录与在线视觉输入或跨模态融...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27367v1"
+                    "url": "http://arxiv.org/abs/2605.28818v1"
                 },
                 {
-                    "title": "【arXiv】MUSE-Autoskill：通过技能创建、记忆、管理和评估进行自我进化代理",
-                    "desc": "大型语言模型 (LLM) 代理依靠可重用的技能来解决复杂的任务。然而，现有的技能创建方法将技能视为孤立的静态工件，限制了其可重用性、可靠性和长期改进。我们提出了 MUSE-Autoskill Agent（Memory-Utilizing Skill Evolution），这是一个以技能为中心的代理框...",
+                    "title": "【arXiv】Gamma-World：超越两个玩家的生成多智能体世界建模",
+                    "desc": "交互式视频生成的世界模型主要集中在单代理设置上，其中未来的观察结果是从单个控制信号生成的。然而，许多生成的环境需要多代理交互：多个玩家、机器人或实体代理在共享空间内同时行动。将世界模型扩展到此类设置需要有原则的多智能体设计：智能体应保持独立可控、排列对称并支持高效推理...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27366v1"
+                    "url": "http://arxiv.org/abs/2605.28816v1"
                 },
                 {
-                    "title": "【arXiv】LocateAnything：通过并行盒解码实现快速、高质量的视觉语言基础",
-                    "desc": "视觉语言模型 (VLM) 通常将视觉基础和检测表述为坐标令牌生成问题，将每个 2D 框序列化为多个 1D 令牌，这些令牌在很大程度上独立学习和解码。这种逐个令牌的解码与盒几何形状的耦合结构不匹配，并由于严格的顺序生成而产生了实际的推理瓶颈。我们介绍 LocateAnything，一个基于 Paral...",
+                    "title": "【arXiv】通过双向进化搜索自我改进语言模型",
+                    "desc": "搜索已被提出作为自我改进语言模型和代理系统的有效方法，无论是用于训练后样本生成还是推理。然而，广泛使用的方法（例如最佳 N 采样和树搜索）面临两个基本限制：它们由稀疏验证信号引导，并且主要通过自回归扩展构造候选，将探索限制在具有大量模型概率质量的区域。为了解决这些问题，我们建议投标...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27365v1"
+                    "url": "http://arxiv.org/abs/2605.28814v1"
                 },
                 {
-                    "title": "【arXiv】检索代理配置的自然语言查询",
-                    "desc": "现代检索代理公开了许多配置选择——LLM、检索器、文档数量、跳数和综合策略——每一个都影响答案质量和服务成本。如今，这些管道通常针对每个工作负载手动调整一次，从而导致每个查询的大量优化尚未得到利用。我们提出问题：给定自然语言查询以及准确性或预算目标，从预定义的管道目录中选择最小化成本或最大化的配置...",
+                    "title": "【arXiv】HarmoVid：令人愉悦的视频肖像协调",
+                    "desc": "我们提出了一种协调前景视频的照明以匹配目标背景场景、调整阴影、色调和照明强度（轻松协调）的方法。与图像不同，获取视频的标记数据（在不同的照明条件下记录相同的运动）实际上是不可行且不可扩展的。虽然创建此类配对数据的一种方法是将现有的基于图像的协调模型逐帧应用于视频，但生成的结果...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "18小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.27361v1"
+                    "url": "http://arxiv.org/abs/2605.28811v1"
                 }
             ]
         },
@@ -281,10 +281,10 @@ var siteData = {
                 },
                 {
                     "rank": 2,
-                    "title": "由于用户拒绝“强行灌输”谷歌人工智能搜索，DuckDuckGo 安装量增长了 30%",
-                    "time": "14小时前",
+                    "title": "HarmoVid：令人愉悦的视频肖像协调",
+                    "time": "18小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
+                    "url": "http://arxiv.org/abs/2605.28811v1"
                 },
                 {
                     "rank": 3,
@@ -314,73 +314,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Airbnb 支持的 WeRoad 融资 5800 万美元，将其团体旅游平台推向美国",
-                    "time": "4小时前",
+                    "title": "气候技术公司正在上市。接下来是什么？",
+                    "time": "2小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/"
+                    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
                 },
                 {
                     "rank": 2,
-                    "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
-                    "time": "2026-05-27",
-                    "emoji": "💰",
-                    "url": "https://36kr.com/p/3827497128465287?f=rss"
-                },
-                {
-                    "rank": 3,
-                    "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-                    "time": "2026-05-27",
-                    "emoji": "🏭",
-                    "url": "https://36kr.com/p/3826922264286083?f=rss"
-                },
-                {
-                    "rank": 4,
-                    "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-                    "time": "2026-05-27",
-                    "emoji": "🌏",
-                    "url": "https://36kr.com/p/3826354349412992?f=rss"
-                },
-                {
-                    "rank": 5,
-                    "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
-                    "time": "2026-05-27",
-                    "emoji": "📉",
-                    "url": "https://36kr.com/p/3825817310368385?f=rss"
-                },
-                {
-                    "rank": 6,
-                    "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-                    "time": "2026-05-27",
-                    "emoji": "🔄",
-                    "url": "https://36kr.com/p/3826385821192841?f=rss"
-                },
-                {
-                    "rank": 7,
-                    "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
-                    "time": "2026-05-27",
-                    "emoji": "🚀",
-                    "url": "https://36kr.com/p/3826779946930822?f=rss"
-                },
-                {
-                    "rank": 8,
-                    "title": "36氪企业全情报｜更懂股民的舆情数据工具，好用又省心",
-                    "time": "2026-05-26",
-                    "emoji": "🤝",
-                    "url": "https://36kr.com/p/3826003757437573?f=rss"
-                },
-                {
-                    "rank": 9,
                     "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
                     "time": "2026-05-19",
-                    "emoji": "📰",
+                    "emoji": "💰",
                     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
-                    "rank": 10,
+                    "rank": 3,
                     "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
                     "time": "2026-01-16",
-                    "emoji": "🏢",
+                    "emoji": "🏭",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                },
+                {
+                    "rank": 4,
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
+                    "time": "2026-01-13",
+                    "emoji": "🌏",
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                },
+                {
+                    "rank": 5,
+                    "title": "Triomics 筹集了 2200 万美元，将肿瘤特异性人工智能引入癌症中心",
+                    "time": "15小时前",
+                    "emoji": "📉",
+                    "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/"
                 }
             ]
         },
@@ -426,7 +391,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,452",
+                    "stars": "+445,517",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -435,62 +400,62 @@ var siteData = {
                     "desc": "免费 API 集合列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+437,382",
+                    "stars": "+437,573",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+389,083",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+374,995",
+                    "stars": "+375,236",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+355,543",
+                    "stars": "+355,611",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "name": "vinta/awesome-python",
                     "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+299,814",
+                    "stars": "+299,985",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+295,699",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 8,
                     "name": "facebook/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,292",
+                    "stars": "+245,303",
                     "url": "https://github.com/facebook/react"
-                },
-                {
-                    "rank": 7,
-                    "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+234,570",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 8,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "适合所有人的开源机器学习框架",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+195,277",
-                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -499,72 +464,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+            "title": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/05/425600.html"
+            "url": "https://www.qbitai.com/2026/05/425897.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "刚刚，国产AI自己造了AI，全球首例！",
+            "title": "1400亿Agent入场，“流量”这条护城河要塌了",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/05/425511.html"
+            "url": "https://www.qbitai.com/2026/05/425881.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+            "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/05/425455.html"
+            "url": "https://www.qbitai.com/2026/05/425870.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+            "title": "OpenAI挖来了个F1级别车手搞公关",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/425304.html"
+            "url": "https://www.qbitai.com/2026/05/425857.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "下载：打破人工智能就业恐慌",
+            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
+            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "对人工智能就业歇斯底里的现实检验",
+            "title": "重新思考代理人工智能时代的组织设计",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
+            "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "是时候解决初级工作中迫在眉睫的危机了。",
+            "title": "Oura 推出更薄、更轻的 Ring 5，起价 399 美元",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/"
+            "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "科技公司首席执行官显然患有人工智能精神病",
+            "title": "下载：气候技术上市，人工智能炒作指数回归",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/"
+            "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Robinhood 现在可以让您的人工智能代理交易股票",
+            "title": "「斯隆奖」得主戴亮全职加盟复旦",
             "heat": "",
-            "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/"
+            "url": "https://www.qbitai.com/2026/05/425959.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "触觉具身来了个梦之队：天使轮近亿",
+            "title": "清华有了新老师：黄仁勋",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/425660.html"
+            "url": "https://www.qbitai.com/2026/05/425948.html"
         }
     ],
     "aiTools": [
@@ -611,39 +576,35 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "人工智能",
+            "size": "large"
+        },
+        {
             "text": "Claude",
             "size": "large"
         },
         {
-            "text": "AI",
-            "size": "large"
+            "text": "模型",
+            "size": "medium"
         },
         {
             "text": "Code",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
+            "text": "AI",
             "size": "medium"
-        },
-        {
-            "text": "人工智能",
-            "size": "medium"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "模型",
-            "size": "small"
-        },
-        {
-            "text": "ASP",
-            "size": "small"
         },
         {
             "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "Anthropic",
+            "size": "small"
+        },
+        {
+            "text": "LLM",
             "size": "small"
         },
         {
@@ -651,19 +612,23 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "编辑",
+            "text": "语言",
             "size": "small"
         },
         {
-            "text": "MoE",
+            "text": "Meta",
             "size": "small"
         },
         {
-            "text": "SpaceX",
+            "text": "Ventures",
             "size": "small"
         },
         {
-            "text": "人类",
+            "text": "VLM",
+            "size": "small"
+        },
+        {
+            "text": "PEFT",
             "size": "small"
         },
         {
@@ -673,28 +638,118 @@ var siteData = {
     ],
     "searchData": [
         {
-            "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+            "title": "雷鸟双品齐发：GT 系列、V4 同台亮相，次世代 AI 眼镜雷鸟 iO 提前预告",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "光影之间，读懂未尽之意"
+            "snippet": "专业影视级 AR 眼镜"
         },
         {
-            "title": "刚刚，国产AI自己造了AI，全球首例！",
+            "title": "1400亿Agent入场，“流量”这条护城河要塌了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "训练速度比英伟达Megatron快10%"
+            "snippet": "看到大厂押注Agent生态的新方向"
         },
         {
-            "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+            "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "解决卡了人类56年的数学难题"
+            "snippet": "不再绕回2D"
         },
         {
-            "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+            "title": "OpenAI挖来了个F1级别车手搞公关",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "MTS（技术员工）@Anthropic"
+            "snippet": "曾在Salesforce干了13年营销"
+        },
+        {
+            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们准确地了解人工智能世界的新闻步伐是多么的无情……"
+        },
+        {
+            "title": "重新思考代理人工智能时代的组织设计",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。&#160;尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们指出人员、流程和工作流程缺乏准备。＆#160"
+        },
+        {
+            "title": "Oura 推出更薄、更轻的 Ring 5，起价 399 美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该戒指比其前身小 40%，并且具有更准确的感应、更长的电池寿命等。"
+        },
+        {
+            "title": "下载：气候技术上市，人工智能炒作指数回归",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模块化核反应堆的 X-energy 紧随其"
+        },
+        {
+            "title": "「斯隆奖」得主戴亮全职加盟复旦",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "复旦的顶尖人才版图"
+        },
+        {
+            "title": "清华有了新老师：黄仁勋",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "黄博好，黄博好。"
+        },
+        {
+            "title": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 的 Code with Claude 展示了编码的未来——无论你喜欢与否在本周于伦敦举行的 Anthropic 开发者活动“Code w"
+        },
+        {
+            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在周二的 Google I/O 主题演讲中，Google DeepMind 首席执行官 Demis Hassabis 宣称我们目前“正站在奇点的山麓”。这是一个引人注目的说法——奇点是人工智能迅速超越人类智能并极大改变世界的理论上的未来时刻"
+        },
+        {
+            "title": "Vertu 希望首席执行官能够通过起价 6,880 美元的人工智能折叠屏来运营公司",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Vertu 的新型可折叠手机建立在开源 Hermes 项目之上，结合了人工智能代理工作流程、企业集成和超高级奢华饰面。"
+        },
+        {
+            "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "“87%用户不懂代码，却用AI跑通了一人公司”"
+        },
+        {
+            "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "实现AI技术从“能力”到“价值”的转化"
+        },
+        {
+            "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "8篇由同一个系统生成或形式化证明的数学论文"
+        },
+        {
+            "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "医学AI Agent到了关键拐点"
+        },
+        {
+            "title": "气候技术公司正在上市。接下来是什么？",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今年，出现了一波著名能源公司通过IPO在美国上市的浪潮。太阳能和电池公司 Solv Energy 于 2 月份上市，估值达 60 亿美元。正在建造小型模块化核反应堆的 X-energy 在 4 月份也做了同样的事情，其股价在上市首日就飙升—"
+        },
+        {
+            "title": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 告诉亚利桑那大学的毕业生他们的任务是帮助塑造人工智能时，他遭到了热烈的嘘声。 “我可以…"
         },
         {
             "title": "下载：打破人工智能就业恐慌",
@@ -715,142 +770,52 @@ var siteData = {
             "snippet": "迄今为止，人工智能还没有产生一个干净的大规模失业故事。发达国家的总就业保持大致稳定，最近的评估发现有限的证据表明人工智能已经改变了总体数据。但表面之下可能隐藏着一个令人不安的变化：职业生涯第一阶段的悄然削弱——"
         },
         {
-            "title": "科技公司首席执行官显然患有人工智能精神病",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Box 首席执行官 Aaron Levie 表示：“首席执行官特别容易患人工智能精神病。”也许这可以解释人们对人工智能生产率提高的近乎宗教信仰。"
-        },
-        {
-            "title": "Robinhood 现在可以让您的人工智能代理交易股票",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Robinhood 将允许用户创建一个带有预加载余额的单独账户，供代理用于交易"
-        },
-        {
-            "title": "触觉具身来了个梦之队：天使轮近亿",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "复旦系具身新星，想让机器人真正会“触摸”"
-        },
-        {
-            "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "只需一段提示词"
-        },
-        {
-            "title": "OpenAI挖来了个F1级别车手搞公关",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "曾在Salesforce干了13年营销"
-        },
-        {
-            "title": "下载：编码的未来、“类固醇奥运会”和人工智能驱动的科学",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 的 Code with Claude 展示了编码的未来——无论你喜欢与否在本周于伦敦举行的 Anthropic 开发者活动“Code w"
-        },
-        {
-            "title": "Google I/O 展示了人工智能驱动的科学之路正在如何转变",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "在周二的 Google I/O 主题演讲中，Google DeepMind 首席执行官 Demis Hassabis 宣称我们目前“正站在奇点的山麓”。这是一个引人注目的说法——奇点是人工智能迅速超越人类智能并极大改变世界的理论上的未来时刻"
-        },
-        {
-            "title": "增强版游戏与 2026 年其余的长寿氛围非常契合",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本周日，42 名运动员将齐聚拉斯维加斯，参加一场不同寻常的体育比赛。首届增强型运动会的参赛者被鼓励服用提高成绩的药物。目标是“突破人类表现的界限”。奥运会组织者表示，参赛者只会服用符合规定的物质。"
-        },
-        {
-            "title": "圆桌会议：人工智能能否学会理解世界？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "收听会议或观看以下内容 人工智能公司希望构建能够理解外部世界并克服法学硕士局限性的系统。最近的发展使世界模型成为人工智能讨论的前沿。观看与主编 Mat Honan、高级 AI 编辑 Will Douglas Heaven 和 AI 记者的对"
-        },
-        {
-            "title": "人工智能时代的创造力扩展",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "讲故事是人类 DNA 的核心，源于我们表达理想、警告、希望和经历的冲动。技术始终通过媒介和传播方式交织在一起：从早期人类到现代。洞穴壁画中天然颜料和木炭的创新，通过相机进行文字再现。在我们的领导下，讲故事的格局继续发生变化。"
-        },
-        {
-            "title": "Anthropic 与 Claude 合作的《Code》展示了编码的未来——无论你喜欢与否",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic 在伦敦为软件开发人员举办的为期两天的活动 Code with Claude 于 5 月 19 日开幕，与 Google 在帕洛阿尔托举行的 I/O 大会同一天，Code with Claude 现场气氛热烈。 （Anth"
-        },
-        {
-            "title": "Airbnb 支持的 WeRoad 融资 5800 万美元，将其团体旅游平台推向美国",
+            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "总部位于米兰的团体旅游初创公司 WeRoad 已筹集了 5800 万美元的 C 轮融资，由 Airbnb 领投，该公司正在为欧洲以外的首次大规模扩张做准备。此次融资使该公司筹集的总资金达到约 1 亿美元，并将为 WeRoad 从奥斯汀开始进"
+            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
         },
         {
-            "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+            "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "总部位于旧金山的云平台 Railway 在没有花费一美元营销费用的情况下悄悄聚集了 200 万开发人员。该平台周四宣布，由于人工智能应用程序需求的激增暴露了传统云基础设施的局限性，该平台在 B 轮融资中筹集了 1 亿美元。TQ Ventur"
+        },
+        {
+            "title": "Claude Code 每月费用高达 200 美元。 Goose 免费做同样的事情。",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "看到大厂押注Agent生态的新方向"
+            "snippet": "人工智能编码革命伴随着一个问题：价格昂贵。Claude Code 是 Anthropic 的基于终端的 AI 代理，可以自主编写、调试和部署代码，吸引了全世界软件开发人员的想象力。但它的定价——根据使用情况从每月 20 美元到 200 美元"
         },
         {
-            "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
+            "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "阿尔弗雷德·沃尔福斯已经没有选择了。他的初创公司 Listen Labs 需要雇用 100 多名工程师，但与马克·扎克伯格 (Mark Zuckerberg) 的 1 亿美元报价竞争似乎是不可能的。因此，他花了 5,000 美元——营销预算"
+        },
+        {
+            "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Salesforce 周二推出了公司工作场所助手 Slackbot 的完全重建版本，将其从一个简单的通知工具转变为高管们所描述的功能齐全的人工智能代理，能够搜索企业数据、起草文档并代表员工采取行动。新的 Slackbot 现在普遍向 Bus"
+        },
+        {
+            "title": "Anthropic 推出 Cowork，这是一款可以在您的文件中工作的 Claude Desktop 代理 - 无需编码",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "不再绕回2D"
+            "snippet": "Anthropic 于周一发布了 Cowork，这是一种新的 AI 代理功能，可将其大获成功的 Claude Code 工具的功能扩展到非技术用户 - 据公司内部人士称，该团队在大约一周半的时间内构建了整个功能，主要使用 Claude Co"
         },
         {
-            "title": "重新思考代理人工智能时代的组织设计",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。&#160;尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们指出人员、流程和工作流程缺乏准备。＆#160"
-        },
-        {
-            "title": "氪星晚报 ｜高盛策略师将标普500指数目标点位上调至8000点，受AI和盈利所推动；阿里员工十三薪并入年终奖",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "大公司：\n  程一笑：可灵AI 3月ARR近5亿美元，较去年同期增长4倍\n  36氪获悉，在2026年第一季度业绩电话会上，快手科技创始人兼首席执行官程一笑表示，2026年3月，可灵AI年化收入运行率（ARR）近5亿美元，较去年3月的1亿美"
-        },
-        {
-            "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+            "title": "Nous Research 的 NousCoder-14B 是一款开源编码模型，恰逢 Claude Code 时刻",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管"
+            "snippet": "由加密风险投资公司 Paradigm 支持的开源人工智能初创公司 Nous Research 周一发布了一种新的竞争性编程模型，据称该模型匹配或超过了几个较大的专有系统，使用 48 个 Nvidia 最新的 B200 图形处理器在短短四天内"
         },
         {
-            "title": "经过华为、传音、拓竹历练，95后打造AI母婴界特斯拉｜36氪首发",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，AI母婴智能硬件品牌珂迪Coddie（以下简称“Coddie”）完成天使轮融资，融资金额数千万元，由钟鼎资本投资，向阳资本担任独家财务顾问。\n  Coddie团队于2026年初组建，由9"
-        },
-        {
-            "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "文丨果脯\n  2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破30"
-        },
-        {
-            "title": "36氪首发｜男士美妆品牌「GREENLAB绿所」获宝顶创投战略投资，张耀东出任公司董事",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "36氪获悉，无感化面部理容品牌「GREENLAB绿所」（以下简称“绿所”）近日宣布完成千万级新一轮融资，本轮由宝顶创投战略投资。融资完成后，宝顶创投创始合伙人张耀东将出任绿所公司董事，参与品牌战略、产品矩阵、渠道经营等方面的长期建设。\n  "
-        },
-        {
-            "title": "硅谷AI一线观察：一人花掉50万美金Token背后的大厂焦虑",
+            "title": "英国签证门户网站曝光了数千名申请人的护照和自拍照，然后请了律师来对付我们",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "文｜周鑫雨 邓咏仪\n  编辑｜张雨忻\n  硅谷持续了两个多月的Token-Maxxing（Token军备竞赛）焦虑，在Meta以一种戏谑的方式按下了休止符。\n  前情大家都知道了：2026年3月，为了鼓吹自己是一家“AI-Native”公司"
-        },
-        {
-            "title": "红杉、华兴投了「AI产品的大众点评」，我们与它的02年创始人聊了聊",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "文｜周鑫雨\n  编辑｜张雨忻\n  打开“观猹”，能看到一个完全不同于机构投资榜单所呈现出来的AI创业生态：\n  这里很少有动辄估值几亿美金的项目，活跃在社区中的，也常常不是有着名校、大厂背景的创业者，更多是普通的设计师、产品经理，甚至退休教"
-        },
-        {
-            "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "今日热点导览\n  三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡\n  算力租赁，遭传闻突袭，上市公司回应\n  胖东来成立文化娱乐公司\n  双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因\n  知情人士：字节跳动本月向Seed"
+            "snippet": "该第三方网站暴露了在英国签证申请过程中提交文件的申请人的护照、自拍照和位置数据。该网站没有解决问题，而是派了律师。"
         }
     ]
 }
