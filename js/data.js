@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-05-29 11:59:18
+ * 生成时间: 2026-05-30 08:43:32
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
+            "tag": "重磅 · 应用",
+            "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+            "summary": "一个人拥有整个创意工作室",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "100.0K",
+            "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "url": "https://www.qbitai.com/2026/05/426400.html"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "新的提取工艺如何释放世界锂资源",
+            "summary": "研究人员表示，他们已经找到了一种提取锂的新方法，锂是电动汽车和储能阵列动力锂离子电池中使用的重要金属。这种新技术可能比现有技术更环保、更便宜。”这项研究今天发表在《科学》杂志上，一家名为 Rock Z",
+            "source": "MIT Tech Review",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "下载：气候技术上市，人工智能炒作指数回归",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模",
+            "source": "MIT Tech Review",
+            "time": "昨天",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
+        },
+        {
             "tag": "行业 · 动态",
             "title": "气候技术公司正在上市。接下来是什么？",
             "summary": "今年，出现了一波著名能源公司通过IPO在美国上市的浪潮。太阳能和电池公司 Solv Energy 于 2 月份上市，估值达 60 亿美元。正在建造小型模块化核反应堆的 X-energy 在 4 月份也",
             "source": "MIT Tech Review",
             "time": "昨天",
-            "views": "100.0K",
-            "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
-        },
-        {
-            "tag": "独家 · 研究",
-            "title": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
-            "summary": "说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 告诉亚利桑那大学的毕业生他们的任务是帮助塑造人工",
-            "source": "MIT Tech Review",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
-        },
-        {
-            "tag": "独家 · 研究",
-            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们准确地了解人工智能世界的新闻步伐是多么的无情",
-            "source": "MIT Tech Review",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
-        },
-        {
-            "tag": "头条 · 大模型",
-            "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-            "summary": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-            "source": "量子位",
-            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/05/426552.html"
+            "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
         }
     ],
     "quickNews": [
         {
-            "time": "11:59",
-            "text": "气候技术公司正在上市。接下来是什么？",
+            "time": "08:43",
+            "text": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
             "hot": true,
+            "url": "https://www.qbitai.com/2026/05/426400.html"
+        },
+        {
+            "time": "08:43",
+            "text": "新的提取工艺如何释放世界锂资源",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+        },
+        {
+            "time": "08:43",
+            "text": "下载：气候技术上市，人工智能炒作指数回归",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
+        },
+        {
+            "time": "08:43",
+            "text": "气候技术公司正在上市。接下来是什么？",
+            "hot": false,
             "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
         },
         {
-            "time": "11:59",
+            "time": "08:43",
             "text": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
         },
         {
-            "time": "11:59",
-            "text": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "time": "08:43",
+            "text": "我参加了所谓的“类固醇奥运会”，以了解硅谷为何痴迷于肽",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+            "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
         },
         {
-            "time": "11:59",
-            "text": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+            "time": "08:43",
+            "text": "创始人利用印度法院的裁决重提对谷歌广告业务的批评",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/426552.html"
+            "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/"
         },
         {
-            "time": "11:59",
-            "text": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+            "time": "08:43",
+            "text": "重新思考代理人工智能时代的组织设计",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/05/426548.html"
-        },
-        {
-            "time": "11:59",
-            "text": "致命的埃博拉疫情难以控制",
-            "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
-        },
-        {
-            "time": "11:59",
-            "text": "清华系团队给大模型织了一张“智能算力电网”",
-            "hot": false,
-            "url": "https://www.qbitai.com/2026/05/426353.html"
-        },
-        {
-            "time": "11:59",
-            "text": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
-            "hot": false,
-            "url": "https://www.qbitai.com/2026/05/426366.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
         }
     ],
     "sections": {
@@ -140,44 +140,44 @@ var siteData = {
                     "desc": "今年，出现了一波著名能源公司通过IPO在美国上市的浪潮。太阳能和电池公司 Solv Energy 于 2 月份上市，估值达 60 亿美元。正在建造小型模块化核反应堆的 X-energy 在 4 月份也做了同样的事情，其股价在上市首日就飙升—..."
                 },
                 {
-                    "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
-                    "source": "量子位",
-                    "time": "刚刚",
+                    "title": "我参加了所谓的“类固醇奥运会”，以了解硅谷为何痴迷于肽",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/426552.html"
+                    "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
                 },
                 {
-                    "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-                    "source": "量子位",
-                    "time": "刚刚",
+                    "title": "创始人利用印度法院的裁决重提对谷歌广告业务的批评",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/426548.html"
+                    "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/"
                 },
                 {
-                    "title": "清华系团队给大模型织了一张“智能算力电网”",
+                    "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
                     "source": "量子位",
-                    "time": "9小时前",
+                    "time": "2小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/426353.html"
+                    "url": "https://www.qbitai.com/2026/05/426662.html"
                 },
                 {
-                    "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+                    "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
                     "source": "量子位",
-                    "time": "4小时前",
+                    "time": "23小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/426366.html"
+                    "url": "https://www.qbitai.com/2026/05/426542.html"
                 }
             ]
         },
@@ -201,48 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发",
-                    "desc": "文 | 小葵\n  编辑 | 刘士武\n  36氪获悉，专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。 \n  卡玺CardChic创办于2025年，总部位于杭州。核心团队...",
+                    "title": "程序员拒绝在没有人工智能的情况下工作——这可能会给他们带来负面影响",
+                    "desc": "研究人员警告说，虽然人工智能正在帮助程序员更快地生成代码，但它可能不会生成更好的代码。这可能会给他们带来麻烦。...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "36氪 AI",
-                    "time": "2026-05-29",
+                    "source": "TechCrunch AI",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://36kr.com/p/3829202710045827?f=rss"
+                    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
                 },
                 {
-                    "title": "致命的埃博拉疫情难以控制",
-                    "desc": "警报于5月5日发出。刚果民主共和国伊图里省的四名医护人员在四天内因不明疾病死亡。快速反应小组被派去调查，金沙萨一个研究中心的测试揭示了罪魁祸首：本迪布焦病毒，该病毒是其中一种病毒。...",
+                    "title": "微软因威胁安全研究人员进行刑事调查而受到批评",
+                    "desc": "微软和一名独立安全研究人员之间的公开争执重新引发了一场关于谁负责保护软件安全的长期争论。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "刚刚",
+                    "source": "TechCrunch AI",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
+                    "url": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/"
                 },
                 {
-                    "title": "新的提取工艺如何释放世界锂资源",
-                    "desc": "研究人员表示，他们已经找到了一种提取锂的新方法，锂是电动汽车和储能阵列动力锂离子电池中使用的重要金属。这种新技术可能比现有技术更环保、更便宜。”这项研究今天发表在《科学》杂志上，一家名为 Rock Zero 的初创公司正在致力于“...",
+                    "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
+                    "desc": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”\n  5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提出了这一判断。\n  \n  西安光机所副所长邵晓鹏在沙龙上演讲...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "17小时前",
+                    "source": "36氪 AI",
+                    "time": "2026-05-30",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+                    "url": "https://36kr.com/p/3831071878358659?f=rss"
                 },
                 {
-                    "title": "下载：气候技术上市，人工智能炒作指数回归",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模块化核反应堆的 X-energy 紧随其后——...",
+                    "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+                    "desc": "为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。\n  36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。\n  有接近吉利的知情人士告诉36氪：“这轮整合后，吉利研究院辅助驾驶团队，被平...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "23小时前",
+                    "source": "36氪 AI",
+                    "time": "2026-05-30",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
+                    "url": "https://36kr.com/p/3830580716365449?f=rss"
                 }
             ]
         },
@@ -253,43 +253,50 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
-                    "time": "3小时前",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/05/426400.html"
                 },
                 {
                     "rank": 2,
                     "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-                    "time": "2小时前",
+                    "time": "23小时前",
                     "emoji": "💡",
                     "url": "https://www.qbitai.com/2026/05/426479.html"
                 },
                 {
                     "rank": 3,
-                    "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
-                    "time": "2026-05-29",
+                    "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
+                    "time": "2026-05-30",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3830038913558147?f=rss"
+                    "url": "https://36kr.com/p/3831073348855433?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "铃木敏文去世，他与711的三个反常识故事",
-                    "time": "2026-05-29",
+                    "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
+                    "time": "2026-05-30",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3829890126046851?f=rss"
+                    "url": "https://36kr.com/p/3830545234552452?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
+                    "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
                     "time": "2026-05-29",
                     "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3827323136004992?f=rss"
+                    "url": "https://36kr.com/p/3830038913558147?f=rss"
                 },
                 {
                     "rank": 6,
+                    "title": "铃木敏文去世，他与711的三个反常识故事",
+                    "time": "2026-05-29",
+                    "emoji": "🎵",
+                    "url": "https://36kr.com/p/3829890126046851?f=rss"
+                },
+                {
+                    "rank": 7,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "🎵",
+                    "emoji": "📝",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
@@ -307,66 +314,59 @@ var siteData = {
                 },
                 {
                     "rank": 2,
-                    "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
-                    "time": "2026-05-29",
+                    "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
+                    "time": "2026-05-30",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3830254963517318?f=rss"
+                    "url": "https://36kr.com/p/3831348302358408?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
-                    "time": "2026-05-29",
+                    "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+                    "time": "2026-05-30",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3830194503526277?f=rss"
+                    "url": "https://36kr.com/p/3831135917107075?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "谁是世界上第二爱泡泡玛特的人？",
+                    "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
                     "time": "2026-05-29",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3829746420835715?f=rss"
+                    "url": "https://36kr.com/p/3830254963517318?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "再花22亿乘胜追击，北京城建“龍樾”要抢跑了",
+                    "title": "氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元",
                     "time": "2026-05-29",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3829749268981123?f=rss"
+                    "url": "https://36kr.com/p/3830194503526277?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹",
-                    "time": "2026-05-29",
-                    "emoji": "🔄",
-                    "url": "https://36kr.com/p/3829705374098823?f=rss"
-                },
-                {
-                    "rank": 7,
-                    "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管",
-                    "time": "2026-05-29",
-                    "emoji": "🚀",
-                    "url": "https://36kr.com/p/3829622140593288?f=rss"
-                },
-                {
-                    "rank": 8,
                     "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
                     "time": "2026-05-19",
-                    "emoji": "🤝",
+                    "emoji": "🔄",
                     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
-                    "rank": 9,
+                    "rank": 7,
                     "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
                     "time": "2026-01-16",
-                    "emoji": "📰",
+                    "emoji": "🚀",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
-                    "rank": 10,
+                    "rank": 8,
                     "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
                     "time": "2026-01-13",
-                    "emoji": "🏢",
+                    "emoji": "🤝",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                },
+                {
+                    "rank": 9,
+                    "title": "SpaceX 在 IPO 前获得了 6.45B 美元的太空部队合同",
+                    "time": "10小时前",
+                    "emoji": "📰",
+                    "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/"
                 }
             ]
         },
@@ -412,17 +412,17 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,572",
+                    "stars": "+445,619",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+437,736",
-                    "url": "https://github.com/public-apis/public-apis"
+                    "stars": "+389,191",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 3,
@@ -430,7 +430,7 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+375,425",
+                    "stars": "+375,560",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -439,7 +439,7 @@ var siteData = {
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+355,671",
+                    "stars": "+355,722",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -448,7 +448,7 @@ var siteData = {
                     "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+300,168",
+                    "stars": "+300,309",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
@@ -457,7 +457,7 @@ var siteData = {
                     "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+295,908",
+                    "stars": "+296,115",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
@@ -466,7 +466,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,312",
+                    "stars": "+245,324",
                     "url": "https://github.com/facebook/react"
                 },
                 {
@@ -475,7 +475,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+234,763",
+                    "stars": "+234,844",
                     "url": "https://github.com/torvalds/linux"
                 }
             ]
@@ -485,72 +485,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "气候技术公司正在上市。接下来是什么？",
+            "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
+            "url": "https://www.qbitai.com/2026/05/426400.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
+            "title": "新的提取工艺如何释放世界锂资源",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
+            "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "title": "下载：气候技术上市，人工智能炒作指数回归",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+            "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+            "title": "气候技术公司正在上市。接下来是什么？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426552.html"
+            "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
+            "title": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426548.html"
+            "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "致命的埃博拉疫情难以控制",
+            "title": "我参加了所谓的“类固醇奥运会”，以了解硅谷为何痴迷于肽",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
+            "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "清华系团队给大模型织了一张“智能算力电网”",
+            "title": "创始人利用印度法院的裁决重提对谷歌广告业务的批评",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426353.html"
+            "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
+            "title": "重新思考代理人工智能时代的组织设计",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426366.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+            "title": "下载：打破人工智能就业恐慌",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426447.html"
+            "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+            "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/05/426400.html"
+            "url": "https://www.qbitai.com/2026/05/426662.html"
         }
     ],
     "aiTools": [
@@ -601,15 +601,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Claude",
+            "text": "OPPO",
             "size": "large"
         },
         {
-            "text": "OPPO",
-            "size": "medium"
-        },
-        {
-            "text": "Anthropic",
+            "text": "Claude",
             "size": "medium"
         },
         {
@@ -618,14 +614,22 @@ var siteData = {
         },
         {
             "text": "Code",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "代理",
             "size": "small"
         },
         {
-            "text": "用户",
+            "text": "Anthropic",
+            "size": "small"
+        },
+        {
+            "text": "科技",
+            "size": "small"
+        },
+        {
+            "text": "模型",
             "size": "small"
         },
         {
@@ -641,7 +645,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "IPO",
             "size": "small"
         },
         {
@@ -649,15 +653,29 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "IPO",
-            "size": "small"
-        },
-        {
-            "text": "科技",
+            "text": "机器人",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "一个人拥有整个创意工作室"
+        },
+        {
+            "title": "新的提取工艺如何释放世界锂资源",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "研究人员表示，他们已经找到了一种提取锂的新方法，锂是电动汽车和储能阵列动力锂离子电池中使用的重要金属。这种新技术可能比现有技术更环保、更便宜。”这项研究今天发表在《科学》杂志上，一家名为 Rock Zero 的初创公司正在致力于“"
+        },
+        {
+            "title": "下载：气候技术上市，人工智能炒作指数回归",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模块化核反应堆的 X-energy 紧随其"
+        },
         {
             "title": "气候技术公司正在上市。接下来是什么？",
             "category": "行业动态",
@@ -671,10 +689,64 @@ var siteData = {
             "snippet": "说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 告诉亚利桑那大学的毕业生他们的任务是帮助塑造人工智能时，他遭到了热烈的嘘声。 “我可以…"
         },
         {
+            "title": "我参加了所谓的“类固醇奥运会”，以了解硅谷为何痴迷于肽",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "增强型运动会（Enhanced Games）是一项独特的体育比赛，大多数运动员都服用增强成绩的药物，这可能预示着科技行业已经准备好接受一种新的商业模式。"
+        },
+        {
+            "title": "创始人利用印度法院的裁决重提对谷歌广告业务的批评",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该裁决得到了创始人的支持，而律师表示，这可能迫使平台重新审视如何处理商标关键词。"
+        },
+        {
+            "title": "重新思考代理人工智能时代的组织设计",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。&#160;尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们指出人员、流程和工作流程缺乏准备。＆#160"
+        },
+        {
+            "title": "下载：打破人工智能就业恐慌",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。对人工智能工作歇斯底里的现实检验尽管人们对人工智能对白领工作的威胁越来越歇斯底里，但仍然没有足够的证据表明该技术已经对白领工作产生了大规模影响。"
+        },
+        {
+            "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让世界模型迈向多智能体交互仿真"
+        },
+        {
             "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们准确地了解人工智能世界的新闻步伐是多么的无情……"
+        },
+        {
+            "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "端侧 AI 是一个系统性工程"
+        },
+        {
+            "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这是这个时代的印刷机"
+        },
+        {
+            "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "下一波AI创作浪潮正在游戏领域发生"
+        },
+        {
+            "title": "教皇的《Magnifica Humanitas》如何为个人迎接人工智能时刻提供模板",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "教皇利奥十四世关于人工智能的新通谕包括一项值得技术专家和政策制定者认真关注的声明：“技术从来都不是中立的。” Magnifica Humanitas（“伟大的人性”）是一个响亮的号角，号召所有人勇敢和团结地采取行动，因为我们进入了一个已经被"
         },
         {
             "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
@@ -695,70 +767,46 @@ var siteData = {
             "snippet": "警报于5月5日发出。刚果民主共和国伊图里省的四名医护人员在四天内因不明疾病死亡。快速反应小组被派去调查，金沙萨一个研究中心的测试揭示了罪魁祸首：本迪布焦病毒，该病毒是其中一种病毒。"
         },
         {
-            "title": "清华系团队给大模型织了一张“智能算力电网”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "单位Token成本降低40%"
+            "title": "下载：解锁锂并控制埃博拉",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一种新的提取工艺如何释放世界上的锂 一种提取锂的新方法可以降低世界上最重要的电动汽车材料之一的成本和排放量。"
         },
         {
-            "title": "刚刚，全球⾸个“事件级预测”具身智能世界模型来了！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从按帧学动作，到按「事件」理解世界"
+            "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年"
         },
         {
-            "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "下一波AI创作浪潮正在游戏领域发生"
+            "title": "36氪首发 | 服务富士康，半年营收超两千万的机器人解决方案商完成天使轮融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，乘物机器人（深圳）有限公司（以下简称“乘物机器人”）近日完成天使轮融资，由中国台湾工业自动化与智能机器人解决方案领域龙头企业和椿科技战略投资，华君资本担任独家财务顾问。\n  乘物机器人成"
         },
         {
-            "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+            "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "一个人拥有整个创意工作室"
+            "snippet": "今日热点导览\n  \n   黄仁勋披露“赶飞机”细节，特朗普要出发时来电话\n   国内航线燃油附加费6月5日起首次下调\n   铁路将实施新规：违规乘车拒不补票将被限制购票\n   iPhone 17系列中国销量破3000万台，Pro Max版占"
         },
         {
-            "title": "对人工智能就业歇斯底里的现实检验",
+            "title": "最前线｜中科创星第十二期“好望角科学沙龙”聚焦“太空智驾”，卫星将从被动响应走向自主决策",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "你没听说过吗？白领工作正在消失，被人工智能摧毁。据说，科技行业的一波裁员潮（最近一次是 Coinbase、Meta 和 Cisco）预示着我们所有知识工作者很快就会面临什么。但在你辞掉软件开发人员或金融分析师（或科技记者）的工作之前……"
+            "snippet": "“太空智驾时代将到来，卫星和星座会如同L4级自动驾驶汽车一样，在太空具备自主环境感知、任务规划和机动决策能力。”\n  5月28日，在上海举行的“好望角科学沙龙”上，中国科学院西安光学精密机械研究所（简称“西安光机所”）副所长邵晓鹏在演讲中提"
         },
         {
-            "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "端侧 AI 是一个系统性工程"
+            "title": "千里科技再添筹码，或将整合吉利辅助驾驶团队｜36氪独家",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "为助力千里科技成为“第二个华为”，吉利决定为它增添新的技术筹码。\n  36氪从多位产业人士处了解到，吉利中央研究院数百人的辅助驾驶团队，将在近期被整合入千里科技。目前，吉利研究院辅助驾驶团队，已有人收到了转移合同的通知。\n  有接近吉利的知"
         },
         {
-            "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
+            "title": "连续15年披露ESG报告，自然堂开始把“可持续”做成一门生意｜最前线",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "这是这个时代的印刷机"
-        },
-        {
-            "title": "重新思考代理人工智能时代的组织设计",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "随着企业级人工智能代理的迅速普及，野心与执行力之间出现了脱节。&#160;尽管 85% 的组织表示他们希望在未来三年内实现代理，但 76% 的组织表示他们当前的运营和基础设施无法支持这种变化。他们指出人员、流程和工作流程缺乏准备。＆#160"
-        },
-        {
-            "title": "下载：打破人工智能就业恐慌",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。对人工智能工作歇斯底里的现实检验尽管人们对人工智能对白领工作的威胁越来越歇斯底里，但仍然没有足够的证据表明该技术已经对白领工作产生了大规模影响。"
-        },
-        {
-            "title": "下载：气候技术上市，人工智能炒作指数回归",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模块化核反应堆的 X-energy 紧随其"
-        },
-        {
-            "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "国产算力是潮流，先用起来。"
+            "snippet": "在中国美妆行业增长放缓、价格竞争加剧的背景下，越来越多品牌开始重新审视“可持续发展”这件事的商业意义。\n  5月26日，自然堂集团发布《2025年度可持续发展报告》，这是其连续第15年披露ESG相关内容。相比早期以公益、环保为主的企业社会责"
         },
         {
             "title": "36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投",
@@ -785,58 +833,10 @@ var siteData = {
             "snippet": "铃木敏文\n  作者 | 钟艺璇编辑 | 乔芊\n  5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。\n  作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他"
         },
         {
-            "title": "谁是世界上第二爱泡泡玛特的人？",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 谢芸子\n  编辑 | 张帆 \n  一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。\n  5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5."
-        },
-        {
-            "title": "再花22亿乘胜追击，北京城建“龍樾”要抢跑了",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "5月28日，北京石景山区黄庄村43号棚户区改造项目SS00-1622-002、SS00-2501-002地块进入现场竞拍，最终该地块由北京城建兴通置业有限公司以底价22亿元摘得，成交楼面价约3.31万元/㎡。\n  北京城建兴通置业有限公司是"
-        },
-        {
-            "title": "36氪首发 | 李泽湘系投过的星空摄影设备品牌再获数百万美金融资，产品即将登陆众筹",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，星空原野（重庆）科技有限公司（以下简称“星空原野”）近日完成新一轮融资，由线性资本独家投资数百万美金，安可资本担任公司独家财务顾问。此前公司曾获明月湖国际智能产业科创基地（XbotPar"
-        },
-        {
-            "title": "「卡玺CardChic」  获天使轮融资，以中国文化IP＋精品化打造收藏卡品牌 | 36氪首发",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "文 | 小葵\n  编辑 | 刘士武\n  36氪获悉，专注于中国文化IP的精品卡牌发行品牌「卡玺CardChic」近日已完成近千万级人民币天使轮融资。本轮资金将用于重磅IP的签约储备、产品工艺升级以及新一代TCG对战卡牌的研发与推广。 \n  "
-        },
-        {
-            "title": "半年访谈600+用户、获千万元融资，这名清华毕业生想把脑机“戴”进运动场｜早期项目",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "文｜胡香赟\n  编辑｜海若镜\n  “运动场景中的脑状态监测，正在成为高水平训练和运动健康管理中的新需求。”创业两年，张昊天这样判断。\n  张昊天毕业于清华大学，研究生期间开始探索如何将脑机接口技术应用在C端场景。他坦言，自己最初也没想好具体"
-        },
-        {
-            "title": "8点1氪丨Anthropic完成650亿融资，估值9650亿首次反超OpenAI；售卖不合格足银手镯，周六福被罚；黄仁勋加入清华大学，任经管学院顾问",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "今日热点导览\n  \n   盒马APP可下单租地种菜？客服：正在小范围试点\n   追觅回应“机构报价一天4980元，能与追觅核心高管面对面交流”\n   京东：未来5年培养10万名工程师\n   蔚来CEO李斌：原材料价格上涨，整车成本已涨了1万"
-        },
-        {
             "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
             "category": "行业动态",
             "tag": "industry",
             "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
-        },
-        {
-            "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "总部位于旧金山的云平台 Railway 在没有花费一美元营销费用的情况下悄悄聚集了 200 万开发人员。该平台周四宣布，由于人工智能应用程序需求的激增暴露了传统云基础设施的局限性，该平台在 B 轮融资中筹集了 1 亿美元。TQ Ventur"
-        },
-        {
-            "title": "Claude Code 每月费用高达 200 美元。 Goose 免费做同样的事情。",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "人工智能编码革命伴随着一个问题：价格昂贵。Claude Code 是 Anthropic 的基于终端的 AI 代理，可以自主编写、调试和部署代码，吸引了全世界软件开发人员的想象力。但它的定价——根据使用情况从每月 20 美元到 200 美元"
         }
     ]
 }
