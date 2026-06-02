@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-01 19:29:53
+ * 生成时间: 2026-06-02 12:58:32
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "DDIM之父宋佳铭，宣布离职",
-            "summary": "新的浪潮，还在继续往前推",
+            "tag": "行业 · 动态",
+            "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+            "summary": "已经投资了数个世界领先的AI科技公司",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/05/427104.html"
+            "url": "https://www.qbitai.com/2026/06/427530.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-            "summary": "下一代CUA训练范式",
+            "tag": "行业 · 动态",
+            "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+            "summary": "场景永不消失，多人真正同屏",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/05/427005.html"
+            "url": "https://www.qbitai.com/2026/06/427516.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-            "summary": "我们需要一台「印刷机」",
+            "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+            "summary": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/05/426991.html"
+            "url": "https://www.qbitai.com/2026/06/427231.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "黑客通过欺骗 Meta AI 支持聊天机器人授予访问权限来劫持 Instagram 帐户",
-            "summary": "社交媒体上的几名用户报告称，他们的 Instagram 帐户周末遭到黑客攻击。 Meta 自己的支持聊天机器人被指责允许黑客劫持账户。",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "独家 · 研究",
+            "title": "下载：中国的大脑植入野心",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国已经批准了世界上第一个侵入式脑机芯片——接下来会发生什么",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"
+            "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
         }
     ],
     "quickNews": [
         {
-            "time": "19:29",
-            "text": "DDIM之父宋佳铭，宣布离职",
+            "time": "12:58",
+            "text": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/05/427104.html"
+            "url": "https://www.qbitai.com/2026/06/427530.html"
         },
         {
-            "time": "19:29",
-            "text": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-            "hot": false,
-            "url": "https://www.qbitai.com/2026/05/427005.html"
-        },
-        {
-            "time": "19:29",
-            "text": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-            "hot": false,
-            "url": "https://www.qbitai.com/2026/05/426991.html"
-        },
-        {
-            "time": "19:29",
-            "text": "黑客通过欺骗 Meta AI 支持聊天机器人授予访问权限来劫持 Instagram 帐户",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"
-        },
-        {
-            "time": "19:29",
+            "time": "12:58",
             "text": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
             "hot": false,
             "url": "https://www.qbitai.com/2026/06/427516.html"
         },
         {
-            "time": "19:29",
-            "text": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+            "time": "12:58",
+            "text": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/427530.html"
+            "url": "https://www.qbitai.com/2026/06/427231.html"
         },
         {
-            "time": "19:29",
+            "time": "12:58",
             "text": "下载：中国的大脑植入野心",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
         },
         {
-            "time": "19:29",
-            "text": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "time": "12:58",
+            "text": "中国已批准世界上第一个侵入式脑机芯片——下一步是什么",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+            "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+        },
+        {
+            "time": "12:58",
+            "text": "ZeroDrift 筹集 1000 万美元以保护 AI 模型免受自身侵害",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
+        },
+        {
+            "time": "12:58",
+            "text": "火箭发动机初创公司 Impulse 融资 5 亿美元用于雇佣员工，而不是人工智能",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
+        },
+        {
+            "time": "12:58",
+            "text": "下载：人工智能现在可以运行你的管理部门",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "DDIM之父宋佳铭，宣布离职",
+                    "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/427104.html",
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/06/427530.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "新的浪潮，还在继续往前推..."
+                    "desc": "已经投资了数个世界领先的AI科技公司..."
                 },
                 {
-                    "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+                    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/05/426991.html"
-                },
-                {
-                    "title": "黑客通过欺骗 Meta AI 支持聊天机器人授予访问权限来劫持 Instagram 帐户",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
-                    "views": "60.14K",
-                    "comments": "220",
-                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"
-                },
-                {
-                    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-                    "source": "量子位",
-                    "time": "9小时前",
-                    "views": "50.21K",
-                    "comments": "180",
-                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "domestic",
                     "url": "https://www.qbitai.com/2026/06/427516.html"
                 },
                 {
-                    "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+                    "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
                     "source": "量子位",
-                    "time": "8小时前",
+                    "time": "昨天",
+                    "views": "60.14K",
+                    "comments": "220",
+                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/06/427231.html"
+                },
+                {
+                    "title": "ZeroDrift 筹集 1000 万美元以保护 AI 模型免受自身侵害",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
+                    "views": "50.21K",
+                    "comments": "180",
+                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
+                },
+                {
+                    "title": "火箭发动机初创公司 Impulse 融资 5 亿美元用于雇佣员工，而不是人工智能",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/06/427530.html"
+                    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】无瓶颈统一多模态模型的表示强迫",
-                    "desc": "统一多模态模型（UMM）旨在在单个模型中处理感知和生成。然而，现有的 UMM 仍然依赖于冻结的、单独预训练的 VAE 来生成图像，从而造成了结构瓶颈。天真地删除它会带来质量差距，因为模型必须从原始像素中学习高级结构和低级细节。在本文中，我们提出了表示强制（RF），这是一种通过使表示预测成为机器学习的...",
+                    "title": "下载：人工智能现在可以运行你的管理部门",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。小型企业如何利用人工智能从会计到设计再到市场研究和产品开发，经营企业所需的技能范围极其广泛。大公司可以雇佣——...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "刚刚",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31604v1"
+                    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
                 },
                 {
-                    "title": "【arXiv】Lumos-Nexus：视频统一模型的同质潜在空间的高效频率桥接",
-                    "desc": "基于连接器的视频统一模型在基于指令的视频合成方面表现出了强大的能力，但将大型高保真生成器集成到统一训练循环中在计算上是令人望而却步的，限制了可实现的视觉质量。因此，我们提出了 Lumos-Nexus，这是一种训练高效的统一视频生成框架，有助于开发强大的推理驱动生成能力，同时显着增强视觉保真度。 Lu...",
+                    "title": "下载：中国的大脑植入野心",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国已经批准了世界上第一个侵入式脑机芯片——接下来会发生什么...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31603v1"
+                    "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
                 },
                 {
-                    "title": "【arXiv】用于长视频理解的线性缩放视频 VLM",
-                    "desc": "视频视觉语言模型 (VLM) 越来越多地用于长视界和流媒体设置，但大多数视频编码器仍然依赖于时空自注意力，导致计算和延迟随着帧数呈二次方增长。现有的效率方法提高了可扩展性，但相对于完全自注意力，通常会损失准确性，例如通过积极的帧/令牌​​丢弃或粗略的注意力近似。我们引入 StateKV，一种适应 p...",
+                    "title": "中国已批准世界上第一个侵入式脑机芯片——下一步是什么",
+                    "desc": "去年十月的一天，董辉坐在中国河南省自家的院子里，决定看看自己是否能拿笔写字。 39岁的董六年前在一场车祸中脊髓受伤，导致颈部以下瘫痪。他缓慢而坚定地写道——...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31598v1"
+                    "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
                 },
                 {
-                    "title": "【arXiv】SOCO：视觉基础模型中语义对象对应的基准测试",
-                    "desc": "由于不一致的评估协议和有限的部件级监督，测量视觉基础模型中的结构化对象理解仍然具有挑战性。语义对应 (SC) 通过测试对象部分是否可以在外观、视点和几何形状发生较大变化的情况下跨实例和类别进行匹配来评估此功能。为了实现系统的 SC 评估，我们引入了 SOCO，这是语义对象对应的新基准，它引入了语义对...",
+                    "title": "下载：解锁锂并控制埃博拉",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一种新的提取工艺如何释放世界上的锂 一种提取锂的新方法可以降低世界上最重要的电动汽车材料之一的成本和排放量。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "4天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31597v1"
-                },
-                {
-                    "title": "【arXiv】KLIP：通过 KL 散度与逆问题中的扩散先验进行局部分布偏移检测",
-                    "desc": "扩散模型作为计算成像的数据驱动先验，显示出了良好的性能，并且具有检测分布外（OOD）图像的一定能力。然而，现有的 OOD 检测方法通常需要一些关于偏移分布的知识，无法检测细微或局部的分布偏移，并且对完整图像进行操作，而不是在逆问题中可用的间接测量。我们提出了一种基于 Kullback-Leibler...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "3天前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31596v1"
-                },
-                {
-                    "title": "【arXiv】使用紧凑高斯学习全局运动以进行前馈 4D 重建",
-                    "desc": "单目视频的动态场景重建仍然是计算机视觉中的一个基本挑战。现有的前馈方法按像素预测每帧的 3D 高斯分布，但存在重复的高斯分布和依赖于视图的偏差，阻碍了场景运动的有效学习。我们提出了 C4G，一种前馈 4D 重建框架，它构建在一组紧凑的时间戳条件可学习高斯查询标记上。每个令牌聚合了整个时域中相应的特征...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "3天前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2605.31595v1"
+                    "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
                 }
             ]
         },
@@ -274,38 +252,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-                    "time": "昨天",
+                    "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+                    "time": "5小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/05/427005.html"
+                    "url": "https://www.qbitai.com/2026/06/427754.html"
                 },
                 {
                     "rank": 2,
-                    "title": "通过学习成对初始化和几何细化进行联合多相机 LiDAR 外部校准",
-                    "time": "3天前",
+                    "title": "小型企业如何利用人工智能",
+                    "time": "3小时前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2605.31576v1"
+                    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "氪星晚报｜中国国新等在杭州成立创业投资基金，出资额10.01亿；天津人工智能传感器产业园正式开园，首批10家企业集中签约；浙江：拟实施“星火",
-                    "time": "2026-06-01",
+                    "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发",
+                    "time": "2026-06-02",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3834354415347337?f=rss"
+                    "url": "https://36kr.com/p/3834354708031111?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
+                    "time": "2026-06-02",
                     "emoji": "🔍",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://36kr.com/p/3835511712363657?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "新应用程序 The Mall 正在构建在线购物的通用源",
-                    "time": "1小时前",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 6,
@@ -320,73 +298,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-                    "time": "9小时前",
-                    "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/06/427516.html"
-                },
-                {
-                    "rank": 2,
                     "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-                    "time": "8小时前",
-                    "emoji": "💰",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/06/427530.html"
                 },
                 {
+                    "rank": 2,
+                    "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+                    "time": "昨天",
+                    "emoji": "💰",
+                    "url": "https://www.qbitai.com/2026/06/427516.html"
+                },
+                {
                     "rank": 3,
-                    "title": "气候技术公司正在上市。接下来是什么？",
-                    "time": "4天前",
+                    "title": "火箭发动机初创公司 Impulse 融资 5 亿美元用于雇佣员工，而不是人工智能",
+                    "time": "刚刚",
                     "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
+                    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
                 },
                 {
                     "rank": 4,
-                    "title": "SpaceX表示可能会在“未来交易”中发行“大量”股权",
-                    "time": "3小时前",
+                    "title": "美团在竞争中看清自己",
+                    "time": "2026-06-02",
                     "emoji": "🌏",
-                    "url": "https://techcrunch.com/2026/06/01/spacex-says-it-may-issue-significant-equity-in-future-transactions/"
+                    "url": "https://36kr.com/p/3835814792492416?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
-                    "time": "2026-06-01",
+                    "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+                    "time": "2026-06-02",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3834544830721671?f=rss"
+                    "url": "https://36kr.com/p/3835814391100550?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家",
-                    "time": "2026-06-01",
+                    "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+                    "time": "2026-06-02",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3826034537223043?f=rss"
+                    "url": "https://36kr.com/p/3800191597583621?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "今年盛夏，WAVES之夜会浪的一群年轻人",
-                    "time": "2026-06-01",
+                    "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+                    "time": "2026-06-02",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3834276149356420?f=rss"
+                    "url": "https://36kr.com/p/3835387558065541?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
-                    "time": "2026-06-01",
+                    "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+                    "time": "2026-06-02",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3834427736024965?f=rss"
+                    "url": "https://36kr.com/p/3834292242130825?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "我们有全世界最多的运动鞋，却没有一支值得爱20年的球队",
-                    "time": "2026-06-01",
+                    "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+                    "time": "2026-06-02",
                     "emoji": "📰",
-                    "url": "https://36kr.com/p/3834297577383553?f=rss"
+                    "url": "https://36kr.com/p/3835278829008257?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "「AromeManpo馥郁满铺」完成近亿元B轮融资，今年线下门店将突破10家",
-                    "time": "2026-06-01",
+                    "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+                    "time": "2026-06-02",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3832924137138057?f=rss"
+                    "url": "https://36kr.com/p/3834400181741440?f=rss"
                 }
             ]
         },
@@ -428,75 +406,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "sindresorhus/awesome",
+                    "desc": "😎 关于各种有趣主题的精彩列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+472,244",
+                    "url": "https://github.com/sindresorhus/awesome"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+445,776",
+                    "stars": "+445,823",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "name": "public-apis/public-apis",
                     "desc": "免费 API 集合列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+438,446",
+                    "stars": "+438,654",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+376,049",
+                    "stars": "+376,190",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+355,875",
+                    "stars": "+355,941",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
+                    "rank": 6,
+                    "name": "vinta/awesome-python",
+                    "desc": "Python 框架、库、工具和资源的固定列表",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+296,656",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+300,874",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
                     "name": "facebook/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,361",
+                    "stars": "+245,378",
                     "url": "https://github.com/facebook/react"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+235,052",
+                    "stars": "+235,109",
                     "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 8,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "所有算法均用Python实现",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+221,549",
-                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -505,72 +483,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "DDIM之父宋佳铭，宣布离职",
+            "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/05/427104.html"
+            "url": "https://www.qbitai.com/2026/06/427530.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+            "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/05/427005.html"
+            "url": "https://www.qbitai.com/2026/06/427516.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+            "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/05/426991.html"
+            "url": "https://www.qbitai.com/2026/06/427231.html"
         },
         {
             "rank": 4,
-            "top3": false,
-            "title": "黑客通过欺骗 Meta AI 支持聊天机器人授予访问权限来劫持 Instagram 帐户",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/"
-        },
-        {
-            "rank": 5,
-            "top3": false,
-            "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-            "heat": "",
-            "url": "https://www.qbitai.com/2026/06/427516.html"
-        },
-        {
-            "rank": 6,
-            "top3": false,
-            "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-            "heat": "",
-            "url": "https://www.qbitai.com/2026/06/427530.html"
-        },
-        {
-            "rank": 7,
             "top3": false,
             "title": "下载：中国的大脑植入野心",
             "heat": "",
             "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
         },
         {
+            "rank": 5,
+            "top3": false,
+            "title": "中国已批准世界上第一个侵入式脑机芯片——下一步是什么",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
+        },
+        {
+            "rank": 6,
+            "top3": false,
+            "title": "ZeroDrift 筹集 1000 万美元以保护 AI 模型免受自身侵害",
+            "heat": "",
+            "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/"
+        },
+        {
+            "rank": 7,
+            "top3": false,
+            "title": "火箭发动机初创公司 Impulse 融资 5 亿美元用于雇佣员工，而不是人工智能",
+            "heat": "",
+            "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/"
+        },
+        {
             "rank": 8,
             "top3": false,
-            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "title": "下载：人工智能现在可以运行你的管理部门",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+            "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "随着流量的激增，DuckDuckGo 使其“非人工智能”搜索引擎更易于访问",
+            "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/"
+            "url": "https://www.qbitai.com/2026/06/427729.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Revolut 在更广泛的推出之前向印度数千名用户推出服务",
+            "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/"
+            "url": "https://www.qbitai.com/2026/06/427730.html"
         }
     ],
     "aiTools": [
@@ -617,7 +595,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "模型",
+            "text": "AI",
             "size": "large"
         },
         {
@@ -633,15 +611,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "模型",
             "size": "medium"
         },
         {
-            "text": "视频",
-            "size": "small"
-        },
-        {
-            "text": "代理",
+            "text": "豆包",
             "size": "small"
         },
         {
@@ -649,58 +623,44 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "智能",
+            "size": "small"
+        },
+        {
+            "text": "创始人",
+            "size": "small"
+        },
+        {
+            "text": "Ventures",
+            "size": "small"
+        },
+        {
+            "text": "Salesforce",
+            "size": "small"
+        },
+        {
+            "text": "Slackbot",
+            "size": "small"
+        },
+        {
+            "text": "市场",
+            "size": "small"
+        },
+        {
             "text": "OpenAI",
-            "size": "small"
-        },
-        {
-            "text": "Meta",
-            "size": "small"
-        },
-        {
-            "text": "机器人",
-            "size": "small"
-        },
-        {
-            "text": "用户",
-            "size": "small"
-        },
-        {
-            "text": "功能",
-            "size": "small"
-        },
-        {
-            "text": "Lumos",
-            "size": "small"
-        },
-        {
-            "text": "Nexus",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "DDIM之父宋佳铭，宣布离职",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "新的浪潮，还在继续往前推"
-        },
-        {
-            "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "下一代CUA训练范式"
-        },
-        {
-            "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "我们需要一台「印刷机」"
-        },
-        {
-            "title": "黑客通过欺骗 Meta AI 支持聊天机器人授予访问权限来劫持 Instagram 帐户",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "社交媒体上的几名用户报告称，他们的 Instagram 帐户周末遭到黑客攻击。 Meta 自己的支持聊天机器人被指责允许黑客劫持账户。"
+            "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "已经投资了数个世界领先的AI科技公司"
         },
         {
             "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
@@ -709,10 +669,10 @@ var siteData = {
             "snippet": "场景永不消失，多人真正同屏"
         },
         {
-            "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "已经投资了数个世界领先的AI科技公司"
+            "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
         },
         {
             "title": "下载：中国的大脑植入野心",
@@ -721,28 +681,46 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国已经批准了世界上第一个侵入式脑机芯片——接下来会发生什么"
         },
         {
-            "title": "下载：跟上人工智能的步伐，以及 IVF 的未来",
+            "title": "中国已批准世界上第一个侵入式脑机芯片——下一步是什么",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。密切关注今年夏天人工智能领域的最新动态，在《麻省理工学院技术评论》中，我们准确地了解人工智能世界的新闻步伐是多么的无情……"
+            "snippet": "去年十月的一天，董辉坐在中国河南省自家的院子里，决定看看自己是否能拿笔写字。 39岁的董六年前在一场车祸中脊髓受伤，导致颈部以下瘫痪。他缓慢而坚定地写道——"
         },
         {
-            "title": "随着流量的激增，DuckDuckGo 使其“非人工智能”搜索引擎更易于访问",
+            "title": "ZeroDrift 筹集 1000 万美元以保护 AI 模型免受自身侵害",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "另类搜索引擎 DuckDuckGo 为 Chrome 和 Firefox 用户推出“无人工智能”网络扩展。"
+            "snippet": "新的人工智能合规服务位于人工智能模型和最终用户之间，用于标记和替换可能带来合规性问题的任何消息。"
         },
         {
-            "title": "Revolut 在更广泛的推出之前向印度数千名用户推出服务",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这家英国金融科技公司在印度建立了约 45 万用户的候补名单，为更广泛的推出做准备。"
+            "title": "火箭发动机初创公司 Impulse 融资 5 亿美元用于雇佣员工，而不是人工智能",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Impulse Space 总裁埃里克·罗莫 (Eric Romo) 表示，工程物理系统仍然取决于人类才能。"
         },
         {
-            "title": "新的提取工艺如何释放世界上的锂资源",
+            "title": "下载：人工智能现在可以运行你的管理部门",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "研究人员表示，他们已经找到了一种提取锂的新方法，锂是电动汽车和储能阵列动力锂离子电池中使用的重要金属。这种新技术可能比现有技术更环保、更便宜。”这项研究今天发表在《科学》杂志上，一家名为 Rock Zero 的初创公司正在致力于“"
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。小型企业如何利用人工智能从会计到设计再到市场研究和产品开发，经营企业所需的技能范围极其广泛。大公司可以雇佣——"
+        },
+        {
+            "title": "机器人运控训练步入分钟级时代！清华AIR开源UniLab：3分钟训好人形，速度暴涨10倍，Mac上也能跑",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全新的机器人强化学习训练架构"
+        },
+        {
+            "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Qwen3.7-Plus已上线阿里云百炼"
+        },
+        {
+            "title": "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "已上线 PaddleOCR 官网，支持网页端和API调用"
         },
         {
             "title": "下载：气候技术上市，人工智能炒作指数回归",
@@ -751,28 +729,10 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。气候技术公司正在上市。接下来是什么？太阳能和电池公司Solv Energy于2月份上市，估值达到60亿美元。建造小型模块化核反应堆的 X-energy 紧随其"
         },
         {
-            "title": "气候技术公司正在上市。接下来是什么？",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "今年，出现了一波著名能源公司通过IPO在美国上市的浪潮。太阳能和电池公司 Solv Energy 于 2 月份上市，估值达 60 亿美元。正在建造小型模块化核反应堆的 X-energy 在 4 月份也做了同样的事情，其股价在上市首日就飙升—"
-        },
-        {
-            "title": "人工智能炒作指数：人工智能在毕业季遭到嘘声",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "说人工智能将改变世界是一回事。期望 2026 届毕业生为它鼓掌则是另一回事。事实上，当谷歌前首席执行官埃里克·施密特 (Eric Sc​​hmidt) 告诉亚利桑那大学的毕业生他们的任务是帮助塑造人工智能时，他遭到了热烈的嘘声。 “我可以…"
-        },
-        {
-            "title": "SpaceX表示可能会在“未来交易”中发行“大量”股权",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "该公司向潜在投资者发出警告，称其上市后可能会出现重大稀释。"
-        },
-        {
-            "title": "这家人工智能天气初创公司的预测能力超过了政府机构",
+            "title": "“豆包汽车”，目标市场10万-20万",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Windborne Systems 最新的天气预报模型比政府的最佳预测好几天了。"
+            "snippet": "国资入主，赛力斯让权"
         },
         {
             "title": "下载：解锁锂并控制埃博拉",
@@ -793,70 +753,88 @@ var siteData = {
             "snippet": "教皇利奥十四世关于人工智能的新通谕包括一项值得技术专家和政策制定者认真关注的声明：“技术从来都不是中立的。” Magnifica Humanitas（“伟大的人性”）是一个响亮的号角，号召所有人勇敢和团结地采取行动，因为我们进入了一个已经被"
         },
         {
-            "title": "无瓶颈统一多模态模型的表示强迫",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "统一多模态模型（UMM）旨在在单个模型中处理感知和生成。然而，现有的 UMM 仍然依赖于冻结的、单独预训练的 VAE 来生成图像，从而造成了结构瓶颈。天真地删除它会带来质量差距，因为模型必须从原始像素中学习高级结构和低级细节。在本文中，我们"
-        },
-        {
-            "title": "Lumos-Nexus：视频统一模型的同质潜在空间的高效频率桥接",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "基于连接器的视频统一模型在基于指令的视频合成方面表现出了强大的能力，但将大型高保真生成器集成到统一训练循环中在计算上是令人望而却步的，限制了可实现的视觉质量。因此，我们提出了 Lumos-Nexus，这是一种训练高效的统一视频生成框架，有助"
-        },
-        {
-            "title": "用于长视频理解的线性缩放视频 VLM",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视频视觉语言模型 (VLM) 越来越多地用于长视界和流媒体设置，但大多数视频编码器仍然依赖于时空自注意力，导致计算和延迟随着帧数呈二次方增长。现有的效率方法提高了可扩展性，但相对于完全自注意力，通常会损失准确性，例如通过积极的帧/令牌​​丢"
-        },
-        {
-            "title": "SOCO：视觉基础模型中语义对象对应的基准测试",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "由于不一致的评估协议和有限的部件级监督，测量视觉基础模型中的结构化对象理解仍然具有挑战性。语义对应 (SC) 通过测试对象部分是否可以在外观、视点和几何形状发生较大变化的情况下跨实例和类别进行匹配来评估此功能。为了实现系统的 SC 评估，我"
-        },
-        {
-            "title": "KLIP：通过 KL 散度与逆问题中的扩散先验进行局部分布偏移检测",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "扩散模型作为计算成像的数据驱动先验，显示出了良好的性能，并且具有检测分布外（OOD）图像的一定能力。然而，现有的 OOD 检测方法通常需要一些关于偏移分布的知识，无法检测细微或局部的分布偏移，并且对完整图像进行操作，而不是在逆问题中可用的间"
-        },
-        {
-            "title": "使用紧凑高斯学习全局运动以进行前馈 4D 重建",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "单目视频的动态场景重建仍然是计算机视觉中的一个基本挑战。现有的前馈方法按像素预测每帧的 3D 高斯分布，但存在重复的高斯分布和依赖于视图的偏差，阻碍了场景运动的有效学习。我们提出了 C4G，一种前馈 4D 重建框架，它构建在一组紧凑的时间戳"
-        },
-        {
-            "title": "状态在线监控捕获分布式代理攻击",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "语言模型可以发现数千个严重的软件漏洞，代理越来越多地被滥用于网络攻击。为了避免检测，攻击者经常分布滥用，将有害任务分散到多个用户帐户中，以便每个单独的记录看起来都是良性的。由于安全监控器一次只能对一个代理上下文进行评分，因此它们在结构上对滥"
-        },
-        {
-            "title": "CoFiDA-M：通过仅图像推理进行跨域适应的概念感知特征调制",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当从专家皮肤镜（源）图像转向消费级临床（目标）图像时，基于人工智能的皮肤癌筛查模型的性能会严重下降，从而阻碍了现实世界的部署。现有的领域适应方法经常忽略关键的语义不变量，例如临床概念。虽然像 MONET 这样的新基础模型可以提供这种语义信息"
-        },
-        {
-            "title": "TunerDiT：用于多事件视频生成的扩散变压器的免训练渐进式转向",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在生成包含多个事件的长视野视频时，文本到视频 (T2V) 生成面临着具有挑战性的问题。受扩散过程内在本质的启发，我们探究了视频扩散变换器（DiT）并揭示了 DiT 去噪轨迹中的内在转折点，其中条件文本影响从全局布局到细粒度细节的生成。基于这"
-        },
-        {
-            "title": "识别野外的共同语音手势",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "虽然人类在讲话时会自然地做出手势，但这些动作中只有一小部分具有视觉描述性并在语义上与特定的口语单词相关联。当前的多模态模型很难捕获这些语义协同语音手势，由于缺乏精确注释的训练数据而受到严重瓶颈。为了解决这个问题，我们引入了野外手势识别（GR"
-        },
-        {
-            "title": "语言模型学习构造语义，更不用说语法了：研究 LM 对配对焦点构造的理解",
+            "title": "新的提取工艺如何释放世界锂资源",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "事实证明，掌握罕见结构（形式-意义配对）的语义是一个具有挑战性的问题，目前只有最大的法学硕士才能解决。开源模型是否具有强大的结构性理解仍然是一个悬而未决的问题，如果是的话，获取这些知识的基础是什么学习动力。专注于英语中一组罕见的配对焦点结构"
+            "snippet": "研究人员表示，他们已经找到了一种提取锂的新方法，锂是电动汽车和储能阵列动力锂离子电池中使用的重要金属。这种新技术可能比现有技术更环保、更便宜。”这项研究今天发表在《科学》杂志上，一家名为 Rock Zero 的初创公司正在致力于“"
+        },
+        {
+            "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI视频编辑先理解再动手"
+        },
+        {
+            "title": "小型企业如何利用人工智能",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "本文来自麻省理工学院技术评论的限量版时事通讯《Making AI Work》，探讨如何在各行业应用法学硕士。要在您的收件箱中接收它，请在此处注册。从会计到设计，再到市场研究和产品开发，经营企业所需的技能范围极其广泛。大公司可以聘请专家来“"
+        },
+        {
+            "title": "氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "大公司：\n  高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜\n  36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局"
+        },
+        {
+            "title": "美团在竞争中看清自己",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者｜任彩茹\n  编辑｜乔芊\n  参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。\n  2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161"
+        },
+        {
+            "title": "豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜肖思佳\n  编辑｜乔芊 杨轩\n  5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、2"
+        },
+        {
+            "title": "做了18年民宿的爱彼迎，开始卖酒店了？",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "爱彼迎的”进化“\n  五月的旧金山，正在经历一场技术的集体癫狂。硅谷的各路AI新贵忙着为机器进化摇旗呐喊，把发布会开成一场场技术狂欢，仿佛人类的下一步就是被算法接管一切。\n  同样的城市里，Brian Chesky——爱彼迎联合创始人兼首席"
+        },
+        {
+            "title": "深创投押注全球植纤皮革头部品牌，超级皮儿PEELSPHERE®完成近亿级融资｜36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "36氪获悉，植物纤维皮革面料公司深圳朴飞生物（以下简称超级皮儿PEELSPHERE®）已完成新一轮融资，由头部创投机构——深圳市创新投资集团有限公司（深创投）独家战略投资。此轮资金将主要用于新产品研发与团队扩充。\n  超级皮儿PEELSPH"
+        },
+        {
+            "title": "36氪首发｜原小天才团队做老年硬件，切入居家看护赛道，即将进入海外市场",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，近日，居家养老消费电子品牌「元生智能」完成新一轮超千万元Pre-A轮融资。本轮融资由银创资本领投，东科创跟投。本轮资金将主要用于渠道拓展以及相关新产品的持续迭代。\n  元生智能是硬氪长期"
+        },
+        {
+            "title": "前美团外卖技术负责人创业，做具身智能时代的“餐饮世界模型”",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "具身智能的落地，正在从实验室走向最真实、最繁忙的物理世界。\n  而元节智能（AtomBite.AI）选择了一个看起来并不性感、但足够真实的场景：餐饮后厨。\n  36氪获悉，具身智能公司元节智能近日完成千万级种子轮融资，由英诺科创基金领投，水"
+        },
+        {
+            "title": "8点1氪丨豆包将在6月下旬正式付费 ；韩国SK海力士工厂发生火灾；宇树科技IPO过会，王兴兴身家或超140亿",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今日热点导览\n  \n   闲鱼回应读取用户手机内文物照片上架售卖\n   赛力斯字节合作新品牌细节曝光：将推纯电、增程双动力\n   英伟达推出NVIDIA DSX平台\n   OpenAI官宣进军机器人赛道，短期内专注研发协助型机器人\n   4"
+        },
+        {
+            "title": "首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。\n  A"
+        },
+        {
+            "title": "豆包6月下旬正式付费，并加速打通抖音电商丨独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、"
+        },
+        {
+            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
         }
     ]
 }
