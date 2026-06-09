@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-08 14:40:19
+ * 生成时间: 2026-06-09 11:43:46
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "遭到黑客攻击、泄露并勒索赎金：2026 年迄今为止最严重的违规行为",
-            "summary": "从大规模 DOGE 数据泄露、关键能源和供水系统遭到黑客攻击，到 FBI 监控系统遭到黑客攻击，以下是 2026 年最具破坏性的安全事件和数据泄露事件。",
-            "source": "TechCrunch AI",
+            "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+            "summary": "协助用户与商家判断智能体可信赖程度",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/"
+            "url": "https://www.qbitai.com/2026/06/432587.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
-            "summary": "即使使用锁定模式，ChatGPT 仍然可能容易受到提示注入的攻击，但目标是减少敏感数据在此过程中共享的可能性。",
-            "source": "TechCrunch AI",
+            "tag": "重磅 · 应用",
+            "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+            "summary": "ABot-Earth0.5正式开放内测",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+            "url": "https://www.qbitai.com/2026/06/432489.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
-            "summary": "苹果 WWDC 即将来临：以下是您可以期待的内容。",
-            "source": "TechCrunch AI",
+            "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+            "summary": "豆包硬刚ChatGPT",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+            "url": "https://www.qbitai.com/2026/06/432425.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "有余凯不投的地平线离职创业员工吗？",
-            "summary": "「放任」人才外流的反常操作，只是格局使然吗？",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "为什么今年的世界杯用球可能不会飞得那么远",
+            "summary": "本月即将在美国、加拿大和墨西哥举行的国际足联世界杯比赛有很多新内容。它接待的球队比以往任何时候都多。这是第一次在三个不同的东道国发生。而且，与半个多世纪以来的前代杯赛一样，它将采用带有“球面”的足球。",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/06/431931.html"
+            "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/"
         }
     ],
     "quickNews": [
         {
-            "time": "14:40",
-            "text": "遭到黑客攻击、泄露并勒索赎金：2026 年迄今为止最严重的违规行为",
+            "time": "11:43",
+            "text": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/"
+            "url": "https://www.qbitai.com/2026/06/432587.html"
         },
         {
-            "time": "14:40",
-            "text": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
+            "time": "11:43",
+            "text": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+            "url": "https://www.qbitai.com/2026/06/432489.html"
         },
         {
-            "time": "14:40",
-            "text": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
+            "time": "11:43",
+            "text": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+            "url": "https://www.qbitai.com/2026/06/432425.html"
         },
         {
-            "time": "14:40",
-            "text": "有余凯不投的地平线离职创业员工吗？",
+            "time": "11:43",
+            "text": "为什么今年的世界杯用球可能不会飞得那么远",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/431931.html"
+            "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/"
         },
         {
-            "time": "14:40",
-            "text": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+            "time": "11:43",
+            "text": "为什么苹果缓慢而稳定的人工智能赌注开始看起来相当明智",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/431694.html"
+            "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
         },
         {
-            "time": "14:40",
-            "text": "Eventbrite 和 Vimeo 所有者 Bending Spoons 申请公开",
+            "time": "11:43",
+            "text": "DeepSeek开招土木老哥：自建GW级数据中心",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/"
+            "url": "https://www.qbitai.com/2026/06/432735.html"
         },
         {
-            "time": "14:40",
-            "text": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+            "time": "11:43",
+            "text": "国产通用大模型第一梯队，来新人了？！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/432084.html"
+            "url": "https://www.qbitai.com/2026/06/432747.html"
         },
         {
-            "time": "14:40",
-            "text": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+            "time": "11:43",
+            "text": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/432417.html"
+            "url": "https://www.qbitai.com/2026/06/433478.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "遭到黑客攻击、泄露并勒索赎金：2026 年迄今为止最严重的违规行为",
-                    "source": "TechCrunch AI",
+                    "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+                    "url": "https://www.qbitai.com/2026/06/432587.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "从大规模 DOGE 数据泄露、关键能源和供水系统遭到黑客攻击，到 FBI 监控系统遭到黑客攻击，以下是 2026 年最具破坏性的安全事件和数据泄露事件。..."
+                    "desc": "协助用户与商家判断智能体可信赖程度..."
                 },
                 {
-                    "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
-                    "source": "TechCrunch AI",
+                    "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+                    "url": "https://www.qbitai.com/2026/06/432425.html"
                 },
                 {
-                    "title": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
+                    "title": "为什么苹果缓慢而稳定的人工智能赌注开始看起来相当明智",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+                    "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
                 },
                 {
-                    "title": "有余凯不投的地平线离职创业员工吗？",
+                    "title": "DeepSeek开招土木老哥：自建GW级数据中心",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/431931.html"
+                    "url": "https://www.qbitai.com/2026/06/432735.html"
                 },
                 {
-                    "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+                    "title": "国产通用大模型第一梯队，来新人了？！",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/06/431694.html"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/06/432747.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】法学硕士在玩骰子方面有多可靠？",
-                    "desc": "我们通过离散概率问题的受控基准研究来研究大型语言模型的概率推理能力。我们构建了两个数据集，分别是一组标准练习和一组反直觉练习，旨在触发启发式推理，并评估了 8 个最先进的模型，每个模型都在有或没有思想链提示的情况下进行了测试。模型在标准问题上的平均准确度为 0.96，但在反直觉问题上的平均准确度仅为...",
+                    "title": "【arXiv】视频世界模型的潜在空间记忆",
+                    "desc": "在生成的帧之间保持 3D 空间一致性的视频世界模型通常依赖于在 RGB 空间中构建的显式点云内存。这种设计的计算成本很高，需要重复渲染和 VAE 编码，而且本质上是有损耗的，因为像素空间的往返会丢弃所学习的潜在表示的丰富特征。在本文中，我们为视频世界模型引入了 \\emph{潜在空间记忆}，这是一种存...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07515v1"
+                    "url": "http://arxiv.org/abs/2606.09828v1"
                 },
                 {
-                    "title": "【arXiv】UniSHARP：通用锐单目视图合成",
-                    "desc": "在这项工作中，我们专注于扩展 SHARP（流行的照片级真实感视图合成方法），以实现整个相机系统的通用单目渲染，从传统的透视相机到宽视场、鱼眼和全向全景设置。为了克服 SHARP 的针孔特定假设，我们的关键思想是在统一的全向潜在空间中对齐各种图像。因此，我们提出了 UniSHARP，它在特征和高斯中执...",
+                    "title": "【arXiv】MemoryVLA++：通过视觉-语言-动作模型中的记忆和想象力进行时间建模",
+                    "desc": "时间建模对于机器人操作至关重要，因为有效的控制需要对过去交互的记忆和对未来状态的想象。然而，大多数 VLA 模型主要依赖于当前的观察，因此难以处理长期的、时间相关的任务。认知科学表明，人类依靠工作记忆来缓冲短暂的环境，依靠海马系统来保存过去经历的情景记忆，依靠内部模型来想象可能的未来...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07514v1"
+                    "url": "http://arxiv.org/abs/2606.09827v1"
                 },
                 {
-                    "title": "【arXiv】Agentopia：智能体社会中的长期生活模拟和学习",
-                    "desc": "人类从社会生活中学习。使用法学硕士驱动的代理来模拟这一过程代表了一个有前途的研究方向，自然而然地提出了一个问题：法学硕士是否可以从这种模拟的社会经验中学习，以更好地理解和复制人类行为。然而，之前的智能体社会模拟通常以天为单位进行，限制了社会互动的深度和长期增长。在本文中，我们研究了代理社会中的长期生...",
+                    "title": "【arXiv】OmniGameArena：具有改进动态的 VLM 游戏代理的统一 UE5 基准",
+                    "desc": "视觉语言模型（VLM）代理越来越多地部署在交互式游戏环境中。然而，VLM 代理的游戏基准通常会报告每个（代理、游戏）对的单个首次尝试分数，专注于单代理单人游戏，并且缺乏在相同基础上评估异构代理类别（商业 VLM、开放权重 VLM 和专门游戏策略）的统一协议。我们通过 OmniGameArena 解决...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07513v1"
+                    "url": "http://arxiv.org/abs/2606.09826v1"
                 },
                 {
-                    "title": "【arXiv】MemDreamer：通过分层图内存和代理检索机制解耦长视频理解的感知和推理",
-                    "desc": "当前的视觉语言模型很难处理长达数小时的视频，因为处理全长视觉序列会导致令人望而却步的令牌爆炸和注意力稀释。为了克服这个问题，我们引入 MemDreamer 来解耦感知和推理，将长视频理解转变为代理探索过程。作为一个即插即用的框架，它增量地流式传输视频以构建分层图形内存，这是一种用于语义抽象的自上而下...",
+                    "title": "【arXiv】一种无代理转移模型的策略增强技术",
+                    "desc": "从头开始训练强化学习（RL）策略的成本很高：它需要仔细的奖励和环境设计、广泛的调整和大量的计算。然而，许多控制问题已经有一个可行但次优的策略作为基线。本文提出了一种将这样的基线嵌入到强化学习训练过程中的方法，同时相对于从头开始的方法提高了训练效率，并产生了优于基线的学习策略。在...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07512v1"
+                    "url": "http://arxiv.org/abs/2606.09825v1"
                 },
                 {
-                    "title": "【arXiv】通过流力控制生成流视频",
-                    "desc": "我们引入了 StreamForce，这是一种流视频生成框架，可通过连续的力输入实现物理接地控制。与之前针对不同力类型训练单独模型、假设固定力或依赖非因果处理的视频模型不同，StreamForce 是一种因果且统一的模型，可以对局部和全局时变力做出即时、连贯的响应。为了实现这一目标，我们设计了一个统一...",
+                    "title": "【arXiv】因果评估正式语言任务的可学习性",
+                    "desc": "语言模型作为多任务学习器，在训练过程中获得广泛的能力。一个基本问题是需要多少特定于任务的数据来学习给定的任务。对于自然语言来说回答这个问题是很困难的：任务很难描述并且可能会相互混淆。为了严格研究数据频率和可学习性之间的关系，我们转向使用从概率有限自动机导出的形式语言的受控设置。这些作为方法论...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07508v1"
+                    "url": "http://arxiv.org/abs/2606.09822v1"
                 },
                 {
-                    "title": "【arXiv】检测的差异：重要的可解释性",
-                    "desc": "我们提出了检测差异（DnD），这是一种比较两个对象检测模型的直观方法。基于相同的匹配算法，它补充了平均精度 ($mAP$) 和 TIDE 误差分析的标准指标，并能够直接比较两个模型。更具体地说，我们计算两个模型都能识别的地面实况标签的交集，然后是相应的差异集和遗漏的地面实况标签的补集...",
+                    "title": "【arXiv】PTL-Diffusion：具有周期性终止定律的流形感知扩散",
+                    "desc": "标准扩散模型通常使用单个时间均匀高斯终端分布作为生成的参考定律。虽然这种选择在分析上很方便并且在经验上很强大，但它为集中在低维流形附近的数据提供了很少的明确结构，其中数据分布的不同区域可能对应于不同的局部几何或语义因素。因此，逆向模型必须几乎完全恢复流形级结构...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "17小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.07503v1"
+                    "url": "http://arxiv.org/abs/2606.09816v1"
                 }
             ]
         },
@@ -274,59 +274,66 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Eventbrite 和 Vimeo 所有者 Bending Spoons 申请公开",
-                    "time": "刚刚",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/"
-                },
-                {
-                    "rank": 2,
                     "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
-                    "time": "5小时前",
-                    "emoji": "💡",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/06/432489.html"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "title": "下载：世界杯球将如何飞行以及 OpenAI 的“超级应用程序”",
-                    "time": "2小时前",
-                    "emoji": "🎬",
+                    "time": "23小时前",
+                    "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
                 },
                 {
+                    "rank": 3,
+                    "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+                    "time": "2026-06-09",
+                    "emoji": "🎬",
+                    "url": "https://36kr.com/p/3845356968839680?f=rss"
+                },
+                {
                     "rank": 4,
-                    "title": "图神经网络利用异质图的高阶类标签连接",
-                    "time": "2天前",
+                    "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+                    "time": "2026-06-09",
                     "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2606.07475v1"
+                    "url": "https://36kr.com/p/3845196412193284?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "OpenAI 仍在开发“超级应用程序”",
-                    "time": "22小时前",
+                    "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+                    "time": "2026-06-08",
                     "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
+                    "url": "https://36kr.com/p/3844185422400008?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
-                    "time": "2026-06-08",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🎵",
-                    "url": "https://36kr.com/p/3844018911889924?f=rss"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 7,
-                    "title": "9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事",
-                    "time": "2026-06-06",
+                    "title": "用于探测器有限读数下分类的非相干成像的端到端优化",
+                    "time": "17小时前",
                     "emoji": "📝",
-                    "url": "https://36kr.com/p/3840996342073604?f=rss"
+                    "url": "http://arxiv.org/abs/2606.09792v1"
                 },
                 {
                     "rank": 8,
-                    "title": "Railway 融资 1 亿美元，利用人工智能原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "继 Anthropic 之后，OpenAI 秘密提交 IPO 申请",
+                    "time": "14小时前",
                     "emoji": "🤖",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/"
+                },
+                {
+                    "rank": 9,
+                    "title": "报告称，随着 OpenAI 申请 IPO，Sam Altman 的眼部扫描公司正在裁员",
+                    "time": "13小时前",
+                    "emoji": "📊",
+                    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
                 }
             ]
         },
@@ -336,45 +343,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-                    "time": "昨天",
+                    "title": "Zepto 的 IPO 文件揭示了快速增长、更大的亏损以及尚未有人回答的估值问题",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/06/431694.html"
+                    "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/"
                 },
                 {
                     "rank": 2,
-                    "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
-                    "time": "2026-06-08",
+                    "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
+                    "time": "2026-06-09",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3844559758936582?f=rss"
+                    "url": "https://36kr.com/p/3845819328023043?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
-                    "time": "2026-06-08",
+                    "title": "康养地产的“闭环”，北京山谷找到了",
+                    "time": "2026-06-09",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3844006775360002?f=rss"
+                    "url": "https://36kr.com/p/3845553021880840?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "氪星晚报 ｜日本或通过抛售美债，为创纪录规模的日元汇市干预筹资；俞浩内部发文：未来将继续心无旁骛做实业",
-                    "time": "2026-06-05",
+                    "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+                    "time": "2026-06-09",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3840267945969929?f=rss"
+                    "url": "https://36kr.com/p/3845293120621057?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Token大战中，华为云选择了第三条路｜最前线",
-                    "time": "2026-06-05",
+                    "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
+                    "time": "2026-06-09",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3840016255126016?f=rss"
+                    "url": "https://36kr.com/p/3843971153267208?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "中国入境游距离「世界第一」还有多远？",
-                    "time": "2026-06-05",
+                    "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+                    "time": "2026-06-09",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3840001908361472?f=rss"
+                    "url": "https://36kr.com/p/3839626642344454?f=rss"
                 },
                 {
                     "rank": 7,
@@ -392,17 +399,17 @@ var siteData = {
                 },
                 {
                     "rank": 9,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所人工智能领域与微软和谷歌展开竞争",
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
                     "time": "2026-01-13",
                     "emoji": "📰",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 },
                 {
                     "rank": 10,
-                    "title": "马萨诸塞州投票通过新的隐私权法案，禁止出售精确位置数据",
-                    "time": "1小时前",
+                    "title": "Waymo 以 2.2 亿美元收购苹果自动驾驶汽车试验场",
+                    "time": "14小时前",
                     "emoji": "🏢",
-                    "url": "https://techcrunch.com/2026/06/08/massachusetts-votes-to-pass-new-privacy-rights-bill-that-bans-sale-of-precise-location-data/"
+                    "url": "https://techcrunch.com/2026/06/08/waymo-bought-apples-self-driving-car-proving-ground-for-220m/"
                 }
             ]
         },
@@ -448,62 +455,62 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+446,417",
+                    "stars": "+446,500",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+440,204",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 3,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": "：书籍：免费提供的编程书籍",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+389,878",
+                    "stars": "+389,946",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+377,574",
+                    "stars": "+377,768",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+356,533",
+                    "stars": "+356,605",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
-                    "name": "facebook/react",
-                    "desc": "Web 和本机用户界面的库。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+245,674",
-                    "url": "https://github.com/facebook/react"
+                    "rank": 5,
+                    "name": "vinta/awesome-python",
+                    "desc": "Python 框架、库、工具和资源的固定列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+302,015",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+235,819",
+                    "stars": "+235,900",
                     "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 7,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+221,987",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
@@ -511,7 +518,7 @@ var siteData = {
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+210,471",
+                    "stars": "+211,407",
                     "url": "https://github.com/affaan-m/ECC"
                 }
             ]
@@ -521,72 +528,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "遭到黑客攻击、泄露并勒索赎金：2026 年迄今为止最严重的违规行为",
+            "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/"
+            "url": "https://www.qbitai.com/2026/06/432587.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
+            "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+            "url": "https://www.qbitai.com/2026/06/432489.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
+            "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+            "url": "https://www.qbitai.com/2026/06/432425.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "有余凯不投的地平线离职创业员工吗？",
+            "title": "为什么今年的世界杯用球可能不会飞得那么远",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/431931.html"
+            "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+            "title": "为什么苹果缓慢而稳定的人工智能赌注开始看起来相当明智",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/431694.html"
+            "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Eventbrite 和 Vimeo 所有者 Bending Spoons 申请公开",
+            "title": "DeepSeek开招土木老哥：自建GW级数据中心",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/08/eventbrite-and-vimeo-owner-bending-spoons-files-to-go-public/"
+            "url": "https://www.qbitai.com/2026/06/432735.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+            "title": "国产通用大模型第一梯队，来新人了？！",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/432084.html"
+            "url": "https://www.qbitai.com/2026/06/432747.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+            "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/432417.html"
+            "url": "https://www.qbitai.com/2026/06/433478.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+            "title": "你天天刷的小红书，正在长出一个GitHub",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/432425.html"
+            "url": "https://www.qbitai.com/2026/06/433066.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+            "title": "Zepto 的 IPO 文件揭示了快速增长、更大的亏损以及尚未有人回答的估值问题",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/432581.html"
+            "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/"
         }
     ],
     "aiTools": [
@@ -637,15 +644,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "模型",
             "size": "large"
         },
         {
-            "text": "模型",
-            "size": "medium"
-        },
-        {
-            "text": "Claude",
+            "text": "AI",
             "size": "medium"
         },
         {
@@ -653,11 +656,27 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "Claude",
+            "size": "small"
+        },
+        {
             "text": "Code",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "WWDC",
+            "size": "small"
+        },
+        {
+            "text": "VLM",
+            "size": "small"
+        },
+        {
+            "text": "苹果",
             "size": "small"
         },
         {
@@ -669,96 +688,24 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "GNN",
+            "text": "动作",
             "size": "small"
         },
         {
-            "text": "Whisper",
+            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "Ventures",
-            "size": "small"
-        },
-        {
-            "text": "Salesforce",
-            "size": "small"
-        },
-        {
-            "text": "Slackbot",
-            "size": "small"
-        },
-        {
-            "text": "智能",
+            "text": "世界杯",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "遭到黑客攻击、泄露并勒索赎金：2026 年迄今为止最严重的违规行为",
+            "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "从大规模 DOGE 数据泄露、关键能源和供水系统遭到黑客攻击，到 FBI 监控系统遭到黑客攻击，以下是 2026 年最具破坏性的安全事件和数据泄露事件。"
-        },
-        {
-            "title": "OpenAI 推出锁定模式以保护敏感数据免受即时注入攻击",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "即使使用锁定模式，ChatGPT 仍然可能容易受到提示注入的攻击，但目标是减少敏感数据在此过程中共享的可能性。"
-        },
-        {
-            "title": "WWDC 2026 值得期待：Siri 备受期待的改造和 Apple Intelligence 更新",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "苹果 WWDC 即将来临：以下是您可以期待的内容。"
-        },
-        {
-            "title": "有余凯不投的地平线离职创业员工吗？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "「放任」人才外流的反常操作，只是格局使然吗？"
-        },
-        {
-            "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "人类历史最大规模的IPO招股开始了！"
-        },
-        {
-            "title": "Eventbrite 和 Vimeo 所有者 Bending Spoons 申请公开",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Bending Spoons 表示，其应用程序迎合了超过 5 亿月活跃用户的用户群。"
-        },
-        {
-            "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "最值得看的不是火箭是AI"
-        },
-        {
-            "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "轻视它就会错过整个时代"
-        },
-        {
-            "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "豆包硬刚ChatGPT"
-        },
-        {
-            "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "下载：人工智能现在可以运行你的管理部门",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。小型企业如何利用人工智能从会计到设计再到市场研究和产品开发，经营企业所需的技能范围极其广泛。大公司可以雇佣——"
+            "snippet": "协助用户与商家判断智能体可信赖程度"
         },
         {
             "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
@@ -767,22 +714,52 @@ var siteData = {
             "snippet": "ABot-Earth0.5正式开放内测"
         },
         {
+            "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "豆包硬刚ChatGPT"
+        },
+        {
             "title": "为什么今年的世界杯用球可能不会飞得那么远",
             "category": "AI研究",
             "tag": "research",
             "snippet": "本月即将在美国、加拿大和墨西哥举行的国际足联世界杯比赛有很多新内容。它接待的球队比以往任何时候都多。这是第一次在三个不同的东道国发生。而且，与半个多世纪以来的前代杯赛一样，它将采用带有“球面”的足球。"
         },
         {
-            "title": "下载：特朗普的新人工智能命令和用于战争的智能眼镜",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。特朗普新人工智能命令的 5 个关键点 在废除人工智能行政命令不到两周后，唐纳德·特朗普总统于周二签署了一项新命令。承诺推广——"
+            "title": "为什么苹果缓慢而稳定的人工智能赌注开始看起来相当明智",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "苹果的新人工智能能否脱颖而出，平息有关它正在输掉一场至关重要的行业竞赛的指控？"
         },
         {
-            "title": "下载：人工智能生成的诉讼和数据中心的虚拟发电厂",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。法院如何应对人工智能引发的大量诉讼 科罗拉多州联邦治安法官玛丽莎·布拉斯韦尔 (Maritza Braswell) 法官大部分时间都在法庭上筛选由人工智能撰写"
+            "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "追赶老马与微软"
+        },
+        {
+            "title": "国产通用大模型第一梯队，来新人了？！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "不卷参数，卷“智能密度×Token价值”"
+        },
+        {
+            "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "效果比肩GPT-5.4"
+        },
+        {
+            "title": "你天天刷的小红书，正在长出一个GitHub",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "RED Skill预计7月全量上线"
+        },
+        {
+            "title": "Zepto 的 IPO 文件揭示了快速增长、更大的亏损以及尚未有人回答的估值问题",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Zepto 的广告收入增长了 151%，超过了该公司 104% 的营业收入增长。"
         },
         {
             "title": "法院如何应对人工智能引发的大量诉讼",
@@ -791,28 +768,10 @@ var siteData = {
             "snippet": "科罗拉多州联邦治安法官玛丽扎·布拉斯韦尔(Maritza Braswell)法官大部分时间都待在自己的办公室里，仔细审查由没有律师帮助的人撰写的成堆文件。他们中的许多人聘请不起律师，而另一些人的案件太弱或太小而无法引起人们的兴趣。她仔细地阅"
         },
         {
-            "title": "虚拟发电厂如何为数据中心提供能源",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "您愿意付费来减少用电量吗？如果您这样做是为了帮助本地数据中心供电，这会改变什么吗？谷歌刚刚签署了一项新协议，帮助支付美国最大电网虚拟发电厂（VPP）的费用。该协议是与 Voltus 签订的，”"
-        },
-        {
-            "title": "Uber、Wayve 和 Waymo 即将在伦敦展开机器人出租车对决",
+            "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "英国的 Uber 客户现在可以加入兴趣列表，以增加与 Wayve 机器人出租车匹配的机会。"
-        },
-        {
-            "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "协助用户与商家判断智能体可信赖程度"
-        },
-        {
-            "title": "下载：人工智能黑客超越神话，以及聊天机器人对我们大脑的影响",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Meta 黑客攻击表明人工智能安全不仅仅是神话周一，有报道称攻击者利用 Meta 的人工智能客户支持代理窃取 Instagram 帐户。他们的做法是……"
+            "snippet": ""
         },
         {
             "title": "人工智能聊天机器人是否会让我们失去对大脑的控制？",
@@ -827,52 +786,100 @@ var siteData = {
             "snippet": "6 月 5 日，404 Media 报道称，攻击者一直在使用 Meta 的 AI 客户支持代理来窃取 Instagram 帐户。他们的方法很简单：他们要求代理将帐户链接到他们控制的电子邮件地址，代理同意了。一名攻击者闯入了休眠的奥巴马白宫账"
         },
         {
+            "title": "下载：人工智能生成的诉讼和数据中心的虚拟发电厂",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。法院如何应对人工智能引发的大量诉讼 科罗拉多州联邦治安法官玛丽莎·布拉斯韦尔 (Maritza Braswell) 法官大部分时间都在法庭上筛选由人工智能撰写"
+        },
+        {
+            "title": "下载：人工智能黑客超越神话，以及聊天机器人对我们大脑的影响",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Meta 黑客攻击表明人工智能安全不仅仅是神话周一，有报道称攻击者利用 Meta 的人工智能客户支持代理窃取 Instagram 帐户。他们的做法是……"
+        },
+        {
+            "title": "Evotrex 筹集了 3000 万美元来建造不需要充电站的房车",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该初创公司是众多进入房车领域的初创公司之一，但它所依赖的混合动力系统可以远远超出露营地的范围。"
+        },
+        {
+            "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "祝大家都能找到，属于自己的驱动力"
+        },
+        {
+            "title": "关于人工智能你需要了解的五件事",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "上周在伦敦 SXSW 上，我做了一场名为“关于人工智能你需要了解的五件事”的演讲，其中我分享了我认为目前人工智能最重要的主题。我从我们的第一个 AI10 列表中提取了一些内容，该列表是这个热闹世界中最重要趋势的年度指南，&#8230"
+        },
+        {
             "title": "下载：世界杯球将如何飞行以及 OpenAI 的“超级应用程序”",
             "category": "AI应用",
             "tag": "application",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。为什么今年的世界杯球可能不会飞得那么远本月的国际足联世界杯比赛有很多新内容。它接待的球队比以往任何时候都多。这是第一个……"
         },
         {
-            "title": "法学硕士在玩骰子方面有多可靠？",
+            "title": "累计在轨23万小时零失效，星载光电赛道跑出一匹黑马｜36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文 | 阿至\n  封面来源｜Pexels\n  星载组合光纤放大器，一个藏在卫星激光通信终端里的“隐形赛道”，随着国内低轨星座进入规模化部署倒计时，正在悄然升温。\n  36氪获悉，星载光电核心部组件供应商天津寰宇星通科技有限公司（以下简称“寰"
+        },
+        {
+            "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "文｜李嘉星\n  编辑｜周鑫雨\n  一句话介绍\n  context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。\n  它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token "
+        },
+        {
+            "title": "康养地产的“闭环”，北京山谷找到了",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。\n  环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了这个赛道的常态。\n  但这不代表市场没有"
+        },
+        {
+            "title": "硬氪观察 | WWDC 2026：苹果终于在AI上迈出一小步，国内iPhone还是用不上",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者 | 邱晓芬\n  编辑 | 袁斯来\n  6月9日，位于加州库比蒂诺的苹果总部被Swift标志性的暖色系渐变背景填满，熟悉的倒计时欢呼声依旧，但WWDC 2026选了一条更克制的路线——\n  这次，苹果没有如往常一般发布新硬件，也不预热万"
+        },
+        {
+            "title": "36氪首发 | 国内唯一POD材料产业化团队再创业，布局3C与AI芯片散热，技术积累全球领先",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "我们通过离散概率问题的受控基准研究来研究大型语言模型的概率推理能力。我们构建了两个数据集，分别是一组标准练习和一组反直觉练习，旨在触发启发式推理，并评估了 8 个最先进的模型，每个模型都在有或没有思想链提示的情况下进行了测试。模型在标准问题"
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，苏州墨锋新材料科技有限公司（下称“墨锋科技”）近日完成新一轮千万元融资，由险峰基金、成都科创投集团投资，资金将主要用于产线扩建与产能扩张。\n  墨锋科技成立于2023年，技术源自四川大学"
         },
         {
-            "title": "UniSHARP：通用锐单目视图合成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在这项工作中，我们专注于扩展 SHARP（流行的照片级真实感视图合成方法），以实现整个相机系统的通用单目渲染，从传统的透视相机到宽视场、鱼眼和全向全景设置。为了克服 SHARP 的针孔特定假设，我们的关键思想是在统一的全向潜在空间中对齐各种"
+            "title": "36氪首发 | AI芯片处理器IP公司完成近亿元融资，核心团队来自Synopsys、ARM等顶尖半导体公司",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，隼瞻科技有限公司（下称“隼瞻科技”）近日完成近亿元天使+轮融资。本轮融资引入英飞尼迪资本、白云金控、深圳中小担创投、厚天资本、华盖资本、嘉誉创投等多家战略投资人，老股东毅达资本、达泰资本"
         },
         {
-            "title": "Agentopia：智能体社会中的长期生活模拟和学习",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "人类从社会生活中学习。使用法学硕士驱动的代理来模拟这一过程代表了一个有前途的研究方向，自然而然地提出了一个问题：法学硕士是否可以从这种模拟的社会经验中学习，以更好地理解和复制人类行为。然而，之前的智能体社会模拟通常以天为单位进行，限制了社会"
+            "title": "生殖学博士入局脑机接口，想做一款缓解女性经期情绪问题的脑机\"发箍\"｜早期项目",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜胡香赟\n  编辑｜海若镜\n  对许多女性而言，经期不只是一次生理周期的重复，更是一场身心双重的考验。腹痛、头痛、疲劳、焦虑、易怒……这些经前期综合征（PMS）带来的不适，严重时甚至会影响工作和生活。然而，目前主流的缓解方式仍然高度依赖止"
         },
         {
-            "title": "MemDreamer：通过分层图内存和代理检索机制解耦长视频理解的感知和推理",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当前的视觉语言模型很难处理长达数小时的视频，因为处理全长视觉序列会导致令人望而却步的令牌爆炸和注意力稀释。为了克服这个问题，我们引入 MemDreamer 来解耦感知和推理，将长视频理解转变为代理探索过程。作为一个即插即用的框架，它增量地流"
+            "title": "「百奥几何」完成数亿元战略融资，打造生命科学\"微观世界模型\"｜36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜胡香赟\n  编辑｜海若镜\n  36氪获悉，近日，AI原生生物科技公司百奥几何已完成数亿元战略融资。由上海生物医药创新转化基金、国科投资、达晨财智、星连资本联合领投，高榕资本、指数人工智能产业创新基金跟投。指数资本担任独家财务顾问。另据介"
         },
         {
-            "title": "通过流力控制生成流视频",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们引入了 StreamForce，这是一种流视频生成框架，可通过连续的力输入实现物理接地控制。与之前针对不同力类型训练单独模型、假设固定力或依赖非因果处理的视频模型不同，StreamForce 是一种因果且统一的模型，可以对局部和全局时变"
+            "title": "8点1氪丨苹果推出全新Siri AI；ROKID回应“智能眼镜偷拍空姐”事件；OpenAI秘密提交IPO文件",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "今日热点导览\n  阿里巴巴成立Token Foundry事业部\n  微信宣布面向开发者提供接入微信AI生态的能力\n  全球70%PPE树脂断供，PCB价格大涨\n  英伟达与LG集团合建AI工厂，合作推进机器人、自动驾驶及自主AI\n  TOP"
         },
         {
-            "title": "检测的差异：重要的可解释性",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们提出了检测差异（DnD），这是一种比较两个对象检测模型的直观方法。基于相同的匹配算法，它补充了平均精度 ($mAP$) 和 TIDE 误差分析的标准指标，并能够直接比较两个模型。更具体地说，我们计算两个模型都能识别的地面实况标签的交集，"
-        },
-        {
-            "title": "您的非嵌入矩阵是文本嵌入的秘密功能镜头",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "大型语言模型在广泛的下游任务中表现出令人印象深刻的零样本能力。然而，它们很难作为现成的嵌入模型发挥作用，导致在大规模文本嵌入基准测试中表现不佳。在本文中，我们确定了造成这一缺陷的潜在原因。我们的动机源于一个意想不到的观察：当投影到词汇空间时"
+            "title": "世界杯官方比赛用球再度“中国制造”：全球产业链迁移下，广东工厂为何仍留在赛场中央？｜最前线",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "2026年美加墨世界杯进入倒计时，对于普通球迷而言，世界杯意味着绿茵场上的竞争与激情；但对于体育装备制造业来说，这项全球顶级赛事同样是检验供应链实力与技术能力的重要时刻。\n  2025年10月，阿迪达斯正式发布2026年世界杯官方比赛用球\""
         }
     ]
 }
