@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-15 02:38:47
+ * 生成时间: 2026-06-16 02:41:57
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
-            "summary": "在北京方面下令撤销交易后，Meta 开始取消以 20 亿美元收购 Manus 的交易。",
+            "tag": "重磅 · 应用",
+            "title": "这些国家正在采取行动禁止儿童使用社交媒体",
+            "summary": "澳大利亚是第一个在 2025 年底发布禁令的国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括网络欺凌、社交媒体成瘾以及暴露在掠夺者面前。",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+            "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
-            "summary": "人工智能再次被证明是有关人工智能的不可靠信息来源。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "title": "幻象与披露：审计合成数据的因果框架",
+            "summary": "生成式人工智能和大型语言模型 (LLM) 的快速采用激发了人们对合成数据的兴趣，将其作为敏感现实世界数据集的隐私保护替代方案。然而，生成高实用性的合成数据通常会带来记忆和反省训练语料库中的私人信息的风",
+            "source": "arXiv",
+            "time": "9小时前",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+            "url": "http://arxiv.org/abs/2606.16952v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
-            "summary": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 可能是安全担忧的根源，导致 Anthropic 于周五切断了两种模型的全球访问权限。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "tag": "头条 · 突破",
+            "title": "基于模拟的木本家禽肉胸肉多片评估",
+            "summary": "木性胸肉 (WB) 是现代肉鸡的一种肌病，会导致胸肌变得异常僵硬和纤维化，导致肉质下降和重大经济损失。最先进的自动化WB检测依靠侧视成像系统来分析单个鱼片从传送带上掉落时的弯曲行为。虽然精度很高，但这",
+            "source": "arXiv",
+            "time": "9小时前",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+            "url": "http://arxiv.org/abs/2606.16951v1"
         },
         {
-            "tag": "政策 · 法规",
-            "title": "OpenAI 面临州总检察长的调查",
-            "summary": "目前尚不清楚哪些州参与其中，但他们询问了从 OpenAI 的广告政策到健康数据处理的所有信息。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "tag": "头条 · 突破",
+            "title": "人工智能冲突中的心理理论因果模型",
+            "summary": "心智理论 (ToM) 是将心理状态归因于他人并使用这些归因进行预测和推理的能力，被广泛认为对于有效的人机集成至关重要。现有的 AI-ToM 模型解决了\\emph{如何}进行心智化的问题，但在很大程度上",
+            "source": "arXiv",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+            "url": "http://arxiv.org/abs/2606.16944v1"
         }
     ],
     "quickNews": [
         {
-            "time": "02:38",
-            "text": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
+            "time": "02:41",
+            "text": "这些国家正在采取行动禁止儿童使用社交媒体",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+            "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
         },
         {
-            "time": "02:38",
-            "text": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
+            "time": "02:41",
+            "text": "幻象与披露：审计合成数据的因果框架",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+            "url": "http://arxiv.org/abs/2606.16952v1"
         },
         {
-            "time": "02:38",
-            "text": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+            "time": "02:41",
+            "text": "基于模拟的木本家禽肉胸肉多片评估",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+            "url": "http://arxiv.org/abs/2606.16951v1"
         },
         {
-            "time": "02:38",
-            "text": "OpenAI 面临州总检察长的调查",
+            "time": "02:41",
+            "text": "人工智能冲突中的心理理论因果模型",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+            "url": "http://arxiv.org/abs/2606.16944v1"
         },
         {
-            "time": "02:38",
-            "text": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+            "time": "02:41",
+            "text": "Meta 在 Facebook 上的新“人工智能模式”从其平台上的公共信息中提取",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/435483.html"
+            "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
         },
         {
-            "time": "02:38",
-            "text": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+            "time": "02:41",
+            "text": "SpaceX 上市：首次公开募股后您需要了解的一切",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/435455.html"
+            "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
         },
         {
-            "time": "02:38",
-            "text": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+            "time": "02:41",
+            "text": "为什么韩国人如此热爱人工智能？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/435394.html"
+            "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
         },
         {
-            "time": "02:38",
-            "text": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+            "time": "02:41",
+            "text": "美国政府的人择模型禁令从来都不是为了人工智能越狱",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/435339.html"
+            "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "幻象与披露：审计合成数据的因果框架",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+                    "url": "http://arxiv.org/abs/2606.16952v1",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "在北京方面下令撤销交易后，Meta 开始取消以 20 亿美元收购 Manus 的交易。..."
+                    "desc": "生成式人工智能和大型语言模型 (LLM) 的快速采用激发了人们对合成数据的兴趣，将其作为敏感现实世界数据集的隐私保护替代方案。然而，生成高实用性的合成数据通常会带来记忆和反省训练语料库中的私人信息的风险。在这项工作中，我们提出了一个可定制的..."
                 },
                 {
-                    "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
+                    "title": "Meta 在 Facebook 上的新“人工智能模式”从其平台上的公共信息中提取",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+                    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
                 },
                 {
-                    "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+                    "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
                 },
                 {
-                    "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "美国政府的人择模型禁令从来都不是为了人工智能越狱",
+                    "source": "TechCrunch AI",
+                    "time": "4小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/435483.html"
+                    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
                 },
                 {
-                    "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "桑达尔·皮查伊 (Sundar Pichai) 在斯坦福大学毕业典礼上因谷歌与以色列和 ICE 的关系而面临嘘声和退场",
+                    "source": "TechCrunch AI",
+                    "time": "2小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/435455.html"
+                    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】凝视头：VLM 如何看待他们所描述的内容",
-                    "desc": "视觉语言模型如何在内部解决描述图像的任务还远非显而易见。我们发现该模型为此开发了一种特定的机制：其语言模型主干中的一小组注意力头，我们称之为凝视头，其注意力跟踪模型当前描述的图像区域。我们使用漫画作为受控测试平台，在空间上布置叙事顺序，通过几次前向传播找到了它们的简单相关分数。这些目光热...",
+                    "title": "【arXiv】幻象与披露：审计合成数据的因果框架",
+                    "desc": "生成式人工智能和大型语言模型 (LLM) 的快速采用激发了人们对合成数据的兴趣，将其作为敏感现实世界数据集的隐私保护替代方案。然而，生成高实用性的合成数据通常会带来记忆和反省训练语料库中的私人信息的风险。在这项工作中，我们提出了一个可定制的实证审计框架，旨在检测和解释此类数据披露。我们的框架引入了一...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14703v1"
+                    "url": "http://arxiv.org/abs/2606.16952v1"
                 },
                 {
-                    "title": "【arXiv】OmniVideo-100K：通过结构化脚本和证据链进行视听推理的数据集",
-                    "desc": "当前用于视听问答（QA）的自动化管道通常采用“视频-字幕-QA”范例。然而，这些方法通常将视频分割成短片，并为音频和视觉模态生成单独的描述。这种解耦处理切断了声音与其视觉源之间的固有关联，而独立的剪辑处理通常会导致跨片段对同一实体的描述不一致。此外，耦合长文本理解...",
+                    "title": "【arXiv】基于模拟的木本家禽肉胸肉多片评估",
+                    "desc": "木性胸肉 (WB) 是现代肉鸡的一种肌病，会导致胸肌变得异常僵硬和纤维化，导致肉质下降和重大经济损失。最先进的自动化WB检测依靠侧视成像系统来分析单个鱼片从传送带上掉落时的弯曲行为。虽然精度很高，但这种方法受到其单圆角视野的限制，从而造成商业加工的吞吐量瓶颈...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14702v1"
+                    "url": "http://arxiv.org/abs/2606.16951v1"
                 },
                 {
-                    "title": "【arXiv】老鼠！补丁通过寄存器进行对话：寄存器注意力变压器中的紧急部分",
-                    "desc": "当人类看到一只鸟时，他们认识的不仅仅是“鸟”——他们看到的是头部、翅膀和爪子，这些可重复使用部件的结构化组装可以在他们见过的每只鸟中识别出来。我们询问自我监督的视觉模型是否可以自行发现相同的构图结构。为此，我们提出了 RATS（寄存器注意力变换器），它将分类标记分解为 N 个可学习的寄存器标记，这些...",
+                    "title": "【arXiv】人工智能冲突中的心理理论因果模型",
+                    "desc": "心智理论 (ToM) 是将心理状态归因于他人并使用这些归因进行预测和推理的能力，被广泛认为对于有效的人机集成至关重要。现有的 AI-ToM 模型解决了\\emph{如何}进行心智化的问题，但在很大程度上没有解决何时的问题。核心问题是：在什么情境和代理人级别的条件下，ToM 参与在冲突中是有理由的？本文...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14701v1"
+                    "url": "http://arxiv.org/abs/2606.16944v1"
                 },
                 {
-                    "title": "【arXiv】RepFusion：利用多模态先验在表示空间中进行去噪",
-                    "desc": "大型语言模型（LLM）广泛用于文本到图像（T2I）系统，但它们通常仅限于文本编码，而去噪则由新训练的生成主干处理。表示自动编码器（RAE）的出现将生成目标转向语义结构化的视觉表示，创建了一个与预训练的 LLM 先验更兼容的潜在空间。受多模式法学硕士 (MLLM) 的启发，其中 MLP 投影仪足以对齐...",
+                    "title": "【arXiv】用于解释大型语言模型的可扩展电路学习",
+                    "desc": "机械可解释性的一个突出研究方向是学习 LLM 组件上的稀疏电路，以揭示它们如何共同产生模型行为。然而，原始神经元是多义的，使得学习的电路难以解释。稀疏自动编码器（SAE）功能缓解了这一问题，但它们的高维性使得现有的基于干预的电路学习方法在计算上令人望而却步。我们提出了 CircuitLasso，一种...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14700v1"
+                    "url": "http://arxiv.org/abs/2606.16939v1"
                 },
                 {
-                    "title": "【arXiv】指令粒子：通过运动学控制缩放前馈 3D 对象关节",
-                    "desc": "重建铰接式 3D 对象对于动画、游戏和机器人模拟非常重要。最近的神经网络可以估计 3D 对象的铰接结构，但其泛化能力仍然受到该任务注释数据稀缺的限制。为了解决这一差距，我们引入了 Instruct-Pativity，这是一种将 3D 网格与目标运动学规范（包括零件描述、连接性、关节类型和可选点提示）...",
+                    "title": "【arXiv】CrossMaps：用于流动站导航的置信度开放词汇语义映射",
+                    "desc": "漫游者依靠感知来维护对物体和传感器质量（例如范围可靠性、照明伪像、数据密度）进行编码的空间地图，指导数据融合、嵌入更新和部分可观测性下的导航。为了研究这些耦合的感知导航过程，我们提出了 CrossMaps，这是一种实时置信感知的开放词汇语义映射管道，可从 RGB-D 数据构建语言可查询的映射。基于 ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14699v1"
+                    "url": "http://arxiv.org/abs/2606.16935v1"
                 },
                 {
-                    "title": "【arXiv】ClinHallu：医学 MLLM 推理中诊断阶段性幻觉的基准",
-                    "desc": "构建值得信赖的医学多模式大语言模型 (MLLM) 对于可靠的临床决策支持至关重要。现有的医学幻觉基准主要侧重于数据收集，但往往忽略推理过程中幻觉的起源。我们发现不同样本的幻觉来源有所不同：错误可能源于视觉错误识别、不正确的医学知识回忆或有缺陷的推理整合。为了实现源级幻觉诊断，我们引入...",
+                    "title": "【arXiv】使用代码解释器探索外在和内在属性以进行有效推理",
+                    "desc": "代码解释器推理 (CI) 已成为通过可执行计算和迭代验证增强大型语言模型 (LLM) 推理能力的有效范例。尽管它的采用率越来越高，但有效代码推理背后的行为属性在很大程度上仍未得到充分探索。在这项工作中，受先前自然语言推理研究的启发，我们从两个不同的角度研究代码推理：外在属性，由 c 表示...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.14697v1"
+                    "url": "http://arxiv.org/abs/2606.16934v1"
                 }
             ]
         },
@@ -274,17 +274,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Persona-Pruner：为角色扮演塑造轻量级模型",
-                    "time": "2天前",
+                    "title": "这些国家正在采取行动禁止儿童使用社交媒体",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2606.14695v1"
+                    "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
                 },
                 {
                     "rank": 2,
-                    "title": "HumP-KD：一种用于高效火灾分类的混合不确定性感知多阶段渐进知识蒸馏框架",
-                    "time": "2天前",
+                    "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+                    "time": "2026-06-15",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2606.14684v1"
+                    "url": "https://36kr.com/p/3854510160549124?f=rss"
                 },
                 {
                     "rank": 3,
@@ -295,24 +295,20 @@ var siteData = {
                 },
                 {
                     "rank": 4,
-                    "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-                    "time": "2026-06-13",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3846972367866119?f=rss"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 5,
-                    "title": "“宁王系”，排队 IPO",
-                    "time": "2026-06-13",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3851106394117383?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
-                    "emoji": "🎵",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,66 +318,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎、淡马锡押注",
-                    "time": "2026-06-15",
+                    "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
+                    "time": "8小时前",
                     "emoji": "🔥",
-                    "url": "https://36kr.com/p/3853011900142848?f=rss"
+                    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
                 },
                 {
                     "rank": 2,
-                    "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
-                    "time": "2026-06-15",
+                    "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+                    "time": "2026-06-16",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3853252135654660?f=rss"
+                    "url": "https://36kr.com/p/3855082873476102?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
-                    "time": "2026-06-14",
+                    "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5",
+                    "time": "2026-06-15",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3850942780838912?f=rss"
+                    "url": "https://36kr.com/p/3854486447510535?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "曼联，要被卖了",
-                    "time": "2026-06-13",
+                    "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+                    "time": "2026-06-15",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3851350342325504?f=rss"
+                    "url": "https://36kr.com/p/3854243718550528?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
-                    "time": "2026-06-13",
+                    "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+                    "time": "2026-06-15",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3851073239372809?f=rss"
+                    "url": "https://36kr.com/p/3853011900142848?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+                    "time": "2026-06-15",
                     "emoji": "🔄",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3853252135654660?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+                    "time": "2026-06-14",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3850942780838912?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 9,
-                    "title": "当人工智能公司竞相上市时，还有谁参与其中？",
-                    "time": "10小时前",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "📰",
-                    "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                },
+                {
+                    "rank": 10,
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
+                    "time": "2026-01-13",
+                    "emoji": "🏢",
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 }
             ]
         },
@@ -427,7 +430,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+447,268",
+                    "stars": "+447,958",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -436,17 +439,17 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+378,726",
+                    "stars": "+378,902",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+299,219",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+357,371",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
@@ -454,7 +457,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,852",
+                    "stars": "+245,886",
                     "url": "https://github.com/react/react"
                 },
                 {
@@ -463,35 +466,35 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+236,432",
+                    "stars": "+236,538",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 6,
-                    "name": "trekhleb/javascript-algorithms",
-                    "desc": "📝 用 Ja​​vaScript 实现的算法和数据结构，并附有解释和进一步阅读的链接",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+196,086",
-                    "url": "https://github.com/trekhleb/javascript-algorithms"
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+228,898",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 7,
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+216,219",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 8,
                     "name": "tensorflow/tensorflow",
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,658",
+                    "stars": "+195,680",
                     "url": "https://github.com/tensorflow/tensorflow"
-                },
-                {
-                    "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+193,599",
-                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -500,72 +503,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
+            "title": "这些国家正在采取行动禁止儿童使用社交媒体",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+            "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
+            "title": "幻象与披露：审计合成数据的因果框架",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+            "url": "http://arxiv.org/abs/2606.16952v1"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
+            "title": "基于模拟的木本家禽肉胸肉多片评估",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
+            "url": "http://arxiv.org/abs/2606.16951v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "OpenAI 面临州总检察长的调查",
+            "title": "人工智能冲突中的心理理论因果模型",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/"
+            "url": "http://arxiv.org/abs/2606.16944v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么",
+            "title": "Meta 在 Facebook 上的新“人工智能模式”从其平台上的公共信息中提取",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/435483.html"
+            "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+            "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/435455.html"
+            "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+            "title": "为什么韩国人如此热爱人工智能？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/435394.html"
+            "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+            "title": "美国政府的人择模型禁令从来都不是为了人工智能越狱",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/435339.html"
+            "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "英国可能禁止16岁以下儿童使用社交媒体",
+            "title": "下载：足球的数据复兴和中国的大型核计划",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/"
+            "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "据报道，初创公司首席执行官查理·贾维斯正在寻求特朗普的赦免",
+            "title": "谷歌 DeepMind 担心当数百万智能体开始交互时会发生什么",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/"
+            "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
         }
     ],
     "aiTools": [
@@ -616,19 +619,19 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Claude",
+            "text": "AI",
             "size": "large"
-        },
-        {
-            "text": "智能",
-            "size": "medium"
         },
         {
             "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "Claude",
+            "size": "medium"
+        },
+        {
+            "text": "人工智能",
             "size": "medium"
         },
         {
@@ -636,11 +639,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "人工智能",
-            "size": "small"
-        },
-        {
-            "text": "代理",
+            "text": "机器人",
             "size": "small"
         },
         {
@@ -648,15 +647,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "LLM",
+            "text": "智能",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "视觉",
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "Salesforce",
             "size": "small"
         },
         {
@@ -664,80 +667,62 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "机器人",
+            "text": "Pocket",
             "size": "small"
         },
         {
-            "text": "全球",
+            "text": "SBI",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "据报道，在北京方面的要求下，Meta 将解除价值 20 亿美元的 Manus 交易",
+            "title": "这些国家正在采取行动禁止儿童使用社交媒体",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "澳大利亚是第一个在 2025 年底发布禁令的国家，旨在减少年轻用户在社交媒体上可能面临的压力和风险，包括网络欺凌、社交媒体成瘾以及暴露在掠夺者面前。"
+        },
+        {
+            "title": "幻象与披露：审计合成数据的因果框架",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在北京方面下令撤销交易后，Meta 开始取消以 20 亿美元收购 Manus 的交易。"
+            "snippet": "生成式人工智能和大型语言模型 (LLM) 的快速采用激发了人们对合成数据的兴趣，将其作为敏感现实世界数据集的隐私保护替代方案。然而，生成高实用性的合成数据通常会带来记忆和反省训练语料库中的私人信息的风险。在这项工作中，我们提出了一个可定制的"
         },
         {
-            "title": "由于明显的幻觉，毕马威撤回了人工智能使用报告",
+            "title": "基于模拟的木本家禽肉胸肉多片评估",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "木性胸肉 (WB) 是现代肉鸡的一种肌病，会导致胸肌变得异常僵硬和纤维化，导致肉质下降和重大经济损失。最先进的自动化WB检测依靠侧视成像系统来分析单个鱼片从传送带上掉落时的弯曲行为。虽然精度很高，但这种方法受到其单圆角视野的限制，从而造成商"
+        },
+        {
+            "title": "人工智能冲突中的心理理论因果模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "心智理论 (ToM) 是将心理状态归因于他人并使用这些归因进行预测和推理的能力，被广泛认为对于有效的人机集成至关重要。现有的 AI-ToM 模型解决了\\emph{如何}进行心智化的问题，但在很大程度上没有解决何时的问题。核心问题是：在什么情"
+        },
+        {
+            "title": "Meta 在 Facebook 上的新“人工智能模式”从其平台上的公共信息中提取",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "人工智能再次被证明是有关人工智能的不可靠信息来源。"
+            "snippet": "Meta 周一宣布，将在 Facebook 上推出一系列新的人工智能功能，这是该公司努力追赶人工智能竞赛并让用户更多地参与该平台的最新迹象。"
         },
         {
-            "title": "据报道，亚马逊首席执行官在政府镇压之前提出了人择模型担忧",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "亚马逊首席执行官安迪·贾西 (Andy Jassy) 可能是安全担忧的根源，导致 Anthropic 于周五切断了两种模型的全球访问权限。"
+            "title": "SpaceX 上市：首次公开募股后您需要了解的一切",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "TechCrunch 一直关注着 SpaceX 的起步、挣扎和成功。我们也在这里等待接下来发生的事情。这一系列 SpaceX IPO 报道包括谁将获胜（也许有些人不会）、IPO 前交易以及 S-1 注册文件中包含的内容。"
         },
         {
-            "title": "OpenAI 面临州总检察长的调查",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "目前尚不清楚哪些州参与其中，但他们询问了从 OpenAI 的广告政策到健康数据处理的所有信息。"
-        },
-        {
-            "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "模型参数量只有1B"
-        },
-        {
-            "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "一起构建下一代物理世界的智能系统"
-        },
-        {
-            "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "马斯克成人类历史首位万亿美金富豪"
-        },
-        {
-            "title": "英国可能禁止16岁以下儿童使用社交媒体",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "英国似乎正在效仿澳大利亚，禁止青少年使用大量社交媒体。"
-        },
-        {
-            "title": "据报道，初创公司首席执行官查理·贾维斯正在寻求特朗普的赦免",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "摩根大通对此并不满意。"
-        },
-        {
-            "title": "下载：“类固醇奥林匹克”和更安全的神话",
+            "title": "为什么韩国人如此热爱人工智能？",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 “类固醇奥运会”是一场马戏表演，也是了解我们文化的一扇窗户——阿米特·卡特瓦拉 (Amit Katwala) 几周前，在拉斯维加斯赌场停车场耗资 5000 "
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。当我从旧金山经过 12 个小时的艰苦飞行抵达首尔时，我走过了一个无人值守的移民检查站，那里有一台机器扫描了我的脸部和护照。在回家的地铁上"
+        },
+        {
+            "title": "美国政府的人择模型禁令从来都不是为了人工智能越狱",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "特朗普政府迫使 Anthropic 撤回其最新网络安全模型的决定可能是反动的、报复性的，或两者兼而有之，但信息很明确：人工智能行业并不能免受美国政府的干预。"
         },
         {
             "title": "下载：足球的数据复兴和中国的大型核计划",
@@ -750,60 +735,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "Google DeepMind 正在资助研究数百万个不同的人工智能代理在线交互的潜在危险。负责该公司 AGI 安全和一致性研究的罗辛·沙阿 (Rohin Shah) 表示，大众市场出现的智能体可以在没有人类监督的情况下执行任务，并遵循其他人"
-        },
-        {
-            "title": "未来的职位：大自然的药物设计师",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "2018 年，在大型制药公司工作了近二十年后，化学家 Tim Cernak 准备将他的技能运用到新的用途。他为默克公司开发了针对癌症、艾滋病毒和糖尿病的精准疗法，可以针对疾病，同时最大限度地减少对健康细胞的伤害。但作为一名终生的自然爱好者，"
-        },
-        {
-            "title": "足球数据复兴的内幕",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "想象一下，在观看一场世界杯比赛的开球时，看到一名球员故意将球一路传向球场，然后直接送出对手的界外。普通粉丝可能会摸不着头脑。比赛开始几秒钟就放弃控球权的逻辑在哪里？如果你是杰西&#8230;"
-        },
-        {
-            "title": "为什么中国押注于大型核反应堆",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是两个核工业的故事。在中国，大型反应堆正在以惊人的速度组装起来。自2016年以来，该国核电容量几乎增加了一倍，总发电容量达到近60吉瓦。新设施几乎都是千兆瓦级压水堆。与此同时，美国只在那里建造了两座反应堆——"
-        },
-        {
-            "title": "神了，世界杯第一天真按千问剧本踢了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "比分、红牌、绝杀全押中"
-        },
-        {
-            "title": "千里收购了一家毫米波雷达公司",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "布局全栈闭环"
-        },
-        {
-            "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "助力LP与GP高效合"
-        },
-        {
-            "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "那位被OpenAI开除的股神"
-        },
-        {
-            "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "7月17-18日"
-        },
-        {
-            "title": "“智能体最后的考试”，Fable 5竟然不敌GPT 5.5",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "最难档通通零蛋"
         },
         {
             "title": "下载：“重新编程”衰老，以及隐藏的内感受",
@@ -830,28 +761,100 @@ var siteData = {
             "snippet": "《麻省理工学院技术评论》解释道：让我们的作者解开复杂、混乱的科学技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。你的大脑生活在头骨的黑暗空间中。但它知道什么时候风会吹起你皮肤上的汗毛，什么时候你的心会颤抖。"
         },
         {
-            "title": "凝视头：VLM 如何看待他们所描述的内容",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉语言模型如何在内部解决描述图像的任务还远非显而易见。我们发现该模型为此开发了一种特定的机制：其语言模型主干中的一小组注意力头，我们称之为凝视头，其注意力跟踪模型当前描述的图像区域。我们使用漫画作为受控测试平台，在空间上布置叙事顺序，通过"
-        },
-        {
-            "title": "OmniVideo-100K：通过结构化脚本和证据链进行视听推理的数据集",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当前用于视听问答（QA）的自动化管道通常采用“视频-字幕-QA”范例。然而，这些方法通常将视频分割成短片，并为音频和视觉模态生成单独的描述。这种解耦处理切断了声音与其视觉源之间的固有关联，而独立的剪辑处理通常会导致跨片段对同一实体的描述不一"
-        },
-        {
-            "title": "老鼠！补丁通过寄存器进行对话：寄存器注意力变压器中的紧急部分",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当人类看到一只鸟时，他们认识的不仅仅是“鸟”——他们看到的是头部、翅膀和爪子，这些可重复使用部件的结构化组装可以在他们见过的每只鸟中识别出来。我们询问自我监督的视觉模型是否可以自行发现相同的构图结构。为此，我们提出了 RATS（寄存器注意力"
-        },
-        {
-            "title": "RepFusion：利用多模态先验在表示空间中进行去噪",
+            "title": "桑达尔·皮查伊 (Sundar Pichai) 在斯坦福大学毕业典礼上因谷歌与以色列和 ICE 的关系而面临嘘声和退场",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大型语言模型（LLM）广泛用于文本到图像（T2I）系统，但它们通常仅限于文本编码，而去噪则由新训练的生成主干处理。表示自动编码器（RAE）的出现将生成目标转向语义结构化的视觉表示，创建了一个与预训练的 LLM 先验更兼容的潜在空间。受多模式"
+            "snippet": "人工智能再次成为大学毕业抗议的核心——这次是因为该技术在谷歌国防合同中的使用。"
+        },
+        {
+            "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "模型参数量只有1B"
+        },
+        {
+            "title": "Agent时代，华为云开始重新造地基了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Agentic新基建"
+        },
+        {
+            "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "昆仑万维将持续深耕，步履不停"
+        },
+        {
+            "title": "刚成立一年就拿下车厂订单，这家清华系公司把具身智能送进真实产线",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "过去两年，具身智能行业最热的关键词是人形机器人。但未来几年，更重要的关键词或许会变成另一件事：智能生产力。"
+        },
+        {
+            "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "原来最强AI不是一个AI"
+        },
+        {
+            "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今日热点导览\n  \n   国内品牌金饰价格普涨\n   小红书公布世界杯开赛数据\n   阿里巴巴达摩院退出旗下科技公司\n   罗马仕接连变更法定代表人\n   遇见小面创始人向“渝见小面”致歉\n  \n  TOP3大新闻\n  针对多发食品安全问题"
+        },
+        {
+            "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？\n  6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，P"
+        },
+        {
+            "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "大公司：\n  支付宝：政务AI助手“晓政”服务突破1亿次\n  36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖"
+        },
+        {
+            "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "6月14日，HarmonyOS创新赛·极客赛道决赛在HDC华为开发者大会（HDC 2026）落下帷幕。 \n  此前，20支入围队伍从众多参赛作品中脱颖而出，在36小时极限编码中抢先使用HarmonyOS 7，围绕AI、3D空间化、用户体验等"
+        },
+        {
+            "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "作者 | 邱晓芬\n  编辑 | 袁斯来\n  过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。\n  行业的目光转向背后是切实的焦虑。\n  一方面，经过了过去两年的野蛮生长，具身智能暴露了当前A"
+        },
+        {
+            "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 邱晓芬\n  编辑 | 袁斯来\n  硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新"
+        },
+        {
+            "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。"
+        },
+        {
+            "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "今日热点导览\n  \n   加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀\n   A股10家退市公司波及超25万股民\n   SK海力士去年新增员工超2000人\n   H&M重组全球架构，大中华区降级\n   世界杯期间英格兰"
+        },
+        {
+            "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜贺哲馨\n  编辑｜乔芊\n  36氪独家获悉，瑞典快时尚巨头H&M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。\n  大中华区在"
+        },
+        {
+            "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者｜黄楠\n  编辑｜袁斯来\n  硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoY"
         }
     ]
 }
