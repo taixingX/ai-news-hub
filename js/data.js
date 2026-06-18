@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-17 02:38:58
+ * 生成时间: 2026-06-18 02:36:05
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-            "summary": "专为 Agent 设计的 AI 搜索层服务",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "独家电子书：人工智能如何成为下一个军事顾问",
+            "summary": "关于军队如何使用人工智能模型做出决策的故事集。这本仅供订阅者阅读的电子书包含六个故事，最初于 2025 年 4 月 11 日至 2026 年 4 月 21 日期间发表在《麻省理工学院技术评论》上，并已",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/06/435861.html"
-        },
-        {
-            "tag": "头条 · 大模型",
-            "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-            "summary": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-            "source": "量子位",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/06/435848.html"
+            "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "为什么韩国人如此热爱人工智能？",
-            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。当我从旧金山经过 12 个小时的艰苦飞行抵达首尔时，我走过了一个无人值守的移民检查站，那里有一台",
+            "title": "下载：第一个大脑植入超级用户和韩国对人工智能的痴迷",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这位患有肌萎缩侧索硬化症的男子是第一个使用大脑植入物让他说话的“超级用户”凯西·哈雷尔（Casey Harrell）在",
+            "source": "MIT Tech Review",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "想要数据中心快速上线吗？给它一些弹性。",
+            "summary": "在英国男队与对手德国队之间紧张且无得分的上半场比赛结束时，数百万英国人集体叹了口气，做了他们在压力时刻经常做的事情：泡茶。然而，那一波电热水壶的咔嗒声引起了不同的结果——",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+            "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "这位患有肌萎缩侧索硬化症的男子是大脑植入物的“第一个超级用户”，可以让他说话",
-            "summary": "凯西·哈雷尔的大脑中植入了一组电极近三年了。患有肌萎缩侧索硬化症 (ALS) 且瘫痪的哈雷尔于 2023 年在一个研究小组的帮助下首次使用脑机接口 (BCI)“说出”句子。从那时起，哈雷尔的使用时间已",
-            "source": "MIT Tech Review",
-            "time": "昨天",
+            "tag": "头条 · 大模型",
+            "title": "国产算力正在进入Token标准化时代",
+            "summary": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。",
+            "source": "量子位",
+            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+            "url": "https://www.qbitai.com/2026/06/436468.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:38",
-            "text": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+            "time": "02:36",
+            "text": "独家电子书：人工智能如何成为下一个军事顾问",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/06/435861.html"
+            "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
         },
         {
-            "time": "02:38",
-            "text": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+            "time": "02:36",
+            "text": "下载：第一个大脑植入超级用户和韩国对人工智能的痴迷",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/435848.html"
+            "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
         },
         {
-            "time": "02:38",
-            "text": "为什么韩国人如此热爱人工智能？",
+            "time": "02:36",
+            "text": "想要数据中心快速上线吗？给它一些弹性。",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+            "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
         },
         {
-            "time": "02:38",
-            "text": "这位患有肌萎缩侧索硬化症的男子是大脑植入物的“第一个超级用户”，可以让他说话",
+            "time": "02:36",
+            "text": "国产算力正在进入Token标准化时代",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+            "url": "https://www.qbitai.com/2026/06/436468.html"
         },
         {
-            "time": "02:38",
-            "text": "下载：减少交流电排放，以及大自然的药物设计师",
+            "time": "02:36",
+            "text": "通过多智能体虚拟游戏增强大型语言模型的决策能力",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
+            "url": "http://arxiv.org/abs/2606.19308v1"
         },
         {
-            "time": "02:38",
-            "text": "这些新型固态空调预示着美好的未来。科学家们不太确定。",
+            "time": "02:36",
+            "text": "信心不是可靠性：重新思考脑肿瘤分割中的 MC Dropout",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+            "url": "http://arxiv.org/abs/2606.19300v1"
         },
         {
-            "time": "02:38",
-            "text": "Snap 终于推出了期待已久的 AR 眼镜，规格，而且，它们并不便宜",
+            "time": "02:36",
+            "text": "纠正自己，保持信任：自我纠正和社交联系如何塑造社交聊天机器人的可信度",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/"
+            "url": "http://arxiv.org/abs/2606.19286v1"
         },
         {
-            "time": "02:38",
-            "text": "调查发现，百分之六十的美国消费者表示品牌信息中的“人工智能”令人反感",
+            "time": "02:36",
+            "text": "NeSyCat Torch：用于神经符号学习的分类语义的可微张量实现",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
+            "url": "http://arxiv.org/abs/2606.19279v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+                    "title": "国产算力正在进入Token标准化时代",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "刚刚",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/435861.html",
+                    "url": "https://www.qbitai.com/2026/06/436468.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "专为 Agent 设计的 AI 搜索层服务..."
+                    "desc": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。..."
                 },
                 {
-                    "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "通过多智能体虚拟游戏增强大型语言模型的决策能力",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/435848.html"
+                    "url": "http://arxiv.org/abs/2606.19308v1"
                 },
                 {
-                    "title": "Snap 终于推出了期待已久的 AR 眼镜，规格，而且，它们并不便宜",
+                    "title": "Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/"
+                    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
                 },
                 {
-                    "title": "调查发现，百分之六十的美国消费者表示品牌信息中的“人工智能”令人反感",
+                    "title": "据称，网络犯罪分子入侵了全球各大公司使用的数万个 Fortinet 防火墙",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
+                    "url": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/"
                 },
                 {
-                    "title": "随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具",
-                    "source": "TechCrunch AI",
+                    "title": "使用图灵奖励学习用户模拟器",
+                    "source": "arXiv",
                     "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
+                    "url": "http://arxiv.org/abs/2606.19336v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】未来动态 3D 重建：具有解开自我运动的 3D 世界模型",
-                    "desc": "预测动态环境的演变对于自主代理至关重要。虽然生成世界模型最近通过在图像平面内混合自我运动和环境动力学在 2D 视频合成中实现了高度真实感，但它们表现出物理不一致，例如物体变形或消失，尤其是在较长的时间范围内。在本文中，我们提出了 FR3D，这是一种世界模型，可以预测未来动态 3D 重建的持久 3D ...",
+                    "title": "【arXiv】本机主动感知作为全模态理解的推理",
+                    "desc": "用于长视频理解的被动模型通常依赖于“全部观看”范例，无论查询难度如何，都统一处理帧，导致计算成本随着视频持续时间的增加而增加。尽管交互式框架已经出现，但它们通常依赖于全局预扫描，并且它们的上下文成本仍然随着视频长度而变化。我们提出了 OmniAgent，这是第一个原生全模式代理，它将视频理解制定为基...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18250v1"
+                    "url": "http://arxiv.org/abs/2606.19341v1"
                 },
                 {
-                    "title": "【arXiv】具有共享上下文视觉分词器的统一多模态自回归建模是统一的关键",
-                    "desc": "统一多模态建模旨在将视觉理解和生成集成到单个系统中。然而，现有的方法通常依赖于两个不同的视觉分词器，这会分割表示空间并阻碍真正的统一建模。我们提出 UniAR，一个统一的自回归框架，其中单个离散视觉分词器充当理解和生成之间的关键桥梁，实现共享上下文，模型可以在其中直接解释其自己的生成...",
+                    "title": "【arXiv】超越当前观察：评估可控非马尔可夫游戏中的多模态大语言模型",
+                    "desc": "将多模式基础模型部署为闭环策略越来越需要对不再可见的观察结果采取调节行动。然而，现有的基准要么暴露完整状态，要么将隐藏状态重建与其他智能体技能混为一谈，要么仅在情节结束后测试召回。我们引入 RNG-Bench（重构非马尔可夫游戏），这是一个基准套件，旨在隔离基本模型重建过去观察结果的能力，并在多个模...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18249v1"
+                    "url": "http://arxiv.org/abs/2606.19338v1"
                 },
                 {
-                    "title": "【arXiv】视觉验证支持推理时间引导和自主策略改进",
-                    "desc": "部署在现实世界中的机器人应该从经验中学习并随着时间的推移而改进。这需要一种练习和从反馈中学习的机制。在本文中，我们提出了 VERITAS，这是一种用于通用机器人策略的生成器验证器框架，用于推理时间策略指导和自我改进。我们使用预先训练的通用机器人策略作为“生成器”，并将其与无梯度“视觉验证器”配对，该...",
+                    "title": "【arXiv】使用图灵奖励学习用户模拟器",
+                    "desc": "学习在交互环境中模拟人类用户可以促进代理助理的培训、个性化系统的评估、社会科学研究等。现有方法通常通过训练大型语言模型（LLM）来匹配单个地面实况响应来实现这一点，或者通过最大化对数概率或通过使用相似性奖励。相反，我们提出了 {Turing-RL}：一种基于图灵测试的强化学习方法，用于训练用户模拟器...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18247v1"
+                    "url": "http://arxiv.org/abs/2606.19336v1"
                 },
                 {
-                    "title": "【arXiv】可变宽度变压器",
-                    "desc": "缩放模型大小，特别是深度和宽度，推动了基于 Transformer 的语言模型的重大进展。然而，大多数架构在所有层上保持恒定的宽度，均匀地分配固定参数和计算预算，尽管不同层可能扮演不同的计算角色。在这项工作中，我们通过提出 $\\times$ 形 > <前架构，实证研究跨网络深度的非均匀容量分配。这种...",
+                    "title": "【arXiv】用 LOCUS 解放法律：美国地方条例语料库",
+                    "desc": "法律人工智能的进步越来越依赖于大规模获取权威法律文本。然而，美国法律最重要的层面之一在现有的机器可读语料库中仍然基本上缺失：地方法规。地方法规管辖分区、住房、商业许可、公共卫生、噪音、动物控制和许多其他日常监管领域，但它们分散在专为人类浏览而不是批量研究访问而设计的供应商平台上。我们介绍LOCUS ...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18246v1"
+                    "url": "http://arxiv.org/abs/2606.19334v1"
                 },
                 {
-                    "title": "【arXiv】MOCHI：人机协作交互的运动增强",
-                    "desc": "人机协作交互表现出动态且复杂的运动，需要参与者和共享对象之间的相互预期和不断调整。对此类协作多人对象交互 (MHOI) 场景进行建模需要高质量的数据采集作为基础步骤；然而，由于 MHOI 固有的复杂性（人与人以及人与物体的交互同时发生），这具有挑战性。这种复杂性会导致 MHOI 捕获产生噪音...",
+                    "title": "【arXiv】像我一样做：来自日常人类视频的灵巧操作数据",
+                    "desc": "我们如何可扩展地生成用于机器人操作的数据，尤其是在灵巧的多指手等类似人类的平台上？最近，从人类视频中学习可能成为这个问题的答案。然而，估计手-物体交互和跨越人与机器人实施差距的困难阻碍了采用丰富的单眼纯 RGB 人类视频作为机器人操作数据的主要来源。在这项工作中，我们提出了一种算法 DO AS I ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18243v1"
+                    "url": "http://arxiv.org/abs/2606.19333v1"
                 },
                 {
-                    "title": "【arXiv】EventDrive：用于视觉语言驾驶智能的事件相机",
-                    "desc": "事件摄像机通过具有微秒延迟和高动态范围的异步亮度变化来感知世界，提供远远超出基于帧的传感器的运动保真度，并捕获传统曝光经常错过的时间结构。这些特性使事件成为自动驾驶中 RGB 的强大补充，特别是在模糊、眩光和快速运动的情况下，在这些情况下基于帧的感知可能变得不可靠。然而，现有的事件感知视觉语言模型仍...",
+                    "title": "【arXiv】UBP2：基于偏好的高效强化学习的不确定性平衡偏好规划",
+                    "desc": "基于偏好的强化学习提供了一种通过行为的成对比较来学习奖励模型的方法，从而绕过了显式奖励设计的需要。然而，现有方法通常依赖于被动数据收集，样本效率较差，尤其是在学习的早期阶段。我们引入了一种基于模型的方法，通过联合推理奖励、动态和价值函数的不确定性来积极指导探索。我们的方法，不确定性平衡 P...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.18242v1"
+                    "url": "http://arxiv.org/abs/2606.19328v1"
                 }
             ]
         },
@@ -274,45 +274,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "使用 ISO 语言标记框架和 TEI Lex-0 分析和编码 Al-Mawrid 阿拉伯语-英语词典",
-                    "time": "9小时前",
+                    "title": "FTC 诉讼揭露订阅诈骗网络如何逃避应用商店执法",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2606.18205v1"
+                    "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/"
                 },
                 {
                     "rank": 2,
-                    "title": "高通希望成为替代智能手机的芯片，为此它刚刚发布了两款产品",
-                    "time": "8小时前",
+                    "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
+                    "time": "2026-06-18",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
+                    "url": "https://36kr.com/p/3855480467543042?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
-                    "time": "2026-06-17",
+                    "title": "36氪「2026最具价值成长企业100」正式发布",
+                    "time": "2026-06-18",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3856525981275138?f=rss"
+                    "url": "https://36kr.com/p/3857980507919622?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面",
-                    "time": "2026-06-16",
+                    "title": "氪星晚报｜菜鸟将在荷兰建设欧洲供应链履约中心；有道词典笔获2026 EdTech Breakthrough Award年度K-12教育科技应",
+                    "time": "2026-06-17",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3855262364488969?f=rss"
+                    "url": "https://36kr.com/p/3857175761081348?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
-                    "time": "2026-06-15",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3854510160549124?f=rss"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 6,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "微信支付发布AI专属卡 WorkBuddy率先接入",
+                    "time": "19小时前",
                     "emoji": "🎵",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://www.qbitai.com/2026/06/436160.html"
+                },
+                {
+                    "rank": 7,
+                    "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
+                    "time": "15小时前",
+                    "emoji": "📝",
+                    "url": "https://www.qbitai.com/2026/06/436224.html"
                 }
             ]
         },
@@ -322,73 +329,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "R2 交付开始后 Rivian 裁员数百人",
-                    "time": "8小时前",
+                    "title": "Roelof Botha 加入 SpaceX 董事会",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/16/rivian-cuts-hundreds-of-workers-after-r2-deliveries-start/"
+                    "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/"
                 },
                 {
                     "rank": 2,
-                    "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
-                    "time": "2026-06-17",
+                    "title": "Chi-Hua Chien 看到了 Facebook 的到来——现在他说真正的人工智能赢家不会出售人工智能",
+                    "time": "5小时前",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3826129009234824?f=rss"
+                    "url": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家",
-                    "time": "2026-06-16",
+                    "title": "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投",
+                    "time": "20小时前",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3855879311823873?f=rss"
+                    "url": "https://www.qbitai.com/2026/06/436148.html"
                 },
                 {
                     "rank": 4,
-                    "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
-                    "time": "2026-06-16",
+                    "title": "12306要忙着赚钱了",
+                    "time": "2026-06-18",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3855628692001799?f=rss"
+                    "url": "https://36kr.com/p/3858061678760965?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-                    "time": "2026-06-16",
+                    "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
+                    "time": "2026-06-18",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3853918856696834?f=rss"
+                    "url": "https://36kr.com/p/3856708724315400?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
-                    "time": "2026-06-16",
+                    "title": "8点1氪丨山姆首席采购官张青已提交辞呈；豆包每天收入不足百万；不得以长期、大额补贴扰乱市场秩序，外卖平台新规公开征求意见",
+                    "time": "2026-06-18",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3855082873476102?f=rss"
+                    "url": "https://36kr.com/p/3857925631104004?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5",
-                    "time": "2026-06-15",
+                    "title": "风拂阳澄，来半岛解锁夏日限定AI狂欢！",
+                    "time": "2026-06-17",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3854486447510535?f=rss"
+                    "url": "https://36kr.com/p/3857051317359622?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "从一个想法到一个产品，年轻开发者把生活观察写进代码",
-                    "time": "2026-06-15",
+                    "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
+                    "time": "2026-06-17",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3854243718550528?f=rss"
+                    "url": "https://36kr.com/p/3857011810112521?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "把AI当「电子校医」的大学生，一个人看病不慌了",
+                    "time": "2026-06-17",
                     "emoji": "📰",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3856958075802633?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🏢",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -434,7 +441,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+448,627",
+                    "stars": "+449,168",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -443,7 +450,7 @@ var siteData = {
                     "desc": "：书籍：免费提供的编程书籍",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+390,378",
+                    "stars": "+390,432",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -452,29 +459,11 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,068",
+                    "stars": "+379,239",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+357,486",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+299,623",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-                },
-                {
-                    "rank": 6,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
@@ -483,22 +472,40 @@ var siteData = {
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
+                    "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+236,686",
+                    "stars": "+236,781",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "name": "obra/superpowers",
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+229,960",
+                    "stars": "+231,183",
                     "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 7,
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+217,339",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 8,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "与您共同成长的代理商",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+196,262",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -507,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
+            "title": "独家电子书：人工智能如何成为下一个军事顾问",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/06/435861.html"
+            "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+            "title": "下载：第一个大脑植入超级用户和韩国对人工智能的痴迷",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/06/435848.html"
+            "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "为什么韩国人如此热爱人工智能？",
+            "title": "想要数据中心快速上线吗？给它一些弹性。",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+            "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "这位患有肌萎缩侧索硬化症的男子是大脑植入物的“第一个超级用户”，可以让他说话",
+            "title": "国产算力正在进入Token标准化时代",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+            "url": "https://www.qbitai.com/2026/06/436468.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "下载：减少交流电排放，以及大自然的药物设计师",
+            "title": "通过多智能体虚拟游戏增强大型语言模型的决策能力",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
+            "url": "http://arxiv.org/abs/2606.19308v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "这些新型固态空调预示着美好的未来。科学家们不太确定。",
+            "title": "信心不是可靠性：重新思考脑肿瘤分割中的 MC Dropout",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+            "url": "http://arxiv.org/abs/2606.19300v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Snap 终于推出了期待已久的 AR 眼镜，规格，而且，它们并不便宜",
+            "title": "纠正自己，保持信任：自我纠正和社交联系如何塑造社交聊天机器人的可信度",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/"
+            "url": "http://arxiv.org/abs/2606.19286v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "调查发现，百分之六十的美国消费者表示品牌信息中的“人工智能”令人反感",
+            "title": "NeSyCat Torch：用于神经符号学习的分类语义的可微张量实现",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/"
+            "url": "http://arxiv.org/abs/2606.19279v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "循环世界模型",
+            "title": "Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.18208v1"
+            "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "定点推理器：稳定且自适应的深环变压器",
+            "title": "据称，网络犯罪分子入侵了全球各大公司使用的数万个 Fortinet 防火墙",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.18206v1"
+            "url": "https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world/"
         }
     ],
     "aiTools": [
@@ -627,16 +634,20 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
-            "size": "medium"
-        },
-        {
             "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
+            "text": "AI",
             "size": "medium"
+        },
+        {
+            "text": "智能",
+            "size": "medium"
+        },
+        {
+            "text": "Anthropic",
+            "size": "small"
         },
         {
             "text": "Code",
@@ -647,27 +658,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Pocket",
+            "text": "用户",
             "size": "small"
         },
         {
-            "text": "机器人",
-            "size": "small"
-        },
-        {
-            "text": "SpaceX",
-            "size": "small"
-        },
-        {
-            "text": "编码",
-            "size": "small"
-        },
-        {
-            "text": "MHOI",
-            "size": "small"
-        },
-        {
-            "text": "番禺",
+            "text": "NeSyCat",
             "size": "small"
         },
         {
@@ -675,22 +670,190 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "中国",
+            "size": "small"
+        },
+        {
+            "text": "机器人",
+            "size": "small"
+        },
+        {
             "text": "Salesforce",
+            "size": "small"
+        },
+        {
+            "text": "Slackbot",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "上线首月吸引 10 万开发者，AnySearch 为 Agent 解锁网页之外的世界",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "专为 Agent 设计的 AI 搜索层服务"
+            "title": "独家电子书：人工智能如何成为下一个军事顾问",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "关于军队如何使用人工智能模型做出决策的故事集。这本仅供订阅者阅读的电子书包含六个故事，最初于 2025 年 4 月 11 日至 2026 年 4 月 21 日期间发表在《麻省理工学院技术评论》上，并已进行更新以反映最新进展。詹姆斯·奥唐纳 "
         },
         {
-            "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+            "title": "下载：第一个大脑植入超级用户和韩国对人工智能的痴迷",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这位患有肌萎缩侧索硬化症的男子是第一个使用大脑植入物让他说话的“超级用户”凯西·哈雷尔（Casey Harrell）在他的大脑中植入了一组电极近乎“强健”。"
+        },
+        {
+            "title": "想要数据中心快速上线吗？给它一些弹性。",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在英国男队与对手德国队之间紧张且无得分的上半场比赛结束时，数百万英国人集体叹了口气，做了他们在压力时刻经常做的事情：泡茶。然而，那一波电热水壶的咔嗒声引起了不同的结果——"
+        },
+        {
+            "title": "国产算力正在进入Token标准化时代",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。"
+        },
+        {
+            "title": "通过多智能体虚拟游戏增强大型语言模型的决策能力",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "基于大型语言模型 (LLM) 的多智能体系统 (MAS) 通过在协作智能体之间分配子任务，在解决执行复杂性的任务方面表现出了巨大的潜力。然而，这种分而治之的范式无法满足现实世界中也普遍存在的决策任务。这些任务需要从所有相关利益相关者的立场同"
+        },
+        {
+            "title": "信心不是可靠性：重新思考脑肿瘤分割中的 MC Dropout",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "多参数 MRI 中的胶质瘤分割是治疗计划的重要组成部分。在治疗关键子区域上默默失败的分割模型代表了患者安全风险，而基于重叠的指标（例如 Dice 评分）无法揭示这一风险。我们询问通过蒙特卡罗（MC）Dropout进行体素级不确定性估计是否可"
+        },
+        {
+            "title": "纠正自己，保持信任：自我纠正和社交联系如何塑造社交聊天机器人的可信度",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "当社交聊天机器人犯错时（而且确实犯了错误），它们的恢复方式决定了用户是否再次信任它们。社交聊天机器人越来越多地融入日常生活，但它们仍然容易产生令人信服但不准确的信息。他们与用户建立的社交联系使得此类错误尤其严重。我们进行了一项受试者间实验（"
+        },
+        {
+            "title": "NeSyCat Torch：用于神经符号学习的分类语义的可微张量实现",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "神经符号语义是支离破碎的：经典的、模糊的、概率的和神经系统都通过自己的归纳规则来定义真理。 NeSyCat 扩展了 ULLER，将它们纳入真理的单一归纳定义、强单子的参数化和真值的聚合结构中。 NeSyCat 迄今为止还缺乏对神经网络学习的"
+        },
+        {
+            "title": "Anthropic 成为第一家加入 Frontier 碳清除联盟的人工智能初创公司",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Anthropic 已加入 Frontier 联盟，该联盟又收到了 9.15 亿美元的承诺，用于资助碳清除项目。"
+        },
+        {
+            "title": "据称，网络犯罪分子入侵了全球各大公司使用的数万个 Fortinet 防火墙",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "据报道，一个所谓的俄语网络犯罪团伙正在通过先前已知的密码，对使用 Fortinet 防火墙和 VPN 的几家大公司进行攻击和攻击。"
+        },
+        {
+            "title": "本机主动感知作为全模态理解的推理",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "用于长视频理解的被动模型通常依赖于“全部观看”范例，无论查询难度如何，都统一处理帧，导致计算成本随着视频持续时间的增加而增加。尽管交互式框架已经出现，但它们通常依赖于全局预扫描，并且它们的上下文成本仍然随着视频长度而变化。我们提出了 Omn"
+        },
+        {
+            "title": "超越当前观察：评估可控非马尔可夫游戏中的多模态大语言模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "将多模式基础模型部署为闭环策略越来越需要对不再可见的观察结果采取调节行动。然而，现有的基准要么暴露完整状态，要么将隐藏状态重建与其他智能体技能混为一谈，要么仅在情节结束后测试召回。我们引入 RNG-Bench（重构非马尔可夫游戏），这是一个"
+        },
+        {
+            "title": "使用图灵奖励学习用户模拟器",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "学习在交互环境中模拟人类用户可以促进代理助理的培训、个性化系统的评估、社会科学研究等。现有方法通常通过训练大型语言模型（LLM）来匹配单个地面实况响应来实现这一点，或者通过最大化对数概率或通过使用相似性奖励。相反，我们提出了 {Turing"
+        },
+        {
+            "title": "用 LOCUS 解放法律：美国地方条例语料库",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "法律人工智能的进步越来越依赖于大规模获取权威法律文本。然而，美国法律最重要的层面之一在现有的机器可读语料库中仍然基本上缺失：地方法规。地方法规管辖分区、住房、商业许可、公共卫生、噪音、动物控制和许多其他日常监管领域，但它们分散在专为人类浏览"
+        },
+        {
+            "title": "像我一样做：来自日常人类视频的灵巧操作数据",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们如何可扩展地生成用于机器人操作的数据，尤其是在灵巧的多指手等类似人类的平台上？最近，从人类视频中学习可能成为这个问题的答案。然而，估计手-物体交互和跨越人与机器人实施差距的困难阻碍了采用丰富的单眼纯 RGB 人类视频作为机器人操作数据的"
+        },
+        {
+            "title": "UBP2：基于偏好的高效强化学习的不确定性平衡偏好规划",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "基于偏好的强化学习提供了一种通过行为的成对比较来学习奖励模型的方法，从而绕过了显式奖励设计的需要。然而，现有方法通常依赖于被动数据收集，样本效率较差，尤其是在学习的早期阶段。我们引入了一种基于模型的方法，通过联合推理奖励、动态和价值函数的不"
+        },
+        {
+            "title": "重新思考奖励监督：标题条件自蒸馏",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "推理语言模型的后训练通常由具有可验证奖励的监督蒸馏和强化学习驱动。蒸馏通常依赖于思想链注释，这些注释的获取成本很高，而且本身可能是嘈杂的、不完整的或部分不正确的；即使最终的解决方案是正确的，不完美的理由也会干扰学习。另一方面，具有经过验证的"
+        },
+        {
+            "title": "根据野外先验生成参考驱动的多扬声器音频场景",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "现有的多说话人对话系统通过结构化监督将说话人与话语绑定：每轮标签、多流转录或可学习的说话人嵌入。这些系统在纯语音管道中运行，产生干净的声音序列，没有真实对话的环境纹理。我们采取不同的方法。我们的方法 ScenA 以文本到音频流匹配基础模型为"
+        },
+        {
+            "title": "数据智能代理：通过自主编码代理解释、建模和查询企业数据",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "生产数据集成的瓶颈在于数据所有者、工程师和分析师之间重复的、有损的交接，他们必须协作发现、构建和查询企业数据。我们提出了数据智能代理 (DIA)，这是一个由三个代理（数据解释器、模式创建器和查询生成器）组成的系统，它通过将自主编码代理 (A"
+        },
+        {
+            "title": "用程序综合解释注意力",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "可解释深度学习研究的一个长期目标是用对人类有意义的符号描述取代不透明的神经计算。在本文中，我们提出了一种用可执行程序来近似深度网络组件行为的方法。我们专注于 Transformer 语言模型中的注意力头。对于给定的头部，我们首先在随机选择的"
+        },
+        {
+            "title": "NeuMesh++：通过基于解缠神经网格的隐式场实现多功能且高效的体积编辑",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "最近，神经隐式渲染技术发展迅速，并在新颖的视图合成和 3D 场景重建方面表现出显着的优势。然而，现有的用于编辑目的的神经渲染方法提供的功能有限，例如严格的变换和特定于类别的编辑。在本文中，我们通过在网格顶点上使用解缠结的几何、纹理和语义代码"
+        },
+        {
+            "title": "世界领导人想要美国的人工智能。他们只是不希望美国能够将其关闭。",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "法国总统马克龙和印度总理莫迪在七国集团峰会上发出警告，称美国可能会在一夜之间切断对美国人工智能的访问——人为停电的担忧刚刚成为现实。"
+        },
+        {
+            "title": "Roelof Botha 加入 SpaceX 董事会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "这位前红杉资本领导人正在填补 SpaceX 董事会的“现有空缺”，几天前该公司进行了有史以来最大规模的 IPO。"
+        },
+        {
+            "title": "在推出昂贵的 AR 眼镜后，Snap 的股价暴跌",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Snap 期待已久的智能眼镜首次亮相并没有给该公司的股票带来奇迹。"
+        },
+        {
+            "title": "NEA 的 Tiffany Luck 表示企业仍在计算人工智能投资回报率",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Tokenmaxxing 是今年早些时候硅谷最热门的趋势，首席执行官们鼓励员工尽可能地推动人工智能的使用。然后账单到期了。据报道，Uber 在几个月内就耗尽了年度人工智能预算，一些公司削减了其部分组织的 Claude 许可证，Meta 也取"
+        },
+        {
+            "title": "FTC 诉讼揭露订阅诈骗网络如何逃避应用商店执法",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "联邦贸易委员会的一项新诉讼揭示了复杂的订阅应用程序运营商如何据称利用空壳公司和支付基础设施在应用程序商店中保持活跃，尽管消费者投诉不断增加。"
+        },
+        {
+            "title": "Chi-Hua Chien 看到了 Facebook 的到来——现在他说真正的人工智能赢家不会出售人工智能",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "钱奇华 (Chi-Hua Chien) 作为风险投资家已有二十多年，但他的思考方式却像文化人类学家。"
+        },
+        {
+            "title": "人工智能正在以多种方式伤害苹果：它可能会迫使 iPhone 涨价",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "首席执行官蒂姆·库克在最近的一次采访中表示，这种情况“不可持续”。"
         },
         {
             "title": "为什么韩国人如此热爱人工智能？",
@@ -703,162 +866,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "凯西·哈雷尔的大脑中植入了一组电极近三年了。患有肌萎缩侧索硬化症 (ALS) 且瘫痪的哈雷尔于 2023 年在一个研究小组的帮助下首次使用脑机接口 (BCI)“说出”句子。从那时起，哈雷尔的使用时间已达数千小时。他……"
-        },
-        {
-            "title": "下载：减少交流电排放，以及大自然的药物设计师",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这些新型固态空调预示着美好的未来。科学家们不太确定。在经历了三年破纪录的高温和另一场酷暑之后，空调将无处可去。这对我们的健康有好处，”"
-        },
-        {
-            "title": "这些新型固态空调预示着美好的未来。科学家们不太确定。",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "经过三年破纪录的高温之后，这将是又一个炎热天气。空调？哪儿也不去。国际能源署预计，到 2050 年，空调机组的数量将增加两倍。这对健康有益——《柳叶刀》的一项研究估计，仅 2019 年空调就避免了近 20 万人过早死亡——但对地球不利。"
-        },
-        {
-            "title": "Snap 终于推出了期待已久的 AR 眼镜，规格，而且，它们并不便宜",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "十多年来，Snap 一直致力于这款设备的研发。现在眼镜终于到了。那么第一印象中最突出的是什么？"
-        },
-        {
-            "title": "调查发现，百分之六十的美国消费者表示品牌信息中的“人工智能”令人反感",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "WordPress VIP 的最新调查表明，尽管企业越来越多地将人工智能搜索视为重要的推荐渠道，但消费者对人工智能生成的答案仍持谨慎态度。"
-        },
-        {
-            "title": "循环世界模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当前的世界模型面临着根本性的紧张：忠实的长期模拟需要深度计算，但更深的模型部署成本高昂，并且容易出现复合错误。我们通过引入循环世界模型（LoopWM）来解决这个问题，这是第一个用于世界建模的循环架构。我们的方法通过参数共享变压器块迭代地细化"
-        },
-        {
-            "title": "定点推理器：稳定且自适应的深环变压器",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "循环架构为学习需要组合推理的任务的逐步过程提供了归纳偏差。循环达到的有效层数决定了这些模型找到的解决方案的质量。与深度架构一样，随着停止决策的推迟，循环架构很容易出现由深度引起的信号传播问题。在本文中，我们使用预范数层和残差缩放来解决这个信"
-        },
-        {
-            "title": "使用 ISO 语言标记框架和 TEI Lex-0 分析和编码 Al-Mawrid 阿拉伯语-英语词典",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "本文提出了一种对 Al-Mawrid 阿拉伯语-英语词典进行系统数字化和编码的强大方法，将其从传统印刷资源转变为标准化计算词典。为了解决阿拉伯语词汇基础设施中的重大差距，该研究采用了双标准框架，使 ISO 词汇标记框架 (LMF) 与文本编"
-        },
-        {
-            "title": "高通希望成为替代智能手机的芯片，为此它刚刚发布了两款产品",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "高通首席执行官克里斯蒂亚诺·阿蒙 (Cristiano Amon) 周二表示，该公司正在开发 40 多种不同的人工智能可穿戴设备，包括珠宝、带摄像头的耳塞、别针和手表，这表明该芯片制造商非常积极地押注下一个主要计算平台不会是手机。"
-        },
-        {
-            "title": "FIFA 世界杯内部系统中的错误使任何人都可以修改电视流",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "一名安全研究人员表示，国际足联在线平台的一个缺陷使她能够访问多个内部系统，其中一个系统可能使她能够控制每场世界杯比赛的电视直播。"
-        },
-        {
-            "title": "随着谷歌扩展 Gemini 功能，Android 17 推出新的多任务工具",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "谷歌发布了 Android 17 和 Wear OS 7，引入了新的多任务功能、家长控制、安全工具和智能手表升级。此次发布还伴随着 Pixel Drop，将谷歌最新的人工智能模型引入其设备。"
-        },
-        {
-            "title": "Mobileye 在美国推出机器人出租车，将进军自动驾驶领域",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Mobileye 显然希望拥有部分机器人出租车市场，即使这会使其与其供应自动驾驶系统的公司直接竞争。"
-        },
-        {
-            "title": "R2 交付开始后 Rivian 裁员数百人",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "该公司表示，此次裁员是重组的一部分，旨在帮助扩大规模以实现盈利。 Rivian 最近推迟了投资自动化的盈利目标。"
-        },
-        {
-            "title": "未来动态 3D 重建：具有解开自我运动的 3D 世界模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "预测动态环境的演变对于自主代理至关重要。虽然生成世界模型最近通过在图像平面内混合自我运动和环境动力学在 2D 视频合成中实现了高度真实感，但它们表现出物理不一致，例如物体变形或消失，尤其是在较长的时间范围内。在本文中，我们提出了 FR3D，"
-        },
-        {
-            "title": "具有共享上下文视觉分词器的统一多模态自回归建模是统一的关键",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "统一多模态建模旨在将视觉理解和生成集成到单个系统中。然而，现有的方法通常依赖于两个不同的视觉分词器，这会分割表示空间并阻碍真正的统一建模。我们提出 UniAR，一个统一的自回归框架，其中单个离散视觉分词器充当理解和生成之间的关键桥梁，实现共"
-        },
-        {
-            "title": "视觉验证支持推理时间引导和自主策略改进",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "部署在现实世界中的机器人应该从经验中学习并随着时间的推移而改进。这需要一种练习和从反馈中学习的机制。在本文中，我们提出了 VERITAS，这是一种用于通用机器人策略的生成器验证器框架，用于推理时间策略指导和自我改进。我们使用预先训练的通用机"
-        },
-        {
-            "title": "可变宽度变压器",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "缩放模型大小，特别是深度和宽度，推动了基于 Transformer 的语言模型的重大进展。然而，大多数架构在所有层上保持恒定的宽度，均匀地分配固定参数和计算预算，尽管不同层可能扮演不同的计算角色。在这项工作中，我们通过提出 $\\times$"
-        },
-        {
-            "title": "MOCHI：人机协作交互的运动增强",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "人机协作交互表现出动态且复杂的运动，需要参与者和共享对象之间的相互预期和不断调整。对此类协作多人对象交互 (MHOI) 场景进行建模需要高质量的数据采集作为基础步骤；然而，由于 MHOI 固有的复杂性（人与人以及人与物体的交互同时发生），这"
-        },
-        {
-            "title": "EventDrive：用于视觉语言驾驶智能的事件相机",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "事件摄像机通过具有微秒延迟和高动态范围的异步亮度变化来感知世界，提供远远超出基于帧的传感器的运动保真度，并捕获传统曝光经常错过的时间结构。这些特性使事件成为自动驾驶中 RGB 的强大补充，特别是在模糊、眩光和快速运动的情况下，在这些情况下基"
-        },
-        {
-            "title": "ReproRepo：通过 GitHub 存储库问题扩展再现性审核",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从论文和发布的代码中复制研究结果是科学进步的核心。现有的工作已经引入了基准来评估 LLM 代理是否可以帮助再现性，但由于它们依赖于大量的手动数据管理和评估，因此很难扩展。我们引入了 ReproRepo，这是一个用于再现性评估的可扩展框架，它"
-        },
-        {
-            "title": "EvolveNav：用于零样本目标导航的主动反射和自我进化记忆",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "零射击对象目标导航（ZS-OGN）要求实体代理在没有任何事先训练的情况下探索和定位目标对象。为此，最近的方法利用了基础模型。但它们通常依赖于静态先验并且缺乏适应性，这会导致重复错误和代价高昂的试错。在本文中，我们提出了一种自我进化的 ZS-"
-        },
-        {
-            "title": "分辨率不变的自适应体积机械属性场",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "准确的机械特性（或材料）杨氏模量 ($E$)、泊松比 ($ν$) 和密度 ($ρ$) 对于数字世界的可靠物理模拟至关重要，但大多数 3D 资产缺乏这些信息。我们提出了 AdaVoMP，一种用于预测跨表示的输入 3D 对象的精确密集空间变化（"
-        },
-        {
-            "title": "从神经符号自主网络代理的观察中学习红色代理策略",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "随着复杂的网络攻击变得越来越普遍，现代网络需要通过强化学习（RL）训练的智能自主网络防御代理。这些代理采用神经符号方法，例如具有学习组件 (LEC) 的行为树来学习、推理、适应和实施安全规则，同时维持关键操作。然而，这些自治网络是部分可观察"
-        },
-        {
-            "title": "Darshana 图表：比较印度哲学的并行评论语料库，具有风格测量和探索性图表分析",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们介绍 Darshana Graph，这是一个包含超过 125,000 条文本记录的语料库，涵盖古典印度教、佛教和耆那教哲学传统，取自公共领域和公开许可的来源翻译，包括《薄伽梵歌》、《梵天经》、主要奥义书、巴利文经典和核心耆那教文本。它的"
-        },
-        {
-            "title": "近端策略优化区域：老师在提示中，而不是梯度中",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "知识蒸馏将教师的能力转移给小学生，但在小学生制度中是脆弱的：强迫学生模仿大得多的教师的逻辑，将其集中在教师最敏锐的模式上，从而损害了训练语料库之外的基准家庭的泛化能力。强化学习 (RL) 通过对学生自己的部署进行训练来避免逻辑模仿。然而，在"
-        },
-        {
-            "title": "SpaceX 估值飙升至 2.6T 美元，短暂超过亚马逊",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "自周五股票开始交易以来，SpaceX 的估值已增加 1 万亿美元。"
-        },
-        {
-            "title": "独家电子书：人工智能如何成为下一个军事顾问",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "关于军队如何使用人工智能模型做出决策的故事集。这本仅供订阅者阅读的电子书包含六个故事，最初于 2025 年 4 月 11 日至 2026 年 4 月 21 日期间发表在《麻省理工学院技术评论》上，并已进行更新以反映最新进展。作者：James"
         }
     ]
 }
