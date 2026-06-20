@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-19 02:52:23
+ * 生成时间: 2026-06-20 02:13:21
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "国产算力正在进入Token标准化时代",
-            "summary": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+            "summary": "Telegram 认为印度应该屏蔽特定内容，而不是数百万人使用的整个平台。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/06/436468.html"
+            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "下载：地球工程和内感受科学的现实检验",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳能地球工程是一个有争议的想法，即我们可以故意干预气候系统以抵消全球变暖，它正在超越",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+            "summary": "M4是大脑，百小医是身体",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
+            "url": "https://www.qbitai.com/2026/06/436758.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "内罗毕的企业家阐述了使用太阳能的理由",
-            "summary": "肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年实现普遍供电而不增加排放的目标。太阳能技术不断提高的经济性对此有所帮助。几年前，",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+            "summary": "全系产品入驻万机易租2.0",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
+            "url": "https://www.qbitai.com/2026/06/436802.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "侵入大气层：地球工程得到现实检验",
-            "summary": "吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机翼从粗短的机身中伸出。这架无人驾驶飞机的飞行高度比商用喷气式飞机还要高数千米，高",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+            "summary": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+            "url": "https://www.qbitai.com/2026/06/436751.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:52",
-            "text": "国产算力正在进入Token标准化时代",
+            "time": "02:13",
+            "text": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/06/436468.html"
+            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
         },
         {
-            "time": "02:52",
-            "text": "下载：地球工程和内感受科学的现实检验",
+            "time": "02:13",
+            "text": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
+            "url": "https://www.qbitai.com/2026/06/436758.html"
         },
         {
-            "time": "02:52",
-            "text": "内罗毕的企业家阐述了使用太阳能的理由",
+            "time": "02:13",
+            "text": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
+            "url": "https://www.qbitai.com/2026/06/436802.html"
         },
         {
-            "time": "02:52",
-            "text": "侵入大气层：地球工程得到现实检验",
+            "time": "02:13",
+            "text": "香港特区政府财政司司长陈茂波一行到访 PPIO",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+            "url": "https://www.qbitai.com/2026/06/436751.html"
         },
         {
-            "time": "02:52",
-            "text": "FID 彩票：量化生成模型评估中隐藏的随机性",
+            "time": "02:13",
+            "text": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.20536v1"
+            "url": "https://www.qbitai.com/2026/06/436740.html"
         },
         {
-            "time": "02:52",
-            "text": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+            "time": "02:13",
+            "text": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.20532v1"
+            "url": "https://www.qbitai.com/2026/06/436674.html"
         },
         {
-            "time": "02:52",
-            "text": "VisDom：具有可见域约束的稀疏新颖视图合成",
+            "time": "02:13",
+            "text": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.20531v1"
+            "url": "https://www.qbitai.com/2026/06/436698.html"
         },
         {
-            "time": "02:52",
-            "text": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
+            "time": "02:13",
+            "text": "全员本科生！何恺明组新作：文生图，258M参数就够了",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.20529v1"
+            "url": "https://www.qbitai.com/2026/06/436518.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "国产算力正在进入Token标准化时代",
+                    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436468.html",
+                    "url": "https://www.qbitai.com/2026/06/436758.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。..."
+                    "desc": "M4是大脑，百小医是身体..."
                 },
                 {
-                    "title": "亚马逊希望通过销售其人工智能芯片来更直接地挑战英伟达",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
+                    "url": "https://www.qbitai.com/2026/06/436802.html"
                 },
                 {
-                    "title": "DiffusionGemma 的透明度如何？",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2606.20560v1"
+                    "url": "https://www.qbitai.com/2026/06/436751.html"
                 },
                 {
-                    "title": "Rivian 车主提起诉讼，指控其对自动驾驶功能做出虚假承诺",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/18/rivian-owners-file-lawsuit-alleging-false-promises-on-self-driving-features/"
+                    "url": "https://www.qbitai.com/2026/06/436740.html"
                 },
                 {
-                    "title": "出于成本考虑，Snap 将人工智能视频团队分拆为新公司 Dotmo",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/"
+                    "url": "https://www.qbitai.com/2026/06/436674.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20563v1"
@@ -217,18 +217,18 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20561v1"
                 },
                 {
                     "title": "【arXiv】DiffusionGemma 的透明度如何？",
-                    "desc": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透明度，我们是否理解模型计算状态的中间快照；和算法i...",
+                    "desc": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。 However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space;这是否会使其推...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20560v1"
@@ -239,29 +239,29 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20559v1"
                 },
                 {
                     "title": "【arXiv】盒子里的思考：真实图像的 3D 编辑变得轻松",
-                    "desc": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构化规范：用户提供编辑的输入和输出框，将编辑转换为适定的几何体...",
+                    "desc": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object m...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20556v1"
                 },
                 {
                     "title": "【arXiv】构建和标记分布式用户兴趣上下文以进行生成推荐",
-                    "desc": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中。一方面，存在...",
+                    "desc": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中。 On the one hand, exist...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20554v1"
@@ -274,24 +274,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
-                    "time": "9小时前",
+                    "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2606.20532v1"
+                    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
                 },
                 {
                     "rank": 2,
-                    "title": "Mivo 的新应用程序采用谨慎的方法来管理屏幕时间",
-                    "time": "8小时前",
+                    "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
+                    "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/"
+                    "url": "http://arxiv.org/abs/2606.20529v1"
                 },
                 {
                     "rank": 3,
-                    "title": "Match 表示，近一半的美国单身人士对约会中的人工智能持负面态度",
-                    "time": "7小时前",
+                    "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购。这就是为什么它很重要",
+                    "time": "4小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/"
+                    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
                 },
                 {
                     "rank": 4,
@@ -337,10 +337,10 @@ var siteData = {
                 },
                 {
                     "rank": 10,
-                    "title": "36氪「2026最具价值成长企业100」正式发布",
-                    "time": "2026-06-18",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🌐",
-                    "url": "https://36kr.com/p/3857980507919622?f=rss"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
         },
@@ -350,59 +350,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "根据风险投资机构的说法，YC 演示日的 11 家杰出初创公司",
-                    "time": "6小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/"
-                },
-                {
-                    "rank": 2,
-                    "title": "据报道，人工智能推理初创公司 Baseten 在上一轮大型融资几个月后筹集了 1.5 亿美元",
-                    "time": "5小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/"
-                },
-                {
-                    "rank": 3,
                     "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
                     "time": "2026-06-18",
-                    "emoji": "🏭",
+                    "emoji": "🔥",
                     "url": "https://36kr.com/p/3858329994875908?f=rss"
                 },
                 {
-                    "rank": 4,
+                    "rank": 2,
                     "title": "12306要忙着赚钱了",
                     "time": "2026-06-18",
-                    "emoji": "🌏",
+                    "emoji": "💰",
                     "url": "https://36kr.com/p/3858061678760965?f=rss"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
                     "time": "2026-06-18",
-                    "emoji": "📉",
+                    "emoji": "🏭",
                     "url": "https://36kr.com/p/3856708724315400?f=rss"
                 },
                 {
-                    "rank": 6,
+                    "rank": 4,
                     "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
                     "time": "2026-05-19",
-                    "emoji": "🔄",
+                    "emoji": "🌏",
                     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
                     "time": "2026-01-16",
-                    "emoji": "🚀",
+                    "emoji": "📉",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
                     "time": "2026-01-13",
-                    "emoji": "🤝",
+                    "emoji": "🔄",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                },
+                {
+                    "rank": 7,
+                    "title": "Allbirds 新人工智能业务的首席执行官有计划，但没有团队",
+                    "time": "13小时前",
+                    "emoji": "🚀",
+                    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
                 }
             ]
         },
@@ -448,71 +441,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+449,566",
+                    "stars": "+449,808",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+390,478",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                    "stars": "+442,905",
+                    "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 3,
                     "name": "openclaw/openclaw",
-                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
+                    "desc": "您自己的私人人工智能助理。 Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,416",
+                    "stars": "+379,534",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+357,658",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,986",
+                    "stars": "+245,956",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
+                    "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+236,927",
+                    "stars": "+237,014",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
+                    "rank": 6,
+                    "name": "TheAlgorithms/Python",
+                    "desc": "All Algorithms implemented in Python",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+222,061",
+                    "url": "https://github.com/TheAlgorithms/Python"
+                },
+                {
                     "rank": 7,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+232,487",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+218,307",
+                    "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 8,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "所有算法均用Python实现",
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+222,039",
-                    "url": "https://github.com/TheAlgorithms/Python"
+                    "stars": "+197,676",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -521,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "国产算力正在进入Token标准化时代",
+            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/06/436468.html"
+            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "下载：地球工程和内感受科学的现实检验",
+            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
+            "url": "https://www.qbitai.com/2026/06/436758.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "内罗毕的企业家阐述了使用太阳能的理由",
+            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
+            "url": "https://www.qbitai.com/2026/06/436802.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "侵入大气层：地球工程得到现实检验",
+            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+            "url": "https://www.qbitai.com/2026/06/436751.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
+            "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.20536v1"
+            "url": "https://www.qbitai.com/2026/06/436740.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+            "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.20532v1"
+            "url": "https://www.qbitai.com/2026/06/436674.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "VisDom：具有可见域约束的稀疏新颖视图合成",
+            "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.20531v1"
+            "url": "https://www.qbitai.com/2026/06/436698.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
+            "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.20529v1"
+            "url": "https://www.qbitai.com/2026/06/436518.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "亚马逊希望通过销售其人工智能芯片来更直接地挑战英伟达",
+            "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/"
+            "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Mivo 的新应用程序采用谨慎的方法来管理屏幕时间",
+            "title": "地球工程仍然面临重大的实际挑战",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/18/mivos-new-app-takes-a-mindful-approach-to-managing-screen-time/"
+            "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/"
         }
     ],
     "aiTools": [
@@ -633,19 +626,19 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "AI",
+            "size": "large"
+        },
+        {
             "text": "模型",
             "size": "large"
         },
         {
-            "text": "人工智能",
-            "size": "large"
-        },
-        {
-            "text": "Claude",
+            "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "Claude",
             "size": "medium"
         },
         {
@@ -657,7 +650,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "用户",
+            "text": "人工智能",
             "size": "small"
         },
         {
@@ -669,19 +662,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "视频",
-            "size": "small"
-        },
-        {
             "text": "Ventures",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
             "size": "small"
         },
         {
@@ -689,70 +670,88 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "FID",
+            "text": "视频",
+            "size": "small"
+        },
+        {
+            "text": "用户",
+            "size": "small"
+        },
+        {
+            "text": "TimeProVe",
+            "size": "small"
+        },
+        {
+            "text": "CalTennis",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "国产算力正在进入Token标准化时代",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "当前国产算力的瓶颈不在芯片本身，而在从异构算力到可用Token之间的工程化转化能力。"
-        },
-        {
-            "title": "下载：地球工程和内感受科学的现实检验",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳能地球工程是一个有争议的想法，即我们可以故意干预气候系统以抵消全球变暖，它正在超越计算机模拟的范围。"
-        },
-        {
-            "title": "内罗毕的企业家阐述了使用太阳能的理由",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年实现普遍供电而不增加排放的目标。太阳能技术不断提高的经济性对此有所帮助。几年前，一块面板的成本约为 2000 美元。"
-        },
-        {
-            "title": "侵入大气层：地球工程得到现实检验",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机翼从粗短的机身中伸出。这架无人驾驶飞机的飞行高度比商用喷气式飞机还要高数千米，高得你可以看到地球的曲率。"
-        },
-        {
-            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Frechet 起始距离 (FID) 是图像生成事实上的仲裁者，但大多数论文仅报告使用单个采样种子的单个训练模型的单个数字。如果我们重新训练模型，或者仅仅从中重新采样，这个数字的可重复性如何？在本文中，我们将 FID 视为训练和生成种子两轴"
-        },
-        {
-            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "风格字幕文本转语音系统使用自然语言来控制语音特征，但单个单词如何影响声音输出仍不清楚。理解这一点对于诊断故障模式和提高表达 TTS 的可控性至关重要。我们提出了语音扩散模型的交叉注意力归因，首次将 DAAM 框架应用于语音领域，并将其应用于"
+            "snippet": "Telegram 认为印度应该屏蔽特定内容，而不是数百万人使用的整个平台。"
         },
         {
-            "title": "VisDom：具有可见域约束的稀疏新颖视图合成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "由于从少量输入视图恢复 3D 几何图形的模糊性，稀疏新颖视图合成 (NVS) 仍然具有挑战性。虽然基于 NeRF 和高斯分布 (GS) 的方法在密集监督下表现良好，但它们经常在稀疏设置中过度拟合，产生浮动伪影和不一致的几何形状。轮廓一致性通"
-        },
-        {
-            "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "客户服务域中遵守策略的工具调用代理必须在调用工具并遵守域策略的同时保持轮流任务状态。任务状态由通过用户交互和工具调用观察到的相关事实、标识符、约束和条件组成。在标准代理中，任务状态不会单独表示。观察、工具返回和策略指令都放在提示中，让代理每"
-        },
-        {
-            "title": "亚马逊希望通过销售其人工智能芯片来更直接地挑战英伟达",
+            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "AWS 正在洽谈将其芯片出售给其他数据中心。首席执行官安迪·贾西 (Andy Jassy) 表示，这为公司带来了 500 亿美元的机遇。"
+            "snippet": "M4是大脑，百小医是身体"
         },
         {
-            "title": "Mivo 的新应用程序采用谨慎的方法来管理屏幕时间",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "值得注意的是，与其他可能试图让你离开手机的应用程序不同，Mivo 让用户决定是否要继续，鼓励用户更加了解他们如何以及为何使用它。"
+            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全系产品入驻万机易租2.0"
+        },
+        {
+            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "已接入华为鸿蒙生态"
+        },
+        {
+            "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发"
+        },
+        {
+            "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。"
+        },
+        {
+            "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。几十年来，物理学家一直在寻找弱相互作用大质量粒子（WIMP），这是暗物质的主要候选者。但他们的搜索已经失败了。"
+        },
+        {
+            "title": "地球工程仍然面临重大的实际挑战",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "太阳能地球工程通常被描述为一种紧急刹车。在气候紧急情况下，类似拉力的东西可以散射反光粒子，将阳光反射出大气层，从而冷却地球。但它可能不像一个简单的刹车，而更像一个复杂的、完全未解决的谜题。一些&#8230;"
+        },
+        {
+            "title": "对暗物质的探索已被广泛关注",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
         },
         {
             "title": "JanusMesh：通过跨空间去噪快速、零射击 3D 视觉错觉生成",
@@ -770,7 +769,7 @@ var siteData = {
             "title": "DiffusionGemma 的透明度如何？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透"
+            "snippet": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。 However, DiffusionGemma performs a larger fraction of its computation in a c"
         },
         {
             "title": "UNIEGO：代理作为统一自我中心视频表示学习的中介",
@@ -782,7 +781,7 @@ var siteData = {
             "title": "盒子里的思考：真实图像的 3D 编辑变得轻松",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构"
+            "snippet": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- par"
         },
         {
             "title": "构建和标记分布式用户兴趣上下文以进行生成推荐",
@@ -791,7 +790,7 @@ var siteData = {
             "snippet": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中"
         },
         {
-            "title": "令牌是群元素：关于矩阵李群的李代数注意力",
+            "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "我们将注意力标记放在组上：标记是矩阵李群$G$的元素$g_i$——一个裸变换，没有特征负载，也没有携带它的外部动作$ρ(g)$。据我们所知，这是第一个注意力结构，其标记是裸矩阵李群元素：它们的分数是相对姿势的封闭形式代数范数而不是学习的内核"
@@ -812,7 +811,7 @@ var siteData = {
             "title": "SSD：空间推测解码加速自回归图像生成",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "自回归模型通过将图像视为离散标记的一维序列、镜像语言建模，在视觉生成方面表现出色。然而，这种扁平化丢弃了视觉信号固有的二维空间局部性，在推理过程中造成了严重的计算瓶颈。我们引入了空间推测解码（SSD），这是一个将预测目标与图像的自然几何结构"
+            "snippet": "Autoregressive models excel in visual generation by treating images as 1D sequences of discrete tokens, mirroring langua"
         },
         {
             "title": "CalTennis：大型多视图网球视频数据集和单目到 3D 姿势估计的基准",
@@ -821,58 +820,52 @@ var siteData = {
             "snippet": "加州理工学院网球数据集 (CalTennis) 是一个大规模视频基准，用于评估野外单眼到 3D 姿势估计。 CalTennis 包含 40 名球员的超过 1100 万帧（51 小时）的网球练习和比赛，由 2-6 个同步摄像机以 60 Hz "
         },
         {
-            "title": "Rivian 车主提起诉讼，指控其对自动驾驶功能做出虚假承诺",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "集体诉讼中的原告指控 Rivian 多年来错误地承诺将为其第一代 R1 车辆提供免提驾驶功能。"
+            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Frechet 起始距离 (FID) 是图像生成事实上的仲裁者，但大多数论文仅报告使用单个采样种子的单个训练模型的单个数字。如果我们重新训练模型，或者仅仅从中重新采样，这个数字的可重复性如何？在本文中，我们将 FID 视为训练和生成种子两轴"
         },
         {
-            "title": "Match 表示，近一半的美国单身人士对约会中的人工智能持负面态度",
+            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "风格字幕文本转语音系统使用自然语言来控制语音特征，但单个单词如何影响声音输出仍不清楚。 Understanding this is critical for diagnosing failure modes and improving co"
+        },
+        {
+            "title": "VisDom：具有可见域约束的稀疏新颖视图合成",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Sparse novel view synthesis (NVS) remains challenging due to the ambiguity of recovering 3D geometry from few input view"
+        },
+        {
+            "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "大约 47% 的单身人士对人工智能在约会中的使用持负面态度，但许多约会应用程序用户对人工智能在个人资料打孔和对话开始方面的帮助持开放态度。"
+            "snippet": "客户服务域中遵守策略的工具调用代理必须在调用工具并遵守域策略的同时保持轮流任务状态。任务状态由通过用户交互和工具调用观察到的相关事实、标识符、约束和条件组成。在标准代理中，任务状态不会单独表示。 Observations, tool ret"
         },
         {
-            "title": "出于成本考虑，Snap 将人工智能视频团队分拆为新公司 Dotmo",
+            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "这家 Snapchat 制造商正在剥离另一个内部部门。 Dotmo 将由 Snap 现有员工组成，他们将离开这家社交媒体公司，专注于人工智能视频开发。"
+            "snippet": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。"
         },
         {
-            "title": "OpenAI 在 IPO 前夕带来了一些重磅炸弹",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "OpenAI 在 IPO 之前不断壮大，同一周引进了来自 Google DeepMind 的 Transformer 联合发明人 Noam Shazeer 和前特朗普人工智能政策官员 Dean Ball。"
-        },
-        {
-            "title": "根据风险投资机构的说法，YC 演示日的 11 家杰出初创公司",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "TechCrunch 与投资者进行了对话，寻找 2026 年春季 YC 批次中最热门的初创公司。风险投资公司表示，其中一些公司的估值超过 1.75 亿美元。"
-        },
-        {
-            "title": "据报道，人工智能推理初创公司 Baseten 在上一轮大型融资几个月后筹集了 1.5 亿美元",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "据报道，随着“推理淘金热”的推进，初创公司 Baseten 即将完成 130 亿美元的 15 亿美元融资。"
-        },
-        {
-            "title": "为什么韩国人如此热爱人工智能？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。当我从旧金山经过 12 个小时的艰苦飞行抵达首尔时，我走过了一个无人值守的移民检查站，那里有一台机器扫描了我的脸部和护照。在回家的地铁上"
-        },
-        {
-            "title": "资料来源：Elastic 同意以高达 8500 万美元的价格收购 CRV 支持的 DeductionAI",
+            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "DeductionAI 是一家利用人工智能捕获和解决软件错误的初创公司，成立于三年前。"
+            "snippet": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示器。数码相框一直很受欢迎[&#8230;"
         },
         {
-            "title": "独家电子书：人工智能如何成为下一个军事顾问",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "关于军队如何使用人工智能模型做出决策的故事集。这本仅供订阅者阅读的电子书包含六个故事，最初于 2025 年 4 月 11 日至 2026 年 4 月 21 日期间发表在《麻省理工学院技术评论》上，并已进行更新以反映最新进展。詹姆斯·奥唐纳 "
+            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购。这就是为什么它很重要",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国疲软的上市季节提供急需的提振。它还为出租车叫车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。 Go 于周二上市，计划使用 886 亿日元[&#823"
+        },
+        {
+            "title": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。"
         }
     ]
 }
