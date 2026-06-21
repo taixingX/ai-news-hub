@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-20 02:13:21
+ * 生成时间: 2026-06-21 02:37:58
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
-            "summary": "Telegram 认为印度应该屏蔽特定内容，而不是数百万人使用的整个平台。",
+            "tag": "头条 · 大模型",
+            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+            "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
+            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-            "summary": "M4是大脑，百小医是身体",
-            "source": "量子位",
+            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+            "summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/06/436758.html"
+            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-            "summary": "全系产品入驻万机易租2.0",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
+            "summary": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国低迷的上市季提供了急需的提振。它还为出租车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/06/436802.html"
+            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-            "summary": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-            "source": "量子位",
+            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+            "summary": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/06/436751.html"
+            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:13",
-            "text": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+            "time": "02:37",
+            "text": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
+            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
         },
         {
-            "time": "02:13",
-            "text": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+            "time": "02:37",
+            "text": "从 PGP 到神话：没有阻止任何人的出口管制简史",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436758.html"
+            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
         },
         {
-            "time": "02:13",
-            "text": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+            "time": "02:37",
+            "text": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436802.html"
+            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
         },
         {
-            "time": "02:13",
-            "text": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+            "time": "02:37",
+            "text": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436751.html"
+            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
         },
         {
-            "time": "02:13",
-            "text": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+            "time": "02:37",
+            "text": "每一家筹集超过 1 亿美元资金的融合初创公司",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436740.html"
+            "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
         },
         {
-            "time": "02:13",
-            "text": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+            "time": "02:37",
+            "text": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436674.html"
+            "url": "https://www.qbitai.com/2026/06/436864.html"
         },
         {
-            "time": "02:13",
-            "text": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+            "time": "02:37",
+            "text": "GPT发AI原创新成果了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436698.html"
+            "url": "https://www.qbitai.com/2026/06/436842.html"
         },
         {
-            "time": "02:13",
-            "text": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+            "time": "02:37",
+            "text": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436518.html"
+            "url": "https://www.qbitai.com/2026/06/436813.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-                    "source": "量子位",
+                    "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436758.html",
+                    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "M4是大脑，百小医是身体..."
+                    "desc": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。..."
                 },
                 {
-                    "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-                    "source": "量子位",
+                    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436802.html"
+                    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
                 },
                 {
-                    "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-                    "source": "量子位",
+                    "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436751.html"
+                    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
                 },
                 {
-                    "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-                    "source": "量子位",
+                    "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436740.html"
+                    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
                 },
                 {
-                    "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+                    "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436674.html"
+                    "url": "https://www.qbitai.com/2026/06/436864.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20563v1"
@@ -217,18 +217,18 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20561v1"
                 },
                 {
                     "title": "【arXiv】DiffusionGemma 的透明度如何？",
-                    "desc": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。 However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space;这是否会使其推...",
+                    "desc": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透明度，我们是否理解模型计算状态的中间快照；和算法i...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20560v1"
@@ -239,29 +239,29 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20559v1"
                 },
                 {
                     "title": "【arXiv】盒子里的思考：真实图像的 3D 编辑变得轻松",
-                    "desc": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object m...",
+                    "desc": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构化规范：用户提供编辑的输入和输出框，将编辑转换为适定的几何体...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20556v1"
                 },
                 {
                     "title": "【arXiv】构建和标记分布式用户兴趣上下文以进行生成推荐",
-                    "desc": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中。 On the one hand, exist...",
+                    "desc": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中。一方面，存在...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20554v1"
@@ -274,72 +274,65 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+                    "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
-                },
-                {
-                    "rank": 2,
-                    "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
-                    "time": "昨天",
-                    "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2606.20529v1"
-                },
-                {
-                    "rank": 3,
-                    "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购。这就是为什么它很重要",
-                    "time": "4小时前",
-                    "emoji": "🎬",
                     "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
                 },
                 {
-                    "rank": 4,
+                    "rank": 2,
+                    "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+                    "time": "2天前",
+                    "emoji": "💡",
+                    "url": "http://arxiv.org/abs/2606.20532v1"
+                },
+                {
+                    "rank": 3,
                     "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
                     "time": "2026-06-19",
-                    "emoji": "🔍",
+                    "emoji": "🎬",
                     "url": "https://36kr.com/p/3859469888508933?f=rss"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
                     "time": "2026-06-18",
-                    "emoji": "⚖️",
+                    "emoji": "🔍",
                     "url": "https://36kr.com/p/3858803016881154?f=rss"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
                     "time": "2026-06-18",
-                    "emoji": "🎵",
+                    "emoji": "⚖️",
                     "url": "https://36kr.com/p/3858676671599881?f=rss"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展",
                     "time": "2026-06-18",
-                    "emoji": "📝",
+                    "emoji": "🎵",
                     "url": "https://36kr.com/p/3858015526704129?f=rss"
                 },
                 {
-                    "rank": 8,
+                    "rank": 7,
                     "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
                     "time": "2026-06-18",
-                    "emoji": "🤖",
+                    "emoji": "📝",
                     "url": "https://36kr.com/p/3858373969286148?f=rss"
                 },
                 {
-                    "rank": 9,
+                    "rank": 8,
                     "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
                     "time": "2026-06-18",
-                    "emoji": "📊",
+                    "emoji": "🤖",
                     "url": "https://36kr.com/p/3855480467543042?f=rss"
                 },
                 {
-                    "rank": 10,
+                    "rank": 9,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "🌐",
+                    "emoji": "📊",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
@@ -389,13 +382,6 @@ var siteData = {
                     "time": "2026-01-13",
                     "emoji": "🔄",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-                },
-                {
-                    "rank": 7,
-                    "title": "Allbirds 新人工智能业务的首席执行官有计划，但没有团队",
-                    "time": "13小时前",
-                    "emoji": "🚀",
-                    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/"
                 }
             ]
         },
@@ -437,75 +423,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+449,808",
-                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+390,557",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+442,905",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 3,
                     "name": "openclaw/openclaw",
-                    "desc": "您自己的私人人工智能助理。 Any OS. Any Platform. The lobster way. 🦞",
+                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,534",
+                    "stars": "+379,684",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,956",
+                    "stars": "+245,965",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 5,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+237,014",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 6,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "All Algorithms implemented in Python",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+222,061",
-                    "url": "https://github.com/TheAlgorithms/Python"
-                },
-                {
-                    "rank": 7,
+                    "rank": 4,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+218,307",
+                    "stars": "+218,897",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 8,
+                    "rank": 5,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+197,676",
+                    "stars": "+198,357",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 6,
+                    "name": "tensorflow/tensorflow",
+                    "desc": "适合所有人的开源机器学习框架",
+                    "lang": "C++",
+                    "langClass": "lang-cpp",
+                    "stars": "+195,782",
+                    "url": "https://github.com/tensorflow/tensorflow"
+                },
+                {
+                    "rank": 7,
+                    "name": "n8n-io/n8n",
+                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+193,363",
+                    "url": "https://github.com/n8n-io/n8n"
+                },
+                {
+                    "rank": 8,
+                    "name": "microsoft/vscode",
+                    "desc": "视觉工作室代码",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+186,573",
+                    "url": "https://github.com/microsoft/vscode"
                 }
             ]
         }
@@ -514,72 +500,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/"
+            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/06/436758.html"
+            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
+            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/06/436802.html"
+            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
+            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436751.html"
+            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436740.html"
+            "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+            "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436674.html"
+            "url": "https://www.qbitai.com/2026/06/436864.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
+            "title": "GPT发AI原创新成果了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436698.html"
+            "url": "https://www.qbitai.com/2026/06/436842.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
+            "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436518.html"
+            "url": "https://www.qbitai.com/2026/06/436813.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
+            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
+            "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "地球工程仍然面临重大的实际挑战",
+            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/"
+            "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
         }
     ],
     "aiTools": [
@@ -634,11 +620,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Anthropic",
+            "text": "Claude",
             "size": "medium"
         },
         {
-            "text": "Claude",
+            "text": "Anthropic",
             "size": "medium"
         },
         {
@@ -662,15 +648,11 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "机器人",
+            "size": "small"
+        },
+        {
             "text": "Ventures",
-            "size": "small"
-        },
-        {
-            "text": "平台",
-            "size": "small"
-        },
-        {
-            "text": "视频",
             "size": "small"
         },
         {
@@ -678,20 +660,132 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "TimeProVe",
+            "text": "视频",
             "size": "small"
         },
         {
-            "text": "CalTennis",
+            "text": "平台",
+            "size": "small"
+        },
+        {
+            "text": "现在",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "印度的 Telegram 禁令引发了 VPN 和竞争对手应用程序的热潮",
+            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。"
+        },
+        {
+            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。"
+        },
+        {
+            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Telegram 认为印度应该屏蔽特定内容，而不是数百万人使用的整个平台。"
+            "snippet": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国低迷的上市季提供了急需的提振。它还为出租车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。"
+        },
+        {
+            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示器。数码相框一直很受欢迎[&#8230;"
+        },
+        {
+            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。"
+        },
+        {
+            "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "创作者的终极玩具来了"
+        },
+        {
+            "title": "GPT发AI原创新成果了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI实现药物全自动研发，还远吗？"
+        },
+        {
+            "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "人形机器人正式迈入“GPT时代”"
+        },
+        {
+            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士的人工智能初创公司 Subquadratic 上个月公开宣称：它已经解决了一个数学瓶颈——它已经解决了一个数学瓶颈。"
+        },
+        {
+            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近十年来阻碍大型语言模型的数学瓶颈。细节很薄弱，很多人不相信。但 Subquadratic 已经开始带来收据，分享“"
+        },
+        {
+            "title": "指标不可避免的弱点",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像很多一样&#8230;"
+        },
+        {
+            "title": "脑机接口试验正在起飞",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索硬化症 (ALS) 的男子，是大脑植入物的“第一个超级用户”。哈雷尔瘫痪了，没有该设备就无法连贯说话。他现在已经花了近三"
+        },
+        {
+            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Jumper 并不是唯一离开 Google DeepMind 的大人物。"
+        },
+        {
+            "title": "这家初创公司制造了一个杀鱼机器人，厨师们很喜欢它的结果",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。"
+        },
+        {
+            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”"
+        },
+        {
+            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "那么...您的体重分数是多少？"
+        },
+        {
+            "title": "下载：地球工程和内感受科学的现实检验",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳能地球工程是一个有争议的想法，即我们可以故意干预气候系统以抵消全球变暖，它正在超越计算机模拟的范围。"
+        },
+        {
+            "title": "内罗毕的企业家阐述了使用太阳能的理由",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年实现普遍供电而不增加排放的目标。太阳能技术不断提高的经济性对此有所帮助。几年前，一块面板的成本约为 2000 美元。"
+        },
+        {
+            "title": "侵入大气层：地球工程得到现实检验",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机翼从粗短的机身中伸出。这架无人驾驶飞机的飞行高度比商用喷气式飞机还要高数千米，高得你可以看到地球的曲率。"
         },
         {
             "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
@@ -704,36 +798,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "全系产品入驻万机易租2.0"
-        },
-        {
-            "title": "香港特区政府财政司司长陈茂波一行到访 PPIO",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "已接入华为鸿蒙生态"
-        },
-        {
-            "title": "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "能够直接导入Unity、Unreal Engine等主流引擎进行交互开发"
-        },
-        {
-            "title": "全员本科生！何恺明组新作：文生图，258M参数就够了",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "整篇论文一共六位作者。除了何恺明之外，其余五位都还是本科生。"
         },
         {
             "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
@@ -751,7 +815,7 @@ var siteData = {
             "title": "对暗物质的探索已被广泛关注",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
+            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州矿井底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
         },
         {
             "title": "JanusMesh：通过跨空间去噪快速、零射击 3D 视觉错觉生成",
@@ -769,7 +833,7 @@ var siteData = {
             "title": "DiffusionGemma 的透明度如何？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。 However, DiffusionGemma performs a larger fraction of its computation in a c"
+            "snippet": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透"
         },
         {
             "title": "UNIEGO：代理作为统一自我中心视频表示学习的中介",
@@ -781,91 +845,13 @@ var siteData = {
             "title": "盒子里的思考：真实图像的 3D 编辑变得轻松",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- par"
+            "snippet": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构"
         },
         {
             "title": "构建和标记分布式用户兴趣上下文以进行生成推荐",
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中"
-        },
-        {
-            "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们将注意力标记放在组上：标记是矩阵李群$G$的元素$g_i$——一个裸变换，没有特征负载，也没有携带它的外部动作$ρ(g)$。据我们所知，这是第一个注意力结构，其标记是裸矩阵李群元素：它们的分数是相对姿势的封闭形式代数范数而不是学习的内核"
-        },
-        {
-            "title": "当前的世界模型缺乏持久状态核心",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "世界模型越来越被认为是迈向通用人工智能的决定性一步，然而，对物理世界进行建模所需要的不仅仅是按需渲染令人信服的框架：它需要一个随着时间的推移而不断演变的内部世界状态，与观察脱钩，以便无论摄像机是否在观察，物体都能持续存在，事件也能得出结论，"
-        },
-        {
-            "title": "走向分布转移下的校准专家组合",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "校准将模型的预测不确定性与其经验结果的频率保持一致，对于理解和信任报告的概率非常重要。最近的工作表明，在单个预测变量的层面上实施校准可以提高整体精度和校准，特别是专家混合（MoE）模型显示出强大的经验改进；然而，校准对教育部有帮助的条件尚不"
-        },
-        {
-            "title": "SSD：空间推测解码加速自回归图像生成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Autoregressive models excel in visual generation by treating images as 1D sequences of discrete tokens, mirroring langua"
-        },
-        {
-            "title": "CalTennis：大型多视图网球视频数据集和单目到 3D 姿势估计的基准",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "加州理工学院网球数据集 (CalTennis) 是一个大规模视频基准，用于评估野外单眼到 3D 姿势估计。 CalTennis 包含 40 名球员的超过 1100 万帧（51 小时）的网球练习和比赛，由 2-6 个同步摄像机以 60 Hz "
-        },
-        {
-            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Frechet 起始距离 (FID) 是图像生成事实上的仲裁者，但大多数论文仅报告使用单个采样种子的单个训练模型的单个数字。如果我们重新训练模型，或者仅仅从中重新采样，这个数字的可重复性如何？在本文中，我们将 FID 视为训练和生成种子两轴"
-        },
-        {
-            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "风格字幕文本转语音系统使用自然语言来控制语音特征，但单个单词如何影响声音输出仍不清楚。 Understanding this is critical for diagnosing failure modes and improving co"
-        },
-        {
-            "title": "VisDom：具有可见域约束的稀疏新颖视图合成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Sparse novel view synthesis (NVS) remains challenging due to the ambiguity of recovering 3D geometry from few input view"
-        },
-        {
-            "title": "LedgerAgent：遵循策略的工具调用代理的结构化状态",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "客户服务域中遵守策略的工具调用代理必须在调用工具并遵守域策略的同时保持轮流任务状态。任务状态由通过用户交互和工具调用观察到的相关事实、标识符、约束和条件组成。在标准代理中，任务状态不会单独表示。 Observations, tool ret"
-        },
-        {
-            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。"
-        },
-        {
-            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示器。数码相框一直很受欢迎[&#8230;"
-        },
-        {
-            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购。这就是为什么它很重要",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国疲软的上市季节提供急需的提振。它还为出租车叫车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。 Go 于周二上市，计划使用 886 亿日元[&#823"
-        },
-        {
-            "title": "加密、间谍软件和现在的神话：历史表明为什么网络出口管制不起作用",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。"
         }
     ]
 }
