@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-21 02:37:58
+ * 生成时间: 2026-06-22 02:40:55
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
-            "summary": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。",
+            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+            "summary": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
+            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-            "summary": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。",
+            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+            "summary": "那么...您的体重分数是多少？",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
-            "summary": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国低迷的上市季提供了急需的提振。它还为出租车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。",
+            "tag": "头条 · 大模型",
+            "title": "创始人基金对人道宰杀鱼类的异常押注",
+            "summary": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
-            "summary": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示",
+            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+            "summary": "Jumper 并不是唯一离开 Google DeepMind 的大人物。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:37",
-            "text": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+            "time": "02:40",
+            "text": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
+            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
         },
         {
-            "time": "02:37",
-            "text": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+            "time": "02:40",
+            "text": "权重中是您新的以人工智能为中心的虚荣搜索",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
         },
         {
-            "time": "02:37",
-            "text": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
+            "time": "02:40",
+            "text": "创始人基金对人道宰杀鱼类的异常押注",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
         },
         {
-            "time": "02:37",
-            "text": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+            "time": "02:40",
+            "text": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
         },
         {
-            "time": "02:37",
-            "text": "每一家筹集超过 1 亿美元资金的融合初创公司",
+            "time": "02:40",
+            "text": "每一个值得了解的 iOS 27 新功能",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
+            "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
         },
         {
-            "time": "02:37",
-            "text": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+            "time": "02:40",
+            "text": "英伟达开始搞机器人自己研究机器人那套了…",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436864.html"
+            "url": "https://www.qbitai.com/2026/06/437041.html"
         },
         {
-            "time": "02:37",
-            "text": "GPT发AI原创新成果了",
+            "time": "02:40",
+            "text": "陶哲轩12年前的预言，现在AI帮他兑现了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436842.html"
+            "url": "https://www.qbitai.com/2026/06/437023.html"
         },
         {
-            "time": "02:37",
-            "text": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+            "time": "02:40",
+            "text": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436813.html"
+            "url": "https://www.qbitai.com/2026/06/436996.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+                    "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+                    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。..."
+                    "desc": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”..."
                 },
                 {
-                    "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+                    "title": "权重中是您新的以人工智能为中心的虚荣搜索",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+                    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
                 },
                 {
-                    "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+                    "title": "创始人基金对人道宰杀鱼类的异常押注",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+                    "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
                 },
                 {
-                    "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
+                    "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
+                    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
                 },
                 {
-                    "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-                    "source": "量子位",
+                    "title": "每一个值得了解的 iOS 27 新功能",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/436864.html"
+                    "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20563v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20561v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20560v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20559v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20556v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.20554v1"
@@ -274,66 +274,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
-                    "time": "昨天",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
-                },
-                {
-                    "rank": 2,
                     "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
-                    "time": "2天前",
-                    "emoji": "💡",
+                    "time": "3天前",
+                    "emoji": "🔥",
                     "url": "http://arxiv.org/abs/2606.20532v1"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
                     "time": "2026-06-19",
-                    "emoji": "🎬",
+                    "emoji": "💡",
                     "url": "https://36kr.com/p/3859469888508933?f=rss"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
                     "time": "2026-06-18",
-                    "emoji": "🔍",
+                    "emoji": "🎬",
                     "url": "https://36kr.com/p/3858803016881154?f=rss"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
                     "time": "2026-06-18",
-                    "emoji": "⚖️",
+                    "emoji": "🔍",
                     "url": "https://36kr.com/p/3858676671599881?f=rss"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展",
                     "time": "2026-06-18",
-                    "emoji": "🎵",
+                    "emoji": "⚖️",
                     "url": "https://36kr.com/p/3858015526704129?f=rss"
                 },
                 {
-                    "rank": 7,
-                    "title": "中国游戏的错位竞争：头部赌3A，腰部吃存量 | 游戏风向标",
-                    "time": "2026-06-18",
-                    "emoji": "📝",
-                    "url": "https://36kr.com/p/3858373969286148?f=rss"
-                },
-                {
-                    "rank": 8,
-                    "title": "北大科学家下场做脑机接口，种子轮融了近亿元",
-                    "time": "2026-06-18",
-                    "emoji": "🤖",
-                    "url": "https://36kr.com/p/3855480467543042?f=rss"
-                },
-                {
-                    "rank": 9,
+                    "rank": 6,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "🎵",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 7,
+                    "title": "据报道，Polymarket 向创作者付费，让他们发布有关虚假投注的欺骗性视频",
+                    "time": "10小时前",
+                    "emoji": "📝",
+                    "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/"
                 }
             ]
         },
@@ -343,45 +329,66 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-                    "time": "2026-06-18",
+                    "title": "老登最爱的维密，又复活了",
+                    "time": "2026-06-22",
                     "emoji": "🔥",
-                    "url": "https://36kr.com/p/3858329994875908?f=rss"
+                    "url": "https://36kr.com/p/3858420265292800?f=rss"
                 },
                 {
                     "rank": 2,
-                    "title": "12306要忙着赚钱了",
-                    "time": "2026-06-18",
+                    "title": "商场里最火的女装店，正在变成同一个样子｜商业Friday",
+                    "time": "2026-06-22",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3858061678760965?f=rss"
+                    "url": "https://36kr.com/p/3854347434398980?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "红杉、阿里押注过的具身大脑公司再融资，上交等投资数亿元｜硬氪首发",
-                    "time": "2026-06-18",
+                    "title": "茉莉奶白纽约闭店始末：品牌与加盟商的“双输”之战",
+                    "time": "2026-06-22",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3856708724315400?f=rss"
+                    "url": "https://36kr.com/p/3863121381709061?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "8点1氪丨马斯克拿下7800亿元天价薪酬；伊朗代表团暂停伊美谈判，抗议特朗普威胁言论；刘强东称将来不需要快递员，要保住70万兄弟的工作",
+                    "time": "2026-06-22",
                     "emoji": "🌏",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3863586257573124?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
+                    "time": "2026-06-18",
                     "emoji": "📉",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3858329994875908?f=rss"
                 },
                 {
                     "rank": 6,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🔄",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                },
+                {
+                    "rank": 7,
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
+                    "emoji": "🚀",
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                },
+                {
+                    "rank": 8,
                     "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
                     "time": "2026-01-13",
-                    "emoji": "🔄",
+                    "emoji": "🤝",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                },
+                {
+                    "rank": 9,
+                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+                    "time": "17小时前",
+                    "emoji": "📰",
+                    "url": "https://www.qbitai.com/2026/06/437198.html"
                 }
             ]
         },
@@ -427,7 +434,7 @@ var siteData = {
                     "desc": "：书籍：免费提供的编程书籍",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+390,557",
+                    "stars": "+390,614",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -436,62 +443,62 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,684",
+                    "stars": "+379,835",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "react/react",
-                    "desc": "Web 和本机用户界面的库。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+245,965",
-                    "url": "https://github.com/react/react"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+300,478",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 4,
+                    "name": "torvalds/linux",
+                    "desc": "Linux 内核源码树",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+237,183",
+                    "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+235,095",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 6,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+218,897",
+                    "stars": "+219,373",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+198,357",
+                    "stars": "+199,076",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "tensorflow/tensorflow",
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+195,782",
+                    "stars": "+195,809",
                     "url": "https://github.com/tensorflow/tensorflow"
-                },
-                {
-                    "rank": 7,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+193,363",
-                    "url": "https://github.com/n8n-io/n8n"
-                },
-                {
-                    "rank": 8,
-                    "name": "microsoft/vscode",
-                    "desc": "视觉工作室代码",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+186,573",
-                    "url": "https://github.com/microsoft/vscode"
                 }
             ]
         }
@@ -500,72 +507,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
+            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/"
+            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
+            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
+            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
+            "title": "创始人基金对人道宰杀鱼类的异常押注",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/"
+            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
+            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
+            "title": "每一个值得了解的 iOS 27 新功能",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/"
+            "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+            "title": "英伟达开始搞机器人自己研究机器人那套了…",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436864.html"
+            "url": "https://www.qbitai.com/2026/06/437041.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "GPT发AI原创新成果了",
+            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436842.html"
+            "url": "https://www.qbitai.com/2026/06/437023.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436813.html"
+            "url": "https://www.qbitai.com/2026/06/436996.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
+            "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
+            "url": "https://www.qbitai.com/2026/06/436980.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
+            "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+            "url": "https://www.qbitai.com/2026/06/436966.html"
         }
     ],
     "aiTools": [
@@ -612,7 +619,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
+            "text": "Claude",
             "size": "large"
         },
         {
@@ -620,27 +627,31 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Claude",
-            "size": "medium"
-        },
-        {
             "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "Code",
+            "text": "AI",
             "size": "medium"
+        },
+        {
+            "text": "人工智能",
+            "size": "medium"
+        },
+        {
+            "text": "Code",
+            "size": "small"
         },
         {
             "text": "爱玛",
             "size": "small"
         },
         {
-            "text": "人工智能",
+            "text": "黑翼",
             "size": "small"
         },
         {
-            "text": "黑翼",
+            "text": "视频",
             "size": "small"
         },
         {
@@ -652,111 +663,23 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Ventures",
+            "text": "品牌",
+            "size": "small"
+        },
+        {
+            "text": "Siri",
+            "size": "small"
+        },
+        {
+            "text": "TimeProVe",
             "size": "small"
         },
         {
             "text": "用户",
             "size": "small"
-        },
-        {
-            "text": "视频",
-            "size": "small"
-        },
-        {
-            "text": "平台",
-            "size": "small"
-        },
-        {
-            "text": "现在",
-            "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "他使您的免费视频播放器运行顺利。现在他正在为机器人做这件事。",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "法国连续创业者和开源传奇人物 Jean-Baptiste Kempf 一直在构建 Kyber，这是一个实时控制远程设备的基础设施层。"
-        },
-        {
-            "title": "从 PGP 到神话：没有阻止任何人的出口管制简史",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "过去 30 年来，阻止网络安全相关软件的流动已被证明是无效的。目前还不清楚为什么它现在可以与 Anthropic 的网络安全模型 Mythos 一起使用。"
-        },
-        {
-            "title": "在日本 2026 年最大的 IPO 之后，Go 关注机器人出租车和收购——这就是为什么它很重要",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Go 的 IPO 是日本今年迄今为止规模最大的一次 IPO，其作用不仅仅是为该国低迷的上市季提供了急需的提振。它还为出租车应用程序提供了解决生死攸关的问题所需的资金：日本司机短缺。"
-        },
-        {
-            "title": "Aura 令人印象深刻的电子墨水相框看起来根本不像数码相框",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "您可以送给亲戚的最陈词滥调的礼物是什么？数码相框，显示家庭照片的旋转幻灯片。现在，Aura 以其华丽的 Aura Ink 框架彻底刷新了这个产品空间，该框架使用电子墨水创建一个看起来甚至不像数字的显示器。数码相框一直很受欢迎[&#8230;"
-        },
-        {
-            "title": "每一家筹集超过 1 亿美元资金的融合初创公司",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Fusion 初创公司迄今为止已筹集了 71 亿美元，其中大部分流向了少数公司。"
-        },
-        {
-            "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "创作者的终极玩具来了"
-        },
-        {
-            "title": "GPT发AI原创新成果了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI实现药物全自动研发，还远吗？"
-        },
-        {
-            "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "人形机器人正式迈入“GPT时代”"
-        },
-        {
-            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士的人工智能初创公司 Subquadratic 上个月公开宣称：它已经解决了一个数学瓶颈——它已经解决了一个数学瓶颈。"
-        },
-        {
-            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，带来了巨大的收益。它宣布它已经解决了近十年来阻碍大型语言模型的数学瓶颈。细节很薄弱，很多人不相信。但 Subquadratic 已经开始带来收据，分享“"
-        },
-        {
-            "title": "指标不可避免的弱点",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像很多一样&#8230;"
-        },
-        {
-            "title": "脑机接口试验正在起飞",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索硬化症 (ALS) 的男子，是大脑植入物的“第一个超级用户”。哈雷尔瘫痪了，没有该设备就无法连贯说话。他现在已经花了近三"
-        },
-        {
-            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Jumper 并不是唯一离开 Google DeepMind 的大人物。"
-        },
-        {
-            "title": "这家初创公司制造了一个杀鱼机器人，厨师们很喜欢它的结果",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。"
-        },
         {
             "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
             "category": "大模型动态",
@@ -768,6 +691,60 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "那么...您的体重分数是多少？"
+        },
+        {
+            "title": "创始人基金对人道宰杀鱼类的异常押注",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。"
+        },
+        {
+            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Jumper 并不是唯一离开 Google DeepMind 的大人物。"
+        },
+        {
+            "title": "每一个值得了解的 iOS 27 新功能",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "虽然它不像苹果新推出的 Siri AI 和 Apple Intelligence 升级那样华而不实，但 iOS 27 中仍然有许多值得关注的新增内容。"
+        },
+        {
+            "title": "英伟达开始搞机器人自己研究机器人那套了…",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "为了让你烧token，英伟达已经卷到机器人身上了"
+        },
+        {
+            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全球最聪明的人之一，成了AI最狂热的布道者"
+        },
+        {
+            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "速度快7倍，成本只有Veo 3的1/2000"
+        },
+        {
+            "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "双子座3.5 Pro呢？"
+        },
+        {
+            "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "抢人最猛的Meta，似乎先从内部裂开了"
+        },
+        {
+            "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事去世",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "与四个兄弟共同创立育碧的克劳德·吉列莫 (Claude Guillemot) 去世，享年 69 岁。"
         },
         {
             "title": "下载：地球工程和内感受科学的现实检验",
@@ -788,18 +765,6 @@ var siteData = {
             "snippet": "吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机翼从粗短的机身中伸出。这架无人驾驶飞机的飞行高度比商用喷气式飞机还要高数千米，高得你可以看到地球的曲率。"
         },
         {
-            "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "M4是大脑，百小医是身体"
-        },
-        {
-            "title": "魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "全系产品入驻万机易租2.0"
-        },
-        {
             "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
             "category": "AI研究",
             "tag": "research",
@@ -815,7 +780,7 @@ var siteData = {
             "title": "对暗物质的探索已被广泛关注",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州矿井底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
+            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
         },
         {
             "title": "JanusMesh：通过跨空间去噪快速、零射击 3D 视觉错觉生成",
@@ -852,6 +817,48 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中"
+        },
+        {
+            "title": "令牌是群元素：关于矩阵李群的李代数注意力",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们将注意力标记放在组上：标记是矩阵李群$G$的元素$g_i$——一个裸变换，没有特征负载，也没有携带它的外部动作$ρ(g)$。据我们所知，这是第一个注意力结构，其标记是裸矩阵李群元素：它们的分数是相对姿势的封闭形式代数范数而不是学习的内核"
+        },
+        {
+            "title": "当前的世界模型缺乏持久状态核心",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "世界模型越来越被认为是迈向通用人工智能的决定性一步，然而，对物理世界进行建模所需要的不仅仅是按需渲染令人信服的框架：它需要一个随着时间的推移而不断演变的内部世界状态，与观察脱钩，以便无论摄像机是否在观察，物体都能持续存在，事件也能得出结论，"
+        },
+        {
+            "title": "走向分布转移下的校准专家组合",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "校准将模型的预测不确定性与其经验结果的频率保持一致，对于理解和信任报告的概率非常重要。最近的工作表明，在单个预测变量的层面上实施校准可以提高整体精度和校准，特别是专家混合（MoE）模型显示出强大的经验改进；然而，校准对教育部有帮助的条件尚不"
+        },
+        {
+            "title": "SSD：空间推测解码加速自回归图像生成",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "自回归模型通过将图像视为离散标记的一维序列、镜像语言建模，在视觉生成方面表现出色。然而，这种扁平化丢弃了视觉信号固有的二维空间局部性，在推理过程中造成了严重的计算瓶颈。我们引入了空间推测解码（SSD），这是一个将预测目标与图像的自然几何结构"
+        },
+        {
+            "title": "CalTennis：大型多视图网球视频数据集和单目到 3D 姿势估计的基准",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "加州理工学院网球数据集 (CalTennis) 是一个大规模视频基准，用于评估野外单眼到 3D 姿势估计。 CalTennis 包含 40 名球员的超过 1100 万帧（51 小时）的网球练习和比赛，由 2-6 个同步摄像机以 60 Hz "
+        },
+        {
+            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Frechet 起始距离 (FID) 是图像生成事实上的仲裁者，但大多数论文仅报告使用单个采样种子的单个训练模型的单个数字。如果我们重新训练模型，或者仅仅从中重新采样，这个数字的可重复性如何？在本文中，我们将 FID 视为训练和生成种子两轴"
+        },
+        {
+            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "风格字幕文本转语音系统使用自然语言来控制语音特征，但单个单词如何影响声音输出仍不清楚。理解这一点对于诊断故障模式和提高表达 TTS 的可控性至关重要。我们提出了语音扩散模型的交叉注意力归因，首次将 DAAM 框架应用于语音领域，并将其应用于"
         }
     ]
 }
