@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-22 02:40:55
+ * 生成时间: 2026-06-23 02:07:30
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
-            "summary": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”",
-            "source": "TechCrunch AI",
+            "tag": "行业 · 动态",
+            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+            "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+            "url": "https://www.qbitai.com/2026/06/437198.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
-            "summary": "那么...您的体重分数是多少？",
-            "source": "TechCrunch AI",
+            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+            "summary": "一个月只要340块",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+            "url": "https://www.qbitai.com/2026/06/437141.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "创始人基金对人道宰杀鱼类的异常押注",
-            "summary": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。",
+            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+            "summary": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "刚刚",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
-            "summary": "Jumper 并不是唯一离开 Google DeepMind 的大人物。",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "tag": "独家 · 研究",
+            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
+            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四",
+            "source": "MIT Tech Review",
+            "time": "8小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:40",
-            "text": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+            "time": "02:07",
+            "text": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+            "url": "https://www.qbitai.com/2026/06/437198.html"
         },
         {
-            "time": "02:40",
-            "text": "权重中是您新的以人工智能为中心的虚荣搜索",
+            "time": "02:07",
+            "text": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+            "url": "https://www.qbitai.com/2026/06/437141.html"
         },
         {
-            "time": "02:40",
-            "text": "创始人基金对人道宰杀鱼类的异常押注",
+            "time": "02:07",
+            "text": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
-            "time": "02:40",
-            "text": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+            "time": "02:07",
+            "text": "Anthropic 与政府的最新争执中值得关注的三件事",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
         },
         {
-            "time": "02:40",
-            "text": "每一个值得了解的 iOS 27 新功能",
+            "time": "02:07",
+            "text": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
+            "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
         },
         {
-            "time": "02:40",
-            "text": "英伟达开始搞机器人自己研究机器人那套了…",
+            "time": "02:07",
+            "text": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/437041.html"
+            "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
         },
         {
-            "time": "02:40",
-            "text": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "time": "02:07",
+            "text": "人工智能世界正变得“疯狂”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/437023.html"
+            "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
         },
         {
-            "time": "02:40",
-            "text": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "time": "02:07",
+            "text": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/436996.html"
+            "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
-                    "source": "TechCrunch AI",
+                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/06/437198.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”..."
+                    "desc": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。..."
                 },
                 {
-                    "title": "权重中是您新的以人工智能为中心的虚荣搜索",
-                    "source": "TechCrunch AI",
+                    "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+                    "url": "https://www.qbitai.com/2026/06/437141.html"
                 },
                 {
-                    "title": "创始人基金对人道宰杀鱼类的异常押注",
+                    "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "刚刚",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+                    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
                 },
                 {
-                    "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+                    "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+                    "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
                 },
                 {
-                    "title": "每一个值得了解的 iOS 27 新功能",
+                    "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
+                    "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】JanusMesh：通过跨空间去噪快速、零射击 3D 视觉错觉生成",
-                    "desc": "创建 3D 视觉错觉，即从不同视角揭示完全不同语义的单个 3D 网格，是一项令人着迷但艰巨的挑战。现有的基于优化的方法速度缓慢并且会产生过饱和的颜色。相比之下，朴素的缝合方法无法产生几何上连贯的物体。这会导致明显的不自然接缝和语义泄漏。在本文中，我们提出了一个快速且无需训练的框架，用于生成文本驱动的...",
+                    "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+                    "desc": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。\n  以下为圆桌对话内容，经36氪整理编辑:\n  \n  许嘉婧｜36氪后浪研究所 主理人（主持人）\n  徐子悦 ｜Photo...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "36氪 AI",
+                    "time": "2026-06-22",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20563v1"
+                    "url": "https://36kr.com/p/3864054145209602?f=rss"
                 },
                 {
-                    "title": "【arXiv】TimeProVe：提出并验证日常生活活动中的高效长视频时间推理",
-                    "desc": "长视频问答 (LVQA) 需要在长达数小时的未修剪视频中识别稀疏的、与查询相关的证据。现有方法要么使用大型视觉语言模型（VLM）密集处理视频，从而产生高昂的计算成本，要么依赖基于稀疏字幕的推理，这通常会错过时间局部和以运动为中心的证据。我们推出了 TimeProVe，这是一种经济高效的混合框架，用于...",
+                    "title": "英伟达开始搞机器人自己研究机器人那套了…",
+                    "desc": "为了让你烧token，英伟达已经卷到机器人身上了...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "量子位",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20561v1"
+                    "url": "https://www.qbitai.com/2026/06/437041.html"
                 },
                 {
-                    "title": "【arXiv】DiffusionGemma 的透明度如何？",
-                    "desc": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透明度，我们是否理解模型计算状态的中间快照；和算法i...",
+                    "title": "Anthropic 与政府的最新争执中值得关注的三件事",
+                    "desc": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四月份该公司表示它已经建立了一个名为 Mythos 的人工智能模型。...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20560v1"
+                    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
                 },
                 {
-                    "title": "【arXiv】UNIEGO：代理作为统一自我中心视频表示学习的中介",
-                    "desc": "以自我为中心的视频理解本质上受到可穿戴相机狭隘视角的限制：单一视点、单一模式、单一模型无法捕捉人类行为的全部丰富性。我们认为，真正富有表现力的以自我为中心的表示必须包含跨观点、模式和基础模型表示的补充知识，但仍然可以仅从以自我为中心的视频中部署。为此，我们引入了一个分层多教师蒸馏框架...",
+                    "title": "下载：破纪录的海底隧道和灵活的数据中心",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。在世界上最深、最长的海底公路隧道——尼尔湾 (Niall Firth) 内，我目前位于北海下方约 1,000 英尺的一个黑暗、潮湿的洞穴中。闻起来很奇怪。我越来越……...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "3天前",
+                    "source": "MIT Tech Review",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20559v1"
-                },
-                {
-                    "title": "【arXiv】盒子里的思考：真实图像的 3D 编辑变得轻松",
-                    "desc": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构化规范：用户提供编辑的输入和输出框，将编辑转换为适定的几何体...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "3天前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20556v1"
-                },
-                {
-                    "title": "【arXiv】构建和标记分布式用户兴趣上下文以进行生成推荐",
-                    "desc": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中。一方面，存在...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "3天前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.20554v1"
+                    "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
                 }
             ]
         },
@@ -274,52 +252,37 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
-                    "time": "3天前",
-                    "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2606.20532v1"
-                },
-                {
-                    "rank": 2,
-                    "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
-                    "time": "2026-06-19",
-                    "emoji": "💡",
-                    "url": "https://36kr.com/p/3859469888508933?f=rss"
-                },
-                {
-                    "rank": 3,
-                    "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
-                    "time": "2026-06-18",
-                    "emoji": "🎬",
-                    "url": "https://36kr.com/p/3858803016881154?f=rss"
-                },
-                {
-                    "rank": 4,
-                    "title": "科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相",
-                    "time": "2026-06-18",
-                    "emoji": "🔍",
-                    "url": "https://36kr.com/p/3858676671599881?f=rss"
-                },
-                {
-                    "rank": 5,
-                    "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展",
-                    "time": "2026-06-18",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3858015526704129?f=rss"
-                },
-                {
-                    "rank": 6,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "🎵",
+                    "emoji": "🔥",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 7,
-                    "title": "据报道，Polymarket 向创作者付费，让他们发布有关虚假投注的欺骗性视频",
-                    "time": "10小时前",
-                    "emoji": "📝",
-                    "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/"
+                    "rank": 2,
+                    "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+                    "time": "18小时前",
+                    "emoji": "💡",
+                    "url": "https://www.qbitai.com/2026/06/437317.html"
+                },
+                {
+                    "rank": 3,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 4,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 6,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -329,66 +292,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "老登最爱的维密，又复活了",
-                    "time": "2026-06-22",
+                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://36kr.com/p/3858420265292800?f=rss"
+                    "url": "https://www.qbitai.com/2026/06/437198.html"
                 },
                 {
                     "rank": 2,
-                    "title": "商场里最火的女装店，正在变成同一个样子｜商业Friday",
-                    "time": "2026-06-22",
+                    "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+                    "time": "2026-06-23",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3854347434398980?f=rss"
+                    "url": "https://36kr.com/p/3865070004212994?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "茉莉奶白纽约闭店始末：品牌与加盟商的“双输”之战",
+                    "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
                     "time": "2026-06-22",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3863121381709061?f=rss"
+                    "url": "https://36kr.com/p/3864071269569540?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "8点1氪丨马斯克拿下7800亿元天价薪酬；伊朗代表团暂停伊美谈判，抗议特朗普威胁言论；刘强东称将来不需要快递员，要保住70万兄弟的工作",
+                    "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
                     "time": "2026-06-22",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3863586257573124?f=rss"
+                    "url": "https://36kr.com/p/3864033017549832?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "蔚来补上“智驾课”，任少卿总结：智驾技术创新将重构竞争",
-                    "time": "2026-06-18",
+                    "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
+                    "time": "2026-06-22",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3858329994875908?f=rss"
+                    "url": "https://36kr.com/p/3864002982286342?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
+                    "time": "2026-06-22",
                     "emoji": "🔄",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3863967437247751?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
+                    "time": "2026-06-22",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3863988138956032?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
+                    "time": "2026-06-22",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://36kr.com/p/3863849524859911?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-                    "time": "17小时前",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "📰",
-                    "url": "https://www.qbitai.com/2026/06/437198.html"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                },
+                {
+                    "rank": 10,
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
+                    "emoji": "🏢",
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 }
             ]
         },
@@ -430,12 +400,12 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+390,614",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+450,230",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
@@ -443,62 +413,62 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,835",
+                    "stars": "+379,978",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+300,478",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+358,015",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
+                    "name": "react/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+245,998",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 5,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+237,183",
+                    "stars": "+237,274",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "name": "obra/superpowers",
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+235,095",
+                    "stars": "+236,081",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+219,373",
+                    "stars": "+219,950",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+199,076",
+                    "stars": "+200,002",
                     "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 8,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "适合所有人的开源机器学习框架",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+195,809",
-                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -507,72 +477,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
+            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
+            "url": "https://www.qbitai.com/2026/06/437198.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/"
+            "url": "https://www.qbitai.com/2026/06/437141.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "创始人基金对人道宰杀鱼类的异常押注",
+            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/"
+            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
+            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
+            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "每一个值得了解的 iOS 27 新功能",
+            "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/"
+            "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "英伟达开始搞机器人自己研究机器人那套了…",
+            "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/437041.html"
+            "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "title": "人工智能世界正变得“疯狂”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/437023.html"
+            "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "title": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436996.html"
+            "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+            "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436980.html"
+            "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+            "title": "英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/436966.html"
+            "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
         }
     ],
     "aiTools": [
@@ -623,35 +593,27 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "模型",
+            "text": "人工智能",
             "size": "large"
-        },
-        {
-            "text": "Anthropic",
-            "size": "medium"
         },
         {
             "text": "AI",
             "size": "medium"
         },
         {
-            "text": "人工智能",
+            "text": "Anthropic",
             "size": "medium"
         },
         {
             "text": "Code",
+            "size": "medium"
+        },
+        {
+            "text": "WAVES",
             "size": "small"
         },
         {
-            "text": "爱玛",
-            "size": "small"
-        },
-        {
-            "text": "黑翼",
-            "size": "small"
-        },
-        {
-            "text": "视频",
+            "text": "模型",
             "size": "small"
         },
         {
@@ -659,110 +621,94 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "机器人",
+            "text": "产业",
             "size": "small"
         },
         {
-            "text": "品牌",
+            "text": "创业者",
             "size": "small"
         },
         {
-            "text": "Siri",
+            "text": "科技",
             "size": "small"
         },
         {
-            "text": "TimeProVe",
+            "text": "今年",
             "size": "small"
         },
         {
-            "text": "用户",
+            "text": "Subquadratic",
+            "size": "small"
+        },
+        {
+            "text": "Ventures",
+            "size": "small"
+        },
+        {
+            "text": "Salesforce",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Signal 的 Meredith Whittaker 希望你记住人工智能聊天机器人“不是你的朋友”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "“他们不是你的朋友。他们不是有意识的生物。他们不是有知觉的对话者。”"
+            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
         },
         {
-            "title": "权重中是您新的以人工智能为中心的虚荣搜索",
+            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "那么...您的体重分数是多少？"
+            "snippet": "一个月只要340块"
         },
         {
-            "title": "创始人基金对人道宰杀鱼类的异常押注",
+            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Shinkei 制造了一个名为 Poseidon 的冰箱大小的机器人，可以快速、人道地捕捞鱼类。"
+            "snippet": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。"
         },
         {
-            "title": "诺贝尔奖获得者 John Jumper 将离开 DeepMind 前往竞争对手 Anthropic",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Jumper 并不是唯一离开 Google DeepMind 的大人物。"
-        },
-        {
-            "title": "每一个值得了解的 iOS 27 新功能",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "虽然它不像苹果新推出的 Siri AI 和 Apple Intelligence 升级那样华而不实，但 iOS 27 中仍然有许多值得关注的新增内容。"
-        },
-        {
-            "title": "英伟达开始搞机器人自己研究机器人那套了…",
+            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "为了让你烧token，英伟达已经卷到机器人身上了"
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四月份该公司表示它已经建立了一个名为 My"
         },
         {
-            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "全球最聪明的人之一，成了AI最狂热的布道者"
+            "snippet": "欧洲攻击性网络安全公司 Paradigm Shift 公布了一个缺陷的详细信息以及利用该缺陷的技术，该技术为黑客解锁和闯入旧款 iPhone 打开了大门。"
         },
         {
-            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "速度快7倍，成本只有Veo 3的1/2000"
+            "snippet": "此次事件发生之际，塔塔电子正在扩大其在全球技术供应链中的作用。"
         },
         {
-            "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+            "title": "人工智能世界正变得“疯狂”",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "双子座3.5 Pro呢？"
+            "snippet": "该循环通过授权一群代理在后台连续无休止地工作，使代理人工智能更进一步。"
         },
         {
-            "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+            "title": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "抢人最猛的Meta，似乎先从内部裂开了"
+            "snippet": "微软与雪佛龙签署了为期 20 年的购电协议，锁定了新建天然气发电厂数十年的碳排放量。"
         },
         {
-            "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事去世",
+            "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "与四个兄弟共同创立育碧的克劳德·吉列莫 (Claude Guillemot) 去世，享年 69 岁。"
+            "snippet": "在完成一项非收购雇佣交易后，人工智能公司会做什么？ Groq 筹集了资金，正在向 Neocloud 业务倾斜，并正在招聘新的高管。"
         },
         {
-            "title": "下载：地球工程和内感受科学的现实检验",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。侵入大气层：地球工程得到现实检验太阳能地球工程是一个有争议的想法，即我们可以故意干预气候系统以抵消全球变暖，它正在超越计算机模拟的范围。"
-        },
-        {
-            "title": "内罗毕的企业家阐述了使用太阳能的理由",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "肯尼亚大部分电网都依靠可再生能源运行。但由于 25% 的社区缺乏集中电力，该国正在寻求离网太阳能，以实现到 2030 年实现普遍供电而不增加排放的目标。太阳能技术不断提高的经济性对此有所帮助。几年前，一块面板的成本约为 2000 美元。"
-        },
-        {
-            "title": "侵入大气层：地球工程得到现实检验",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "吉姆·弗兰克（Jim Franke）拉开他办公室环绕式办公桌上的演示文稿封面，展示了一架外观奇怪的飞机的插图，其巨大的机翼从粗短的机身中伸出。这架无人驾驶飞机的飞行高度比商用喷气式飞机还要高数千米，高得你可以看到地球的曲率。"
+            "title": "英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "英伟达宣布推出一种新的冷却系统，可以减少数据中心内的用水量。但它对解决人工智能最大的用水问题——化石燃料发电厂没有任何作用。"
         },
         {
             "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
@@ -783,82 +729,106 @@ var siteData = {
             "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
         },
         {
-            "title": "JanusMesh：通过跨空间去噪快速、零射击 3D 视觉错觉生成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "创建 3D 视觉错觉，即从不同视角揭示完全不同语义的单个 3D 网格，是一项令人着迷但艰巨的挑战。现有的基于优化的方法速度缓慢并且会产生过饱和的颜色。相比之下，朴素的缝合方法无法产生几何上连贯的物体。这会导致明显的不自然接缝和语义泄漏。在本"
-        },
-        {
-            "title": "TimeProVe：提出并验证日常生活活动中的高效长视频时间推理",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "长视频问答 (LVQA) 需要在长达数小时的未修剪视频中识别稀疏的、与查询相关的证据。现有方法要么使用大型视觉语言模型（VLM）密集处理视频，从而产生高昂的计算成本，要么依赖基于稀疏字幕的推理，这通常会错过时间局部和以运动为中心的证据。我们"
-        },
-        {
-            "title": "DiffusionGemma 的透明度如何？",
+            "title": "德克萨斯州发生致命事故后，特斯拉反驳了 Autopilot 的说法",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "LLM 推理透明度对于理解模型决策、减少误用和错位以及调试令人惊讶的模型行为至关重要。然而，DiffusionGemma 在连续的潜在空间中执行大部分计算；这是否会使其推理变得不那么透明？我们通过将透明度分解为两个部分来研究这个问题：变量透"
+            "snippet": "在调查人员完成对车辆数据日志的梳理之前，自动驾驶系统是否真正处于活动状态、被覆盖或发生故障可能无法解决。"
         },
         {
-            "title": "UNIEGO：代理作为统一自我中心视频表示学习的中介",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "以自我为中心的视频理解本质上受到可穿戴相机狭隘视角的限制：单一视点、单一模式、单一模型无法捕捉人类行为的全部丰富性。我们认为，真正富有表现力的以自我为中心的表示必须包含跨观点、模式和基础模型表示的补充知识，但仍然可以仅从以自我为中心的视频中"
+            "title": "股东就性侵犯和其他事件起诉 Uber 董事会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该诉讼由底特律一家养老基金牵头，指控 Uber 董事会和管理层在合规方面存在太多漏洞，导致数千起诉讼。"
         },
         {
-            "title": "盒子里的思考：真实图像的 3D 编辑变得轻松",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "文本和 2D 调节界面对图像编辑中的空间变换提供了微弱且模糊的控制，尤其是在大型物体运动和摄像机变化的情况下。之前的工作使用了 3D 图元（例如盒子），但仅作为指示大致对象位置的松散条件信号，而不是指定变换。相反，我们使用 3D 框作为结构"
-        },
-        {
-            "title": "构建和标记分布式用户兴趣上下文以进行生成推荐",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "生成式推荐是一种新兴范式，在工业推荐系统中显示出前景，旨在根据用户的历史行为预测用户的下一次交互。生成推荐的核心是项目标记化，它连接了项目语义和推荐模型。然而，现有的方法通常很难同时有效地组织和注入复杂的用户行为和项目语义上下文到推荐模型中"
-        },
-        {
-            "title": "令牌是群元素：关于矩阵李群的李代数注意力",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们将注意力标记放在组上：标记是矩阵李群$G$的元素$g_i$——一个裸变换，没有特征负载，也没有携带它的外部动作$ρ(g)$。据我们所知，这是第一个注意力结构，其标记是裸矩阵李群元素：它们的分数是相对姿势的封闭形式代数范数而不是学习的内核"
-        },
-        {
-            "title": "当前的世界模型缺乏持久状态核心",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "世界模型越来越被认为是迈向通用人工智能的决定性一步，然而，对物理世界进行建模所需要的不仅仅是按需渲染令人信服的框架：它需要一个随着时间的推移而不断演变的内部世界状态，与观察脱钩，以便无论摄像机是否在观察，物体都能持续存在，事件也能得出结论，"
-        },
-        {
-            "title": "走向分布转移下的校准专家组合",
+            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "校准将模型的预测不确定性与其经验结果的频率保持一致，对于理解和信任报告的概率非常重要。最近的工作表明，在单个预测变量的层面上实施校准可以提高整体精度和校准，特别是专家混合（MoE）模型显示出强大的经验改进；然而，校准对教育部有帮助的条件尚不"
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士的人工智能初创公司 Subquadratic 上个月公开宣称：它已经解决了一个数学瓶颈——它已经解决了一个数学瓶颈。"
         },
         {
-            "title": "SSD：空间推测解码加速自回归图像生成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "自回归模型通过将图像视为离散标记的一维序列、镜像语言建模，在视觉生成方面表现出色。然而，这种扁平化丢弃了视觉信号固有的二维空间局部性，在推理过程中造成了严重的计算瓶颈。我们引入了空间推测解码（SSD），这是一个将预测目标与图像的自然几何结构"
-        },
-        {
-            "title": "CalTennis：大型多视图网球视频数据集和单目到 3D 姿势估计的基准",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "加州理工学院网球数据集 (CalTennis) 是一个大规模视频基准，用于评估野外单眼到 3D 姿势估计。 CalTennis 包含 40 名球员的超过 1100 万帧（51 小时）的网球练习和比赛，由 2-6 个同步摄像机以 60 Hz "
-        },
-        {
-            "title": "FID 彩票：量化生成模型评估中隐藏的随机性",
+            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Frechet 起始距离 (FID) 是图像生成事实上的仲裁者，但大多数论文仅报告使用单个采样种子的单个训练模型的单个数字。如果我们重新训练模型，或者仅仅从中重新采样，这个数字的可重复性如何？在本文中，我们将 FID 视为训练和生成种子两轴"
+            "snippet": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，并获得了巨额索赔。它宣布它已经解决了近十年来阻碍大型语言模型的数学瓶颈。细节很薄弱，很多人不相信。但 Subquadratic 已经开始带来收据，分享……"
         },
         {
-            "title": "指令如何塑造言语？风格字幕文本转语音的交叉注意力归因",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "风格字幕文本转语音系统使用自然语言来控制语音特征，但单个单词如何影响声音输出仍不清楚。理解这一点对于诊断故障模式和提高表达 TTS 的可控性至关重要。我们提出了语音扩散模型的交叉注意力归因，首次将 DAAM 框架应用于语音领域，并将其应用于"
+            "title": "指标不可避免的弱点",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像很多一样&#8230;"
+        },
+        {
+            "title": "脑机接口试验正在起飞",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索硬化症 (ALS) 的男子，是大脑植入物的“第一个超级用户”。哈雷尔瘫痪了，没有该设备就无法连贯说话。他现在已经花了近三"
+        },
+        {
+            "title": "英伟达开始搞机器人自己研究机器人那套了…",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "为了让你烧token，英伟达已经卷到机器人身上了"
+        },
+        {
+            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全球最聪明的人之一，成了AI最狂热的布道者"
+        },
+        {
+            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "速度快7倍，成本只有Veo 3的1/2000"
+        },
+        {
+            "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "120分钟长视频一边看一边记"
+        },
+        {
+            "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "DeepSeek正在全力押注"
+        },
+        {
+            "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "本文约3000字，建议阅读6分钟\n  作者 | 彭孝秋\n  \n   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋"
+        },
+        {
+            "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "今日热点导览\n  三星电子向韩国所有员工开放ChatGPT和Codex\n  港股智谱暴涨，总市值突破1万亿港元\n  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n  杨子卸任巨力集团职务\n  供应链公司：已向苹果首款折叠屏iPhone小批量供"
+        },
+        {
+            "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。\n  感知瓶颈是今天几乎所有具身智能从业者都无"
+        },
+        {
+            "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大公司：\n  赢创计划全球裁员3200人\n  赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确"
+        },
+        {
+            "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。\n  以下为圆桌对话内容，经36氪整理编辑:\n  \n  许嘉婧｜"
+        },
+        {
+            "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的"
         }
     ]
 }
