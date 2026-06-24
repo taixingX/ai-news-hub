@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-23 02:07:30
+ * 生成时间: 2026-06-24 02:09:19
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-            "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+            "tag": "头条 · 大模型",
+            "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+            "summary": "Meta这团乱麻，几顿零食是搞不定了",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/06/437198.html"
+            "url": "https://www.qbitai.com/2026/06/437330.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-            "summary": "一个月只要340块",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息",
+            "summary": "Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功能还是一种捕获组织环境、机构知识和企业工作流程的战略游戏。",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/06/437141.html"
+            "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
+        },
+        {
+            "tag": "行业 · 动态",
+            "title": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
+            "summary": "Menlo 作为人工智能投资者为自己赢得了良好的声誉，这一切都基于 2024 年大胆的 7.5 亿美元举措。",
+            "source": "TechCrunch AI",
+            "time": "6小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
-            "summary": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
+            "title": "Klue 表示黑客窃取了 2022 年的凭证，导致客户数据泄露",
+            "summary": "目前还不清楚为什么克鲁在有限的试点之后没有撤销该凭证，黑客随后利用该凭证破坏了保存访问客户数据密钥的系统。",
             "source": "TechCrunch AI",
-            "time": "刚刚",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
-        },
-        {
-            "tag": "独家 · 研究",
-            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
-            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四",
-            "source": "MIT Tech Review",
-            "time": "8小时前",
+            "time": "6小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+            "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:07",
-            "text": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+            "time": "02:09",
+            "text": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/06/437198.html"
+            "url": "https://www.qbitai.com/2026/06/437330.html"
         },
         {
-            "time": "02:07",
-            "text": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+            "time": "02:09",
+            "text": "Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/437141.html"
+            "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
         },
         {
-            "time": "02:07",
-            "text": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+            "time": "02:09",
+            "text": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
         },
         {
-            "time": "02:07",
-            "text": "Anthropic 与政府的最新争执中值得关注的三件事",
+            "time": "02:09",
+            "text": "Klue 表示黑客窃取了 2022 年的凭证，导致客户数据泄露",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+            "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
         },
         {
-            "time": "02:07",
-            "text": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
+            "time": "02:09",
+            "text": "马克·扎克伯格希望 Meta 推出自己的预测市场",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
+            "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
         },
         {
-            "time": "02:07",
-            "text": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
+            "time": "02:09",
+            "text": "游戏中的头",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
         },
         {
-            "time": "02:07",
-            "text": "人工智能世界正变得“疯狂”",
+            "time": "02:09",
+            "text": "超级马里奥比你想象的更数学",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
         },
         {
-            "time": "02:07",
-            "text": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
+            "time": "02:09",
+            "text": "一个话多的人",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+                    "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/06/437198.html",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/06/437330.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。..."
+                    "desc": "Meta这团乱麻，几顿零食是搞不定了..."
                 },
                 {
-                    "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/437141.html"
+                    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
                 },
                 {
-                    "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+                    "title": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
                     "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "time": "6小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
                 },
                 {
-                    "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
+                    "title": "Klue 表示黑客窃取了 2022 年的凭证，导致客户数据泄露",
                     "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "time": "6小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
+                    "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
                 },
                 {
-                    "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
+                    "title": "Superhuman 收购人工智能检测初创公司 GPTZero",
                     "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "time": "4小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+                    "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/"
                 }
             ]
         },
@@ -201,48 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
-                    "desc": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。\n  以下为圆桌对话内容，经36氪整理编辑:\n  \n  许嘉婧｜36氪后浪研究所 主理人（主持人）\n  徐子悦 ｜Photo...",
+                    "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
+                    "desc": "36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。\n  宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研究中心，自研高导高强合金设计技术、超高导热复材设计及界面调控...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "36氪 AI",
-                    "time": "2026-06-22",
+                    "time": "2026-06-23",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://36kr.com/p/3864054145209602?f=rss"
+                    "url": "https://36kr.com/p/3864082158785539?f=rss"
                 },
                 {
-                    "title": "英伟达开始搞机器人自己研究机器人那套了…",
-                    "desc": "为了让你烧token，英伟达已经卷到机器人身上了...",
+                    "title": "游戏中的头",
+                    "desc": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局，裁判必须快速做出关键决定。莱昂内尔·梅西，&#8230;...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "量子位",
-                    "time": "2天前",
+                    "source": "MIT Tech Review",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.qbitai.com/2026/06/437041.html"
+                    "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
                 },
                 {
-                    "title": "Anthropic 与政府的最新争执中值得关注的三件事",
-                    "desc": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四月份该公司表示它已经建立了一个名为 Mythos 的人工智能模型。...",
+                    "title": "超级马里奥比你想象的更数学",
+                    "desc": "这是一个你可能在学校里没有解决过的问题：你是一位来自布鲁克林的雄心勃勃的年轻水管工，在一个居住着名为 Goombas 的暴力人类大小蘑菇的世界里。你一生的挚爱被绑架了，所以你踏上了营救她的旅程，冒险穿过一片片充满管道和怪物横行的地形，在那里你唯一的手段就是拯救她。...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "MIT Tech Review",
-                    "time": "8小时前",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+                    "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
                 },
                 {
-                    "title": "下载：破纪录的海底隧道和灵活的数据中心",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。在世界上最深、最长的海底公路隧道——尼尔湾 (Niall Firth) 内，我目前位于北海下方约 1,000 英尺的一个黑暗、潮湿的洞穴中。闻起来很奇怪。我越来越……...",
+                    "title": "一个话多的人",
+                    "desc": "Brian Sietsema 有一个最喜欢的词。他只能选择一个，这有点令人惊讶。他是拼写者在斯克里普斯全国拼字大赛（可以说是世界上最负盛名的同类比赛）上确认发音并回答单词词根问题的人。这个词的故事是如何产生的？...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "MIT Tech Review",
-                    "time": "13小时前",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
+                    "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/"
                 }
             ]
         },
@@ -252,27 +252,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "马克·扎克伯格希望 Meta 推出自己的预测市场",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
                 },
                 {
                     "rank": 2,
-                    "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-                    "time": "18小时前",
+                    "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
+                    "time": "2026-06-24",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/06/437317.html"
+                    "url": "https://36kr.com/p/3866428592657411?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
+                    "emoji": "🎬",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+                    "time": "12小时前",
+                    "emoji": "🔍",
+                    "url": "https://www.qbitai.com/2026/06/437503.html"
                 },
                 {
                     "rank": 5,
@@ -292,73 +296,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
-                    "time": "昨天",
+                    "title": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/06/437198.html"
+                    "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
                 },
                 {
                     "rank": 2,
-                    "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
-                    "time": "2026-06-23",
+                    "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
+                    "time": "2026-06-24",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3865070004212994?f=rss"
+                    "url": "https://36kr.com/p/3865425714795525?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
-                    "time": "2026-06-22",
+                    "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
+                    "time": "2026-06-24",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3864071269569540?f=rss"
+                    "url": "https://36kr.com/p/3866531692844034?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
-                    "time": "2026-06-22",
+                    "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
+                    "time": "2026-06-24",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3864033017549832?f=rss"
+                    "url": "https://36kr.com/p/3865912900588548?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-                    "time": "2026-06-22",
+                    "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+                    "time": "2026-06-23",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3864002982286342?f=rss"
+                    "url": "https://36kr.com/p/3865630193030145?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
-                    "time": "2026-06-22",
+                    "title": "只租办公室的拼多多，在雄安买了一栋楼",
+                    "time": "2026-06-23",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3863967437247751?f=rss"
+                    "url": "https://36kr.com/p/3865625576297476?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
-                    "time": "2026-06-22",
+                    "title": "WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点",
+                    "time": "2026-06-23",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3863988138956032?f=rss"
+                    "url": "https://36kr.com/p/3865596826768643?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
-                    "time": "2026-06-22",
+                    "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
+                    "time": "2026-06-23",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3863849524859911?f=rss"
+                    "url": "https://36kr.com/p/3865565708752134?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
+                    "time": "2026-06-23",
                     "emoji": "📰",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3865523201692931?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🏢",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -400,75 +404,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "sindresorhus/awesome",
+                    "desc": "😎 关于各种有趣主题的精彩列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+478,298",
+                    "url": "https://github.com/sindresorhus/awesome"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+450,230",
+                    "stars": "+450,364",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+390,691",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+379,978",
+                    "stars": "+380,158",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+358,015",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
+                    "rank": 5,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+300,825",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 4,
+                    "rank": 6,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+245,998",
+                    "stars": "+246,094",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+237,274",
+                    "stars": "+237,436",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "obra/superpowers",
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+236,081",
+                    "stars": "+236,978",
                     "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+219,950",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+200,002",
-                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -477,72 +481,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+            "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/06/437198.html"
+            "url": "https://www.qbitai.com/2026/06/437330.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+            "title": "Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/06/437141.html"
+            "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
+            "title": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
+            "title": "Klue 表示黑客窃取了 2022 年的凭证，导致客户数据泄露",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+            "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
+            "title": "马克·扎克伯格希望 Meta 推出自己的预测市场",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/"
+            "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
+            "title": "游戏中的头",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "人工智能世界正变得“疯狂”",
+            "title": "超级马里奥比你想象的更数学",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
+            "title": "一个话多的人",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非",
+            "title": "分享对微积分的热爱",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同",
+            "title": "捍卫研究、创新和教育",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/"
+            "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/"
         }
     ],
     "aiTools": [
@@ -593,12 +597,8 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "人工智能",
-            "size": "large"
-        },
-        {
             "text": "AI",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "Anthropic",
@@ -609,35 +609,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "WAVES",
-            "size": "small"
+            "text": "人工智能",
+            "size": "medium"
         },
         {
-            "text": "模型",
-            "size": "small"
-        },
-        {
-            "text": "代理",
-            "size": "small"
-        },
-        {
-            "text": "产业",
-            "size": "small"
-        },
-        {
-            "text": "创业者",
-            "size": "small"
-        },
-        {
-            "text": "科技",
-            "size": "small"
-        },
-        {
-            "text": "今年",
-            "size": "small"
-        },
-        {
-            "text": "Subquadratic",
+            "text": "机器人",
             "size": "small"
         },
         {
@@ -645,190 +621,218 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "Meta",
+            "size": "small"
+        },
+        {
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "Slack",
+            "size": "small"
+        },
+        {
+            "text": "模型",
+            "size": "small"
+        },
+        {
             "text": "Salesforce",
+            "size": "small"
+        },
+        {
+            "text": "Slackbot",
+            "size": "small"
+        },
+        {
+            "text": "WAVES",
+            "size": "small"
+        },
+        {
+            "text": "客户",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+            "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Meta这团乱麻，几顿零食是搞不定了"
+        },
+        {
+            "title": "Anthropic 的 Claude Tag 正在了解您的公司，一次一条 Slack 消息",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Anthropic 的新 Claude Tag 为 Slack 带来了一位永远在线的 AI 队友。但除了生产力之外，该功能还是一种捕获组织环境、机构知识和企业工作流程的战略游戏。"
+        },
+        {
+            "title": "在将公司押注于 Anthropic 后，Menlo Ventures 筹集了 30 亿美元的胜利基金",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
+            "snippet": "Menlo 作为人工智能投资者为自己赢得了良好的声誉，这一切都基于 2024 年大胆的 7.5 亿美元举措。"
         },
         {
-            "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+            "title": "Klue 表示黑客窃取了 2022 年的凭证，导致客户数据泄露",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一个月只要340块"
+            "snippet": "目前还不清楚为什么克鲁在有限的试点之后没有撤销该凭证，黑客随后利用该凭证破坏了保存访问客户数据密钥的系统。"
         },
         {
-            "title": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。"
+            "title": "马克·扎克伯格希望 Meta 推出自己的预测市场",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "该应用程序将独立于 Meta 的其他社交媒体产品，尽管消息人士告诉《纽约时报》，这些社交网站可以引导用户与该应用程序互动。"
         },
         {
-            "title": "Anthropic 与政府的最新争执中值得关注的三件事",
+            "title": "游戏中的头",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。对于那些正在享受夏天而不知道 Anthropic 与美国政府最近不和的人来说，这里有一个回顾：四月份该公司表示它已经建立了一个名为 My"
+            "snippet": "2022 年卡塔尔男足世界杯阿根廷对阵法国的决赛有望成为足球历史上最史诗般的比赛之一。加时赛仅剩 12 分钟，打破平局，裁判必须快速做出关键决定。莱昂内尔·梅西，&#8230;"
         },
         {
-            "title": "苹果芯片中一个不可修补的新缺陷为 iPhone 越狱打开了大门",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "欧洲攻击性网络安全公司 Paradigm Shift 公布了一个缺陷的详细信息以及利用该缺陷的技术，该技术为黑客解锁和闯入旧款 iPhone 打开了大门。"
-        },
-        {
-            "title": "苹果和特斯拉的主要技术供应商塔塔电子证实数据泄露",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "此次事件发生之际，塔塔电子正在扩大其在全球技术供应链中的作用。"
-        },
-        {
-            "title": "人工智能世界正变得“疯狂”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该循环通过授权一群代理在后台连续无休止地工作，使代理人工智能更进一步。"
-        },
-        {
-            "title": "微软和雪佛龙计划建设美国最大的天然气数据中心项目之一",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "微软与雪佛龙签署了为期 20 年的购电协议，锁定了新建天然气发电厂数十年的碳排放量。"
-        },
-        {
-            "title": "AI 芯片制造商 Groq 确认筹集 6.5 亿美元资金，并在 Nvidia 完成 200 亿美元非收购聘用交易后进行人员重组",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在完成一项非收购雇佣交易后，人工智能公司会做什么？ Groq 筹集了资金，正在向 Neocloud 业务倾斜，并正在招聘新的高管。"
-        },
-        {
-            "title": "英伟达希望减少数据中心的用水量，但这与解决人工智能的用水问题不同",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "英伟达宣布推出一种新的冷却系统，可以减少数据中心内的用水量。但它对解决人工智能最大的用水问题——化石燃料发电厂没有任何作用。"
-        },
-        {
-            "title": "下载：对暗物质的新搜寻和肯尼亚发展太阳能的案例",
+            "title": "超级马里奥比你想象的更数学",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。几十年来，物理学家一直在寻找弱相互作用大质量粒子（WIMP），这是暗物质的主要候选者。但他们的搜索已经失败了。"
+            "snippet": "这是一个你可能在学校里没有解决过的问题：你是一位来自布鲁克林的雄心勃勃的年轻水管工，在一个居住着名为 Goombas 的暴力人类大小蘑菇的世界里。你一生的挚爱被绑架了，所以你踏上了营救她的旅程，冒险穿过一片片充满管道和怪物横行的地形，在那里"
         },
         {
-            "title": "地球工程仍然面临重大的实际挑战",
+            "title": "一个话多的人",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "太阳能地球工程通常被描述为一种紧急刹车。在气候紧急情况下，类似拉力的东西可以散射反光粒子，将阳光反射出大气层，从而冷却地球。但它可能不像一个简单的刹车，而更像一个复杂的、完全未解决的谜题。一些&#8230;"
+            "snippet": "Brian Sietsema 有一个最喜欢的词。他只能选择一个，这有点令人惊讶。他是拼写者在斯克里普斯全国拼字大赛（可以说是世界上最负盛名的同类比赛）上确认发音并回答单词词根问题的人。这个词的故事是如何产生的？"
         },
         {
-            "title": "对暗物质的探索已被广泛关注",
+            "title": "分享对微积分的热爱",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "在亚平宁山脉下方、四川锦屏山脉下方以及南达科他州一座矿井的底部，一场宇宙狩猎正在进行中。充满液态氙的大型探测器被隔离在这些岩石屏障的深处，旨在首次直接探测暗物质，暗物质是人们长期寻找的不可见物质，其重力已经雕刻了暗物质。"
+            "snippet": "目前，关于教育价值的全国性讨论主要是对人工智能的风险和积极潜力的猜测。无论你对这场辩论持什么看法，我希望你会很高兴知道麻省理工学院也在致力于一项非常重要但相对老式的挑战：美国高中生的入学机会极其不平衡——他们的入学机会极其不平等。"
         },
         {
-            "title": "德克萨斯州发生致命事故后，特斯拉反驳了 Autopilot 的说法",
+            "title": "捍卫研究、创新和教育",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "现在，麻省理工学院的校友和朋友们正在表达他们的支持： 美国的科技领先地位 择优录取和负担得起的教育 促进美国健康、安全和繁荣的进步 我们的社区正在支持麻省理工学院及其服务国家和世界的使命。我们需要您加入我们的行列……"
+        },
+        {
+            "title": "超声波成像将机器人手变成熟练的模仿者",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "我们的手是身体最灵活的部分，协调 34 块肌肉、27 个关节以及 100 多个肌腱和韧带，以执行无数细致入微的动作和手势。到目前为止，机器人在模仿这种灵活性方面一直是出了名的糟糕，部分原因是研究人员很难按顺序捕捉我们皮肤下实际发生的情况——"
+        },
+        {
+            "title": "重新发明拉链",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "借助 CSAIL 设计的适应性强的紧固件，搭帐篷或调整骨折石膏几乎就像拉上外套拉链一样简单。由副教授 Stefanie Mueller 领导的研究人员受到了一个废弃的三边拉链原型的启发，该原型由 William Freeman 博士 '92"
+        },
+        {
+            "title": "工程“迷你肝脏”可以注射作为移植的替代方案",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "由 Sangeeta Bhatia 教授（SM '93、PhD '97）及其同事开发的一项技术可以为成千上万患有慢性肝病、正在等待器官移植或身体状况不足以耐受器官移植的美国人带来新的希望。肝脏参与调节血液凝固、清除血液中的细菌、代谢药物等。"
+        },
+        {
+            "title": "植物似乎能察觉到下雨的声音",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "麻省理工学院的工程师发现了植物种子可以感知自然界声音的第一个直接证据：浸入浅水中的水稻在受到表面滴水的振动时发芽速度提高了 30% 至 40%。他们认为其他类型的种子可能会有类似的反应。当雨滴撞击水坑表面或“水坑”时，"
+        },
+        {
+            "title": "呼气测试可在几分钟内诊断出肺炎",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着麻省理工学院开发的一项测试，有一天诊断肺炎和其他肺部疾病可能就像用管子呼吸一样简单。该测试被称为 PlasmoSniff，是一种便携式芯片级传感器，可以捕获和检测生物标记物、指示疾病的合成化合物。这个想法是，一个人首先会吸入专门的纳米粒"
+        },
+        {
+            "title": "Superhuman 收购人工智能检测初创公司 GPTZero",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在调查人员完成对车辆数据日志的梳理之前，自动驾驶系统是否真正处于活动状态、被覆盖或发生故障可能无法解决。"
+            "snippet": "Superhuman 也拥有一个人工智能检测工具，作为 Grammarly 的一部分，它已经收购了 GPTZero。"
         },
         {
-            "title": "股东就性侵犯和其他事件起诉 Uber 董事会",
+            "title": "印度 MoEngage 押注营销的未来在于数百万人工智能代理",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "该诉讼由底特律一家养老基金牵头，指控 Uber 董事会和管理层在合规方面存在太多漏洞，导致数千起诉讼。"
+            "snippet": "此次全现金交易使 MoEngage 能够获得为个人客户分配人工智能代理的技术。"
         },
         {
-            "title": "下载：人工智能瓶颈争论，BCI 试验开始",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它突破了阻碍法学硕士的人工智能初创公司 Subquadratic 上个月公开宣称：它已经解决了一个数学瓶颈——它已经解决了一个数学瓶颈。"
-        },
-        {
-            "title": "一家初创公司声称它突破了阻碍法学硕士的瓶颈",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "总部位于迈阿密的人工智能初创公司 Subquadratic 上个月走出了隐秘模式，并获得了巨额索赔。它宣布它已经解决了近十年来阻碍大型语言模型的数学瓶颈。细节很薄弱，很多人不相信。但 Subquadratic 已经开始带来收据，分享……"
-        },
-        {
-            "title": "指标不可避免的弱点",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。我花了十多年的时间更详细地追踪自己的生活，才充分理解这种二元性，这可能揭示了关于我和测量本质的一些东西。就像很多一样&#8230;"
-        },
-        {
-            "title": "脑机接口试验正在起飞",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本周，我报道了凯西·哈雷尔 (Casey Harrell) 的故事。据与他一起工作的研究人员介绍，他是一名患有肌萎缩侧索硬化症 (ALS) 的男子，是大脑植入物的“第一个超级用户”。哈雷尔瘫痪了，没有该设备就无法连贯说话。他现在已经花了近三"
-        },
-        {
-            "title": "英伟达开始搞机器人自己研究机器人那套了…",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "为了让你烧token，英伟达已经卷到机器人身上了"
-        },
-        {
-            "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+            "title": "雷鸟创新 2026 上半年成绩单：618 销量五连冠、三大机构认证第一",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "全球最聪明的人之一，成了AI最狂热的布道者"
+            "snippet": "实现上半年市场表现的“开门红”"
         },
         {
-            "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+            "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "速度快7倍，成本只有Veo 3的1/2000"
+            "snippet": "英伟达：不造机器人，但要帮具身企业造好机器人"
         },
         {
-            "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
+            "title": "马斯克又盯上AI基建：特斯拉要卖“算力积木”了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "120分钟长视频一边看一边记"
+            "snippet": "新商标已曝光"
         },
         {
-            "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "DeepSeek正在全力押注"
-        },
-        {
-            "title": "秋声 | 四川生物科技公司上市首日大跌31%，中信证券保荐",
+            "title": "微信AI助手小微，还有许多做不到的事情｜产品观察",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "本文约3000字，建议阅读6分钟\n  作者 | 彭孝秋\n  \n   编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n   鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋"
+            "snippet": "文｜王毓婵\n  编辑｜张雨忻\n  微信AI助手“小微”正在灰度内测，36氪智能涌现拿到了首批测试资格。\n  先说结论：一些简单操作，小微做得没那么好；一些复杂操作，小微反而做得比较好。\n  \n  小微入口\n  小微的服务主要基于微信自研模型"
         },
         {
-            "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "今日热点导览\n  三星电子向韩国所有员工开放ChatGPT和Codex\n  港股智谱暴涨，总市值突破1万亿港元\n  何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事\n  杨子卸任巨力集团职务\n  供应链公司：已向苹果首款折叠屏iPhone小批量供"
-        },
-        {
-            "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+            "title": "36氪首发 | 同济博士从建筑机器人转战煤矿，押注辅助作业的“结构性蓝海”",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。\n  感知瓶颈是今天几乎所有具身智能从业者都无"
+            "snippet": "作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，矿山机器人公司随擎机器人（下称“随擎”）近期已完成千万元级天使轮融资，投资方为连云港金桥基金。本轮资金将主要用于煤矿井下核心机器人产品的工程化迭代、供应链构建及团队扩充。\n  随擎2025年初正式"
         },
         {
-            "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大公司：\n  赢创计划全球裁员3200人\n  赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确"
+            "title": "专访火山引擎谭待：模型好对MaaS是最重要的事，豆包2.1算「上牌桌」了",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文 | 邓咏仪\n  编辑 | 张雨忻\n  \n  火山引擎总裁谭待 来源：火山引擎\n  过去三年，火山引擎总裁谭待给团队定 MaaS（模型即服务） 营收目标的过程，也重复了三次：年初，定一个很高的目标，团队都觉得太难了，完不成；到了年中，“居"
         },
         {
-            "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+            "title": "8点1氪丨追觅辟谣汽车CEO离职：职务与网传不符；微信小范围内测原生AI助手；苹果、特斯拉核心供应商数据泄露",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "今日热点导览\n  创业板指创年内最大跌幅，失守4200点整数关口\n  影石回应Luna Ultra新品骗国补质疑：发布会标价有误\n  上交所向沪市公司发出“提质增效重回报”2.0专项行动公开倡议\n  韩国将要求所有上市���司披露库存股详情"
+        },
+        {
+            "title": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "AI不是一阵风，它正在变成地平线。而地平线的意思是——你看不到它的尽头，但它一直在那里。\n  当下AI热潮涌动，行业共识尚未形成，但真正的机遇往往诞生在共识之前。接下来就让我们进入比共识更早一步 AI 创投的真实棋局圆桌论坛 !\n  以下为"
+        },
+        {
+            "title": "只租办公室的拼多多，在雄安买了一栋楼",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "扎堆雄安的互联网大厂又多了一个。\n  6月21日，拼多多集团与中国电建完成正式签约，通过整体购置方式持有雄安·电建智汇城数字新消费电商产业园的办公楼。\n  这是拼多多第一次“买楼”。\n  \n  雄安新区产业园\n  拼多多自2015年9月正式"
+        },
+        {
+            "title": "以“高导热+高强韧”镁合金切入机器人等高端制造领域，「宜镁华」完成数千万元天使轮融资｜36氪首发",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。\n  以下为圆桌对话内容，经36氪整理编辑:\n  \n  许嘉婧｜"
+            "snippet": "36氪获悉，「宜镁华」近期宣布完成数千万元天使轮融资。本轮融资由星河创投与华中实业集团投资。资金将用于产能建设、研发投入和团队扩充等。\n  宜镁华专注于镁合金材料研发，零部件开发设计与零部件产品制造，背靠上海交通大学轻合金精密成型国家工程研"
         },
         {
-            "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+            "title": "WAVES 2026：盛夏的这场讨论，留下了创投圈值得反复回看的观点",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n  每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的"
+            "snippet": "WAVES 2026汇聚众多投资人、产业领袖与创业者，围绕AI与产业未来展开深度对话。嘉宾核心观点现集中呈现。\n  \n  \n  6月16-17日，36氪WAVES 2026新浪潮大会落地广州番禺良仓新造创意园，大会汇聚了来自 AI、硬科技、"
+        },
+        {
+            "title": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "我们不妨想一下，如果有一天，AI突然消失了，我们会失去什么？这个问题不是为了制造恐慌，而是为了让我们想清楚：我们今天投AI，到底是在投它的能力，还是投它背后的人性需求？接下来这个环节当中，回到没有AI的那一天，去找第一性原理。上一场李丰的演"
+        },
+        {
+            "title": "主题圆桌：从无声到轰鸣，令人期待的消费硬件 | WAVES2026",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "消费硬件曾经一度被投资人“冷落”，因为它太慢、太重、太不性感。但现在，一批新的消费硬件正在从无声到轰鸣。它们不靠故事，靠体验。不靠流量，靠复购。相信之后，是产品。这一场，我们来看一看那些被“最早相信的人”投出来的硬件，长成了什么样子。\n  "
         }
     ]
 }
