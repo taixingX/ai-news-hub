@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-27 02:05:43
+ * 生成时间: 2026-06-28 02:27:25
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
-            "summary": "Macbook涨了2500元",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+            "summary": "据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/06/438690.html"
+            "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-            "summary": "7月17-7月20日",
-            "source": "量子位",
+            "tag": "行业 · 动态",
+            "title": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
+            "summary": "Mesh 在 2 月份以 5000 万美元的 A 轮融资脱颖而出。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/06/438364.html"
+            "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "人工智能时代重新定位零售业",
-            "summary": "人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购物助理，而是幕后决策的方式：产品如何在搜索结果中出现、库存如何在供应链中移动、工",
-            "source": "MIT Tech Review",
+            "title": "由 Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
+            "summary": "当 Papermark 指控 Corgi 窃取其软件时，Corgi 卷入了争议。柯基犬说没有，这引发了关于振动编码的新问题。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+            "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。欧洲的极端高温正在关闭发电厂欧洲正处于破纪录的热浪之中，随着人们转向“电力”，电网正面临极限。",
-            "source": "MIT Tech Review",
+            "tag": "行业 · 动态",
+            "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
+            "summary": "General Atlantic 聘请网球传奇人物诺瓦克·德约科维奇担任全球战略顾问。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
+            "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:05",
-            "text": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+            "time": "02:27",
+            "text": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/06/438690.html"
+            "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
         },
         {
-            "time": "02:05",
-            "text": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+            "time": "02:27",
+            "text": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/438364.html"
+            "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
         },
         {
-            "time": "02:05",
-            "text": "人工智能时代重新定位零售业",
+            "time": "02:27",
+            "text": "由 Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+            "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/"
         },
         {
-            "time": "02:05",
-            "text": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+            "time": "02:27",
+            "text": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
+            "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
         },
         {
-            "time": "02:05",
-            "text": "欧洲热浪对电网意味着什么",
+            "time": "02:27",
+            "text": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
+            "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
         },
         {
-            "time": "02:05",
-            "text": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+            "time": "02:27",
+            "text": "GPT-5.6突然发布！Fable5痛失最强基模王座",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+            "url": "https://www.qbitai.com/2026/06/438895.html"
         },
         {
-            "time": "02:05",
-            "text": "DanceOPD：策略生成场蒸馏",
+            "time": "02:27",
+            "text": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.27377v1"
+            "url": "https://www.qbitai.com/2026/06/438887.html"
         },
         {
-            "time": "02:05",
-            "text": "提问、解决、生成：通过自我一致性奖励自我进化统一多模式理解和生成",
+            "time": "02:27",
+            "text": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
             "hot": false,
-            "url": "http://arxiv.org/abs/2606.27376v1"
+            "url": "https://www.qbitai.com/2026/06/438848.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
-                    "source": "量子位",
+                    "title": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/438690.html",
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Macbook涨了2500元..."
+                    "desc": "Mesh 在 2 月份以 5000 万美元的 A 轮融资脱颖而出。..."
                 },
                 {
-                    "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-                    "source": "量子位",
+                    "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/438364.html"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
                 },
                 {
-                    "title": "使用多语言联合实体关系提取管道绘制欧洲政治精英网络",
-                    "source": "arXiv",
+                    "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2606.27347v1"
+                    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
                 },
                 {
-                    "title": "基于语言的数字孪生老年人认知辅助",
-                    "source": "arXiv",
+                    "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2606.27334v1"
+                    "url": "https://www.qbitai.com/2026/06/438895.html"
                 },
                 {
-                    "title": "随着联邦调查的继续，特斯拉就 FSD 碰撞诉讼达成和解",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/"
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/06/438887.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27377v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27376v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27374v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27373v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27372v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2606.27371v1"
@@ -274,17 +274,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "TikTok 的超级应用之路",
-                    "time": "9小时前",
+                    "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/"
+                    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
                 },
                 {
                     "rank": 2,
-                    "title": "让机器人学会“预判接触”：它石智航牵头四大顶尖机构发布TacForeSight，破解精细操作难题",
-                    "time": "22小时前",
+                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
+                    "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/06/438701.html"
+                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
                 },
                 {
                     "rank": 3,
@@ -302,17 +302,13 @@ var siteData = {
                 },
                 {
                     "rank": 5,
-                    "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
-                    "time": "1小时前",
-                    "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
-                    "time": "17小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,73 +318,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
-                    "time": "6小时前",
+                    "title": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
+                    "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
                 },
                 {
                     "rank": 2,
-                    "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-                    "time": "2026-06-27",
+                    "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
+                    "time": "昨天",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3866946087867394?f=rss"
+                    "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
                 },
                 {
                     "rank": 3,
-                    "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-                    "time": "2026-06-26",
+                    "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+                    "time": "昨天",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3869884559332356?f=rss"
+                    "url": "https://www.qbitai.com/2026/06/438887.html"
                 },
                 {
                     "rank": 4,
-                    "title": "《走进AIE》，谁是下一个主角",
-                    "time": "2026-06-26",
+                    "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+                    "time": "2026-06-28",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3869838577620231?f=rss"
+                    "url": "https://36kr.com/p/3867976058803459?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
-                    "time": "2026-06-26",
+                    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
+                    "time": "2026-06-27",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3869622921041156?f=rss"
+                    "url": "https://36kr.com/p/3871109381035011?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "历经13年，二手车交易平台大搜车终于登陆纳斯达克",
-                    "time": "2026-06-26",
+                    "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
+                    "time": "2026-06-27",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3869474592363528?f=rss"
+                    "url": "https://36kr.com/p/3866946087867394?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "戴宗宏和他的「工业世界模型」：一人两周，干完百人级定制化“累活”",
+                    "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
                     "time": "2026-06-26",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3869445453305090?f=rss"
+                    "url": "https://36kr.com/p/3869884559332356?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "《走进AIE》，谁是下一个主角",
+                    "time": "2026-06-26",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3869838577620231?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
+                    "time": "2026-06-26",
                     "emoji": "📰",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3869622921041156?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🏢",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -434,35 +430,35 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+450,595",
+                    "stars": "+450,636",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+444,584",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+380,617",
+                    "stars": "+380,747",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
-                    "name": "vinta/awesome-python",
-                    "desc": "Python 框架、库、工具和资源的固定列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+304,975",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
                     "rank": 4,
-                    "name": "react/react",
-                    "desc": "Web 和本机用户界面的库。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+246,128",
-                    "url": "https://github.com/react/react"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+301,497",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 5,
@@ -470,35 +466,35 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+237,663",
+                    "stars": "+237,735",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 6,
-                    "name": "ossu/computer-science",
-                    "desc": "🎓 计算机科学免费自学教育之路！",
-                    "lang": "HTML",
-                    "langClass": "lang-python",
-                    "stars": "+205,279",
-                    "url": "https://github.com/ossu/computer-science"
-                },
-                {
-                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+203,802",
+                    "stars": "+204,388",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
+                    "rank": 7,
+                    "name": "tensorflow/tensorflow",
+                    "desc": "适合所有人的开源机器学习框架",
+                    "lang": "C++",
+                    "langClass": "lang-cpp",
+                    "stars": "+195,964",
+                    "url": "https://github.com/tensorflow/tensorflow"
+                },
+                {
                     "rank": 8,
-                    "name": "trekhleb/javascript-algorithms",
-                    "desc": "📝 用 Ja​​vaScript 实现的算法和数据结构，并附有解释和进一步阅读的链接",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+196,138",
-                    "url": "https://github.com/trekhleb/javascript-algorithms"
+                    "name": "n8n-io/n8n",
+                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+194,286",
+                    "url": "https://github.com/n8n-io/n8n"
                 }
             ]
         }
@@ -507,72 +503,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+            "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/06/438690.html"
+            "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+            "title": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/06/438364.html"
+            "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "人工智能时代重新定位零售业",
+            "title": "由 Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+            "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+            "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
+            "url": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "欧洲热浪对电网意味着什么",
+            "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/"
+            "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+            "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+            "url": "https://www.qbitai.com/2026/06/438895.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "DanceOPD：策略生成场蒸馏",
+            "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.27377v1"
+            "url": "https://www.qbitai.com/2026/06/438887.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "提问、解决、生成：通过自我一致性奖励自我进化统一多模式理解和生成",
+            "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.27376v1"
+            "url": "https://www.qbitai.com/2026/06/438848.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "世界行动模型通过反复生成重播实现持续模仿学习",
+            "title": "克劳德寓言5分批重新上线！GPT-5.6秒跟",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.27374v1"
+            "url": "https://www.qbitai.com/2026/06/438789.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "在自我进化的大型多模态模型中更加关注视觉标记",
+            "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
             "heat": "",
-            "url": "http://arxiv.org/abs/2606.27373v1"
+            "url": "https://www.qbitai.com/2026/06/438750.html"
         }
     ],
     "aiTools": [
@@ -627,19 +623,19 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
-            "size": "medium"
-        },
-        {
             "text": "Claude",
             "size": "medium"
         },
         {
-            "text": "Code",
+            "text": "AI",
             "size": "medium"
         },
         {
             "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "Code",
             "size": "small"
         },
         {
@@ -655,6 +651,14 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "GPT",
+            "size": "small"
+        },
+        {
+            "text": "编码",
+            "size": "small"
+        },
+        {
             "text": "热浪",
             "size": "small"
         },
@@ -663,34 +667,134 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "编码",
-            "size": "small"
-        },
-        {
-            "text": "SpaceX",
-            "size": "small"
-        },
-        {
-            "text": "智能",
-            "size": "small"
-        },
-        {
             "text": "AIE",
+            "size": "small"
+        },
+        {
+            "text": "Corgi",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Macbook涨了2500元"
+            "title": "特朗普政府发布人择神话供 100 多家美国公司、机构使用",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "据报道，超过 100 家公司和政府机构被授权使用 Mythos 5，其中包括其非美国员工。"
         },
         {
-            "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+            "title": "FTC 批准马斯克收购 SpaceX 校友初创公司 Mesh",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Mesh 在 2 月份以 5000 万美元的 A 轮融资脱颖而出。"
+        },
+        {
+            "title": "由 Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "当 Papermark 指控 Corgi 窃取其软件时，Corgi 卷入了争议。柯基犬说没有，这引发了关于振动编码的新问题。"
+        },
+        {
+            "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "General Atlantic 聘请网球传奇人物诺瓦克·德约科维奇担任全球战略顾问。"
+        },
+        {
+            "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "7月17-7月20日"
+            "snippet": "OpenAI 表示：“我们认为这种政府准入流程不应成为长期默认做法。” “它为用户、开发者、企业、网络防御者和需要它们的全球合作伙伴保留了最好的工具。”"
+        },
+        {
+            "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一口气端出三款GPT 5.6系列模型"
+        },
+        {
+            "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": ""
+        },
+        {
+            "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "编码为王"
+        },
+        {
+            "title": "克劳德寓言5分批重新上线！GPT-5.6秒跟",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这不能是营销计划的一部分吧？"
+        },
+        {
+            "title": "从需求到设计到代码，一个软件全搞定！TRAE Work Design实测来了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "精准识别设计系统"
+        },
+        {
+            "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "共建工业物理智能“数据底座与智能大脑”"
+        },
+        {
+            "title": "下载：烧脑的热浪和前所未有的 OpenAI 限制",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找出原因。 —Jessica Hamzelou 本周伦敦很热。真的很热。危险的热浪袭击了西部地区。"
+        },
+        {
+            "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但我手机上的天气应用程序证实，感觉温度为 39°C。令人恐惧的是，我们在……看到这样的温度。"
+        },
+        {
+            "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "据报道，负责 Vision Pro 耳机的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。"
+        },
+        {
+            "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "并不是所有人都相信埃隆·马斯克对轨道数据中心的愿景。"
+        },
+        {
+            "title": "Instagram 正在测试更多定制“你的算法”的方法",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Instagram 用户很快就会看到更多调整内容的方法。"
+        },
+        {
+            "title": "欧洲极端高温导致发电厂关闭",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6 月 23 日，法国迎来了自 1947 年有记录以来最热的一天。"
+        },
+        {
+            "title": "下载：介绍工程问题",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题，但我们可以雄心勃勃。我们可以接受挑战，通过人类的聪明才智让世界变得更美好。这就是新的&#8230;"
+        },
+        {
+            "title": "Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "普通感冒对我们所有人来说都是如此——通常每年不止一次。并且没有办法阻止它。您能做的最好的事情就是服用维生素 C，并远离流鼻涕的人。现在，由帕特里克·克里森 (Patrick Collison) 和约翰·克里森 (John Collison)"
+        },
+        {
+            "title": "人工智能网络数据基础设施层的出现",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "人工智能正在蓬勃发展。每天都会出现新的用例。为了充分利用该技术的潜力，企业需要大规模数据。但在许多情况下，相关信息是被屏蔽或非结构化的，这限制了人工智能模型的使用。”要理解这一挑战，请考虑网络本身的基础。网络不是被设计出来的——而是被设计出"
         },
         {
             "title": "人工智能时代重新定位零售业",
@@ -751,114 +855,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "最先进的流程模型可以根据文本或图像提示生成令人惊叹的图像。然而，当在相同条件下生成多个样本时，它们会遭受多样性崩溃。现有方法通过潜在指导（其有效性有限）或样本选择（依赖于会产生大量推理时间开销的外部奖励模型）来解决此问题。在这项工作中，我们"
-        },
-        {
-            "title": "PhysiFormer：学习模拟世界空间中的力学",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们推出了 PhysiFormer，一种用于物理上合理的 3D 物体运动的扩散变换器。与在依赖于视图的像素空间中运行的视频世界模型不同，PhysiFormer 将对象表示为以世界坐标表示的 3D 网格。给定初始顶点位置和速度，以及物体材料类"
-        },
-        {
-            "title": "自回归玻尔兹曼发生器",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在热力学平衡下对分子系统进行有效采样是统计物理学中的一个标志性挑战。这一挑战推动了玻尔兹曼生成器 (BG) 的发展，它可以通过将生成模型与精确似然和重要性采样校正相结合来快速生成不相关的平衡样本。然而，现代 BG 主要依赖于标准化流（NF）"
-        },
-        {
-            "title": "误差条件神经求解器",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "神经代理模型提供从偏微分方程参数到解决方案的快速近似映射，但它们通常将求解视为纯粹的统计任务：一旦经过训练，它们就很难纠正自己的约束违规并推断出训练分布之外的情况。最近的混合方法通过梯度下降或高斯-牛顿步来瞄准偏微分方程残差，从而提高了物理"
-        },
-        {
-            "title": "使用多语言联合实体关系提取管道绘制欧洲政治精英网络",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "政治精英是否组织成夺取公共资源的寻租联盟或维持治理的公民网络，是比较政治学的一个核心问题。然而，大规模观察这些复杂、非正式和对抗性的关系历来需要大量的手动编码，而自动化的文本数据方法在很大程度上仅限于简单的共现。最近的大语言模型 (LLM)"
-        },
-        {
-            "title": "RayPE：用于 3D 感知视频生成的光线空间位置编码",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "现代视频扩散变压器通过 RoPE 将其标记定位在 (u,v,t) 轴上——这是对摄像机采样网格的描述，但没有提及场景的 3D 结构。我们观察到，两条相机光线之间的几何关系是由 Plucker 倒积捕获的，它在两条光线中是双线性的——与 Tr"
-        },
-        {
-            "title": "了解预算实体匹配中的领域感知分布对齐",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "实体匹配 (EM) 是数据集成管道中的核心操作，其中比较来自不同源的记录以确定它们是否引用相同的现实世界实体。最近的工作结合了领域信息和低资源学习技术，以更好地使 EM 系统适应现实环境。虽然这些方法表现出了强大的性能，但仍不清楚它们在实践"
-        },
-        {
-            "title": "SAM2Matting：通用图像和视频抠图",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "尽管图像抠图方面取得了令人印象深刻的进步，但视频抠图仍然具有挑战性，因为高级跟踪（需要逐帧理解）和低级抠图（专注于极其细粒度的细节）之间存在固有差距。现有的方法尝试使用昂贵且范围狭窄的视频抠图数据集来实现这一点，这可能会限制域外泛化并损害跟"
-        },
-        {
-            "title": "基于语言的数字孪生老年人认知辅助",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "数字孪生已成为个性化医疗保健的一个有前途的范例，可以对个人行为和健康轨迹进行建模。在认知健康方面，轻度认知障碍（MCI）的早期检测仍然具有挑战性，其中语言和对话模式可以作为非侵入性生物标志物。在这项工作中，我们提出了一种基于语言的数字孪生框"
-        },
-        {
-            "title": "RoPEMover：通过位置嵌入进行深度感知对象重定位",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在单个图像中移动对象需要几何一致的空间重新排列，包括处理遮挡、显示以前未见过的区域以及保持连贯的阴影和反射。现有的方法不太适合这种设置，并且通常无法保持这种场景级的一致性。我们通过引入一种几何感知的对象运动方法来解决这个问题，该方法直接对扩"
-        },
-        {
-            "title": "随着联邦调查的继续，特斯拉就 FSD 碰撞诉讼达成和解",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该诉讼与 2023 年发生的一起致命车祸有关，涉及一辆使用该公司先进驾驶员辅助系统（称为“完全自动驾驶”）的车辆。"
-        },
-        {
-            "title": "TikTok 的超级应用之路",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "TikTok 可能正在努力成为人们用于大多数数字活动的应用程序。"
-        },
-        {
-            "title": "为什么从 OpenAI 到 SpaceX 的每个人都在打造自己的芯片（并加大对 Nvidia 的热度）",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Nvidia 多年来一直主导 AI 芯片市场，但完全依赖的时代可能正在结束。” OpenAI 刚刚分享了其与 Broadcom 合作打造的定制推理芯片 Jalapeo 的计划，加入了谷歌、苹果和 SpaceX 的行列，成为越来越多摆脱单一供"
-        },
-        {
-            "title": "俄罗斯黑客是捷豹路虎价值 2.5B 美元的黑客攻击幕后黑手：报告",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "去年针对汽车巨头捷豹路虎的黑客攻击是过去几年中最具破坏性、破坏性和代价最高的黑客攻击之一。"
-        },
-        {
-            "title": "OpenAI 应政府要求限制 GPT-5.6 的推出，表示限制不应成为常态",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 表示：“我们认为这种政府准入流程不应成为长期默认做法。” “它为用户、开发者、企业、网络防御者和需要它们的全球合作伙伴保留了最好的工具。”"
-        },
-        {
-            "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "此次招聘标志着 OpenAI 进军印度的最新举措，扩大了办事处、合作伙伴关系和招聘规模。"
-        },
-        {
-            "title": "诺瓦克·德约科维奇找到了一份新工作——私募股权公司泛大西洋投资集团顾问",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "General Atlantic 聘请网球传奇人物诺瓦克·德约科维奇担任全球战略顾问。"
-        },
-        {
-            "title": "由 Y Combinator 支持的保险科技初创公司 Corgi 表示，它没有窃取开源产品",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "当 Papermark 指控 Corgi 窃取其软件时，Corgi 卷入了争议。柯基犬说没有，这引发了关于振动编码的新问题。"
-        },
-        {
-            "title": "欧洲极端高温导致发电厂关闭",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6 月 23 日，法国迎来了自 1947 年有记录以来最热的一天。"
         }
     ]
 }
