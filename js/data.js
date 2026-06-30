@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-29 02:16:20
+ * 生成时间: 2026-06-30 02:11:02
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Instagram 正在测试更多定制“你的算法”的方法",
-            "summary": "Instagram 用户很快就会看到更多调整内容的方法。",
+            "tag": "重磅 · 应用",
+            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+            "summary": "Cursor 推出了一款新的移动应用程序，用于远程监督编码代理。",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/"
+            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
-            "summary": "并不是所有人都相信埃隆·马斯克对轨道数据中心的愿景。",
+            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
+            "summary": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
+            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
-            "summary": "据报道，负责 Vision Pro 耳机的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。",
+            "title": "TIDAL通过切断货币化来打击人工智能音乐",
+            "summary": "此外，该公司表示，TIDAL 将使用自动化工具来删除人工智能生成的试图冒充艺术家或团体的音乐。",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-            "summary": "人类一次录制，Agent就能模拟",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
+            "summary": "随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人。",
+            "source": "TechCrunch AI",
+            "time": "8小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/06/439393.html"
+            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:16",
-            "text": "Instagram 正在测试更多定制“你的算法”的方法",
+            "time": "02:11",
+            "text": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
             "hot": true,
-            "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/"
+            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
         },
         {
-            "time": "02:16",
-            "text": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+            "time": "02:11",
+            "text": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
+            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
         },
         {
-            "time": "02:16",
-            "text": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+            "time": "02:11",
+            "text": "TIDAL通过切断货币化来打击人工智能音乐",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
         },
         {
-            "time": "02:16",
-            "text": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+            "time": "02:11",
+            "text": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/439393.html"
+            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
         },
         {
-            "time": "02:16",
-            "text": "第一批一人公司，现在怎么样了？",
+            "time": "02:11",
+            "text": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/439237.html"
+            "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
         },
         {
-            "time": "02:16",
-            "text": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+            "time": "02:11",
+            "text": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/439236.html"
+            "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
         },
         {
-            "time": "02:16",
-            "text": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+            "time": "02:11",
+            "text": "人工智能代理不是你的“同事”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/06/439032.html"
+            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
-            "time": "02:16",
-            "text": "作家伊恩·博格斯特说，《小事》可以帮助我们摆脱太多便利，重拾生活",
+            "time": "02:11",
+            "text": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/"
+            "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Instagram 正在测试更多定制“你的算法”的方法",
+                    "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
+                    "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Instagram 用户很快就会看到更多调整内容的方法。..."
+                    "desc": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。..."
                 },
                 {
-                    "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+                    "title": "TIDAL通过切断货币化来打击人工智能音乐",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
+                    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
                 },
                 {
-                    "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+                    "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+                    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
                 },
                 {
-                    "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/439393.html"
+                    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
                 },
                 {
-                    "title": "第一批一人公司，现在怎么样了？",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/06/439237.html"
+                    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】DexCompose：重用灵巧策略以单手操作多任务",
-                    "desc": "灵巧的操纵策略可以解决个人技能问题，但将它们组合成单手执行多项任务仍然具有挑战性。在现有操作技能之上添加新任务通常会对重叠的手指和接触模式提出相互冲突的要求，从而在保留现有操作结果和执行新操作结果之间造成破坏性干扰。我们提出 DexCompose，一个角色感知的残差组合框架，它重用预先训练的灵巧策略...",
+                    "title": "【arXiv】优化 1024 字节以内人脸识别的图像准备和压缩",
+                    "desc": "符合国际民航组织标准的机器可读旅行证件可实现自动生物识别面部验证。生物特征参考以 JPEG 或 JPEG 2000 压缩面部图像的形式存储在 RFID 芯片上。相比之下，临时旅行证件缺乏机器可读性，这使得所有者无法参与此类自动化流程。这个缺点可以通过为此类文档配备二维条形码来解决。该技术为昂贵的 R...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28323v1"
+                    "url": "http://arxiv.org/abs/2606.30321v1"
                 },
                 {
-                    "title": "【arXiv】感知量规：根据人类感知校准多模态评估",
-                    "desc": "我们引入了 PerceptionRubrics，这是一个基于评分标准的评估框架，可解决饱和基准分数与现实世界脆弱性之间的差距。 PerceptionRubrics 将评估从整体语义匹配转变为严格的原子审核，将 1,038 个信息密集的图像与超过 12,000 个特定于实例的评分标准配对。这些标准源自...",
+                    "title": "【arXiv】BrainJanus：跨大脑、视觉和语言理解和生成的统一模型",
+                    "desc": "模拟外部感觉刺激和内部神经活动之间的双向对应关系已成为神经科学的关键前沿。然而，现有的方法主要将大脑编码和解码视为孤立的任务，严重依赖单模态对齐和外部先验，而忽视了大脑作为多模态集成系统的内在本质。为了解决这些限制，我们提出了 BrainJanus，这是第一个集成大脑、v...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28322v1"
+                    "url": "http://arxiv.org/abs/2606.30319v1"
                 },
                 {
-                    "title": "【arXiv】StructSplat：来自未校准稀疏视图的可推广 3D 高斯分布",
-                    "desc": "我们提出了 StructSplat，一种前馈且可推广的 3D 高斯重建框架，可直接对未校准的图像进行操作，无需相机参数。现有方法要么依赖于每个场景的优化，要么假设已知的相机姿势，并且通常将几何和外观纠缠在统一的主干中，限制了重建保真度和泛化。我们的关键思想是采用结构化表示，通过解释来组织几何、语义和...",
+                    "title": "【arXiv】LLM 集成应用程序的 MCP 服务器架构模式",
+                    "desc": "Anthropic 于 2024 年 11 月推出的模型上下文协议 (MCP) 定义了一个标准化接口，用于将大型语言模型 (LLM) 连接到外部工具、数据源和服务。发布后的几个月内，数百个社区构建的 MCP 服务器出现在 GitHub 上，但尚未有软件维护文献描述生态系统在生产中的构建方式。这份行业...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28321v1"
+                    "url": "http://arxiv.org/abs/2606.30317v1"
                 },
                 {
-                    "title": "【arXiv】哪个纳什均衡？零和纳什多胞体的求解器相关选择",
-                    "desc": "许多两人零和博弈承认的不是唯一的纳什均衡，而是它们的凸集：所有共享极小极大值 V* 但规定不同行为的多面体。每个标准求解器都收敛到某种平衡，并且被视为可互换的。我们询问他们是否会系统地选择纳什集中的不同成员，作为算法而不是种子的函数。使用表格、精确可解的六场比赛测试台以及分析已知的纳什集...",
+                    "title": "【arXiv】通过频率引导双路径注意进行实时水下图像增强",
+                    "desc": "实时水下图像增强（UIE）对于移动水下摄影和自主机器人系统至关重要，在这些系统中，实际部署通常需要在计算资源有限的情况下实现低延迟和紧凑模型。最近基于结构重新参数化的超轻量级 CNN 满足了这些限制，但纯粹在空间域中运行，忽略了水下退化的频率敏感性质。为了解决这个问题，我们提出了一个轻量级的 UIE...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28308v1"
+                    "url": "http://arxiv.org/abs/2606.30314v1"
                 },
                 {
-                    "title": "【arXiv】代理硬件设计作为存储库级代码演化",
-                    "desc": "我们提出了 HORIZON，一个自我进化的代理框架，它将硬件设计视为存储库级代码进化。 Markdown 工具被编译成一个项目包，其中包含领域知识、可执行评估器、接受谓词和 git/运行时策略；然后，免提代理循环会发展出一个独立的 git 工作树，使用存储库操作进行状态管理、跟踪和重播。这将之前存储...",
+                    "title": "【arXiv】TRACE：纵向 3D 胶质母细胞瘤反应评估的概念瓶颈模型",
+                    "desc": "纵向胶质母细胞瘤反应评估需要使用 RANO 等结构化临床标准来比较 MRI 时间点上肿瘤的细微变化。然而，大多数深度学习方法直接从成像特征预测反应标签，这限制了临床检查、验证和校正。我们引入 TRACE，这是一种与 RANO 2.0 一致的概念瓶颈模型，用于纵向 3D MRI 上可解释的 4 级胶质...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28279v1"
+                    "url": "http://arxiv.org/abs/2606.30313v1"
                 },
                 {
-                    "title": "【arXiv】使用 Google 论文助理工具实现科学评审自动化",
-                    "desc": "人工智能正在推动科学发现的一场革命，加速从假设生成到数学定理证明的一切。然而，这种快速加速正在带来系统性挑战：传统的人类同行评审无法适应人工智能辅助科学的涌入。最终，为了解决这种紧张局势，我们还必须部署人工智能来加速验证和审查过程本身。为了围绕这一转变进行讨论，我们提出了一个分类法...",
+                    "title": "【arXiv】DialogPII：用于检测个人信息的合成对话记录的多语言数据集",
+                    "desc": "在医疗保健或社会科学等领域收集的对话数据是研究和自动分析的宝贵资源。然而，负责任的数据共享需要检测和删除个人身份信息和敏感信息，以保护个人隐私。为了支持自动去识别系统的开发和评估，我们推出了 DialogPII，这是一个用于个人信息检测的合成对话和语音衍生转录本的多语言数据集。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.28277v1"
+                    "url": "http://arxiv.org/abs/2606.30312v1"
                 }
             ]
         },
@@ -274,43 +274,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
-                    "time": "2天前",
+                    "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+                    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
                 },
                 {
                     "rank": 2,
-                    "title": "印度支付主管认为人工智能将大力参与下一个数字支付增长时代",
-                    "time": "21小时前",
+                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
+                    "time": "3天前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/"
+                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
                 },
                 {
                     "rank": 3,
-                    "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
+                    "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
                     "time": "2026-06-29",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3873476968272902?f=rss"
+                    "url": "https://36kr.com/p/3874015941645570?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-                    "time": "2026-06-27",
+                    "title": "被健康家电「背刺」后，这届年轻人更会买了",
+                    "time": "2026-06-29",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3869740772316162?f=rss"
+                    "url": "https://36kr.com/p/3873786445813001?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+                    "time": "2026-06-29",
                     "emoji": "⚖️",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://36kr.com/p/3873710996902912?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
+                    "emoji": "🎵",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 7,
+                    "title": "通过实时语音问答排练多代理现场产品演示",
+                    "time": "12小时前",
+                    "emoji": "📝",
+                    "url": "http://arxiv.org/abs/2606.30294v1"
                 }
             ]
         },
@@ -320,73 +329,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-                    "time": "2026-06-29",
+                    "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮融资，并出任首席执行官",
+                    "time": "5小时前",
                     "emoji": "🔥",
-                    "url": "https://36kr.com/p/3868055841641476?f=rss"
+                    "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
                 },
                 {
                     "rank": 2,
-                    "title": "中国卖家涌向拉美：高增长与合规门槛齐升丨最前线",
+                    "title": "烧光5000亿后，京东方开始给股民赚钱",
                     "time": "2026-06-29",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3873539789034501?f=rss"
+                    "url": "https://36kr.com/p/3874045136720899?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
-                    "time": "2026-06-28",
+                    "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国",
+                    "time": "2026-06-29",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3867976058803459?f=rss"
+                    "url": "https://36kr.com/p/3873626425332743?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-                    "time": "2026-06-27",
+                    "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+                    "time": "2026-06-29",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3871109381035011?f=rss"
+                    "url": "https://36kr.com/p/3873965241931014?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-                    "time": "2026-06-27",
+                    "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+                    "time": "2026-06-29",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3866946087867394?f=rss"
+                    "url": "https://36kr.com/p/3873902389794053?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "氪星晚报 ｜智元旗下灵巧手估值10亿美元，成立仅5个月首季实现盈利；DeepSeek计划将所有部门规模扩大至少一倍",
-                    "time": "2026-06-26",
+                    "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
+                    "time": "2026-06-29",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3869884559332356?f=rss"
+                    "url": "https://36kr.com/p/3873806295274756?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+                    "time": "2026-06-29",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3873706225751296?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 9,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "📰",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
                     "rank": 10,
-                    "title": "为什么华尔街认为美国内存制造商美光是下一个英伟达",
-                    "time": "11小时前",
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
+                    "time": "2026-01-13",
                     "emoji": "🏢",
-                    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/"
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 }
             ]
         },
@@ -428,75 +437,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+444,793",
-                    "url": "https://github.com/public-apis/public-apis"
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+450,741",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+390,988",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+380,888",
+                    "stars": "+381,026",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+358,551",
+                    "stars": "+358,644",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 4,
-                    "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+237,922",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
                     "rank": 5,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
+                    "name": "vinta/awesome-python",
+                    "desc": "Python 框架、库、工具和资源的固定列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+205,013",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+305,527",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 6,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "适合所有人的开源机器学习框架",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+196,088",
-                    "url": "https://github.com/tensorflow/tensorflow"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+301,912",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 7,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+194,399",
-                    "url": "https://github.com/n8n-io/n8n"
+                    "name": "react/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+246,310",
+                    "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 8,
-                    "name": "ohmyzsh/ohmyzsh",
-                    "desc": "🙃 一个令人愉快的社区驱动（拥有 2,500 多个贡献者）框架，用于管理您的 zsh 配置。包括 300 多个可选插件（rails、git、macOS、hub、docker、homebrew、node、php、python 等）、140 多个主题让您的早晨更加有趣，还有一个自动更新工具，让您可以轻松跟上社区的最新更新。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+188,437",
-                    "url": "https://github.com/ohmyzsh/ohmyzsh"
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+223,523",
+                    "url": "https://github.com/affaan-m/ECC"
                 }
             ]
         }
@@ -505,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Instagram 正在测试更多定制“你的算法”的方法",
+            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/"
+            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/"
+            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+            "title": "TIDAL通过切断货币化来打击人工智能音乐",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/439393.html"
+            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "第一批一人公司，现在怎么样了？",
+            "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/439237.html"
+            "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+            "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/439236.html"
+            "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+            "title": "人工智能代理不是你的“同事”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/06/439032.html"
+            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "作家伊恩·博格斯特说，《小事》可以帮助我们摆脱太多便利，重拾生活",
+            "title": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/"
+            "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "人工智能不足后，福特重新雇用“灰胡子”工程师",
+            "title": "Waymo 和 Uber 在凤凰城悄然分道扬镳",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+            "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "加州针对大声流媒体广告的法律将于 7 月 1 日生效",
+            "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/"
+            "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
         }
     ],
     "aiTools": [
@@ -617,23 +626,23 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "模型",
-            "size": "large"
-        },
-        {
-            "text": "代理",
-            "size": "large"
-        },
-        {
             "text": "人工智能",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "Claude",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "模型",
+            "size": "medium"
+        },
+        {
+            "text": "代理",
             "size": "medium"
         },
         {
@@ -641,27 +650,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
             "text": "AI",
             "size": "small"
         },
         {
-            "text": "Pro",
+            "text": "产品",
             "size": "small"
         },
         {
-            "text": "热浪",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "Vision",
-            "size": "small"
-        },
-        {
-            "text": "IBM",
+            "text": "Sand",
             "size": "small"
         },
         {
@@ -669,98 +670,94 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Salesforce",
+            "text": "MCP",
             "size": "small"
         },
         {
-            "text": "Slackbot",
+            "text": "智能",
+            "size": "small"
+        },
+        {
+            "text": "编码",
+            "size": "small"
+        },
+        {
+            "text": "热浪",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Instagram 正在测试更多定制“你的算法”的方法",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Instagram 用户很快就会看到更多调整内容的方法。"
+            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Cursor 推出了一款新的移动应用程序，用于远程监督编码代理。"
         },
         {
-            "title": "软银首席执行官并不是唯一一位对埃隆·马斯克的轨道数据中心炒作提出质疑的人",
+            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "并不是所有人都相信埃隆·马斯克对轨道数据中心的愿景。"
+            "snippet": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。"
         },
         {
-            "title": "据报道，Apple Vision Pro 高管将前往 OpenAI",
+            "title": "TIDAL通过切断货币化来打击人工智能音乐",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "据报道，负责 Vision Pro 耳机的苹果副总裁 Paul Meade 将离开公司，加入 OpenAI 的硬件团队。"
+            "snippet": "此外，该公司表示，TIDAL 将使用自动化工具来删除人工智能生成的试图冒充艺术家或团体的音乐。"
         },
         {
-            "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
+            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "人类一次录制，Agent就能模拟"
+            "snippet": "随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人。"
         },
         {
-            "title": "第一批一人公司，现在怎么样了？",
+            "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "我们跟一群OPC创业者聊了聊"
+            "snippet": "随着韩国将自己定位为人工智能技术强国，全球最大的两家存储芯片公司誓言要建造更多存储实验室工厂。"
         },
         {
-            "title": "CVPR 2026最热方向，被一家杭州团队率先跑进了端侧！",
+            "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "VLM- R1之后再次出手！全球首个端侧流式多模态来了！"
+            "snippet": "这家初创公司运营着一个颇受欢迎的免费人工智能排行榜，于去年九月推出了其商业服务。"
         },
         {
-            "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "28页干货爆炸"
+            "title": "人工智能代理不是你的“同事”",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。想象一下，你上班时发现有一位新下属将向你汇报。工人不是一个人，而是一个人工智能工具——尽管你的公司称其为亚历克斯，一个“人工智能”工具。"
         },
         {
-            "title": "作家伊恩·博格斯特说，《小事》可以帮助我们摆脱太多便利，重拾生活",
+            "title": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "硅谷一直在建造错误的东西吗？"
+            "snippet": "Kobo 用户现在可以自动将他们的阅读进度同步到 StoryGraph，从而更轻松地跟踪书籍、阅读统计数据和挑战，而无需依赖亚马逊的 Goodreads。"
         },
         {
-            "title": "人工智能不足后，福特重新雇用“灰胡子”工程师",
+            "title": "Waymo 和 Uber 在凤凰城悄然分道扬镳",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "“我们错误地认为，只要引入人工智能……就能生产出高质量的产品。”"
+            "snippet": "优步表示，正准备在该市建立单独的自动驾驶汽车合作伙伴关系，但没有透露合作伙伴的名称。"
         },
         {
-            "title": "加州针对大声流媒体广告的法律将于 7 月 1 日生效",
+            "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮融资，并出任首席执行官",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "风险投资仍然渴望为人工智能编码初创公司提供资金。这家由投资者 Chamath Palihapitiya 创立的公司也不例外。"
+        },
+        {
+            "title": "Gemini 的个性化 AI 图像生成现已免费向美国用户开放",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "流媒体广告可能会变得安静得多。"
+            "snippet": "谷歌正在将 Gemini 的个性化人工智能图像生成扩展到美国符合条件的免费用户，允许聊天机器人根据您的兴趣和来自连接的谷歌应用程序的数据创建图像。"
         },
         {
             "title": "欧洲极端高温导致发电厂关闭",
             "category": "AI研究",
             "tag": "research",
             "snippet": "欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6 月 23 日，法国迎来了自 1947 年有记录以来最热的一天。"
-        },
-        {
-            "title": "下载：介绍工程问题",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题，但我们可以雄心勃勃。我们可以接受挑战，通过人类的聪明才智让世界变得更美好。这就是新的&#8230;"
-        },
-        {
-            "title": "Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "普通感冒对我们所有人来说都是如此——通常每年不止一次。并且没有办法阻止它。您能做的最好的事情就是服用维生素 C，并远离流鼻涕的人。现在，由帕特里克·克里森 (Patrick Collison) 和约翰·克里森 (John Collison)"
-        },
-        {
-            "title": "人工智能网络数据基础设施层的出现",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "人工智能正在蓬勃发展。每天都会出现新的用例。为了充分利用该技术的潜力，企业需要大规模数据。但在许多情况下，相关信息是被屏蔽或非结构化的，这限制了人工智能模型的使用。”要理解这一挑战，请考虑网络本身的基础。网络不是被设计出来的——而是被设计出"
         },
         {
             "title": "人工智能时代重新定位零售业",
@@ -787,18 +784,6 @@ var siteData = {
             "snippet": "IBM 在指甲盖大小的区域上构建了一种新的原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可为未来几年更快、更节能的计算机铺平道路。超过一半的人都知道"
         },
         {
-            "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "把天基计算推进到可验证、可迭代的工程路线"
-        },
-        {
-            "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "一口气端出三款GPT 5.6系列模型"
-        },
-        {
             "title": "下载：烧脑的热浪和前所未有的 OpenAI 限制",
             "category": "AI研究",
             "tag": "research",
@@ -811,52 +796,76 @@ var siteData = {
             "snippet": "本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但我手机上的天气应用程序证实，感觉温度为 39°C。令人恐惧的是，我们在……看到这样的温度。"
         },
         {
-            "title": "DexCompose：重用灵巧策略以单手操作多任务",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "灵巧的操纵策略可以解决个人技能问题，但将它们组合成单手执行多项任务仍然具有挑战性。在现有操作技能之上添加新任务通常会对重叠的手指和接触模式提出相互冲突的要求，从而在保留现有操作结果和执行新操作结果之间造成破坏性干扰。我们提出 DexComp"
+            "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "今日热点导览\n  \n   马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus\n   美的回应空调产品在欧洲被疯抢\n   蔚来回应车漆洗车时被冲掉：高压水枪操作不规范\n   滚石唱片就屠颖去世追责万豪喜"
         },
         {
-            "title": "感知量规：根据人类感知校准多模态评估",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们引入了 PerceptionRubrics，这是一个基于评分标准的评估框架，可解决饱和基准分数与现实世界脆弱性之间的差距。 PerceptionRubrics 将评估从整体语义匹配转变为严格的原子审核，将 1,038 个信息密集的图像与"
+            "title": "烧光5000亿后，京东方开始给股民赚钱",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 范亮\n  编辑 | 张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初"
         },
         {
-            "title": "StructSplat：来自未校准稀疏视图的可推广 3D 高斯分布",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们提出了 StructSplat，一种前馈且可推广的 3D 高斯重建框架，可直接对未校准的图像进行操作，无需相机参数。现有方法要么依赖于每个场景的优化，要么假设已知的相机姿势，并且通常将几何和外观纠缠在统一的主干中，限制了重建保真度和泛化"
+            "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "大公司：\n  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落"
         },
         {
-            "title": "哪个纳什均衡？零和纳什多胞体的求解器相关选择",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "许多两人零和博弈承认的不是唯一的纳什均衡，而是它们的凸集：所有共享极小极大值 V* 但规定不同行为的多面体。每个标准求解器都收敛到某种平衡，并且被视为可互换的。我们询问他们是否会系统地选择纳什集中的不同成员，作为算法而不是种子的函数。使用表"
+            "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者｜黄楠\n  编辑｜袁斯来\n  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，\n  一个不"
         },
         {
-            "title": "代理硬件设计作为存储库级代码演化",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们提出了 HORIZON，一个自我进化的代理框架，它将硬件设计视为存储库级代码进化。 Markdown 工具被编译成一个项目包，其中包含领域知识、可执行评估器、接受谓词和 git/运行时策略；然后，免提代理循环会发展出一个独立的 git "
+            "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "“每一代模型，我们都在押注一个非共识。”\n  文｜邓咏仪\n  编辑｜张雨忻\n  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故"
         },
         {
-            "title": "使用 Google 论文助理工具实现科学评审自动化",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "人工智能正在推动科学发现的一场革命，加速从假设生成到数学定理证明的一切。然而，这种快速加速正在带来系统性挑战：传统的人类同行评审无法适应人工智能辅助科学的涌入。最终，为了解决这种紧张局势，我们还必须部署人工智能来加速验证和审查过程本身。为了"
+            "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业"
         },
         {
-            "title": "通过动态城市拥堵集成进行网络流量预测的参数高效混合变压器 (PEHT)",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "准确的网络流量预测是动态城市蜂窝网络中有效资源分配的关键要素。然而，预测仍然具有挑战性，因为网络需求受到复杂的移动模式、拥塞动态和异构用户行为的影响。本文介绍了参数高效混合变压器（PEHT），这是一种网络流量预测框架，它将城市交通和拥堵信息"
+            "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。\n  宸思科技"
         },
         {
-            "title": "视觉默认，先验覆盖：视觉语言模型中感知知识冲突的因果机制",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "当视觉证据与记忆的世界知识发生冲突时，视觉语言模型必须协调两者。他们如何解决这种冲突决定了多模式系统的可靠性，但之前的工作在没有组件级因果解释的情况下从行为上描述了它。我们将跨三个粒度（残差流、注意力头和 MLP 子层）的激活修补与模型组件"
+            "title": "被健康家电「背刺」后，这届年轻人更会买了",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "那些年，我们交过的“健康”智商税\n  马上就要撞到墙了。\n  王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般"
+        },
+        {
+            "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。\n  本轮融资将主要用于下一代AI可穿戴产品研"
+        },
+        {
+            "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光"
+        },
+        {
+            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
+        },
+        {
+            "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "总部位于旧金山的云平台 Railway 在没有花费一美元营销费用的情况下悄悄聚集了 200 万开发人员。该平台周四宣布，由于人工智能应用程序需求的激增暴露了传统云基础设施的局限性，该平台在 B 轮融资中筹集了 1 亿美元。TQ Ventur"
         }
     ]
 }
