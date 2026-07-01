@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-06-30 02:11:02
+ * 生成时间: 2026-07-01 02:15:47
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
-            "summary": "Cursor 推出了一款新的移动应用程序，用于远程监督编码代理。",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "人工智能代理不是你的“同事”",
+            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。想象一下，你上班时发现有一位新下属将向你汇报。工人不是一个人，而是一个人工智能工具——尽管你的公",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
-            "summary": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "行业 · 动态",
+            "title": "代理商对技术前沿的信心",
+            "summary": "企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点年”。随着证明投资回报率的压力越来越大，高管和技术领导者正在寻求代理人工智能来推",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "TIDAL通过切断货币化来打击人工智能音乐",
-            "summary": "此外，该公司表示，TIDAL 将使用自动化工具来删除人工智能生成的试图冒充艺术家或团体的音乐。",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "下载：指标弱点和人工智能大象警告",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。指标不可避免的弱点指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。就像很多被咬伤的人一样……",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
-            "summary": "随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人。",
+            "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
+            "summary": "Wayve 的产品是人工智能初创公司使用员工招标作为吸引和留住人才的战略工具的日益增长趋势的一部分。",
             "source": "TechCrunch AI",
-            "time": "8小时前",
+            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+            "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:11",
-            "text": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
-            "hot": true,
-            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
-        },
-        {
-            "time": "02:11",
-            "text": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
-        },
-        {
-            "time": "02:11",
-            "text": "TIDAL通过切断货币化来打击人工智能音乐",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
-        },
-        {
-            "time": "02:11",
-            "text": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
-        },
-        {
-            "time": "02:11",
-            "text": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
-        },
-        {
-            "time": "02:11",
-            "text": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
-        },
-        {
-            "time": "02:11",
+            "time": "02:15",
             "text": "人工智能代理不是你的“同事”",
-            "hot": false,
+            "hot": true,
             "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
-            "time": "02:11",
-            "text": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
+            "time": "02:15",
+            "text": "代理商对技术前沿的信心",
             "hot": false,
-            "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+        },
+        {
+            "time": "02:15",
+            "text": "下载：指标弱点和人工智能大象警告",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+        },
+        {
+            "time": "02:15",
+            "text": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
+        },
+        {
+            "time": "02:15",
+            "text": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+            "hot": false,
+            "url": "https://www.qbitai.com/2026/07/441001.html"
+        },
+        {
+            "time": "02:15",
+            "text": "Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
+        },
+        {
+            "time": "02:15",
+            "text": "Anthropic 推出 Claude Sonnet 5 作为运行代理的更便宜的方式",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
+        },
+        {
+            "time": "02:15",
+            "text": "Acti 将人工智能代理直接放入您的智能手机键盘中",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "代理商对技术前沿的信心",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/",
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。..."
+                    "desc": "企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点年”。随着证明投资回报率的压力越来越大，高管和技术领导者正在寻求代理人工智能来推动他们的企业寻求可衡量的财务成果。人工智..."
                 },
                 {
-                    "title": "TIDAL通过切断货币化来打击人工智能音乐",
+                    "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "刚刚",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+                    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
                 },
                 {
-                    "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+                    "source": "量子位",
+                    "time": "刚刚",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+                    "url": "https://www.qbitai.com/2026/07/441001.html"
                 },
                 {
-                    "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
+                    "title": "Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元",
                     "source": "TechCrunch AI",
                     "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
+                    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
                 },
                 {
-                    "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
+                    "title": "Anthropic 推出 Claude Sonnet 5 作为运行代理的更便宜的方式",
                     "source": "TechCrunch AI",
                     "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
+                    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】优化 1024 字节以内人脸识别的图像准备和压缩",
-                    "desc": "符合国际民航组织标准的机器可读旅行证件可实现自动生物识别面部验证。生物特征参考以 JPEG 或 JPEG 2000 压缩面部图像的形式存储在 RFID 芯片上。相比之下，临时旅行证件缺乏机器可读性，这使得所有者无法参与此类自动化流程。这个缺点可以通过为此类文档配备二维条形码来解决。该技术为昂贵的 R...",
+                    "title": "【arXiv】FaceMoE：低分辨率人脸识别专家的组合",
+                    "desc": "由于特征提取和聚合不佳，低分辨率人脸识别（LR-FR）仍然是一项具有挑战性的任务，因为探测图像通常包含由于模糊、遮挡和低对比度等极端退化而导致的有限身份信息。此外，高分辨率（HR）图库图像和低分辨率（LR）探测图像之间的域差距构成了重大挑战。当在 LR 上进行微调时，单个特征编码器很难有效地跨两个域...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30321v1"
+                    "url": "http://arxiv.org/abs/2606.32040v1"
                 },
                 {
-                    "title": "【arXiv】BrainJanus：跨大脑、视觉和语言理解和生成的统一模型",
-                    "desc": "模拟外部感觉刺激和内部神经活动之间的双向对应关系已成为神经科学的关键前沿。然而，现有的方法主要将大脑编码和解码视为孤立的任务，严重依赖单模态对齐和外部先验，而忽视了大脑作为多模态集成系统的内在本质。为了解决这些限制，我们提出了 BrainJanus，这是第一个集成大脑、v...",
+                    "title": "【arXiv】GEAR：用于图像合成的引导式端到端自动回归",
+                    "desc": "视觉生成模型通常分两个阶段进行训练。首先训练分词器进行重建，然后冻结，然后对生成器进行离散索引或连续潜在变量的训练。这种解耦使得分词器不知道生成器发现什么容易建模。我们提出了 GEAR（引导式端到端自动回归），它在表示对齐的指导下联合端到端地训练矢量量化 (VQ) 分词器和自回归 (AR) 生成器。...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30319v1"
+                    "url": "http://arxiv.org/abs/2606.32039v1"
                 },
                 {
-                    "title": "【arXiv】LLM 集成应用程序的 MCP 服务器架构模式",
-                    "desc": "Anthropic 于 2024 年 11 月推出的模型上下文协议 (MCP) 定义了一个标准化接口，用于将大型语言模型 (LLM) 连接到外部工具、数据源和服务。发布后的几个月内，数百个社区构建的 MCP 服务器出现在 GitHub 上，但尚未有软件维护文献描述生态系统在生产中的构建方式。这份行业...",
+                    "title": "【arXiv】内省耦合：自我解释训练跟踪行为变化，尽管有固定的监督",
+                    "desc": "训练语言模型（LM）来生成对其预测的解释何时会产生忠实的内省，而不是肤浅的模仿？我们研究了经过训练的语言模型，以解释输入的哪些特征影响了他们的行为，使用模型对修改输入的反事实行为作为监督。令人惊讶的是，我们发现 LM 接受了来自自身早期检查点的固定反事实解释的训练，甚至来自不同家族中行为相似的模型...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30317v1"
+                    "url": "http://arxiv.org/abs/2606.32038v1"
                 },
                 {
-                    "title": "【arXiv】通过频率引导双路径注意进行实时水下图像增强",
-                    "desc": "实时水下图像增强（UIE）对于移动水下摄影和自主机器人系统至关重要，在这些系统中，实际部署通常需要在计算资源有限的情况下实现低延迟和紧凑模型。最近基于结构重新参数化的超轻量级 CNN 满足了这些限制，但纯粹在空间域中运行，忽略了水下退化的频率敏感性质。为了解决这个问题，我们提出了一个轻量级的 UIE...",
+                    "title": "【arXiv】PointSplat：通过以人为中心的预测进行紧凑高斯分布",
+                    "desc": "从动态输入视图生成 3D 人体表征对于沉浸式直播系统至关重要，在有限的计算能力和传输带宽的情况下，表征紧凑性与高保真度同样重要。尽管最近的前馈重建方法通过以视图为中心的 3D 表示预测实现了令人印象深刻的质量，但它们在多个视图中重复编码相同的主题内容，导致显着的视图间冗余。我们的...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30314v1"
+                    "url": "http://arxiv.org/abs/2606.32036v1"
                 },
                 {
-                    "title": "【arXiv】TRACE：纵向 3D 胶质母细胞瘤反应评估的概念瓶颈模型",
-                    "desc": "纵向胶质母细胞瘤反应评估需要使用 RANO 等结构化临床标准来比较 MRI 时间点上肿瘤的细微变化。然而，大多数深度学习方法直接从成像特征预测反应标签，这限制了临床检查、验证和校正。我们引入 TRACE，这是一种与 RANO 2.0 一致的概念瓶颈模型，用于纵向 3D MRI 上可解释的 4 级胶质...",
+                    "title": "【arXiv】QVal：低成本评估长期 LLM 代理人的密集监督信号",
+                    "desc": "LLM 代理越来越多地在长视野中行动，其中单个轨迹可以包含数百或数千个行动。在这些设置中，仅结果奖励提供的指导过于稀疏，无法告知模型中间行动的优点。密集监督方法旨在通过对中间步骤进行评分来解决这个问题，从内在信心到自我蒸馏和嵌入相似性。然而，通常的做法是通过测量下游性能来评估它们...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30313v1"
+                    "url": "http://arxiv.org/abs/2606.32034v1"
                 },
                 {
-                    "title": "【arXiv】DialogPII：用于检测个人信息的合成对话记录的多语言数据集",
-                    "desc": "在医疗保健或社会科学等领域收集的对话数据是研究和自动分析的宝贵资源。然而，负责任的数据共享需要检测和删除个人身份信息和敏感信息，以保护个人隐私。为了支持自动去识别系统的开发和评估，我们推出了 DialogPII，这是一个用于个人信息检测的合成对话和语音衍生转录本的多语言数据集。...",
+                    "title": "【arXiv】SpheRoPE：使用球形 RoPE 生成零样本免优化 360 度全景图",
+                    "desc": "我们提出了一个零样本、免训练和免优化的框架，通过直接将球形先验注入到预先训练的扩散变换器中来生成 360 度全景图像和视频。现有方法要么依赖于对限制泛化的稀缺全景数据进行成本高昂的微调，要么利用导致推理延迟过高的多步优化。我们观察到，当代的生成模型本身就展示了大规模训练的一些全景先验。然而...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2606.30312v1"
+                    "url": "http://arxiv.org/abs/2606.32033v1"
                 }
             ]
         },
@@ -274,38 +274,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
-                    "time": "9小时前",
+                    "title": "Acti 将人工智能代理直接放入您的智能手机键盘中",
+                    "time": "8小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
+                    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
                 },
                 {
                     "rank": 2,
-                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
-                    "time": "3天前",
+                    "title": "Clicks 在新的上手视频中展示了其受黑莓启发的手机",
+                    "time": "7小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+                    "url": "https://techcrunch.com/2026/06/30/clicks-shows-off-its-blackberry-inspired-phone-in-a-new-hands-on-video/"
                 },
                 {
                     "rank": 3,
-                    "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
-                    "time": "2026-06-29",
+                    "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
+                    "time": "4天前",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3874015941645570?f=rss"
+                    "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
                 },
                 {
                     "rank": 4,
-                    "title": "被健康家电「背刺」后，这届年轻人更会买了",
-                    "time": "2026-06-29",
+                    "title": "赤子城独家投资：4人创业团队「MobAI」，推出AI互动平台「Lunaverse Stories」 | 36氪首发",
+                    "time": "2026-07-01",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3873786445813001?f=rss"
+                    "url": "https://36kr.com/p/3875622047805447?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
-                    "time": "2026-06-29",
+                    "title": "科氪 | 小尺寸大满足！全球首款水冷RGB平板发布，185HzOLED屏幕+PC模拟器平板秒变台式主机",
+                    "time": "2026-06-30",
                     "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3873710996902912?f=rss"
+                    "url": "https://36kr.com/p/3875513946206216?f=rss"
                 },
                 {
                     "rank": 6,
@@ -316,10 +316,10 @@ var siteData = {
                 },
                 {
                     "rank": 7,
-                    "title": "通过实时语音问答排练多代理现场产品演示",
-                    "time": "12小时前",
+                    "title": "中国信通院发布AI Infra运维领域首个评测基准",
+                    "time": "18小时前",
                     "emoji": "📝",
-                    "url": "http://arxiv.org/abs/2606.30294v1"
+                    "url": "https://www.qbitai.com/2026/06/440454.html"
                 }
             ]
         },
@@ -329,52 +329,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮融资，并出任首席执行官",
-                    "time": "5小时前",
+                    "title": "代理商对技术前沿的信心",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
+                    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
                 },
                 {
                     "rank": 2,
-                    "title": "烧光5000亿后，京东方开始给股民赚钱",
-                    "time": "2026-06-29",
+                    "title": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+                    "time": "2026-07-01",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3874045136720899?f=rss"
+                    "url": "https://36kr.com/p/3867992509125636?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国",
-                    "time": "2026-06-29",
+                    "title": "苏大教授创业做机器人触觉系统，获松禾资本千万级天使轮融资｜硬氪首发",
+                    "time": "2026-07-01",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3873626425332743?f=rss"
+                    "url": "https://36kr.com/p/3874358072710407?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
-                    "time": "2026-06-29",
+                    "title": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+                    "time": "2026-07-01",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3873965241931014?f=rss"
+                    "url": "https://36kr.com/p/3876318522077442?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
-                    "time": "2026-06-29",
+                    "title": "氪星晚报｜Kimi估值升至315亿美元，ARR突破3亿美元；优艾智合具身智能系列新品全球首发，3年赋能10000个工业现场；国家航天局：我国",
+                    "time": "2026-06-30",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3873902389794053?f=rss"
+                    "url": "https://36kr.com/p/3873626697470985?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
-                    "time": "2026-06-29",
+                    "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+                    "time": "2026-06-30",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3873806295274756?f=rss"
+                    "url": "https://36kr.com/p/3875120747942913?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
-                    "time": "2026-06-29",
+                    "title": "36氪首发｜前百度自动驾驶与机器人实验室主任创业，天使轮融资数千万，做机器人“世界通行模型”",
+                    "time": "2026-06-30",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3873706225751296?f=rss"
+                    "url": "https://36kr.com/p/3875059110221064?f=rss"
                 },
                 {
                     "rank": 8,
@@ -437,75 +437,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "sindresorhus/awesome",
+                    "desc": "😎 关于各种有趣主题的精彩列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+480,264",
+                    "url": "https://github.com/sindresorhus/awesome"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+450,741",
+                    "stars": "+450,680",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+445,407",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 4,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": "：书籍：免费提供的编程书籍",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+390,988",
+                    "stars": "+391,043",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 3,
+                    "rank": 5,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+381,026",
+                    "stars": "+381,186",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 6,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+358,644",
+                    "stars": "+358,740",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
-                    "name": "vinta/awesome-python",
-                    "desc": "Python 框架、库、工具和资源的固定列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+305,527",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 6,
+                    "rank": 7,
                     "name": "awesome-selfhosted/awesome-selfhosted",
                     "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+301,912",
+                    "stars": "+302,082",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,310",
+                    "stars": "+246,119",
                     "url": "https://github.com/react/react"
-                },
-                {
-                    "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+223,523",
-                    "url": "https://github.com/affaan-m/ECC"
                 }
             ]
         }
@@ -514,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
+            "title": "人工智能代理不是你的“同事”",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
+            "title": "代理商对技术前沿的信心",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "TIDAL通过切断货币化来打击人工智能音乐",
+            "title": "下载：指标弱点和人工智能大象警告",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+            "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
+            "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/"
+            "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
+            "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/"
+            "url": "https://www.qbitai.com/2026/07/441001.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
+            "title": "Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/"
+            "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "人工智能代理不是你的“同事”",
+            "title": "Anthropic 推出 Claude Sonnet 5 作为运行代理的更便宜的方式",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
+            "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
+            "title": "Acti 将人工智能代理直接放入您的智能手机键盘中",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/"
+            "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Waymo 和 Uber 在凤凰城悄然分道扬镳",
+            "title": "圆桌会议：长寿的下一个前沿：“重新编程”你的身体",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/"
+            "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮",
+            "title": "FaceMoE：低分辨率人脸识别专家的组合",
             "heat": "",
-            "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
+            "url": "http://arxiv.org/abs/2606.32040v1"
         }
     ],
     "aiTools": [
@@ -626,15 +626,15 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "人工智能",
-            "size": "large"
-        },
-        {
             "text": "Claude",
             "size": "large"
         },
         {
-            "text": "Anthropic",
+            "text": "人工智能",
+            "size": "large"
+        },
+        {
+            "text": "AI",
             "size": "medium"
         },
         {
@@ -642,19 +642,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "代理",
+            "text": "Code",
             "size": "medium"
         },
         {
-            "text": "Code",
+            "text": "Anthropic",
             "size": "small"
         },
         {
-            "text": "AI",
+            "text": "代理",
             "size": "small"
         },
         {
-            "text": "产品",
+            "text": "机器人",
             "size": "small"
         },
         {
@@ -662,67 +662,31 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Sand",
+            "text": "Science",
             "size": "small"
         },
         {
-            "text": "Ventures",
+            "text": "Pro",
             "size": "small"
         },
         {
-            "text": "MCP",
+            "text": "产品",
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "Nvidia",
             "size": "small"
         },
         {
-            "text": "编码",
+            "text": "LR",
             "size": "small"
         },
         {
-            "text": "热浪",
+            "text": "中心",
             "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "Cursor 现在有一个移动应用程序，可以随时随地指导您的编码代理",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Cursor 推出了一款新的移动应用程序，用于远程监督编码代理。"
-        },
-        {
-            "title": "特朗普政府以繁文缛节威胁92吉瓦的新电力供应",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "特朗普政府的举措威胁到价值 1210 亿美元的新增太阳能和风能，这两种能源是美国新增产能的最大贡献者。"
-        },
-        {
-            "title": "TIDAL通过切断货币化来打击人工智能音乐",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "此外，该公司表示，TIDAL 将使用自动化工具来删除人工智能生成的试图冒充艺术家或团体的音乐。"
-        },
-        {
-            "title": "Anthropic 与州长 Newsom 达成协议，允许加州政府半价使用 Claude",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "随着 Anthropic 与加利福尼亚州建立更密切的关系，联邦政府已经将 OpenAI 竞争对手视为敌人。"
-        },
-        {
-            "title": "韩国科技巨头承诺投入超过 550B 美元来缓解“RAMgeddon”问题",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "随着韩国将自己定位为人工智能技术强国，全球最大的两家存储芯片公司誓言要建造更多存储实验室工厂。"
-        },
-        {
-            "title": "Arena，每个人都使用的人工智能排行榜，现在是一个价值 1 亿美元的业务",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这家初创公司运营着一个颇受欢迎的免费人工智能排行榜，于去年九月推出了其商业服务。"
-        },
         {
             "title": "人工智能代理不是你的“同事”",
             "category": "AI研究",
@@ -730,142 +694,178 @@ var siteData = {
             "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。想象一下，你上班时发现有一位新下属将向你汇报。工人不是一个人，而是一个人工智能工具——尽管你的公司称其为亚历克斯，一个“人工智能”工具。"
         },
         {
-            "title": "亚马逊要小心了：Kobo 电子书阅读器现在有了 Goodreads 的竞争对手",
+            "title": "代理商对技术前沿的信心",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "企业对人工智能的投资正在蓬勃发展。 Gartner 称 2026 年是组织将其人工智能项目与战略业务目标结合起来的“拐点年”。随着证明投资回报率的压力越来越大，高管和技术领导者正在寻求代理人工智能来推动他们的企业寻求可衡量的财务成果。人工智"
+        },
+        {
+            "title": "下载：指标弱点和人工智能大象警告",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。指标不可避免的弱点指标可以揭示很多有用的东西。它甚至可以掩盖或破坏更多的内容。就像很多被咬伤的人一样……"
+        },
+        {
+            "title": "Wayve 以 $8.5B 估值推出 8500 万美元员工收购要约",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Kobo 用户现在可以自动将他们的阅读进度同步到 StoryGraph，从而更轻松地跟踪书籍、阅读统计数据和挑战，而无需依赖亚马逊的 Goodreads。"
+            "snippet": "Wayve 的产品是人工智能初创公司使用员工招标作为吸引和留住人才的战略工具的日益增长趋势的一部分。"
         },
         {
-            "title": "Waymo 和 Uber 在凤凰城悄然分道扬镳",
+            "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "优步表示，正准备在该市建立单独的自动驾驶汽车合作伙伴关系，但没有透露合作伙伴的名称。"
+            "snippet": "“性价比模型”价格明降暗涨"
         },
         {
-            "title": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮融资，并出任首席执行官",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "风险投资仍然渴望为人工智能编码初创公司提供资金。这家由投资者 Chamath Palihapitiya 创立的公司也不例外。"
-        },
-        {
-            "title": "Gemini 的个性化 AI 图像生成现已免费向美国用户开放",
+            "title": "Nvidia 竞争对手 Etched 估值达到 50 亿美元，AI 芯片销售额达到 10 亿美元",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "谷歌正在将 Gemini 的个性化人工智能图像生成扩展到美国符合条件的免费用户，允许聊天机器人根据您的兴趣和来自连接的谷歌应用程序的数据创建图像。"
+            "snippet": "Nvidia AI 芯片竞争对手 Etched 表示，它已经根据合同预订了 10 亿美元，用于由其芯片驱动的推理系统。"
         },
         {
-            "title": "欧洲极端高温导致发电厂关闭",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6 月 23 日，法国迎来了自 1947 年有记录以来最热的一天。"
-        },
-        {
-            "title": "人工智能时代重新定位零售业",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购物助理，而是幕后决策的方式：产品如何在搜索结果中出现、库存如何在供应链中移动、工程师如何更快地交付代码以及……"
-        },
-        {
-            "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。欧洲的极端高温正在关闭发电厂欧洲正处于破纪录的热浪之中，随着人们转向“电力”，电网正面临极限。"
-        },
-        {
-            "title": "欧洲热浪对电网意味着什么",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本周欧洲热浪的头条新闻让人难以忘怀。整个非洲大陆的气温正在打破记录，天气正在威胁生命，导致学校停课，在一个特别具有讽刺意味的案例中，迫使伦敦气候行动周有关极端高温的活动被取消。  随着夏季的临近——"
-        },
-        {
-            "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "IBM 在指甲盖大小的区域上构建了一种新的原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可为未来几年更快、更节能的计算机铺平道路。超过一半的人都知道"
-        },
-        {
-            "title": "下载：烧脑的热浪和前所未有的 OpenAI 限制",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。热浪扰乱你的大脑。科学家们正在试图找出原因。 —Jessica Hamzelou 本周伦敦很热。真的很热。危险的热浪袭击了西部地区。"
-        },
-        {
-            "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "本周伦敦天气很热。真的很热。危险的热浪袭击了西欧。昨天，英国录得 36.1 °C（约 97 °F）的 6 月最高气温。但我手机上的天气应用程序证实，感觉温度为 39°C。令人恐惧的是，我们在……看到这样的温度。"
-        },
-        {
-            "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
+            "title": "Anthropic 推出 Claude Sonnet 5 作为运行代理的更便宜的方式",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "今日热点导览\n  \n   马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus\n   美的回应空调产品在欧洲被疯抢\n   蔚来回应车漆洗车时被冲掉：高压水枪操作不规范\n   滚石唱片就屠颖去世追责万豪喜"
+            "snippet": "Anthropic 的 Claude Sonnet 5 带来了更强的代理能力、更低的价格和更高的安全性，将该模型定位为 Opus、GPT-5.5 和 Gemini Pro 的更便宜的替代品。"
         },
         {
-            "title": "烧光5000亿后，京东方开始给股民赚钱",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 范亮\n  编辑 | 张帆\n  很长一段时间里，京东方都是A股“散户大本营”的榜首。2026年一季度，这个位置被紫金矿业和东方财富取代，但京东方仍拥有超过100万名股东。\n  人气足够高，股价却长期止步不前。2001年京东方上市之初"
-        },
-        {
-            "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "大公司：\n  蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n  36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落"
-        },
-        {
-            "title": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+            "title": "Acti 将人工智能代理直接放入您的智能手机键盘中",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "作者｜黄楠\n  编辑｜袁斯来\n  近日，奥感微（广州）科技公司旗下的情感陪伴品牌Moxy摸喜在深圳发布首款AI陪伴机器人产品。该产品以“无对话、无摄像头、纯触觉交互”为核心特色，将离电型柔性传感技术首次完整应用于消费级陪伴产品，\n  一个不"
+            "snippet": "Acti 押注智能手机键盘将成为人工智能助手的下一个家。该初创公司适用于 iOS 和 Android 的新键盘可跨应用程序运行，并允许用户使用自然语言创建自定义的人工智能快捷键。"
         },
         {
-            "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "“每一代模型，我们都在押注一个非共识。”\n  文｜邓咏仪\n  编辑｜张雨忻\n  Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n  Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故"
+            "title": "圆桌会议：长寿的下一个前沿：“重新编程”你的身体",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "收听会议或观看下面的视频，科学家们正在探索使细胞恢复年轻状态的方法，数十亿美元正在投入到逆转衰老的努力中。但这些实验性疗法离我们还有多远呢？它们真的会起作用吗？观看一段探讨长寿新焦点的对话。演讲者：科学编辑玛丽·贝丝·格里格斯和杰西卡·格里"
         },
         {
-            "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n  其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业"
+            "title": "FaceMoE：低分辨率人脸识别专家的组合",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "由于特征提取和聚合不佳，低分辨率人脸识别（LR-FR）仍然是一项具有挑战性的任务，因为探测图像通常包含由于模糊、遮挡和低对比度等极端退化而导致的有限身份信息。此外，高分辨率（HR）图库图像和低分辨率（LR）探测图像之间的域差距构成了重大挑战"
         },
         {
-            "title": "36氪首发 | 海思、中兴团队创业，领域顶尖科学家加持，数字相控阵芯片厂商获厦门投资",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，广州宸思通讯科技有限公司（以下简称“宸思科技”）近日完成新一轮融资，由厦门高新投独家投资。本轮资金将主要用于核心技术研发和产品储备，加速数字相控阵芯片及模组产品的迭代升级。\n  宸思科技"
+            "title": "GEAR：用于图像合成的引导式端到端自动回归",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "视觉生成模型通常分两个阶段进行训练。首先训练分词器进行重建，然后冻结，然后对生成器进行离散索引或连续潜在变量的训练。这种解耦使得分词器不知道生成器发现什么容易建模。我们提出了 GEAR（引导式端到端自动回归），它在表示对齐的指导下联合端到端"
         },
         {
-            "title": "被健康家电「背刺」后，这届年轻人更会买了",
+            "title": "内省耦合：自我解释训练跟踪行为变化，尽管有固定的监督",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "训练语言模型（LM）来生成对其预测的解释何时会产生忠实的内省，而不是肤浅的模仿？我们研究了经过训练的语言模型，以解释输入的哪些特征影响了他们的行为，使用模型对修改输入的反事实行为作为监督。令人惊讶的是，我们发现 LM 接受了来自自身早期检查"
+        },
+        {
+            "title": "PointSplat：通过以人为中心的预测进行紧凑高斯分布",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "从动态输入视图生成 3D 人体表征对于沉浸式直播系统至关重要，在有限的计算能力和传输带宽的情况下，表征紧凑性与高保真度同样重要。尽管最近的前馈重建方法通过以视图为中心的 3D 表示预测实现了令人印象深刻的质量，但它们在多个视图中重复编码相同"
+        },
+        {
+            "title": "QVal：低成本评估长期 LLM 代理人的密集监督信号",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM 代理越来越多地在长视野中行动，其中单个轨迹可以包含数百或数千个行动。在这些设置中，仅结果奖励提供的指导过于稀疏，无法告知模型中间行动的优点。密集监督方法旨在通过对中间步骤进行评分来解决这个问题，从内在信心到自我蒸馏和嵌入相似性。然而"
+        },
+        {
+            "title": "SpheRoPE：使用球形 RoPE 生成零样本免优化 360 度全景图",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们提出了一个零样本、免训练和免优化的框架，通过直接将球形先验注入到预先训练的扩散变换器中来生成 360 度全景图像和视频。现有方法要么依赖于对限制泛化的稀缺全景数据进行成本高昂的微调，要么利用导致推理延迟过高的多步优化。我们观察到，当代的"
+        },
+        {
+            "title": "具有元认知反馈的强化学习在法学硕士中引发了忠实的不确定性表达",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "元认知是智力的一个重要组成部分，它描述了监控和调节自身认知过程的能力。然而，法学硕士在关键元认知能力方面表现出系统性缺陷：他们高度自信地产生幻觉，无法识别知识边界，并歪曲其内部不确定性，从而破坏了可信度和可靠性。由于监控任务绩效并相应地调整"
+        },
+        {
+            "title": "当法学硕士不小心读表时：测量和减少数据引用错误",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "虽然大型语言模型 (LLM) 在表任务上表现良好，但它们仍然会出现数据引用错误 (DRE)，即，尽管了解表结构，但错误地引用或省略表值。除了最终答案的准确性之外，DRE 还直接损害中间推理步骤的正确性和可靠性。然而之前的研究只提供了有限的小"
+        },
+        {
+            "title": "机器人操作的自由形式偏好学习",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "奖励设计仍然是自主机器人策略改进的核心瓶颈，特别是在长期操纵任务中，稀疏的成功标签提供的信号太少，而二元偏好将许多相互竞争的质量概念分解为一个模糊的信号。我们引入自由形式偏好学习（FPL），这是一种根据自由形式的人类偏好来学习机器人策略的方"
+        },
+        {
+            "title": "AdaJEPA：自适应潜在世界模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "潜在世界模型可以通过预测紧凑潜在空间中的未来状态来根据高维观察进行规划。然而，这些模型通常在测试时保持冻结状态：当它们的预测变得不准确时，规划可能会失败，特别是在测试时分布变化的情况下。为了解决这个问题，我们提出了 AdaJEPA，这是一种"
+        },
+        {
+            "title": "LLM 代理人的生成技能构成",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "最近的法学硕士代理人受益于解决复杂任务的技能。技能封装了用于执行专门任务的程序知识和指令的模块化包，例如设置沙盒环境、运行测试套件或跨多个文件重构函数。随着技能库不断增长并可跨任务和领域重用，选择合适的技能组合已成为一个中心瓶颈。现有的方法"
+        },
+        {
+            "title": "FLORA：一种从异构 LiDAR 数据预测森林属性的深度学习方法",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "森林属性对于国家规模的资源监测至关重要。机载 LiDAR 指标是与国家森林清查 (NFI) 估算中使用的森林属性最密切相关的辅助变量之一。然而，当在异构条件下获取 LiDAR 数据时，生成全面的预测仍然具有挑战性。随着国家激光雷达项目在欧洲"
+        },
+        {
+            "title": "SemRF：语言模型中残余流动力学的语义参考框架",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "残差流分析询问语言模型计算如何跨深度演变，但中间解码需要跨层的可比较的读出坐标。如果嵌入锚点和非嵌入读数在所选跨度上不一致，则表观运动可能反映测量漂移而不是计算。我们引入\\emph{语义参考框架}（SemRF），一种基于锚的形式主义，将语义"
+        },
+        {
+            "title": "跨空间蒸馏：与现代扩散教师一起教学一步学生",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "现代一步扩散模型通过基于分布的时间步长蒸馏实现了令人印象深刻的质量。然而，他们依赖于一个关键的假设：教师和学生必须居住在同一个潜在空间中。这种共享空间约束阻止知识从现代高容量教师（例如 SD 3.5 和 Flux）转移到紧凑、易于部署的学生"
+        },
+        {
+            "title": "自动背景交换可实现针对虚假背景的鲁棒性",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "基于深度神经网络的分类器在跨领域表现出强大的性能，但如果它们依赖于虚假相关性，即可以预测训练数据中的目标标签但没有因果关系并因此无法泛化的特征，则可能会发生灾难性的失败。对于视觉领域，许多此类虚假相关性在图像的背景中显现出来，其中只有前景可"
+        },
+        {
+            "title": "Realta Fusion 直接通过聚变反应发电，这显然是首创",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Realta Fusion 联合创始人兼首席执行官 Kieran Furlong 告诉 TechCrunch：“我们可以从等离子体中获取能量。”他补充说，这一里程碑表明“一切皆有可能”。"
+        },
+        {
+            "title": "谷歌推出了更快、更便宜的图像生成器 Nano Banana 2 Lite",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谷歌正在更新其图像生成器，使其更快、更便宜，使其成为希望制作人工智能内容的创作者更有用的工具。"
+        },
+        {
+            "title": "Clicks 在新的上手视频中展示了其受黑莓启发的手机",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "那些年，我们交过的“健康”智商税\n  马上就要撞到墙了。\n  王焱的大脑还没反应过来，身体已经感觉到了一股推背感。在试驾这辆主打“智能”与“安全”的新能源汽车时，他不小心把油门当成了刹车，一脚踩了下去，等他意识到的时候，车子正在像头野兽一般"
+            "snippet": "一段新视频展示了即将推出的 Clicks Communicator 的最终生产版本，这是一款运行现代应用程序的类似黑莓的智能手机。"
         },
         {
-            "title": "36氪首发 | URTOPIA联创做了款智能指环，众筹已破千万元",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  近日，AI可穿戴品牌AIVELA宣布完成数百万美元首轮融资。本轮融资由线性资本领投，锋领资本跟投，智能电助力自行车品牌URTOPIA等产业方共同加注。\n  本轮融资将主要用于下一代AI可穿戴产品研"
+            "title": "打造扑克人工智能的 DeepMind 三人组现在正在为量化对冲基金赚钱",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "EquiLibre Technologies 是一家总部位于布拉格的人工智能实验室，由三名前 DeepMind 研究人员创立，目前估值超过 5 亿美元。"
         },
         {
-            "title": "36氪首发 | Ebike公司获Brizan Ventures、高秉强参与超数亿融资，要进军外骨骼市场",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作者 | 张子怡\n  编辑 | 袁斯来\n  硬氪获悉，全球智能电助力自行车品牌「URTOPIA」近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光"
+            "title": "OpenClaw 终于在 Android 和 iOS 上可用",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "免费的开源代理程序终于入侵你的手机了。"
         },
         {
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
-        },
-        {
-            "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "总部位于旧金山的云平台 Railway 在没有花费一美元营销费用的情况下悄悄聚集了 200 万开发人员。该平台周四宣布，由于人工智能应用程序需求的激增暴露了传统云基础设施的局限性，该平台在 B 轮融资中筹集了 1 亿美元。TQ Ventur"
+            "title": "Claude Science 是 Anthropic 的最新旗舰产品",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在周二为制药公司高管、生物技术创始人和研究人员举办的活动中，Anthropic 宣布推出 Claude Science，这是一款重要的新产品，旨在支持科学研究，就像 Claude Code 支持软件工程一样。与 Claude Code 一样"
         }
     ]
 }
