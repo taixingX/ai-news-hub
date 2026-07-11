@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-10 01:50:08
+ * 生成时间: 2026-07-11 01:28:57
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "独家 · 研究",
-            "title": "EmTech AI 2026：人工智能平台的崛起",
-            "summary": "EmTech AI 2026：人工智能平台的崛起",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+            "summary": "“已经出现泛化涌现”",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+            "url": "https://www.qbitai.com/2026/07/447508.html"
         },
         {
             "tag": "独家 · 研究",
-            "title": "下载：蠕虫对抗污染，地球工程面对现实",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。为什么蠕虫（和微生物）作为一种粪便污染解决方案而流行起来 加州第三代奶农安东尼·阿格达（Anthony Agueda）",
+            "title": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
+            "summary": "人工智能公司 Anthropic 开发了一种技术，可以让人们最清晰地了解大型语言模型在回答问题或执行任务时内部到底发生了什么。他们发现的东西从平凡到令人不安。该公司的研究人员开发了一种称为雅可比透镜（",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+            "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "在高等教育中使用基于人工智能的学习助手：大规模描述性分析",
-            "summary": "在这项研究中，我们对基于人工智能的学习助手（Syntea）在高等教育中的使用进行了大规模的描述性分析。基于 77,543 名参加远程学习的学生的客观日志数据，我们检查了跨性别、年龄组、学习集群、学位和",
-            "source": "arXiv",
-            "time": "8小时前",
+            "title": "下载：核里程碑，中国关注英伟达芯片",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国的四个核反应堆达到了一个重要的里程碑——Casey Crownhart 我真的很期待 7 月 4 日，不仅仅是因为",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "http://arxiv.org/abs/2607.08748v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
-            "summary": "虽然 UMAP 广泛用于探索高维数据，但典型的工作流程侧重于其低维嵌入，很大程度上忽略了 UMAP 内部构造的丰富的 k 最近邻 (kNN) 图。在 UMAP 的 2D 投影引入失真之前，该图将数据流",
-            "source": "arXiv",
-            "time": "8小时前",
+            "tag": "独家 · 研究",
+            "title": "美国的四个核反应堆达到了一个重要的里程碑",
+            "summary": "我真的很期待 7 月 4 日，不仅仅是因为我喜欢池畔烧烤。今年的美国假期也标志着美国核电的一个具有象征意义的重要最后期限。去年，特朗普政府设定了一个目标，让三个新的微反应堆达到临界状态，这是一个技术里",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2607.08746v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:50",
-            "text": "EmTech AI 2026：人工智能平台的崛起",
+            "time": "01:28",
+            "text": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+            "url": "https://www.qbitai.com/2026/07/447508.html"
         },
         {
-            "time": "01:50",
-            "text": "下载：蠕虫对抗污染，地球工程面对现实",
+            "time": "01:28",
+            "text": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+            "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
         },
         {
-            "time": "01:50",
-            "text": "在高等教育中使用基于人工智能的学习助手：大规模描述性分析",
+            "time": "01:28",
+            "text": "下载：核里程碑，中国关注英伟达芯片",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.08748v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
         },
         {
-            "time": "01:50",
-            "text": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
+            "time": "01:28",
+            "text": "美国的四个核反应堆达到了一个重要的里程碑",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.08746v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
         },
         {
-            "time": "01:50",
-            "text": "AUTOPILOT VQA：对以事件为中心的行车记录仪理解的视觉语言模型进行基准测试",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2607.08745v1"
-        },
-        {
-            "time": "01:50",
-            "text": "ARDY：用于交互式人体运动生成的自回归扩散与混合表示",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2607.08741v1"
-        },
-        {
-            "time": "01:50",
-            "text": "工作流作为知识：LLM 介导的工作流的语义持久性",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2607.08740v1"
-        },
-        {
-            "time": "01:50",
+            "time": "01:28",
             "text": "Wat3R：无需注释的水下 3D 几何学习",
             "hot": false,
             "url": "http://arxiv.org/abs/2607.08772v1"
+        },
+        {
+            "time": "01:28",
+            "text": "ZipDepth：在任何设备上随时随地带来轻量级零镜头单目深度",
+            "hot": false,
+            "url": "http://arxiv.org/abs/2607.08771v1"
+        },
+        {
+            "time": "01:28",
+            "text": "LongE2V：使用视频扩散模型进行长视野基于事件的视频重建、预测和帧插值",
+            "hot": false,
+            "url": "http://arxiv.org/abs/2607.08770v1"
+        },
+        {
+            "time": "01:28",
+            "text": "用于室外全景重建的几何和梯度分区",
+            "hot": false,
+            "url": "http://arxiv.org/abs/2607.08769v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "工作流作为知识：LLM 介导的工作流的语义持久性",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2607.08740v1",
+                    "url": "https://www.qbitai.com/2026/07/447508.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "大型语言模型 (LLM) 应用程序越来越多地使用显式工作流程来进行工具使用、检索、分支、检查点和人工审批。现有的工作流系统已经解决了许多执行问题。本文提出了一种受 Lisp 启发但独立于语言的概念模型：符号形式、对象身份和实时图像思维被用作..."
+                    "desc": "“已经出现泛化涌现”..."
                 },
                 {
-                    "title": "Meta 与 Muse Spark 1.1 一起加入人工智能编码大战",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "工作流作为知识：LLM 介导的工作流的语义持久性",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/"
+                    "url": "http://arxiv.org/abs/2607.08740v1"
                 },
                 {
-                    "title": "Charles Hudson 分享了他在投资 500 多家初创公司后发现的常见错误",
+                    "title": "美国网络机构 CISA 透露，该机构必须在事件发生期间制定其事件手册",
                     "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "time": "刚刚",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
                 },
                 {
-                    "title": "人工智能能否回答 3 万亿美元的问题？",
+                    "title": "Phia 被指控“填充饼干”，在其未赚取的购买中获取附属信用",
                     "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "time": "刚刚",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/"
                 },
                 {
-                    "title": "OpenAI 推出采用 GPT-5.6 的新模型系列",
+                    "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
                     "source": "TechCrunch AI",
-                    "time": "3小时前",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08772v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08771v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08770v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08769v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08768v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "7小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.08766v1"
@@ -275,44 +275,72 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "http://arxiv.org/abs/2607.08746v1"
                 },
                 {
                     "rank": 2,
                     "title": "ARDY：用于交互式人体运动生成的自回归扩散与混合表示",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "emoji": "💡",
                     "url": "http://arxiv.org/abs/2607.08741v1"
                 },
                 {
                     "rank": 3,
-                    "title": "OpenAI 正在关闭 Atlas，但其 AI 浏览器野心仍在增长",
-                    "time": "3小时前",
+                    "title": "一款新应用程序超文本将开放网络转变为可滚动的社交媒体式提要",
+                    "time": "8小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+                    "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/"
                 },
                 {
                     "rank": 4,
-                    "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
-                    "time": "2026-07-09",
+                    "title": "提起诉讼：大学应用程序 Fizz 指控 VC 与竞争对手 Sidechat 共享机密创业信息",
+                    "time": "7小时前",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3888567864851204?f=rss"
+                    "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/"
                 },
                 {
                     "rank": 5,
-                    "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
-                    "time": "2026-07-09",
+                    "title": "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0",
+                    "time": "21小时前",
                     "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3888289009678854?f=rss"
+                    "url": "https://www.qbitai.com/2026/07/447597.html"
                 },
                 {
                     "rank": 6,
+                    "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
+                    "time": "2026-07-09",
+                    "emoji": "🎵",
+                    "url": "https://36kr.com/p/3888567864851204?f=rss"
+                },
+                {
+                    "rank": 7,
+                    "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
+                    "time": "2026-07-09",
+                    "emoji": "📝",
+                    "url": "https://36kr.com/p/3888289009678854?f=rss"
+                },
+                {
+                    "rank": 8,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "🎵",
+                    "emoji": "🤖",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 9,
+                    "title": "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+                    "time": "17小时前",
+                    "emoji": "📊",
+                    "url": "https://www.qbitai.com/2026/07/447627.html"
+                },
+                {
+                    "rank": 10,
+                    "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+                    "time": "16小时前",
+                    "emoji": "🌐",
+                    "url": "https://www.qbitai.com/2026/07/447681.html"
                 }
             ]
         },
@@ -322,73 +350,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Charles Hudson 分享了他在投资 500 多家初创公司后发现的常见错误",
-                    "time": "6小时前",
+                    "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
+                    "time": "8小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/"
+                    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
                 },
                 {
                     "rank": 2,
-                    "title": "人工智能能否回答 3 万亿美元的问题？",
-                    "time": "4小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
-                },
-                {
-                    "rank": 3,
-                    "title": "一家人工智能代理初创公司刚刚让其代理进行 1 亿美元的融资",
-                    "time": "3小时前",
-                    "emoji": "🏭",
-                    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
-                },
-                {
-                    "rank": 4,
-                    "title": "Fidji Simo 从 OpenAI 的二号人物位置上退下来。 2 角色",
-                    "time": "2小时前",
-                    "emoji": "🌏",
-                    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/"
-                },
-                {
-                    "rank": 5,
                     "title": "IT 领导者需要扩展的 AI 架构的基本元素",
-                    "time": "2天前",
-                    "emoji": "📉",
+                    "time": "3天前",
+                    "emoji": "💰",
                     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
                 },
                 {
+                    "rank": 3,
+                    "title": "36氪首发 | 三个月融三轮，上交大00后博士让具身智能仿生扑翼机器人理解并驾驭流体",
+                    "time": "2026-07-11",
+                    "emoji": "🏭",
+                    "url": "https://36kr.com/p/3889516712065799?f=rss"
+                },
+                {
+                    "rank": 4,
+                    "title": "氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录",
+                    "time": "2026-07-10",
+                    "emoji": "🌏",
+                    "url": "https://36kr.com/p/3889551814916614?f=rss"
+                },
+                {
+                    "rank": 5,
+                    "title": "徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线",
+                    "time": "2026-07-10",
+                    "emoji": "📉",
+                    "url": "https://36kr.com/p/3889524008303363?f=rss"
+                },
+                {
                     "rank": 6,
-                    "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+                    "title": "赢官司、融新钱，他想把百万「抗癌针」变平价",
                     "time": "2026-07-10",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3889141540370949?f=rss"
+                    "url": "https://36kr.com/p/3888284244720131?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
+                    "title": "36 氪 AI 测评小程序上新！看真实体验与深度测评，多个新功能等你来玩~",
                     "time": "2026-07-10",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3889047503354625?f=rss"
+                    "url": "https://36kr.com/p/3883780969083137?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "2026·Under36丨绕过旧答案的一代人",
-                    "time": "2026-07-09",
+                    "title": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+                    "time": "2026-07-10",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3888279614274048?f=rss"
+                    "url": "https://36kr.com/p/3889141540370949?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线",
-                    "time": "2026-07-09",
+                    "title": "8点1氪丨老乡鸡五年五次冲击上市失败；两款燃油车重回销量榜前十；长鑫科技披露招股意向书，预计7月16日发行",
+                    "time": "2026-07-10",
                     "emoji": "📰",
-                    "url": "https://36kr.com/p/3888230589152008?f=rss"
+                    "url": "https://36kr.com/p/3889047503354625?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "创始人回归，一家高增长公司进入新阶段",
-                    "time": "2026-07-09",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3886969297893892?f=rss"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -434,7 +462,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+451,390",
+                    "stars": "+451,523",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -443,62 +471,62 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+382,362",
+                    "stars": "+382,512",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+304,175",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+360,304",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+251,790",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 5,
+                    "name": "react/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+246,377",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 6,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+238,914",
+                    "stars": "+239,107",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 5,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+227,887",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 6,
+                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+212,235",
+                    "stars": "+212,776",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "tensorflow/tensorflow",
                     "desc": "适合所有人的开源机器学习框架",
                     "lang": "C++",
                     "langClass": "lang-cpp",
-                    "stars": "+196,166",
+                    "stars": "+196,277",
                     "url": "https://github.com/tensorflow/tensorflow"
-                },
-                {
-                    "rank": 8,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+195,865",
-                    "url": "https://github.com/n8n-io/n8n"
                 }
             ]
         }
@@ -507,72 +535,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "EmTech AI 2026：人工智能平台的崛起",
+            "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+            "url": "https://www.qbitai.com/2026/07/447508.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "下载：蠕虫对抗污染，地球工程面对现实",
+            "title": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+            "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "在高等教育中使用基于人工智能的学习助手：大规模描述性分析",
+            "title": "下载：核里程碑，中国关注英伟达芯片",
             "heat": "100.6万热度",
-            "url": "http://arxiv.org/abs/2607.08748v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
+            "title": "美国的四个核反应堆达到了一个重要的里程碑",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.08746v1"
+            "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
         },
         {
             "rank": 5,
-            "top3": false,
-            "title": "AUTOPILOT VQA：对以事件为中心的行车记录仪理解的视觉语言模型进行基准测试",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2607.08745v1"
-        },
-        {
-            "rank": 6,
-            "top3": false,
-            "title": "ARDY：用于交互式人体运动生成的自回归扩散与混合表示",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2607.08741v1"
-        },
-        {
-            "rank": 7,
-            "top3": false,
-            "title": "工作流作为知识：LLM 介导的工作流的语义持久性",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2607.08740v1"
-        },
-        {
-            "rank": 8,
             "top3": false,
             "title": "Wat3R：无需注释的水下 3D 几何学习",
             "heat": "",
             "url": "http://arxiv.org/abs/2607.08772v1"
         },
         {
-            "rank": 9,
+            "rank": 6,
             "top3": false,
             "title": "ZipDepth：在任何设备上随时随地带来轻量级零镜头单目深度",
             "heat": "",
             "url": "http://arxiv.org/abs/2607.08771v1"
         },
         {
-            "rank": 10,
+            "rank": 7,
             "top3": false,
             "title": "LongE2V：使用视频扩散模型进行长视野基于事件的视频重建、预测和帧插值",
             "heat": "",
             "url": "http://arxiv.org/abs/2607.08770v1"
+        },
+        {
+            "rank": 8,
+            "top3": false,
+            "title": "用于室外全景重建的几何和梯度分区",
+            "heat": "",
+            "url": "http://arxiv.org/abs/2607.08769v1"
+        },
+        {
+            "rank": 9,
+            "top3": false,
+            "title": "UniClawBench：主动代理实际任务的通用基准",
+            "heat": "",
+            "url": "http://arxiv.org/abs/2607.08768v1"
+        },
+        {
+            "rank": 10,
+            "top3": false,
+            "title": "OPSD-V：用于训练后少步自回归视频生成器的策略自蒸馏",
+            "heat": "",
+            "url": "http://arxiv.org/abs/2607.08766v1"
         }
     ],
     "aiTools": [
@@ -619,31 +647,27 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "OpenAI",
-            "size": "large"
-        },
-        {
             "text": "模型",
             "size": "large"
         },
         {
-            "text": "人工智能",
-            "size": "medium"
+            "text": "Claude",
+            "size": "large"
         },
         {
             "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "Claude",
+            "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "视频",
-            "size": "small"
+            "text": "OpenAI",
+            "size": "medium"
         },
         {
-            "text": "代理",
+            "text": "AI",
             "size": "small"
         },
         {
@@ -651,7 +675,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "AI",
+            "text": "视频",
+            "size": "small"
+        },
+        {
+            "text": "代理",
             "size": "small"
         },
         {
@@ -663,64 +691,46 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Labs",
+            "text": "语言",
             "size": "small"
         },
         {
-            "text": "语言",
+            "text": "美国",
+            "size": "small"
+        },
+        {
+            "text": "功能",
             "size": "small"
         },
         {
             "text": "OPSD",
             "size": "small"
-        },
-        {
-            "text": "Bench",
-            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "EmTech AI 2026：人工智能平台的崛起",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": ""
-        },
-        {
-            "title": "下载：蠕虫对抗污染，地球工程面对现实",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。为什么蠕虫（和微生物）作为一种粪便污染解决方案而流行起来 加州第三代奶农安东尼·阿格达（Anthony Agueda）用耙子穿过黑暗潮湿的木屑床，以清除粪便污"
-        },
-        {
-            "title": "在高等教育中使用基于人工智能的学习助手：大规模描述性分析",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "在这项研究中，我们对基于人工智能的学习助手（Syntea）在高等教育中的使用进行了大规模的描述性分析。基于 77,543 名参加远程学习的学生的客观日志数据，我们检查了跨性别、年龄组、学习集群、学位和学习模式的使用模式。迄今为止，现有的教育"
-        },
-        {
-            "title": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "虽然 UMAP 广泛用于探索高维数据，但典型的工作流程侧重于其低维嵌入，很大程度上忽略了 UMAP 内部构造的丰富的 k 最近邻 (kNN) 图。在 UMAP 的 2D 投影引入失真之前，该图将数据流形编码在其原始高维空间中。我们展示了这种"
-        },
-        {
-            "title": "AUTOPILOT VQA：对以事件为中心的行车记录仪理解的视觉语言模型进行基准测试",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉语言模型、大语言模型和多模态大语言模型的最新进展改善了场景理解、决策、轨迹预测和视觉问答等自动驾驶任务。然而，评估这些模型是否能够可靠地推理安全关键事件仍然具有挑战性。为了解决这一差距，我们推出了 AUTOPILOT-VQA，这是一种以"
-        },
-        {
-            "title": "ARDY：用于交互式人体运动生成的自回归扩散与混合表示",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "在交互式应用程序中实时生成逼真的 3D 人体动作是动画、模拟和人形机器人技术的关键。虽然最近的离线运动生成方法通过文本和运动学约束提供了精确控制，但它们缺乏交互设置所需的推理速度。相反，现有的在线方法可以实现实时合成，但由于上下文有限，常常"
-        },
-        {
-            "title": "工作流作为知识：LLM 介导的工作流的语义持久性",
+            "title": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 应用程序越来越多地使用显式工作流程来进行工具使用、检索、分支、检查点和人工审批。现有的工作流系统已经解决了许多执行问题。本文提出了一种受 Lisp 启发但独立于语言的概念模型：符号形式、对象身份和实时图像思维被用作"
+            "snippet": "“已经出现泛化涌现”"
+        },
+        {
+            "title": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "人工智能公司 Anthropic 开发了一种技术，可以让人们最清晰地了解大型语言模型在回答问题或执行任务时内部到底发生了什么。他们发现的东西从平凡到令人不安。该公司的研究人员开发了一种称为雅可比透镜（或“雅可比透镜”）的工具。"
+        },
+        {
+            "title": "下载：核里程碑，中国关注英伟达芯片",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国的四个核反应堆达到了一个重要的里程碑——Casey Crownhart 我真的很期待 7 月 4 日，不仅仅是因为我喜欢池畔烧烤。今年——"
+        },
+        {
+            "title": "美国的四个核反应堆达到了一个重要的里程碑",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "我真的很期待 7 月 4 日，不仅仅是因为我喜欢池畔烧烤。今年的美国假期也标志着美国核电的一个具有象征意义的重要最后期限。去年，特朗普政府设定了一个目标，让三个新的微反应堆达到临界状态，这是一个技术里程碑，表明反应堆可以在"
         },
         {
             "title": "Wat3R：无需注释的水下 3D 几何学习",
@@ -783,82 +793,100 @@ var siteData = {
             "snippet": "低秩分解广泛用于压缩神经网络，但现代模型通常不能自然地适应激进的分解而不造成显着的准确性损失。现有的训练时低秩正则化器可以提高可压缩性，但它们通常需要大型权重矩阵的 SVD、修改模型架构（引入额外的可训练参数）或依赖有状态的缓存量。为了解决"
         },
         {
-            "title": "Meta 与 Muse Spark 1.1 一起加入人工智能编码大战",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta 向用户推销的是 Spark 处理大型代理工作负载、修复错误以及帮助大型代码迁移的能力——企业越来越多地转向人工智能公司提供这种自动化。"
-        },
-        {
-            "title": "Charles Hudson 分享了他在投资 500 多家初创公司后发现的常见错误",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "在本周的 Build Mode 节目中，Isabelle Johannessen 与 Precursor Ventures 的 Charles Hudson 讨论了当今早期创始人面临的逆风，以及创始人为了获得资金应避免的最常见错误。"
-        },
-        {
-            "title": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
+            "title": "在高等教育中使用基于人工智能的学习助手：大规模描述性分析",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "人工智能公司 Anthropic 开发了一种技术，可以让人们最清晰地了解大型语言模型在回答问题或执行任务时内部到底发生了什么。他们发现的东西从平凡到令人不安。该公司的研究人员开发了一种称为雅可比透镜（或“雅可比透镜”）的工具。"
+            "snippet": "在这项研究中，我们对基于人工智能的学习助手（Syntea）在高等教育中的使用进行了大规模的描述性分析。基于 77,543 名参加远程学习的学生的客观日志数据，我们检查了跨性别、年龄组、学习集群、学位和学习模式的使用模式。迄今为止，现有的教育"
         },
         {
-            "title": "人工智能能否回答 3 万亿美元的问题？",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "人工智能投资回报率的争论又回来了，数字甚至更大，其后果也许也是如此。"
-        },
-        {
-            "title": "OpenAI 推出采用 GPT-5.6 的新模型系列",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 的最新模型系列有望在包括网络安全在内的一系列领域得到改进。"
-        },
-        {
-            "title": "一家人工智能代理初创公司刚刚让其代理进行 1 亿美元的融资",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Lyzr 是一家为企业构建人工智能代理的初创公司，它利用自己的人工智能代理筹集了 1 亿美元的资金，这显然证明了该产品确实有效。"
-        },
-        {
-            "title": "OpenAI 正在关闭 Atlas，但其 AI 浏览器野心仍在增长",
+            "title": "降维与网络科学相遇：UMAP 的 kNN 图上的意义建构",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "不到一年后，OpenAI 将淘汰其人工智能浏览器。但它正在将一些代理浏览功能转移到其桌面应用程序和 Chrome 扩展程序中。"
+            "snippet": "虽然 UMAP 广泛用于探索高维数据，但典型的工作流程侧重于其低维嵌入，很大程度上忽略了 UMAP 内部构造的丰富的 k 最近邻 (kNN) 图。在 UMAP 的 2D 投影引入失真之前，该图将数据流形编码在其原始高维空间中。我们展示了这种"
         },
         {
-            "title": "埃隆·马斯克赞扬神话/寓言，承诺不会“切断”人类",
+            "title": "AUTOPILOT VQA：对以事件为中心的行车记录仪理解的视觉语言模型进行基准测试",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "视觉语言模型、大语言模型和多模态大语言模型的最新进展改善了场景理解、决策、轨迹预测和视觉问答等自动驾驶任务。然而，评估这些模型是否能够可靠地推理安全关键事件仍然具有挑战性。为了解决这一差距，我们推出了 AUTOPILOT-VQA，这是一种以"
+        },
+        {
+            "title": "ARDY：用于交互式人体运动生成的自回归扩散与混合表示",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "在交互式应用程序中实时生成逼真的 3D 人体动作是动画、模拟和人形机器人技术的关键。虽然最近的离线运动生成方法通过文本和运动学约束提供了精确控制，但它们缺乏交互设置所需的推理速度。相反，现有的在线方法可以实现实时合成，但由于上下文有限，常常"
+        },
+        {
+            "title": "工作流作为知识：LLM 介导的工作流的语义持久性",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Anthropic 应该信任埃隆·马斯克来托管其模型吗？由于涉及约 400 亿美元的收入，马斯克坚称公司可以。"
+            "snippet": "大型语言模型 (LLM) 应用程序越来越多地使用显式工作流程来进行工具使用、检索、分支、检查点和人工审批。现有的工作流系统已经解决了许多执行问题。本文提出了一种受 Lisp 启发但独立于语言的概念模型：符号形式、对象身份和实时图像思维被用作"
         },
         {
-            "title": "您家族在 OpenAI 中持有 300 美元的股份",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。 OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 经常讨论的承诺，即美国人将分享人工智能创造的财富，上周再次出现在新闻"
+            "title": "美国网络机构 CISA 透露，该机构必须在事件发生期间制定其事件手册",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "CISA 表示，由于没有提前制定响应计划，它“错过”了在安全事件发生前应对的机会。"
         },
         {
-            "title": "下载：韩国最热门的单身汉和先进的眼部移植手术",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。韩国最炙手可热的新单身汉是芯片工人白，35岁，是韩国半导体巨头SK海力士的经理，一年前加入了一家婚介公司。在一个&#8230;"
+            "title": "Phia 被指控“填充饼干”，在其未赚取的购买中获取附属信用",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "比尔盖茨的女儿菲比（Phoebe）和她的朋友索菲亚基安尼（Sophia Kianni）创立的购物初创公司菲亚（Phia）因一种被称为“饼干填充”的做法而受到批评，根据彭博社的一项调查，这种做法帮助该产品获得佣金和实际上并没有产生的销售积分。"
         },
         {
-            "title": "Fidji Simo 从 OpenAI 的二号人物位置上退下来。 2 角色",
+            "title": "SK海力士在美国历史上最大的海外IPO中筹集了26.5亿美元，敦促在美国建造新的晶圆厂",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "OpenAI 的二号高管 Fidji Simo 因病假时间比预期长而辞去全职职务——领导层真空出现在一个棘手的时刻，因为该公司正在考虑可能的 IPO 并竞相在企业市场追赶 Anthropic。"
+            "snippet": "人工智能芯片的繁荣刚刚带来了华尔街迄今为止最大的时刻。现在SK海力士和三星被要求在美国建工厂。"
+        },
+        {
+            "title": "一款新应用程序超文本将开放网络转变为可滚动的社交媒体式提要",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "HyperTexting 的新应用程序旨在通过将网站、博客、新闻通讯和播客转变为可滚动的源，使开放网络感觉更像社交媒体，同时也使发布到您自己的网站变得更容易。"
+        },
+        {
+            "title": "中国正在追赶埃隆·马斯克的可重复使用火箭",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "中国国有航天公司在发射后回收了首个轨道火箭助推器。"
+        },
+        {
+            "title": "报告称迪士尼+正在考虑免费流媒体套餐",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "免费内容的推出将使 Disney+ 能够更好地与 YouTube 和 Tubi 等免费服务竞争，这些服务正在占据越来越多的消费者观看时间。"
+        },
+        {
+            "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "四大方向，奖金直给"
+        },
+        {
+            "title": "提起诉讼：大学应用程序 Fizz 指控 VC 与竞争对手 Sidechat 共享机密创业信息",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Fizz 扩大了对竞争对手 Sidechat 的诉讼，指控 Maveron VC 分享了其在与竞争对手初创公司的筹款会议上获得的机密信息。"
+        },
+        {
+            "title": "苹果起诉 OpenAI 涉嫌窃取商业机密",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "苹果公司声称，这一不当行为是由 OpenAI 的高级领导层指挥的，其中包括一名长期前雇员。"
+        },
+        {
+            "title": "Bluesky 临时首席执行官托尼·施奈德 (Toni Schneider) 放弃了“临时”一词",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "曾担任 Automattic 首席执行官、True Ventures 合伙人的施耐德表示，他“全力投入”这个非常规社交媒体平台。"
         },
         {
             "title": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。你的家族在 OpenAI 中持有 300 美元的股份 Sam Altman 提出美国人应该分享人工智能创造的财富的提议再次成为人们关注的焦点，有报道称他正在讨"
-        },
-        {
-            "title": "IT 领导者需要扩展的 AI 架构的基本元素",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "随着人工智能功能的快速进步和向代理系统的转变，随着技术的不断发展，组织正在扩大其用例。这种不断的演变也带来了风险，让 IT 领导者想知道哪些投资即使在未来六个月后也能证明是有价值的。回到人工智能架构的基本要素——“人工智能”。"
         }
     ]
 }
