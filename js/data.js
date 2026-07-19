@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-18 01:22:09
+ * 生成时间: 2026-07-19 01:28:44
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "行业 · 动态",
-            "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
-            "summary": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的超大规模和模型提供商 API 基础上运行人工智能，但下一美元的目标是专门计算，但他们现在几乎没",
-            "source": "VentureBeat AI",
+            "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
+            "summary": "窗户几乎是关着的。 8 月 19 日，八家初创公司将在悉尼 Stripe Tour 上登台亮相，在投资者、全球媒体和澳大利亚科技界面前亮相。一家初创公司自动加入旧金山的 TechCrunch Disr",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+            "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
-            "summary": "在 107 家企业中，人工智能代理能够真正访问系统和数据，但遏制它们的控制措施却滞后。超过一半的人已经确认发生过特工安全事件或险些发生事故；只有大约三分之一的人为每个代理提供了自己的范围身份，并且大多",
-            "source": "VentureBeat AI",
+            "tag": "头条 · 大模型",
+            "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+            "summary": "从人工智能工作流程到电池寿命和安全性，这就是每天使用 Vertu 豪华可折叠手机的真实感受。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+            "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
-            "summary": "在 101 家企业中，为 AI 代理提供业务环境的基础设施的构建速度快于可信度。检索增强生成已经是默认的上下文源，而提供者本地检索已经悄然取代了定义类别的专用向量数据库，但大多数企业已经看到他们的代理",
-            "source": "VentureBeat AI",
+            "tag": "独家 · 研究",
+            "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+            "summary": "Databricks 将其形象重塑为一家人工智能公司，并发表了关于开放权重人工智能模型编码成本节省的研究。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+            "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
-            "summary": "在 157 家企业中，组织正在授予人工智能代理更多的自主权，同时信任旨在减少自主权的评估。一半已经交付了通过内部评估的代理，但在生产中却未能满足客户的要求；如今，只有二十分之一的人完全信任自动化评估；",
-            "source": "VentureBeat AI",
+            "tag": "头条 · 大模型",
+            "title": "Zoom 黑客说：“别录我”",
+            "summary": "如果每次会议、饮水机谈话和日期都被转录和总结，那么谁真正在阅读其中的内容呢？",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+            "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:22",
-            "text": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
+            "time": "01:28",
+            "text": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield",
             "hot": true,
-            "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+            "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/"
         },
         {
-            "time": "01:22",
-            "text": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
+            "time": "01:28",
+            "text": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
             "hot": false,
-            "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+            "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
         },
         {
-            "time": "01:22",
-            "text": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
+            "time": "01:28",
+            "text": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
             "hot": false,
-            "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+            "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
         },
         {
-            "time": "01:22",
-            "text": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
+            "time": "01:28",
+            "text": "Zoom 黑客说：“别录我”",
             "hot": false,
-            "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+            "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
         },
         {
-            "time": "01:22",
-            "text": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+            "time": "01:28",
+            "text": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+            "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
         },
         {
-            "time": "01:22",
-            "text": "为什么热泵在美国仍然如此热门",
+            "time": "01:28",
+            "text": "关于围绝经期有很多炒作。不要买它。",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/"
+            "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/"
         },
         {
-            "time": "01:22",
-            "text": "多步视觉推理的分层去噪",
+            "time": "01:28",
+            "text": "天气数据遭到破坏的风险正在上升",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.15278v1"
+            "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
         },
         {
-            "time": "01:22",
-            "text": "分区、提示、聚合：语言模型中的统计自洽性",
+            "time": "01:28",
+            "text": "联邦雇员可以再次在工作手机上下载 TikTok",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.15277v1"
+            "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
-                    "source": "VentureBeat AI",
+                    "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "domestic",
-                    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+                    "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "在 107 家企业中，人工智能基础设施支出的加速增长远远超过了观察或引导其经济的能力。大多数组织都在熟悉的超大规模和模型提供商 API 基础上运行人工智能，但下一美元的目标是专门计算，但他们现在几乎没有使用过；大多数人打算在一年内更换或添加..."
+                    "desc": "窗户几乎是关着的。 8 月 19 日，八家初创公司将在悉尼 Stripe Tour 上登台亮相，在投资者、全球媒体和澳大利亚科技界面前亮相。一家初创公司自动加入旧金山的 TechCrunch Disrupt — 无需申请，无需进一步竞争，就..."
                 },
                 {
-                    "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
-                    "source": "VentureBeat AI",
+                    "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
                 },
                 {
-                    "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
-                    "source": "VentureBeat AI",
+                    "title": "Zoom 黑客说：“别录我”",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
                 },
                 {
-                    "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
-                    "source": "VentureBeat AI",
-                    "time": "昨天",
+                    "title": "联邦雇员可以再次在工作手机上下载 TikTok",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
                 },
                 {
-                    "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
+                    "title": "今年美国停产或淘汰的所有电动汽车",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+                    "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15278v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15277v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15275v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15273v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15272v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2607.15271v1"
@@ -274,73 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "MeanFlowNFT：将前向过程强化学习引入平均速度生成器",
-                    "time": "昨天",
+                    "title": "Kimi：威胁还是威胁？",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2607.15273v1"
+                    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
                 },
                 {
                     "rank": 2,
-                    "title": "用于动态小说视图合成的在线神经时空记忆",
-                    "time": "昨天",
+                    "title": "MeanFlowNFT：将前向过程强化学习引入平均速度生成器",
+                    "time": "2天前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2607.15271v1"
+                    "url": "http://arxiv.org/abs/2607.15273v1"
                 },
                 {
                     "rank": 3,
-                    "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
-                    "time": "8小时前",
+                    "title": "用于动态小说视图合成的在线神经时空记忆",
+                    "time": "2天前",
                     "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/07/453352.html"
+                    "url": "http://arxiv.org/abs/2607.15271v1"
                 },
                 {
                     "rank": 4,
-                    "title": "苹果和谷歌被勒令从应用商店中清除“裸露”应用",
-                    "time": "5小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/"
-                },
-                {
-                    "rank": 5,
-                    "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
-                    "time": "2小时前",
-                    "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/07/453467.html"
-                },
-                {
-                    "rank": 6,
                     "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
                     "time": "2026-07-18",
-                    "emoji": "🎵",
+                    "emoji": "🔍",
                     "url": "https://36kr.com/p/3900449325287305?f=rss"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
                     "time": "2026-07-17",
-                    "emoji": "📝",
+                    "emoji": "⚖️",
                     "url": "https://36kr.com/p/3899556701128578?f=rss"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
                     "time": "2026-07-17",
-                    "emoji": "🤖",
+                    "emoji": "🎵",
                     "url": "https://36kr.com/p/3899398088509319?f=rss"
                 },
                 {
-                    "rank": 9,
+                    "rank": 7,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "📝",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 10,
-                    "title": "WAIC 2026商汤大装置发布算电协同Agent，单位电力成本Token产出提升80%",
-                    "time": "14小时前",
-                    "emoji": "🌐",
-                    "url": "https://www.qbitai.com/2026/07/453211.html"
+                    "rank": 8,
+                    "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+                    "time": "15小时前",
+                    "emoji": "🤖",
+                    "url": "https://www.qbitai.com/2026/07/453889.html"
                 }
             ]
         },
@@ -350,73 +336,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
+                    "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-                },
-                {
-                    "rank": 2,
-                    "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
-                    "time": "昨天",
-                    "emoji": "💰",
-                    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-                },
-                {
-                    "rank": 3,
-                    "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
-                    "time": "昨天",
-                    "emoji": "🏭",
-                    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-                },
-                {
-                    "rank": 4,
-                    "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
-                    "time": "昨天",
-                    "emoji": "🌏",
-                    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
-                },
-                {
-                    "rank": 5,
-                    "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
-                    "time": "7小时前",
-                    "emoji": "📉",
-                    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
-                },
-                {
-                    "rank": 6,
-                    "title": "核初创公司 Valar Atomics 正在洽谈以 60 亿美元估值筹集新资金",
-                    "time": "5小时前",
-                    "emoji": "🔄",
-                    "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/"
-                },
-                {
-                    "rank": 7,
-                    "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
-                    "time": "2小时前",
-                    "emoji": "🚀",
                     "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/"
                 },
                 {
-                    "rank": 8,
+                    "rank": 2,
+                    "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
+                    "time": "2天前",
+                    "emoji": "💰",
+                    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+                },
+                {
+                    "rank": 3,
+                    "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
+                    "time": "2天前",
+                    "emoji": "🏭",
+                    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+                },
+                {
+                    "rank": 4,
+                    "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
+                    "time": "2天前",
+                    "emoji": "🌏",
+                    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+                },
+                {
+                    "rank": 5,
+                    "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
+                    "time": "2天前",
+                    "emoji": "📉",
+                    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+                },
+                {
+                    "rank": 6,
+                    "title": "尼尔·里默 (Neil Rimer) 认为人工智能资金正在回归",
+                    "time": "20小时前",
+                    "emoji": "🔄",
+                    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+                },
+                {
+                    "rank": 7,
                     "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约",
                     "time": "2026-07-17",
-                    "emoji": "🤝",
+                    "emoji": "🚀",
                     "url": "https://36kr.com/p/3896564485572489?f=rss"
                 },
                 {
-                    "rank": 9,
+                    "rank": 8,
                     "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
                     "time": "2026-07-17",
-                    "emoji": "📰",
+                    "emoji": "🤝",
                     "url": "https://36kr.com/p/3899439565325953?f=rss"
                 },
                 {
-                    "rank": 10,
+                    "rank": 9,
                     "title": "我们有多久，没长久地喜欢过一个东西了？",
                     "time": "2026-07-17",
-                    "emoji": "🏢",
+                    "emoji": "📰",
                     "url": "https://36kr.com/p/3899428949132932?f=rss"
+                },
+                {
+                    "rank": 10,
+                    "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
+                    "time": "2026-07-17",
+                    "emoji": "🏢",
+                    "url": "https://36kr.com/p/3898476192941697?f=rss"
                 }
             ]
         },
@@ -462,71 +448,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+451,975",
+                    "stars": "+452,025",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+392,423",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+383,291",
+                    "stars": "+383,409",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
-                    "name": "vinta/awesome-python",
-                    "desc": "Python 框架、库、工具和资源的固定列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+308,756",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
                     "rank": 4,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+256,669",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+306,533",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 5,
-                    "name": "react/react",
-                    "desc": "Web 和本机用户界面的库。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+246,555",
-                    "url": "https://github.com/react/react"
-                },
-                {
-                    "rank": 6,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+239,652",
+                    "stars": "+239,766",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+230,677",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
+                    "rank": 6,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+216,465",
+                    "stars": "+216,857",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 7,
+                    "name": "n8n-io/n8n",
+                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+196,976",
+                    "url": "https://github.com/n8n-io/n8n"
+                },
+                {
+                    "rank": 8,
+                    "name": "tensorflow/tensorflow",
+                    "desc": "适合所有人的开源机器学习框架",
+                    "lang": "C++",
+                    "langClass": "lang-cpp",
+                    "stars": "+196,357",
+                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -535,72 +521,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
+            "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup B",
             "heat": "120.0万热度",
-            "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+            "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
+            "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
             "heat": "110.3万热度",
-            "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+            "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
+            "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
             "heat": "100.6万热度",
-            "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+            "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
+            "title": "Zoom 黑客说：“别录我”",
             "heat": "",
-            "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
+            "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+            "title": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+            "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "为什么热泵在美国仍然如此热门",
+            "title": "关于围绝经期有很多炒作。不要买它。",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/"
+            "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "多步视觉推理的分层去噪",
+            "title": "天气数据遭到破坏的风险正在上升",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.15278v1"
+            "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "分区、提示、聚合：语言模型中的统计自洽性",
+            "title": "联邦雇员可以再次在工作手机上下载 TikTok",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.15277v1"
+            "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "RoboTTT：机器人策略的上下文扩展",
+            "title": "今年美国停产或淘汰的所有电动汽车",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.15275v1"
+            "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "MeanFlowNFT：将前向过程强化学习引入平均速度生成器",
+            "title": "Kimi：威胁还是威胁？",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.15273v1"
+            "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
         }
     ],
     "aiTools": [
@@ -647,16 +633,12 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "OpenAI",
-            "size": "large"
-        },
-        {
             "text": "人工智能",
             "size": "large"
         },
         {
             "text": "模型",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "代理",
@@ -668,7 +650,7 @@ var siteData = {
         },
         {
             "text": "Red",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "WAIC",
@@ -679,7 +661,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "OpenAI",
             "size": "small"
         },
         {
@@ -687,11 +669,15 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "Anthropic",
+            "size": "small"
+        },
+        {
             "text": "AI",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "智能",
             "size": "small"
         },
         {
@@ -699,15 +685,117 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "视觉",
+            "text": "Ventures",
             "size": "small"
         },
         {
-            "text": "RL",
+            "text": "视觉",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "窗户几乎是关着的。 8 月 19 日，八家初创公司将在悉尼 Stripe Tour 上登台亮相，在投资者、全球媒体和澳大利亚科技界面前亮相。一家初创公司自动加入旧金山的 TechCrunch Disrupt — 无需申请，无需进一步竞争，就"
+        },
+        {
+            "title": "Vertu 希望高管支付 6,880 美元购买人工智能代理——以下是它的实际表现",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "从人工智能工作流程到电池寿命和安全性，这就是每天使用 Vertu 豪华可折叠手机的真实感受。"
+        },
+        {
+            "title": "Databricks 估值达到 188B 美元，延续了其作为人工智能最受欢迎的第二幕的地位",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Databricks 将其形象重塑为一家人工智能公司，并发表了关于开放权重人工智能模型编码成本节省的研究。"
+        },
+        {
+            "title": "Zoom 黑客说：“别录我”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "如果每次会议、饮水机谈话和日期都被转录和总结，那么谁真正在阅读其中的内容呢？"
+        },
+        {
+            "title": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。关于围绝经期有很多炒作。不要买它。围绝经期曾经被认为是禁忌，但现在不再是了。至少部分感谢电视医生和社交媒体影响者，&#8230;"
+        },
+        {
+            "title": "关于围绝经期有很多炒作。不要买它。",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "围绝经期已进入讨论阶段。围绝经期及其更为人所知的更年期曾经被认为是禁忌。不再是这样了，至少部分感谢电视医生和社交媒体影响者。也许是我的年龄问题，但现在，我的算法和与朋友的对话都越来越倾向于更年期。更年期被定义为“绝经”的生命阶段。"
+        },
+        {
+            "title": "天气数据遭到破坏的风险正在上升",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。尽管大多数人只看一眼这些天气预报两秒钟，但天气预报影响着许多行业的重大战略决策，关系到真金白银、生计甚至现实生活。农民使用“"
+        },
+        {
+            "title": "联邦雇员可以再次在工作手机上下载 TikTok",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "司法部表示，联邦雇员现在可以在其政府设备上下载 TikTok。"
+        },
+        {
+            "title": "今年美国停产或淘汰的所有电动汽车",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "本田 Prologue 将不再在美国销售，今年将加入越来越多退出市场的电动汽车车型行列。"
+        },
+        {
+            "title": "Kimi：威胁还是威胁？",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "中国公司探月人工智能本周发布了新版Kimi模型，引发了人们对“全面人工智能共产主义”的担忧。"
+        },
+        {
+            "title": "Waymo 表示旧金山服务在暂停一小时后已恢复",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这并不是 Waymo 第一次因停电而出现问题。"
+        },
+        {
+            "title": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。 Anthropic 目前是世界上最有价值的人工智能公司，估值近 1 万亿美元，以发表奇怪而令人兴奋的研究而闻名。例如，它正在研究人工智"
+        },
+        {
+            "title": "下载：克劳德的内部运作，以及世界模特的未来",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 最新的人工智能发现展示了什么（以及没有展示什么）——James O&#8217;Donnell 当 Anthropic 上周宣布，它发现"
+        },
+        {
+            "title": "PsiQuantum 计划利用光制造大型量子计算机",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这台可以改变世界的机器将被安置在一个看起来像数据中心和冰淇淋工厂的房间里。里面有大约 100 个不锈钢柜，每个柜高约 6 英尺，并连接到液氦源，使柜子的温度仅高于绝对零度几度。"
+        },
+        {
+            "title": "代理编排：企业人工智能组织面临的是部署问题，而不是平台问题——而且大多数都在调用聊天机器人代理",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在 101 家企业中，代理编排正在整合到模型提供商平台上——Anthropic 的 Claude 遥遥领先——根据底层模型的重要性进行选择，并根据可靠的多步骤执行进行判断。但这一雄心远远超出了现实：大多数部署的“代理”仍然是聊天机器人包装器"
+        },
+        {
+            "title": "认识一下 GPT-Red：LLM 超级黑客 OpenAI，旨在使其模型更安全",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 构建了一个名为 GPT-Red 的 LLM 超级黑客，将其用作陪练伙伴，帮助其其他模型增强对网络攻击的防御能力。上周该公司发布了其旗舰 LLM 的最新版本 GPT-5.6。 OpenAI 表示，针对 GPT-Red 进行训练使"
+        },
+        {
+            "title": "下载：有用的量子机器和破纪录的海底隧道",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 PsiQuantum 计划利用光制造一台大型量子计算机。这台可以改变世界的机器将被安置在一个看起来像数据中心的房间里。"
+        },
         {
             "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
             "category": "行业动态",
@@ -742,7 +830,7 @@ var siteData = {
             "title": "为什么热泵在美国仍然如此热门",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "感觉好像在盛夏期间考虑加热设备都是违法的——说真的，纽约的热浪非常残酷——但我们需要谈谈热泵。这些设备使用电力进行加热，效率极高，而且数量还在不断增加。 （就其价值而言，许多热量……"
+            "snippet": "感觉好像在盛夏时考虑加热设备都是违法的——说真的，纽约的热浪非常残酷——但我们需要谈谈热泵。这些设备使用电力进行加热，效率极高，而且数量还在不断增加。 （就其价值而言，许多热量……"
         },
         {
             "title": "多步视觉推理的分层去噪",
@@ -785,108 +873,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "心肌梗塞（MI）仍然是全球死亡的主要原因。超声心动图 (Echo) 是一种广泛使用的 MI 评估方式，其中局部室壁运动异常是一个关键指标。基于先前学习的心肌运动分析方法通常使用手工描述符或密集监督估计，但需要广泛的注释限制了适用性。基础模型"
-        },
-        {
-            "title": "预训练数据可能会通过计算宣传而被毒害",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "破坏预训练数据可能会给 LM 带来难以检测和缓解的有害行为。先前关于中毒预训练数据的工作很大程度上利用了维基百科等已建立的数据源，这些数据源并不代表预训练语料库典型的大规模和异质性，并且忽略了中毒数据和数据管理管道之间的相互作用。我们通过前"
-        },
-        {
-            "title": "SceneBind：跨视觉、音频和语言绑定内容和位置",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们提出了 SceneBind，一种现实场景的全模式表示，具有跨视觉、音频和语言的联合语义和 3D 空间理解。现有的全模态编码器擅长实例级语义（即存在的内容），但通常缺乏明确的空间结构（即它在哪里）。 SceneBind 通过将每个场景表示"
-        },
-        {
-            "title": "超越成功率：进攻性和防御性安全代理的成本意识评估",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "安全代理评估通常在慷慨的推理预算下衡量峰值攻击能力，强调漏洞发现、漏洞利用开发、渗透测试和 CTF 完成。这样的测量很有用，但不完整：在操作安全中，每个推理步骤、工具调用、遥测查询和丰富请求都会消耗预算。我们通过这种成本成功的视角，针对进攻"
-        },
-        {
-            "title": "SearchOS-V1：迈向稳健的开放域信息搜索代理协作",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "工具集成大型语言模型的最新进展使网络搜索成为信息查找代理的核心能力。然而，随着交互历史的增长，代理越来越难以跟踪任务进度。当搜索尝试未能产生有用的证据时，当前的单智能体和多智能体系统可能会陷入重复循环，浪费搜索预算并最终损害最终输出的质量和"
-        },
-        {
-            "title": "HoloGeo：通过证据驱动推理减轻地理定位中的地标偏差",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "视觉语言模型（VLM）的最新进展显着改善了图像地理定位，但现有模型仍然容易受到地标偏差的影响，导致它们忽略地理线索或形成虚假相关性，最终导致定位不准确。为了系统地研究这个问题，我们首先设计了两个定量指标：偏差强度（BI）和偏差危害性（BH）"
-        },
-        {
-            "title": "告诉我为什么（除了堵塞）：城市驾驶数据的探索性因果分析",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "交通机构现在可以访问大量视频数据来研究安全和拥堵情况。大多数这些数据都是观察性的，并且是在没有干预的情况下收集的，这引发了诸如“降雨将如何改变交通密度？”之类的因果问题。很难回答。我们推出了 teLLMe，一个用于城市驾驶数据集探索性因果分"
-        },
-        {
-            "title": "桥接证据：静态检索实用程序不能预测多步代理搜索中的因果实用程序",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "检索系统根据静态有用性概念进行训练和评估：将文档和问题交给读者模型，查看答案是否有所改进，并对文档进行相应评分。当单独阅读文档时，这个想法是成立的。当语言模型充当搜索代理、发出多个查询并轮流进行推理时，它就会崩溃，因为文档的重要性在于它让代"
-        },
-        {
-            "title": "AutoSynthesis：用于自动荟萃分析的代理系统",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "证据综合对于将初级研究转化为科学、医学、教育和政策的可靠知识至关重要。然而，定量证据合成仍然主要是手动的并且难以扩展。在这里，我们介绍 AutoSynthesis，一个用于自动元分析的端到端多代理系统。给定自然语言的研究问题，AutoSyn"
-        },
-        {
-            "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "发布芯片只是拿到了入场券"
-        },
-        {
-            "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "面壁智能开源StaffDeck"
-        },
-        {
-            "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "每个Token背后，都是一次开源协作"
-        },
-        {
-            "title": "我用一台戴森电器更换了小型取暖器和吊扇",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "戴森 Hot+Cool HF1 专为全年舒适而设计，将安静的操作和简单的控制与戴森标志性的无叶片设计相结合。"
-        },
-        {
-            "title": "苹果的大诉讼如何扰乱 OpenAI 的 IPO 计划",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "苹果公司上周五对 OpenAI 提起了商业秘密诉讼，而且它并没有闲着。起诉书称，OpenAI 存在一种不当行为，一直蔓延到了 OpenAI 的首席硬件官，并声称目前有 400 多名苹果前员工在该公司工作。到目前为止，OpenAI 的回应已经"
-        },
-        {
-            "title": "Agility Robotics 在特斯拉后院插上了自己的旗帜",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Agility 正在加利福尼亚州弗里蒙特开设一个新的 Digit 机器人培训中心。"
-        },
-        {
-            "title": "人工智能驱动的内存紧缩震动了印度智能手机市场",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "印度智能手机的放缓凸显了人工智能热潮如何重塑消费电子产品，从定价和需求到企业战略。"
-        },
-        {
-            "title": "苹果和谷歌被勒令从应用商店中清除“裸露”应用",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "旧金山市检察官 David Chiu 在发给苹果和谷歌的信中表示，两家公司长期以来都意识到他们托管的应用程序违反了州法律。"
-        },
-        {
-            "title": "核初创公司 Valar Atomics 正在洽谈以 60 亿美元估值筹集新资金",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "这笔潜在的交易凸显了复杂、多阶段融资的日益增长趋势，这些融资掩盖了真实的入场价格。"
         }
     ]
 }
