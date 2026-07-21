@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-20 03:08:11
+ * 生成时间: 2026-07-21 01:28:58
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Waymo 表示旧金山服务在暂停一小时后已恢复",
-            "summary": "这并不是 Waymo 第一次因停电而出现问题。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "不转移的安全性：可部署医学语言模型中的跨语言临床正确性漂移",
+            "summary": "大语言模型的安全评估主要以英语进行，并且主要在前沿系统上进行。这两种情况都没有描述在资源匮乏的健康环境中如何遇到此类模型，其中小型量化系统在本地运行并以本地语言进行查询。我们询问以英语建立的临床安全性",
+            "source": "arXiv",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/"
+            "url": "http://arxiv.org/abs/2607.17270v1"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "Kimi：威胁还是威胁？",
-            "summary": "中国公司探月人工智能本周发布了新版Kimi模型，引发了人们对“全面人工智能共产主义”的担忧。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 大模型",
+            "title": "基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
+            "summary": "大型语言模型将世界模型隐式编码在神经权重中，这暴露了医学和金融等高精度领域的四种结构性风险：幻觉、知识冻结、可解释性差和可修改性差。本文提出了数据优先本体论：LLM 被视为推理和语言引擎，而确定性知识",
+            "source": "arXiv",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+            "url": "http://arxiv.org/abs/2607.17269v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "今年美国停产或淘汰的所有电动汽车",
-            "summary": "本田 Prologue 将不再在美国销售，今年将加入越来越多退出市场的电动汽车车型行列。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "PACE：成对无人机相对定位的极轴条件估计",
+            "summary": "PairUAV 相对定位将两个无人机图像映射到极地导航命令。尽管航向和范围共享相同的成对姿势上下文，但将它们视为齐次坐标会强制两个输出使用相同的解码器证据和优化状态。受控读出探针揭示了不同的结构：两个",
+            "source": "arXiv",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
+            "url": "http://arxiv.org/abs/2607.17268v1"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "联邦雇员可以再次在工作手机上下载 TikTok",
-            "summary": "司法部表示，联邦雇员现在可以在其政府设备上下载 TikTok。",
-            "source": "TechCrunch AI",
+            "title": "Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
+            "summary": "大型语言模型（LLM）在自然语言处理方面表现出了卓越的能力。然而，法学硕士在处理问答（QA）任务时常常会产生幻觉并且缺乏相关知识。为了缓解这些问题，知识图（KG）被用来增强法学硕士推理。然而，知识图谱",
+            "source": "arXiv",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+            "url": "http://arxiv.org/abs/2607.17266v1"
         }
     ],
     "quickNews": [
         {
-            "time": "03:08",
-            "text": "Waymo 表示旧金山服务在暂停一小时后已恢复",
+            "time": "01:28",
+            "text": "不转移的安全性：可部署医学语言模型中的跨语言临床正确性漂移",
             "hot": true,
-            "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/"
+            "url": "http://arxiv.org/abs/2607.17270v1"
         },
         {
-            "time": "03:08",
-            "text": "Kimi：威胁还是威胁？",
+            "time": "01:28",
+            "text": "基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+            "url": "http://arxiv.org/abs/2607.17269v1"
         },
         {
-            "time": "03:08",
-            "text": "今年美国停产或淘汰的所有电动汽车",
+            "time": "01:28",
+            "text": "PACE：成对无人机相对定位的极轴条件估计",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
+            "url": "http://arxiv.org/abs/2607.17268v1"
         },
         {
-            "time": "03:08",
-            "text": "联邦雇员可以再次在工作手机上下载 TikTok",
+            "time": "01:28",
+            "text": "Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+            "url": "http://arxiv.org/abs/2607.17266v1"
         },
         {
-            "time": "03:08",
-            "text": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+            "time": "01:28",
+            "text": "隐藏关联下迭代模式发现的协调解缠",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+            "url": "http://arxiv.org/abs/2607.17264v1"
         },
         {
-            "time": "03:08",
-            "text": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
+            "time": "01:28",
+            "text": "对于多模态情感分析，是否始终需要修复缺失的模态？",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+            "url": "http://arxiv.org/abs/2607.17262v1"
         },
         {
-            "time": "03:08",
-            "text": "Netflix 斥资 5.87 亿美元收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制作初创公司",
+            "time": "01:28",
+            "text": "通过延迟感知指导融合的异步多模态扩散策略组合",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+            "url": "http://arxiv.org/abs/2607.17257v1"
         },
         {
-            "time": "03:08",
-            "text": "黄仁勋访日后需要注意什么",
+            "time": "01:28",
+            "text": "VecFontLLM：锚点引导直接合成中文矢量字体",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+            "url": "http://arxiv.org/abs/2607.17251v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Waymo 表示旧金山服务在暂停一小时后已恢复",
-                    "source": "TechCrunch AI",
+                    "title": "基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
+                    "url": "http://arxiv.org/abs/2607.17269v1",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "这并不是 Waymo 第一次因停电而出现问题。..."
+                    "desc": "大型语言模型将世界模型隐式编码在神经权重中，这暴露了医学和金融等高精度领域的四种结构性风险：幻觉、知识冻结、可解释性差和可修改性差。本文提出了数据优先本体论：LLM 被视为推理和语言引擎，而确定性知识则被转移到显式多模态数据库 DaoQL ..."
                 },
                 {
-                    "title": "今年美国停产或淘汰的所有电动汽车",
-                    "source": "TechCrunch AI",
+                    "title": "Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
+                    "url": "http://arxiv.org/abs/2607.17266v1"
                 },
                 {
-                    "title": "联邦雇员可以再次在工作手机上下载 TikTok",
-                    "source": "TechCrunch AI",
+                    "title": "VecFontLLM：锚点引导直接合成中文矢量字体",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+                    "url": "http://arxiv.org/abs/2607.17251v1"
                 },
                 {
-                    "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "title": "LLM 培训后的精炼强化学习",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+                    "url": "http://arxiv.org/abs/2607.17247v1"
                 },
                 {
-                    "title": "Netflix 斥资 5.87 亿美元收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制作初创公司",
-                    "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "title": "约束路径推理：衡量承诺阶段何时获得成本",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+                    "url": "http://arxiv.org/abs/2607.17240v1"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "印奇在 WAIC 2026 开幕式主论坛发表主题演讲：当智能体走进物理世界",
-                    "desc": "2026 世界人工智能大会（WAIC 2026）于 7 月 17 日正式开幕。作为全球人工智能领域的顶级盛会，本届大会以“智能伙伴 共创未来”为主题。阶跃星辰董事长、千里科技董事长印奇作为特邀嘉宾出席大会开幕式并在大会主论坛（上午场）发表主题演讲《当智能体进入物理世界》。回顾 15 年 AI 创业历...",
+                    "title": "【arXiv】不转移的安全性：可部署医学语言模型中的跨语言临床正确性漂移",
+                    "desc": "大语言模型的安全评估主要以英语进行，并且主要在前沿系统上进行。这两种情况都没有描述在资源匮乏的健康环境中如何遇到此类模型，其中小型量化系统在本地运行并以本地语言进行查询。我们询问以英语建立的临床安全性是否会转移到豪萨语，以及任何失败是否可归因于语言、临床任务或低资源部署所承认的模型类别。...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "36氪 AI",
-                    "time": "2026-07-18",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://36kr.com/p/3900439867147909?f=rss"
+                    "url": "http://arxiv.org/abs/2607.17270v1"
                 },
                 {
-                    "title": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。关于围绝经期有很多炒作。不要买它。围绝经期曾经被认为是禁忌，但现在不再是了。至少部分感谢电视医生和社交媒体影响者，&#8230;...",
+                    "title": "【arXiv】基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
+                    "desc": "大型语言模型将世界模型隐式编码在神经权重中，这暴露了医学和金融等高精度领域的四种结构性风险：幻觉、知识冻结、可解释性差和可修改性差。本文提出了数据优先本体论：LLM 被视为推理和语言引擎，而确定性知识则被转移到显式多模态数据库 DaoQL 中。我们形式化了一个明确的世界模型，并表明，在规则独立性下，...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+                    "url": "http://arxiv.org/abs/2607.17269v1"
                 },
                 {
-                    "title": "关于围绝经期有很多炒作。不要买它。",
-                    "desc": "围绝经期已进入讨论阶段。围绝经期及其更为人所知的更年期曾经被认为是禁忌。不再是这样了，至少部分感谢电视医生和社交媒体影响者。也许是我的年龄问题，但现在，我的算法和与朋友的对话都越来越倾向于更年期。更年期被定义为“绝经”的生命阶段。...",
+                    "title": "【arXiv】PACE：成对无人机相对定位的极轴条件估计",
+                    "desc": "PairUAV 相对定位将两个无人机图像映射到极地导航命令。尽管航向和范围共享相同的成对姿势上下文，但将它们视为齐次坐标会强制两个输出使用相同的解码器证据和优化状态。受控读出探针揭示了不同的结构：两个轴有利于不同的解码器深度组合，它们的最佳检查点在验证轨迹的 80.8% 上不一致，并且范围误差表现出...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/"
+                    "url": "http://arxiv.org/abs/2607.17268v1"
                 },
                 {
-                    "title": "天气数据遭到破坏的风险正在上升",
-                    "desc": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。尽管大多数人只看一眼这些天气预报两秒钟，但天气预报影响着许多行业的重大战略决策，关系到真金白银、生计甚至现实生活。农民使用“...",
+                    "title": "【arXiv】Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
+                    "desc": "大型语言模型（LLM）在自然语言处理方面表现出了卓越的能力。然而，法学硕士在处理问答（QA）任务时常常会产生幻觉并且缺乏相关知识。为了缓解这些问题，知识图（KG）被用来增强法学硕士推理。然而，知识图谱往往包含噪声和错误，而现有的知识图谱增强型LLM方法通常无法识别和过滤这些噪声和错误内容，这使得...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+                    "url": "http://arxiv.org/abs/2607.17266v1"
+                },
+                {
+                    "title": "【arXiv】隐藏关联下迭代模式发现的协调解缠",
+                    "desc": "解缠结表示学习是稳健属性预测的强大范例。虽然最近的方法解决了属性相关性，但隐藏的相关性仍未得到充分探索，其中某个属性值下的数据表现出与其他属性相关的潜在模式。为了保留模式信息并实现解开，我们共同发现模式并强制执行基于模式的条件独立性。然而，这两个模块之间的相互依赖性可能会导致错误...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2607.17264v1"
+                },
+                {
+                    "title": "【arXiv】对于多模态情感分析，是否始终需要修复缺失的模态？",
+                    "desc": "缺失模态下的现有多模态情感分析（MSA）方法通常遵循修复优先范式。我们重新审视这个假设并问：\\emph{应该修复每个缺失的模态吗？}每个样本的预言分析表明答案并不总是：全模态输入仅对一小部分样本是最佳的，并且每个模态子集都是某些样本的首选。这些结果表明，添加或修复模式可能并不总能改善预测，并且...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2607.17262v1"
                 }
             ]
         },
@@ -252,45 +274,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Kimi：威胁还是威胁？",
+                    "title": "AI_LectureNote：韩英医学讲座中英语脚本渲染和语义漂移的 ASR 后工作流程的回顾性试点研究",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+                    "url": "http://arxiv.org/abs/2607.17237v1"
                 },
                 {
                     "rank": 2,
-                    "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-                    "time": "2026-07-20",
+                    "title": "Adobe 相机应用程序的新功能将使用 AI 来评估您的照片",
+                    "time": "9小时前",
                     "emoji": "💡",
-                    "url": "https://36kr.com/p/3901396207584902?f=rss"
+                    "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-                    "time": "2026-07-20",
+                    "title": "经过一年的努力，X 重新推出了重建的 Android 应用程序",
+                    "time": "5小时前",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3903220264404608?f=rss"
+                    "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/"
                 },
                 {
                     "rank": 4,
-                    "title": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
-                    "time": "2026-07-18",
+                    "title": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
+                    "time": "2026-07-21",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3900449325287305?f=rss"
+                    "url": "https://36kr.com/p/3903885834028931?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "8点1氪丨美国将对加拿大部分产品加征50%关税���任泽平回应会员炒股亏损千万；韩国今年人均GDP有望达3.9万美元",
+                    "time": "2026-07-21",
                     "emoji": "⚖️",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://36kr.com/p/3904632333862535?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "看了20万小时「人类干活实录」，机器人悟了",
-                    "time": "18小时前",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/07/454592.html"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
         },
@@ -301,65 +323,72 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "🔥",
                     "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
                 },
                 {
                     "rank": 2,
                     "title": "代理安全漏洞：54%的企业已经发生过人工智能代理事件，大多数企业仍然让代理共享凭证",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "💰",
                     "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
                 },
                 {
                     "rank": 3,
                     "title": "人工智能上下文差距：企业人工智能组织存在信任问题，而不是检索问题——而且大多数仍在构建修复程序",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "🏭",
                     "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
                 },
                 {
                     "rank": 4,
                     "title": "代理评估差距：企业人工智能组织存在现实一致性问题，而不是覆盖范围问题——而且大多数都已投入生产",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "🌏",
                     "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
                 },
                 {
                     "rank": 5,
-                    "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-                    "time": "2026-07-20",
+                    "title": "「月泉仿生」获数亿元融资，仿生拉压体灵巧手万台量产、订单过亿｜36氪首发",
+                    "time": "2026-07-21",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3903396279125888?f=rss"
+                    "url": "https://36kr.com/p/3899174356387718?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
+                    "title": "氪星晚报｜SpaceX将“星舰”第13次试飞推迟至7月23日；马斯克称特斯拉FSD会模仿驾驶风格；我国人形机器人整机产品超全球半数",
                     "time": "2026-07-20",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3903365398185857?f=rss"
+                    "url": "https://36kr.com/p/3903710346790535?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
+                    "title": "硬氪首发 | 一台80cm高的毛绒人形机器人，配一套面向未来的自研OS系统",
                     "time": "2026-07-20",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3902007640459145?f=rss"
+                    "url": "https://36kr.com/p/3903761449617027?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "科氪 | 从生命预警到七诊合参，安顿“双核首发”的技术密码",
-                    "time": "2026-07-19",
+                    "title": "硬氪首发 | 离子束装备商获超亿元融资，已批量导入光通信、核聚变、量子计算头部客户",
+                    "time": "2026-07-20",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3902428274427525?f=rss"
+                    "url": "https://36kr.com/p/3903739699005058?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "专访靳玉志：「境」和「界」并不冲突，共同落实「电子螺丝钉」的战略定位",
+                    "time": "2026-07-20",
                     "emoji": "📰",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3902068392658566?f=rss"
+                },
+                {
+                    "rank": 10,
+                    "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+                    "time": "2026-07-20",
+                    "emoji": "🏢",
+                    "url": "https://36kr.com/p/3903396279125888?f=rss"
                 }
             ]
         },
@@ -401,12 +430,12 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+392,507",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+452,140",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
@@ -414,62 +443,62 @@ var siteData = {
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+383,502",
+                    "stars": "+383,606",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+306,805",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+361,952",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
+                    "name": "vinta/awesome-python",
+                    "desc": "Python 框架、库、工具和资源的固定列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+309,343",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 5,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "基于项目的教程精选列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+274,390",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 6,
                     "name": "obra/superpowers",
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+257,626",
+                    "stars": "+258,183",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,586",
+                    "stars": "+246,608",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+239,859",
+                    "stars": "+239,953",
                     "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+231,267",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+217,308",
-                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -478,72 +507,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Waymo 表示旧金山服务在暂停一小时后已恢复",
+            "title": "不转移的安全性：可部署医学语言模型中的跨语言临床正确性漂移",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/"
+            "url": "http://arxiv.org/abs/2607.17270v1"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Kimi：威胁还是威胁？",
+            "title": "基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/"
+            "url": "http://arxiv.org/abs/2607.17269v1"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "今年美国停产或淘汰的所有电动汽车",
+            "title": "PACE：成对无人机相对定位的极轴条件估计",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
+            "url": "http://arxiv.org/abs/2607.17268v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "联邦雇员可以再次在工作手机上下载 TikTok",
+            "title": "Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/"
+            "url": "http://arxiv.org/abs/2607.17266v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+            "title": "隐藏关联下迭代模式发现的协调解缠",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+            "url": "http://arxiv.org/abs/2607.17264v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
+            "title": "对于多模态情感分析，是否始终需要修复缺失的模态？",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+            "url": "http://arxiv.org/abs/2607.17262v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Netflix 斥资 5.87 亿美元收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制",
+            "title": "通过延迟感知指导融合的异步多模态扩散策略组合",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+            "url": "http://arxiv.org/abs/2607.17257v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "黄仁勋访日后需要注意什么",
+            "title": "VecFontLLM：锚点引导直接合成中文矢量字体",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+            "url": "http://arxiv.org/abs/2607.17251v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "下载：克劳德的内部运作，以及世界模特的未来",
+            "title": "EvolvingWorld：交互式文学世界中共同进化角色扮演代理和世界模型的开放模式框架",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+            "url": "http://arxiv.org/abs/2607.17250v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "PsiQuantum 计划利用光制造大型量子计算机",
+            "title": "LLM 培训后的精炼强化学习",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+            "url": "http://arxiv.org/abs/2607.17247v1"
         }
     ],
     "aiTools": [
@@ -594,11 +623,15 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "GPT",
+            "text": "模型",
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "LLM",
+            "size": "medium"
+        },
+        {
+            "text": "GPT",
             "size": "medium"
         },
         {
@@ -607,14 +640,6 @@ var siteData = {
         },
         {
             "text": "Red",
-            "size": "medium"
-        },
-        {
-            "text": "WAIC",
-            "size": "small"
-        },
-        {
-            "text": "模型",
             "size": "small"
         },
         {
@@ -622,94 +647,164 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "智能",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
             "text": "企业",
             "size": "small"
         },
         {
-            "text": "大会",
+            "text": "机器人",
+            "size": "small"
+        },
+        {
+            "text": "AI",
+            "size": "small"
+        },
+        {
+            "text": "语言",
+            "size": "small"
+        },
+        {
+            "text": "模态",
+            "size": "small"
+        },
+        {
+            "text": "模式",
+            "size": "small"
+        },
+        {
+            "text": "EvolvingWorld",
             "size": "small"
         },
         {
             "text": "Ventures",
             "size": "small"
-        },
-        {
-            "text": "平台",
-            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Waymo 表示旧金山服务在暂停一小时后已恢复",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这并不是 Waymo 第一次因停电而出现问题。"
+            "title": "不转移的安全性：可部署医学语言模型中的跨语言临床正确性漂移",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "大语言模型的安全评估主要以英语进行，并且主要在前沿系统上进行。这两种情况都没有描述在资源匮乏的健康环境中如何遇到此类模型，其中小型量化系统在本地运行并以本地语言进行查询。我们询问以英语建立的临床安全性是否会转移到豪萨语，以及任何失败是否可归"
         },
         {
-            "title": "Kimi：威胁还是威胁？",
+            "title": "基于数据优先本体的显式世界模型：DaoQL多模态存储验证和反事实推理评估",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大型语言模型将世界模型隐式编码在神经权重中，这暴露了医学和金融等高精度领域的四种结构性风险：幻觉、知识冻结、可解释性差和可修改性差。本文提出了数据优先本体论：LLM 被视为推理和语言引擎，而确定性知识则被转移到显式多模态数据库 DaoQL "
+        },
+        {
+            "title": "PACE：成对无人机相对定位的极轴条件估计",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "PairUAV 相对定位将两个无人机图像映射到极地导航命令。尽管航向和范围共享相同的成对姿势上下文，但将它们视为齐次坐标会强制两个输出使用相同的解码器证据和优化状态。受控读出探针揭示了不同的结构：两个轴有利于不同的解码器深度组合，它们的最佳"
+        },
+        {
+            "title": "Debate-on-Graph：不确定知识图上大型语言模型的可靠自适应推理",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大型语言模型（LLM）在自然语言处理方面表现出了卓越的能力。然而，法学硕士在处理问答（QA）任务时常常会产生幻觉并且缺乏相关知识。为了缓解这些问题，知识图（KG）被用来增强法学硕士推理。然而，知识图谱往往包含噪声和错误，而现有的知识图谱增强"
+        },
+        {
+            "title": "隐藏关联下迭代模式发现的协调解缠",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "解缠结表示学习是稳健属性预测的强大范例。虽然最近的方法解决了属性相关性，但隐藏的相关性仍未得到充分探索，其中某个属性值下的数据表现出与其他属性相关的潜在模式。为了保留模式信息并实现解开，我们共同发现模式并强制执行基于模式的条件独立性。然而，"
+        },
+        {
+            "title": "对于多模态情感分析，是否始终需要修复缺失的模态？",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "缺失模态下的现有多模态情感分析（MSA）方法通常遵循修复优先范式。我们重新审视这个假设并问：\\emph{应该修复每个缺失的模态吗？}每个样本的预言分析表明答案并不总是：全模态输入仅对一小部分样本是最佳的，并且每个模态子集都是某些样本的首选。"
+        },
+        {
+            "title": "通过延迟感知指导融合的异步多模态扩散策略组合",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "扩散政策已经显示出机器人模仿学习的巨大潜力，最近的扩展纳入了额外的模式来提高操纵性能。然而，这些模式不仅在信息内容上有所不同，而且在感知速率和推理延迟方面也有所不同。现有的多模态扩散策略通常依赖于同步融合或手动设计的多频架构，这要么减慢高频"
+        },
+        {
+            "title": "VecFontLLM：锚点引导直接合成中文矢量字体",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "直接生成中文矢量字体是一个具有挑战性且持续存在的问题。中文矢量字形包含复杂的组件结构、锚点布局和贝塞尔曲线细节，它们在不同的比例下工作，但标准矢量序列将它们写在一个长序列中，这使得矢量字体合成的任务具有挑战性。现有的直接矢量生成器通常无法处"
+        },
+        {
+            "title": "EvolvingWorld：交互式文学世界中共同进化角色扮演代理和世界模型的开放模式框架",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "本文介绍了 EvolvingWorld，这是交互式文学世界中角色和世界共同进化的框架和基准。现有系统要么将交互式文学模拟视为静态角色模仿，要么将孤立的场景生成视为孤立的场景生成，无法捕捉角色和世界如何随着时间的推移一起演变。为了解决这个问题"
+        },
+        {
+            "title": "LLM 培训后的精炼强化学习",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大语言模型 (LLM) 后训练对于提高推理、适应和对齐至关重要。现有方法主要遵循两种范式：强化学习（RL）和在策略蒸馏（OPD）。然而，强化学习依赖于粗粒度的结果监督，导致信用分配困难且获取新知识的能力有限。与此同时，OPD 通过 KL 散"
+        },
+        {
+            "title": "LenGuard-GPC：具有引导提示一致性的长度保护，用于空间推理强化学习",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "多视图空间推理需要视觉语言模型来比较图像之间的视觉证据，对齐对象对应关系，并在长视觉上下文中推断空间关系，在这种情况下，思想链推理往往会变得冗长而不会变得更加准确。具有可验证奖励的强化学习非常适合这项任务，但标准 GRPO 奖励依赖于稀疏的"
+        },
+        {
+            "title": "拥抱脸部模型中 AI 物料清单完整性的大规模测量",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "预训练的机器学习 (ML) 模型可帮助开发人员构建 ML 密集型软件系统，而无需从头开始训练模型。然而，模型存储库通常提供有关模型出处、许可证、数据集、限制和外部参考的不完整的机器可读文档，从而在整个人工智能供应链中造成透明度和治理差距。人"
+        },
+        {
+            "title": "约束路径推理：衡量承诺阶段何时获得成本",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM 推理流程中的承诺中间阶段何时赚取成本？约束路径推理 (CPR) 将源感知路径假设与阶段级计算配对。搜索生成临时状态；可信或经过验证的不变量可以进行硬性约束，而其他提案则保持软性和可修改性。 CPR 预测，任务兼容的承诺可以影响转换、"
+        },
+        {
+            "title": "AI_LectureNote：韩英医学讲座中英语脚本渲染和语义漂移的 ASR 后工作流程的回顾性试点研究",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "中国公司探月人工智能本周发布了新版Kimi模型，引发了人们对“全面人工智能共产主义”的担忧。"
+            "snippet": "AI_LectureNote 是一个历史悠久、面向可读性的 ASR 后工作流程，适用于韩语-英语医学讲座。它将语音到文本的输出重写为研究笔录，同时恢复拉丁字母医学术语而不是韩语语音音译。我们回顾性评估了五种条件下四位作者录制的讲座的工作流程"
         },
         {
-            "title": "今年美国停产或淘汰的所有电动汽车",
+            "title": "基于RFID的校园支付系统",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "这项名为“基于 RFID 的校园支付系统”的工作为教育机构介绍了一种创新的无现金支付解决方案。它使用 RFID 卡和 Raspberry Pi 来轻松支付各种校园服务，例如自助餐厅消费、学费和图书馆罚款。集中式数据库可确保交易和账户余额的实"
+        },
+        {
+            "title": "Adobe 相机应用程序的新功能将使用 AI 来评估您的照片",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Adobe 的 Project Indigo 现在可以从您使用该应用程序拍摄的照片中删除各种背景。"
+        },
+        {
+            "title": "法官暂停 $110B 派拉蒙与华纳兄弟的合并",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "本田 Prologue 将不再在美国销售，今年将加入越来越多退出市场的电动汽车车型行列。"
+            "snippet": "来自各州的诉讼称，该交易将损害电影院、基本有线电视发行商和观众的利益。"
         },
         {
-            "title": "联邦雇员可以再次在工作手机上下载 TikTok",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "司法部表示，联邦雇员现在可以在其政府设备上下载 TikTok。"
-        },
-        {
-            "title": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在最新一期的《Equity》节目中，我们讨论了苹果的诉讼是否会影响 OpenAi 备受讨论的进军硬件和上市的计划。"
-        },
-        {
-            "title": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
+            "title": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。 Anthropic 目前是世界上最有价值的人工智能公司，估值近 1 万亿美元，以发表奇怪而令人兴奋的研究而闻名。例如，它正在研究人工智"
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周末，唐纳德·特朗普总统的几位现任和前任人工智能顾问公开侮辱了美国领先的人工智能公司。大卫·萨克斯（David Sacks），总统的人"
         },
         {
-            "title": "Netflix 斥资 5.87 亿美元收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制作初创公司",
+            "title": "Natural 筹集了 3000 万美元，以重塑人工智能代理的支付方式，并挑战 Stripe",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Netflix 透露，它以 5.87 亿美元现金收购了本·阿弗莱克 (Ben Affleck) 联合创立的初创公司 InterPositive。"
+            "snippet": "这家成立仅一年的初创公司旨在重塑自主人工智能交易的金融架构。"
         },
         {
-            "title": "黄仁勋访日后需要注意什么",
+            "title": "经过一年的努力，X 重新推出了重建的 Android 应用程序",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "X 表示，其 Android 应用程序的重建版本现已在全球推出。"
+        },
+        {
+            "title": "OpenAI 害怕开放权重模型。美国应该如此吗？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "黄仁勋带着跨越日本整个科技生态系统的交易离开了东京。"
-        },
-        {
-            "title": "下载：克劳德的内部运作，以及世界模特的未来",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Anthropic 最新的人工智能发现展示了什么（以及没有展示什么）——James O&#8217;Donnell 当 Anthropic 上周宣布，它发现"
-        },
-        {
-            "title": "PsiQuantum 计划利用光制造大型量子计算机",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这台可以改变世界的机器将被安置在一个看起来像数据中心和冰淇淋工厂的房间里。里面有大约 100 个不锈钢柜，每个柜高约 6 英尺，并连接到液氦源，使柜子的温度仅高于绝对零度几度。"
+            "snippet": "关于禁止中国制造的开放式法学硕士的言论揭示了将人工智能转变为商业的挑战。"
         },
         {
             "title": "代理编排：企业人工智能组织面临的是部署问题，而不是平台问题——而且大多数都在调用聊天机器人代理",
@@ -728,6 +823,18 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 PsiQuantum 计划利用光制造一台大型量子计算机。这台可以改变世界的机器将被安置在一个看起来像数据中心的房间里。"
+        },
+        {
+            "title": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "据报道，谷歌母公司 Alphabet 正在开发一种新芯片，旨在提高其 Gemini 模型的运行效率。"
+        },
+        {
+            "title": "人工智能最重要的协议变得更容易使用",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在新系统下，该协议将在服务器端对会话 ID 采取更宽松的“无状态”方法，类似于大多数普通网站的工作方式。"
         },
         {
             "title": "人工智能计算差距：企业购买基础设施的速度快于他们能够衡量其成本的速度",
@@ -752,84 +859,6 @@ var siteData = {
             "category": "行业动态",
             "tag": "industry",
             "snippet": "在 157 家企业中，组织正在授予人工智能代理更多的自主权，同时信任旨在减少自主权的评估。一半已经交付了通过内部评估的代理，但在生产中却未能满足客户的要求；如今，只有二十分之一的人完全信任自动化评估；最常被提及的弱点是评估与现实世界的结果不"
-        },
-        {
-            "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来认识一下 GPT-Red：一个 LLM 超级黑客 OpenAI 旨在使其模型更安全 OpenAI 已经构建了一个名为 GPT-Red 的 LLM 超级黑客，"
-        },
-        {
-            "title": "为什么热泵在美国仍然如此热门",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "感觉好像在盛夏期间考虑加热设备都是违法的——说真的，纽约的热浪非常残酷——但我们需要谈谈热泵。这些设备使用电力进行加热，效率极高，而且数量还在不断增加。 （就其价值而言，许多热量……"
-        },
-        {
-            "title": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。关于围绝经期有很多炒作。不要买它。围绝经期曾经被认为是禁忌，但现在不再是了。至少部分感谢电视医生和社交媒体影响者，&#8230;"
-        },
-        {
-            "title": "关于围绝经期有很多炒作。不要买它。",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "围绝经期已进入讨论阶段。围绝经期及其更为人所知的更年期曾经被认为是禁忌。不再是这样了，至少部分感谢电视医生和社交媒体影响者。也许是我的年龄问题，但现在，我的算法和与朋友的对话都越来越倾向于更年期。更年期被定义为“绝经”的生命阶段。"
-        },
-        {
-            "title": "天气数据遭到破坏的风险正在上升",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "每天早上，世界各地的航空公司调度员、电网运营商和农民都会根据同一件事做出决策：天气预报。尽管大多数人只看一眼这些天气预报两秒钟，但天气预报影响着许多行业的重大战略决策，关系到真金白银、生计甚至现实生活。农民使用“"
-        },
-        {
-            "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Harness本身也可以被搜索、验证和迭代"
-        },
-        {
-            "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "6个年轻创业者在WAIC的故事\n  文｜温丽虹 王欣逸\n  编辑｜张雨忻\n  在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。\n  经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着"
-        },
-        {
-            "title": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "7月17日-20日，一起在WAIC2026现场，看见人工智能真正进入产业深处。\n  \n  \n  过去一年，围绕AI行业的讨论正在变得更具体。大模型能力仍在持续迭代，但外界关注的重点，已经不再只停留在模型参数、模型发布和单点能力展示上。随着智"
-        },
-        {
-            "title": "从“连得上”到“算得懂”，天基通算融合初创公司押注无人系统，首轮融资数千万元｜36氪首发",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "文 | 阿至\n  封面来源｜Pexels\n  中国低轨卫星星座的规模化部署已经进入关键时间窗口。\n  一组直观的数据进展是：中国星网已完成第一代组网，垣信卫星在轨运行卫星数量突破200颗，长征十号乙型火箭成功完成全球首次海上网系回收，头部商"
-        },
-        {
-            "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "腾讯云的企业级智能体平台，正式出海了。\n  7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力"
-        },
-        {
-            "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "史上最热的WAIC都整了哪些活？看这一篇就够了。\n  文｜邓咏仪 周鑫雨 王欣逸 温丽虹\n  编辑｜张雨忻\n  如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。\n  没有很热，只有更热。\n  7月17"
-        },
-        {
-            "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。\n  据了解，本轮融资资金将主要用于持续深"
-        },
-        {
-            "title": "8点1氪丨长鑫科技中签号出炉：共约770.22万个；西班牙1-0战胜阿根廷，夺得本届世界杯冠军；月之暗面有望最快6个月内赴港上市",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "今日热点导览\n  任泽平团队回应VIP群聊解散\n  市场监管总局发布《个体工商户信用信息应用指南》\n  “工业维生素”价格暴涨，钼铁一天跳涨1500元\n  黄仁勋皮夹克拍出96万美元天价\n  韩国承诺放宽韩元获取渠道，力争实现“自由兑换货币"
         }
     ]
 }
