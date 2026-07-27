@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-26 01:44:48
+ * 生成时间: 2026-07-27 01:52:01
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
-            "summary": "OpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。",
+            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+            "summary": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
-            "summary": "该公司在第二次 Starship V3 飞行中又完成了一些任务，但似乎在重新点燃助推器的火箭发动机方面遇到了另一个问题。",
+            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
+            "summary": "该诉讼可能会重新引发关于定期就业协议在加州是否可执行的争论。法律",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-            "summary": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。",
+            "tag": "头条 · 大模型",
+            "title": "羞辱间谍软件制造商却从未被抓获的黑客",
+            "summary": "一位令人敬畏的黑客活动分子入侵了两个有争议的政府间谍软件制造商，他可能是迄今为止最多产的黑客。我们对菲尼亚斯·费舍尔了解多少？",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-            "summary": "跑出原生全模态新路径",
-            "source": "量子位",
+            "tag": "行业 · 动态",
+            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
+            "summary": "据报道，埃隆·马斯克的隧道初创公司正在就新一轮重大融资进行谈判。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/07/460154.html"
+            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:44",
-            "text": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+            "time": "01:51",
+            "text": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
             "hot": true,
-            "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
-            "time": "01:44",
-            "text": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
+            "time": "01:51",
+            "text": "华纳兄弟诉讼指控亚马逊非法挖角高管",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
         },
         {
-            "time": "01:44",
-            "text": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 ",
+            "time": "01:51",
+            "text": "羞辱间谍软件制造商却从未被抓获的黑客",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
         },
         {
-            "time": "01:44",
-            "text": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+            "time": "01:51",
+            "text": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460154.html"
+            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
         },
         {
-            "time": "01:44",
-            "text": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+            "time": "01:51",
+            "text": "100%开源！吴恩达做了个个人桌面Agent",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460041.html"
+            "url": "https://www.qbitai.com/2026/07/460892.html"
         },
         {
-            "time": "01:44",
-            "text": "菲尔兹奖得主王虹，也发过NeurIPS",
+            "time": "01:51",
+            "text": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460042.html"
+            "url": "https://www.qbitai.com/2026/07/460542.html"
         },
         {
-            "time": "01:44",
-            "text": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+            "time": "01:51",
+            "text": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/459432.html"
+            "url": "https://www.qbitai.com/2026/07/460253.html"
         },
         {
-            "time": "01:44",
-            "text": "追求让器官在体外保持活力",
+            "time": "01:51",
+            "text": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+            "url": "https://www.qbitai.com/2026/07/460234.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+                    "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+                    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "OpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。..."
+                    "desc": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。..."
                 },
                 {
-                    "title": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
+                    "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+                    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
                 },
                 {
-                    "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+                    "title": "羞辱间谍软件制造商却从未被抓获的黑客",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
                 },
                 {
-                    "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-                    "source": "量子位",
+                    "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/07/460154.html"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
                 },
                 {
-                    "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+                    "title": "100%开源！吴恩达做了个个人桌面Agent",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/07/460041.html"
+                    "url": "https://www.qbitai.com/2026/07/460892.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】具有隐式和显式几何形状的 3D 感知 VLM",
-                    "desc": "尽管进展迅速，但大多数现有的基于 2D 视觉输入构建的视觉语言模型 (VLM) 在处理需要细粒度空间理解和推理的各种 3D 任务时常常遇到困难。为了弥补这一差距，我们提出了 VLM-IE3D，这是一个统一的框架，通过为 VLM 配备从 RGB 视频中学习到的隐式和显式 3D 几何图形来增强 VLM ...",
+                    "title": "【arXiv】通过机器人渲染构建机器人因素的世界模型",
+                    "desc": "动作条件视频世界模型根据初始观察和动作信号预测未来的观察。在机器人技术中，动作通过两个不同的过程影响未来的观察：它们首先由机器人主体和控制器实现为机器人运动，然后场景通过接触和物体运动做出响应。直接根据动作命令进行调节要求世界模型学习实现过程本身，而根据记录的未来状态进行调节会泄漏交互信息...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21595v1"
+                    "url": "http://arxiv.org/abs/2607.22535v1"
                 },
                 {
-                    "title": "【arXiv】具有世界状态寄存器的流式多智能体自回归扩散模型",
-                    "desc": "多智能体交互世界模型不仅应该生成一致的观察结果，还应该维持跨智能体持续存在并跨视图演变的世界状态。现有的自回归视频扩散管道将观察历史记录作为条件上下文，这使得在多代理和多视图设置中难以维护共享状态。我们提出了 WorldWeaver (W^2)，这是一种流式多智能体视频传播模型，可通过跨智能体世界状...",
+                    "title": "【arXiv】SM4RT：学习结构化运动几何以进行 4D 重建",
+                    "desc": "几何基础模型 (GFM) 具有相当先进的单目 3D 重建能力，但将这种能力扩展到 4D 动态理解仍然是一个基本挑战。大多数现有的运动感知方法（例如稀疏跟踪、密集的逐点流）将运动视为独立的逐点位移，忽略了物理运动的结构化本质。然而，现实世界的物体通常遵循刚体运动学，因此点通常集体移动，而不是孤立的。中...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21594v1"
+                    "url": "http://arxiv.org/abs/2607.22534v1"
                 },
                 {
-                    "title": "【arXiv】根据不相交数据进行统一视频密集预测",
-                    "desc": "场景理解需要同时预测几何、外观和语义。然而，现有的特定于任务的注释分散在不兼容的、特定于域的数据集中。当前的统一系统通过将训练限制为完全共同注释的数据或通过产生伪标记的大量计算成本来规避这一点。为了缓解这个问题，我们引入了 UniD，这是一个统一的视频模型，可以联合预测八个密集场景属性——深度、表面...",
+                    "title": "【arXiv】双胞胎：学习通过焦点损失预测统一表示",
+                    "desc": "统一的多模态模型寻求一个支持多模态理解和图像生成的共享视觉标记空间。离散方法通过共享代码本统一接口，而连续管道通常依赖于两种不同的表示——用于理解的语义特征（例如 ViT）和用于合成的低级潜在特征（例如 VAE）——导致潜在空间不匹配。我们提出 Twins，一个由通道级连接 ViT 和 VAE f ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21592v1"
+                    "url": "http://arxiv.org/abs/2607.22531v1"
                 },
                 {
-                    "title": "【arXiv】通过渐进种子修剪的扩散模型的推理时间缩放",
-                    "desc": "扩散和流匹配模型在条件图像生成中占主导地位，但这些模型的推理时间缩放远不如自回归语言模型那么发达。由于最终质量对初始噪声种子高度敏感，因此许多方法在黑盒奖励下的种子搜索或重采样上花费了额外的计算，但通常在整个推理过程中保持恒定的内存占用。我们证明，放宽这一约束可以实现未充分探索的推理时间尺度...",
+                    "title": "【arXiv】技能自我发挥：通过共同发展的技能推动法学硕士能力的前沿",
+                    "desc": "LLM培训正在从手动设计和注释转向交互驱动的自我进化。然而，现有的自进化方法在任务多样性和验证可靠性之间面临着根本性的困境：受环境限制的方法获得精确的反馈，但将学习限制在狭窄的领域，而开放式的自生成扩大了任务空间，但缺乏可靠的验证，导致误导性奖励污染训练循环。我们将座席技能视为强大的力量...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21591v1"
+                    "url": "http://arxiv.org/abs/2607.22529v1"
                 },
                 {
-                    "title": "【arXiv】战略性地扩大规模：通过机器人操作的偏差感知评估和数据收集来学习组合概括",
-                    "desc": "组合概括对于机器人遵循不同的指令至关重要。然而，众所周知，预先训练的政策会走捷径，遵循显着的线索而不是基础语言。我们引入了一个诊断框架，将这种失败定位到各个 \\textit{指令因素}，\\textit{例如} 可重用的语义组件，例如颜色、动词、对象、大小和空间属性。我们的框架形式化了指令因素偏差，即...",
+                    "title": "【arXiv】用于协助空中交通管制员的可解释强化学习",
+                    "desc": "为了有效地将人工智能集成到医疗保健、自动驾驶和航空等高风险、关键环境中，并推动更高水平的自动化和无缝人机协作，建立对人工智能驱动解决方案的信任至关重要。反过来，信任与人工智能系统的可解释性密切相关。人工智能在各个领域的快速进步凸显了建立信任的挑战，进一步提高了人们对人工智能可解释性的兴趣。...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21582v1"
+                    "url": "http://arxiv.org/abs/2607.22525v1"
                 },
                 {
-                    "title": "【arXiv】GraphVid：交互式图形可控视频生成",
-                    "desc": "由于使用主要限制像素移动的文本提示或运动控制输入来指定精确的多对象交互非常困难，因此可控视频生成仍然具有挑战性。在实践中，基于轨迹的控制通常要求用户为多个对象绘制准确的轨迹，这随着场景复杂性的缩放而变化，并且在遮挡或重叠的情况下变得模糊。为了实现灵活而精确的多主体控制，我们引入了 $\\textbf{...",
+                    "title": "【arXiv】回归税：分解为什么技能帮助和伤害LLM代理人",
+                    "desc": "为法学硕士代理人添加程序技能通常是通过任务成功的平均改进来评估的。然而，这个指标隐藏了一个重要的成本：技能也会让座席变得更糟。我们通过在跨越两个办公自动化基准和三个模型线束堆栈的近 6,000 次运行中比较有技能和没有技能的代理来衡量双方。这使我们能够区分两种结果。回归是在没有技能的情况下解决的任务...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.21580v1"
+                    "url": "http://arxiv.org/abs/2607.22520v1"
                 }
             ]
         },
@@ -274,17 +274,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "加纳时空疟疾发病率的无监督共识异常检测",
-                    "time": "2天前",
+                    "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2607.21559v1"
+                    "url": "https://www.qbitai.com/2026/07/460174.html"
                 },
                 {
                     "rank": 2,
-                    "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-                    "time": "22小时前",
+                    "title": "学习用变压器模型准备分子基态",
+                    "time": "2天前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/07/460174.html"
+                    "url": "http://arxiv.org/abs/2607.22468v1"
                 },
                 {
                     "rank": 3,
@@ -320,73 +320,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
+                    "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
-                },
-                {
-                    "rank": 2,
-                    "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-                    "time": "6小时前",
-                    "emoji": "💰",
                     "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "title": "通过材料科学创新推进下一代人工智能",
-                    "time": "4天前",
-                    "emoji": "🏭",
+                    "time": "5天前",
+                    "emoji": "💰",
                     "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "title": "人工智能如何帮助科学家设计下一代药物",
-                    "time": "2天前",
-                    "emoji": "🌏",
+                    "time": "3天前",
+                    "emoji": "🏭",
                     "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
                 },
                 {
+                    "rank": 4,
+                    "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+                    "time": "2026-07-27",
+                    "emoji": "🌏",
+                    "url": "https://36kr.com/p/3910655616521348?f=rss"
+                },
+                {
                     "rank": 5,
-                    "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-                    "time": "2026-07-26",
+                    "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
+                    "time": "2026-07-27",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3911162147640456?f=rss"
+                    "url": "https://36kr.com/p/3912546487637378?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-                    "time": "2026-07-24",
+                    "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+                    "time": "2026-07-27",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3909160840451465?f=rss"
+                    "url": "https://36kr.com/p/3913118530819457?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "你的下一位面试官，可能不是人",
-                    "time": "2026-07-24",
+                    "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
+                    "time": "2026-07-26",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3909499179767169?f=rss"
+                    "url": "https://36kr.com/p/3911162147640456?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
+                    "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
                     "time": "2026-07-24",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3909358392988806?f=rss"
+                    "url": "https://36kr.com/p/3909160840451465?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "DeepSeek不是理想主义公司，它只是把现实服务于理想",
+                    "title": "你的下一位面试官，可能不是人",
                     "time": "2026-07-24",
                     "emoji": "📰",
-                    "url": "https://36kr.com/p/3909084356433025?f=rss"
+                    "url": "https://36kr.com/p/3909499179767169?f=rss"
                 },
                 {
                     "rank": 10,
-                    "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+                    "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
                     "time": "2026-07-24",
                     "emoji": "🏢",
-                    "url": "https://36kr.com/p/3909033052722310?f=rss"
+                    "url": "https://36kr.com/p/3909358392988806?f=rss"
                 }
             ]
         },
@@ -432,71 +432,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+452,820",
+                    "stars": "+452,889",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+452,540",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+393,005",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+384,123",
+                    "stars": "+384,238",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,729",
+                    "stars": "+246,732",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 6,
+                    "rank": 4,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+240,478",
+                    "stars": "+240,657",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+233,318",
+                    "stars": "+233,685",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+220,478",
+                    "stars": "+220,953",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 7,
+                    "name": "n8n-io/n8n",
+                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+198,123",
+                    "url": "https://github.com/n8n-io/n8n"
+                },
+                {
+                    "rank": 8,
+                    "name": "tensorflow/tensorflow",
+                    "desc": "适合所有人的开源机器学习框架",
+                    "lang": "C++",
+                    "langClass": "lang-cpp",
+                    "stars": "+196,555",
+                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -505,72 +505,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
+            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/"
+            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis",
+            "title": "羞辱间谍软件制造商却从未被抓获的黑客",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460154.html"
+            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+            "title": "100%开源！吴恩达做了个个人桌面Agent",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460041.html"
+            "url": "https://www.qbitai.com/2026/07/460892.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460042.html"
+            "url": "https://www.qbitai.com/2026/07/460542.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/459432.html"
+            "url": "https://www.qbitai.com/2026/07/460253.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "追求让器官在体外保持活力",
+            "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+            "url": "https://www.qbitai.com/2026/07/460234.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "下载：器官移植突破和国产芯片",
+            "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+            "url": "https://www.qbitai.com/2026/07/460186.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+            "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://www.qbitai.com/2026/07/460174.html"
         }
     ],
     "aiTools": [
@@ -617,7 +617,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
+            "text": "人工智能",
             "size": "large"
         },
         {
@@ -625,7 +625,7 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "人工智能",
+            "text": "AI",
             "size": "medium"
         },
         {
@@ -633,11 +633,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Code",
+            "text": "LLM",
             "size": "medium"
         },
         {
-            "text": "VLM",
+            "text": "Code",
             "size": "small"
         },
         {
@@ -645,11 +645,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "代理",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "LoRA",
             "size": "small"
         },
         {
@@ -657,15 +657,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "器官",
-            "size": "small"
-        },
-        {
-            "text": "语言",
-            "size": "small"
-        },
-        {
-            "text": "视频",
+            "text": "智能",
             "size": "small"
         },
         {
@@ -675,63 +667,17 @@ var siteData = {
         {
             "text": "中国",
             "size": "small"
+        },
+        {
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "器官",
+            "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 精美的新型 AI 键盘对某些人来说会很有趣，而其他许多人可能不会碰它。"
-        },
-        {
-            "title": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "该公司在第二次 Starship V3 飞行中又完成了一些任务，但似乎在重新点燃助推器的火箭发动机方面遇到了另一个问题。"
-        },
-        {
-            "title": "由 Reid Hoffman 和 Mark Pincus 共同创立的新人工智能实验室 Prentis 正在洽谈融资 1 亿美元",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Neolab 坚信，日常计算机任务的自动化将很快超过编码，成为人工智能最大的用例。"
-        },
-        {
-            "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "跑出原生全模态新路径"
-        },
-        {
-            "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "给它一张图，还你整个世界"
-        },
-        {
-            "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "王虹主页唯一没挂链接的论文"
-        },
-        {
-            "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI抢跑期，我们看见了全球化新品牌的下一程"
-        },
-        {
-            "title": "追求让器官在体外保持活力",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本周，我报道了一项保存体外器官的令人着迷的努力。供体器官严重短缺，主要原因之一是时间——即使将它们保存在冰上，它们在体外也只能存活几个小时。医生梦想着器官库——可以保存的人体器官的储存库——"
-        },
-        {
-            "title": "下载：器官移植突破和国产芯片",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。一旦器官从捐赠者的体内取出，"
-        },
         {
             "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
             "category": "大模型动态",
@@ -739,22 +685,10 @@ var siteData = {
             "snippet": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。"
         },
         {
-            "title": "图书馆员正在为那些厌倦了大型科技的人们举办病毒式的“避免人工智能”研讨会",
+            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在全国各地的图书馆，“避免人工智能”研讨会引发了前所未有的需求。"
-        },
-        {
-            "title": "卡尔希要求 Netflix 撤下“预测游戏”纪录片的预告片",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "卡尔希声称预告片是“诽谤性的”，并且包含“捏造的文件以及虚假和误导性的陈述”。"
-        },
-        {
-            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "据报道，埃隆·马斯克的隧道初创公司正在就新一轮重大融资进行谈判。"
+            "snippet": "该诉讼可能会重新引发关于定期就业协议在加州是否可执行的争论。法律"
         },
         {
             "title": "羞辱间谍软件制造商却从未被抓获的黑客",
@@ -763,10 +697,70 @@ var siteData = {
             "snippet": "一位令人敬畏的黑客活动分子入侵了两个有争议的政府间谍软件制造商，他可能是迄今为止最多产的黑客。我们对菲尼亚斯·费舍尔了解多少？"
         },
         {
-            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
+            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "据报道，埃隆·马斯克的隧道初创公司正在就新一轮重大融资进行谈判。"
+        },
+        {
+            "title": "100%开源！吴恩达做了个个人桌面Agent",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "该诉讼可能会重新引发关于定期就业协议在加州是否可执行的争论。法律"
+            "snippet": "开源、隐私、本地优先、模型无关"
+        },
+        {
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这是机器人领域最好的时代"
+        },
+        {
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "模型变强，Claude Code系统提示词都精简了"
+        },
+        {
+            "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "不做人形，抓住真实用户需求"
+        },
+        {
+            "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "工业圈和学术圈“唱反调”"
+        },
+        {
+            "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
+        },
+        {
+            "title": "Hugging Face 首席执行官在“史无前例”的 OpenAI 黑客攻击后呼吁“彻底透明”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "“第一次自主代理网络攻击是前所未有的事件。它应该得到前所未有的回应！”"
+        },
+        {
+            "title": "TechCrunch Mobility：Uber 押注于其前首席执行官",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "欢迎回到 TechCrunch Mobility，这是未来交通运输的中心，而现在，人工智能在其中发挥的作用比以往任何时候都更加重要。"
+        },
+        {
+            "title": "伦敦一栋创始人之家内部重写创始人之家规则",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。"
+        },
+        {
+            "title": "理解对中国人工智能的恐慌",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在最新一期的 Equity 节目中，我们讨论了为什么 Moonshot AI 的 Kimi 似乎让硅谷和华尔街感到恐慌。"
         },
         {
             "title": "下载：中国人工智能分裂白宫，版权支出创纪录",
@@ -779,6 +773,12 @@ var siteData = {
             "category": "行业动态",
             "tag": "industry",
             "snippet": "关于人工智能的讨论通常集中在算法、计算能力或对新半导体制造工厂和超大规模数据中心的巨额投资上。但在每一项进步的背后，还有使它们成为可能的另一层创新：先进材料。每一代新一代人工智能技术都需要更强的处理能力、更多的内存、更高的能源效率，以及……"
+        },
+        {
+            "title": "苹果能否制造出不会持续威胁隐私的智能眼镜？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "当苹果准备推出首款智能眼镜时，该公司可能也在努力解决如何解决消费者隐私问题。"
         },
         {
             "title": "下载：NASA 的新型太空望远镜和 OpenAI 的自主黑客",
@@ -817,46 +817,46 @@ var siteData = {
             "snippet": "7月3日，随着热浪席卷该地区，纽约州电网从加拿大进口了52吉瓦时的电力，足以满足当天约9%的总电力需求。其中一些电力通过一条从魁北克延伸到皇后区的 339 英里电力线输送，称为尚普兰哈德逊电力快车 (CHPE)。"
         },
         {
-            "title": "具有隐式和显式几何形状的 3D 感知 VLM",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "尽管进展迅速，但大多数现有的基于 2D 视觉输入构建的视觉语言模型 (VLM) 在处理需要细粒度空间理解和推理的各种 3D 任务时常常遇到困难。为了弥补这一差距，我们提出了 VLM-IE3D，这是一个统一的框架，通过为 VLM 配备从 RG"
+            "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "跑出原生全模态新路径"
         },
         {
-            "title": "具有世界状态寄存器的流式多智能体自回归扩散模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "多智能体交互世界模型不仅应该生成一致的观察结果，还应该维持跨智能体持续存在并跨视图演变的世界状态。现有的自回归视频扩散管道将观察历史记录作为条件上下文，这使得在多代理和多视图设置中难以维护共享状态。我们提出了 WorldWeaver (W^"
+            "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "给它一张图，还你整个世界"
         },
         {
-            "title": "根据不相交数据进行统一视频密集预测",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "场景理解需要同时预测几何、外观和语义。然而，现有的特定于任务的注释分散在不兼容的、特定于域的数据集中。当前的统一系统通过将训练限制为完全共同注释的数据或通过产生伪标记的大量计算成本来规避这一点。为了缓解这个问题，我们引入了 UniD，这是一"
+            "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "王虹主页唯一没挂链接的论文"
         },
         {
-            "title": "通过渐进种子修剪的扩散模型的推理时间缩放",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "扩散和流匹配模型在条件图像生成中占主导地位，但这些模型的推理时间缩放远不如自回归语言模型那么发达。由于最终质量对初始噪声种子高度敏感，因此许多方法在黑盒奖励下的种子搜索或重采样上花费了额外的计算，但通常在整个推理过程中保持恒定的内存占用。我"
+            "title": "追求让器官在体外保持活力",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "本周，我报道了一项保存体外器官的令人着迷的努力。供体器官严重短缺，主要原因之一是时间——即使将它们保存在冰上，它们在体外也只能存活几个小时。医生梦想着器官库——可以保存的人体器官的储存库——"
         },
         {
-            "title": "战略性地扩大规模：通过机器人操作的偏差感知评估和数据收集来学习组合概括",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "组合概括对于机器人遵循不同的指令至关重要。然而，众所周知，预先训练的政策会走捷径，遵循显着的线索而不是基础语言。我们引入了一个诊断框架，将这种失败定位到各个 \\textit{指令因素}，\\textit{例如} 可重用的语义组件，例如颜色、动"
+            "title": "下载：器官移植突破和国产芯片",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。一旦器官从捐赠者的体内取出，"
         },
         {
-            "title": "GraphVid：交互式图形可控视频生成",
+            "title": "通过机器人渲染构建机器人因素的世界模型",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "由于使用主要限制像素移动的文本提示或运动控制输入来指定精确的多对象交互非常困难，因此可控视频生成仍然具有挑战性。在实践中，基于轨迹的控制通常要求用户为多个对象绘制准确的轨迹，这随着场景复杂性的缩放而变化，并且在遮挡或重叠的情况下变得模糊。为"
+            "snippet": "动作条件视频世界模型根据初始观察和动作信号预测未来的观察。在机器人技术中，动作通过两个不同的过程影响未来的观察：它们首先由机器人主体和控制器实现为机器人运动，然后场景通过接触和物体运动做出响应。直接根据动作命令进行调节要求世界模型学习实现过"
         },
         {
-            "title": "Barzilai-Borwein 在每维 $n\\geq 4$ 的开二次方程组上超线性收敛失败",
+            "title": "SM4RT：学习结构化运动几何以进行 4D 重建",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Barzilai--Borwein (BB) 方法在连续优化方面表现出了很强的实用性能，但其收敛动力学仍然知之甚少。特别是，一个未解决的核心问题是 BB 是否对于几乎每个严格凸二次问题和初始化都超线性收敛。我们对这个问题给出否定的答案。具体"
+            "snippet": "几何基础模型 (GFM) 具有相当先进的单目 3D 重建能力，但将这种能力扩展到 4D 动态理解仍然是一个基本挑战。大多数现有的运动感知方法（例如稀疏跟踪、密集的逐点流）将运动视为独立的逐点位移，忽略了物理运动的结构化本质。然而，现实世界的"
         }
     ]
 }
