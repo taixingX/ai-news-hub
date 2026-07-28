@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-27 01:52:01
+ * 生成时间: 2026-07-28 01:26:45
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
-            "summary": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。",
-            "source": "TechCrunch AI",
+            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+            "summary": "项目数据模型均开源",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://www.qbitai.com/2026/07/460962.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
-            "summary": "该诉讼可能会重新引发关于定期就业协议在加州是否可执行的争论。法律",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "Zing：法学硕士的社会思维",
+            "summary": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综",
+            "source": "arXiv",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+            "url": "http://arxiv.org/abs/2607.23740v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "羞辱间谍软件制造商却从未被抓获的黑客",
-            "summary": "一位令人敬畏的黑客活动分子入侵了两个有争议的政府间谍软件制造商，他可能是迄今为止最多产的黑客。我们对菲尼亚斯·费舍尔了解多少？",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
+            "summary": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试",
+            "source": "arXiv",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
+            "url": "http://arxiv.org/abs/2607.23735v1"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-            "summary": "据报道，埃隆·马斯克的隧道初创公司正在就新一轮重大融资进行谈判。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "人工智能战略：如何选择实施什么人工智能产品",
+            "summary": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）",
+            "source": "arXiv",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+            "url": "http://arxiv.org/abs/2607.23733v1"
         }
     ],
     "quickNews": [
         {
-            "time": "01:51",
-            "text": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+            "time": "01:26",
+            "text": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
             "hot": true,
-            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://www.qbitai.com/2026/07/460962.html"
         },
         {
-            "time": "01:51",
-            "text": "华纳兄弟诉讼指控亚马逊非法挖角高管",
+            "time": "01:26",
+            "text": "Zing：法学硕士的社会思维",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+            "url": "http://arxiv.org/abs/2607.23740v1"
         },
         {
-            "time": "01:51",
-            "text": "羞辱间谍软件制造商却从未被抓获的黑客",
+            "time": "01:26",
+            "text": "教师的无来源受控适应，以实现持续的考试时间适应",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
+            "url": "http://arxiv.org/abs/2607.23735v1"
         },
         {
-            "time": "01:51",
-            "text": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
+            "time": "01:26",
+            "text": "人工智能战略：如何选择实施什么人工智能产品",
             "hot": false,
-            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+            "url": "http://arxiv.org/abs/2607.23733v1"
         },
         {
-            "time": "01:51",
-            "text": "100%开源！吴恩达做了个个人桌面Agent",
+            "time": "01:26",
+            "text": "128 阶群中卡尔森关联素数深度猜想的精确反例",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460892.html"
+            "url": "http://arxiv.org/abs/2607.23732v1"
         },
         {
-            "time": "01:51",
-            "text": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "time": "01:26",
+            "text": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460542.html"
+            "url": "http://arxiv.org/abs/2607.23722v1"
         },
         {
-            "time": "01:51",
-            "text": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "time": "01:26",
+            "text": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460253.html"
+            "url": "http://arxiv.org/abs/2607.23715v1"
         },
         {
-            "time": "01:51",
-            "text": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+            "time": "01:26",
+            "text": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/460234.html"
+            "url": "http://arxiv.org/abs/2607.23710v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
-                    "source": "TechCrunch AI",
+                    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+                    "url": "https://www.qbitai.com/2026/07/460962.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。..."
+                    "desc": "项目数据模型均开源..."
                 },
                 {
-                    "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
-                    "source": "TechCrunch AI",
+                    "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+                    "url": "http://arxiv.org/abs/2607.23722v1"
                 },
                 {
-                    "title": "羞辱间谍软件制造商却从未被抓获的黑客",
-                    "source": "TechCrunch AI",
+                    "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
+                    "url": "http://arxiv.org/abs/2607.23710v1"
                 },
                 {
-                    "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-                    "source": "TechCrunch AI",
+                    "title": "专注就是你所需要的：多智能体图系统的自适应目标感知注意力编排",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+                    "category": "gpt",
+                    "url": "http://arxiv.org/abs/2607.23678v1"
                 },
                 {
-                    "title": "100%开源！吴恩达做了个个人桌面Agent",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "亚马逊的新手机卫星网络可能会加剧 SpaceX 的压力",
+                    "source": "TechCrunch AI",
+                    "time": "7小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/07/460892.html"
+                    "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】通过机器人渲染构建机器人因素的世界模型",
-                    "desc": "动作条件视频世界模型根据初始观察和动作信号预测未来的观察。在机器人技术中，动作通过两个不同的过程影响未来的观察：它们首先由机器人主体和控制器实现为机器人运动，然后场景通过接触和物体运动做出响应。直接根据动作命令进行调节要求世界模型学习实现过程本身，而根据记录的未来状态进行调节会泄漏交互信息...",
+                    "title": "【arXiv】Zing：法学硕士的社会思维",
+                    "desc": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综合框架。为了进行测量，我们引入了 SoMBench，这是一个基于心理学的基准，涵盖 3 个主要维度、...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22535v1"
+                    "url": "http://arxiv.org/abs/2607.23740v1"
                 },
                 {
-                    "title": "【arXiv】SM4RT：学习结构化运动几何以进行 4D 重建",
-                    "desc": "几何基础模型 (GFM) 具有相当先进的单目 3D 重建能力，但将这种能力扩展到 4D 动态理解仍然是一个基本挑战。大多数现有的运动感知方法（例如稀疏跟踪、密集的逐点流）将运动视为独立的逐点位移，忽略了物理运动的结构化本质。然而，现实世界的物体通常遵循刚体运动学，因此点通常集体移动，而不是孤立的。中...",
+                    "title": "【arXiv】教师的无来源受控适应，以实现持续的考试时间适应",
+                    "desc": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试数据中生成伪标签以进行自我训练。教师平均值更新为学生参数的指数移动平均值...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22534v1"
+                    "url": "http://arxiv.org/abs/2607.23735v1"
                 },
                 {
-                    "title": "【arXiv】双胞胎：学习通过焦点损失预测统一表示",
-                    "desc": "统一的多模态模型寻求一个支持多模态理解和图像生成的共享视觉标记空间。离散方法通过共享代码本统一接口，而连续管道通常依赖于两种不同的表示——用于理解的语义特征（例如 ViT）和用于合成的低级潜在特征（例如 VAE）——导致潜在空间不匹配。我们提出 Twins，一个由通道级连接 ViT 和 VAE f ...",
+                    "title": "【arXiv】人工智能战略：如何选择实施什么人工智能产品",
+                    "desc": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）标记了销售推广机会，并在年度总佣金收入中占据了九位数的份额。另一种备受推崇的人工智能产品（一种上市时...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22531v1"
+                    "url": "http://arxiv.org/abs/2607.23733v1"
                 },
                 {
-                    "title": "【arXiv】技能自我发挥：通过共同发展的技能推动法学硕士能力的前沿",
-                    "desc": "LLM培训正在从手动设计和注释转向交互驱动的自我进化。然而，现有的自进化方法在任务多样性和验证可靠性之间面临着根本性的困境：受环境限制的方法获得精确的反馈，但将学习限制在狭窄的领域，而开放式的自生成扩大了任务空间，但缺乏可靠的验证，导致误导性奖励污染训练循环。我们将座席技能视为强大的力量...",
+                    "title": "【arXiv】128 阶群中卡尔森关联素数深度猜想的精确反例",
+                    "desc": "在他 1995 年关于深度和传递的论文的 Question~3.1 中，卡尔森询问有限群上同调环的深度是否总是由其相关素数之一的维数来实现。我们给出否定的答案。设\\[ G=\\SG{128}{859},\\qquad k=\\kbar。 \\] 精确的呈现证书证明$\\深度H^*(G;k)=2$。奥山关联素数...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22529v1"
+                    "url": "http://arxiv.org/abs/2607.23732v1"
                 },
                 {
-                    "title": "【arXiv】用于协助空中交通管制员的可解释强化学习",
-                    "desc": "为了有效地将人工智能集成到医疗保健、自动驾驶和航空等高风险、关键环境中，并推动更高水平的自动化和无缝人机协作，建立对人工智能驱动解决方案的信任至关重要。反过来，信任与人工智能系统的可解释性密切相关。人工智能在各个领域的快速进步凸显了建立信任的挑战，进一步提高了人们对人工智能可解释性的兴趣。...",
+                    "title": "【arXiv】E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
+                    "desc": "大型语言模型 (LLM) 越来越多地部署为通过多个步骤与有状态环境交互的代理：收集隐藏信息、编写工具调用和提交状态更改。我们将此功能称为多步骤工具使用。现有的基准测试具有先进的工具使用代理评估，但通常侧重于孤立的 API 调用、短轨迹或难以扩展或控制的设置。我们推出 E-Bench，这是一个具有 3...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22525v1"
+                    "url": "http://arxiv.org/abs/2607.23722v1"
                 },
                 {
-                    "title": "【arXiv】回归税：分解为什么技能帮助和伤害LLM代理人",
-                    "desc": "为法学硕士代理人添加程序技能通常是通过任务成功的平均改进来评估的。然而，这个指标隐藏了一个重要的成本：技能也会让座席变得更糟。我们通过在跨越两个办公自动化基准和三个模型线束堆栈的近 6,000 次运行中比较有技能和没有技能的代理来衡量双方。这使我们能够区分两种结果。回归是在没有技能的情况下解决的任务...",
+                    "title": "【arXiv】ARCH HDL 中经过正式验证的可综合浮点数据类型",
+                    "desc": "我们报告了 ARCH 的一流 IEEE-754 binary32 (FP32) 和 bfloat16 (BF16) 算法的设计和端到端验证，ARCH 是一种旨在由语言模型生成的硬件描述语言。每个运算符 - 比较、转换、加法、减法、乘法和融合乘法加法 (FMA) - 都针对单个位向量 IR 进行一次描...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.22520v1"
+                    "url": "http://arxiv.org/abs/2607.23715v1"
                 }
             ]
         },
@@ -274,43 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-                    "time": "昨天",
+                    "title": "苹果因涉嫌 App Store 加密诈骗导致用户损失 180 万美元而被起诉",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/07/460174.html"
+                    "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/"
                 },
                 {
                     "rank": 2,
-                    "title": "学习用变压器模型准备分子基态",
-                    "time": "2天前",
+                    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+                    "time": "23小时前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2607.22468v1"
+                    "url": "https://www.qbitai.com/2026/07/461149.html"
                 },
                 {
                     "rank": 3,
-                    "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
-                    "time": "2026-07-25",
+                    "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+                    "time": "2026-07-28",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3910880823202948?f=rss"
+                    "url": "https://36kr.com/p/3914520847570307?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-                    "time": "2026-07-24",
+                    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布",
+                    "time": "2026-07-27",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3909565569324163?f=rss"
+                    "url": "https://36kr.com/p/3913320648971395?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
+                    "time": "2026-07-27",
                     "emoji": "⚖️",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://36kr.com/p/3913736066028932?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
+                    "time": "2026-07-27",
+                    "emoji": "🎵",
+                    "url": "https://36kr.com/p/3912369056240772?f=rss"
+                },
+                {
+                    "rank": 7,
+                    "title": "优衣库一边关店，一边赚钱",
+                    "time": "2026-07-27",
+                    "emoji": "📝",
+                    "url": "https://36kr.com/p/3913266058826880?f=rss"
+                },
+                {
+                    "rank": 8,
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
+                    "emoji": "🤖",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
         },
@@ -320,73 +336,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-                    "time": "昨天",
+                    "title": "DeepSeek被曝主动叫停了第二轮融资签约",
+                    "time": "20小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+                    "url": "https://www.qbitai.com/2026/07/461220.html"
                 },
                 {
                     "rank": 2,
-                    "title": "通过材料科学创新推进下一代人工智能",
-                    "time": "5天前",
+                    "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
+                    "time": "2026-07-27",
                     "emoji": "💰",
-                    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+                    "url": "https://36kr.com/p/3913490184754313?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "人工智能如何帮助科学家设计下一代药物",
-                    "time": "3天前",
-                    "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
-                },
-                {
-                    "rank": 4,
                     "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
                     "time": "2026-07-27",
-                    "emoji": "🌏",
+                    "emoji": "🏭",
                     "url": "https://36kr.com/p/3910655616521348?f=rss"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
                     "time": "2026-07-27",
-                    "emoji": "📉",
+                    "emoji": "🌏",
                     "url": "https://36kr.com/p/3912546487637378?f=rss"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
                     "time": "2026-07-27",
-                    "emoji": "🔄",
+                    "emoji": "📉",
                     "url": "https://36kr.com/p/3913118530819457?f=rss"
                 },
                 {
+                    "rank": 6,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🔄",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                },
+                {
                     "rank": 7,
-                    "title": "硬氪首发 | 复旦教授、前英特尔首席科学家做端侧具身大脑，「眸深智能」完成近亿元Pre-A轮追加融资",
-                    "time": "2026-07-26",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "🚀",
-                    "url": "https://36kr.com/p/3911162147640456?f=rss"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
                     "rank": 8,
-                    "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-                    "time": "2026-07-24",
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所人工智能领域与微软和谷歌展开竞争",
+                    "time": "2026-01-13",
                     "emoji": "🤝",
-                    "url": "https://36kr.com/p/3909160840451465?f=rss"
-                },
-                {
-                    "rank": 9,
-                    "title": "你的下一位面试官，可能不是人",
-                    "time": "2026-07-24",
-                    "emoji": "📰",
-                    "url": "https://36kr.com/p/3909499179767169?f=rss"
-                },
-                {
-                    "rank": 10,
-                    "title": "对话曾鸣教授：AI时代，企业竞争的关键是构建智能复利，让AI真正进入业务流程",
-                    "time": "2026-07-24",
-                    "emoji": "🏢",
-                    "url": "https://36kr.com/p/3909358392988806?f=rss"
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 }
             ]
         },
@@ -432,71 +434,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+452,889",
+                    "stars": "+452,981",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+393,155",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+384,238",
+                    "stars": "+384,353",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+362,897",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
+                },
+                {
+                    "rank": 5,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "基于项目的教程精选列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+275,499",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 6,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,732",
+                    "stars": "+246,750",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 4,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+240,657",
+                    "stars": "+240,790",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 5,
+                    "rank": 8,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+233,685",
+                    "stars": "+234,192",
                     "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 6,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+220,953",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 7,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+198,123",
-                    "url": "https://github.com/n8n-io/n8n"
-                },
-                {
-                    "rank": 8,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "适合所有人的开源机器学习框架",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+196,555",
-                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -505,72 +507,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "url": "https://www.qbitai.com/2026/07/460962.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
+            "title": "Zing：法学硕士的社会思维",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+            "url": "http://arxiv.org/abs/2607.23740v1"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "羞辱间谍软件制造商却从未被抓获的黑客",
+            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/"
+            "url": "http://arxiv.org/abs/2607.23735v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的",
+            "title": "人工智能战略：如何选择实施什么人工智能产品",
             "heat": "",
-            "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/"
+            "url": "http://arxiv.org/abs/2607.23733v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "100%开源！吴恩达做了个个人桌面Agent",
+            "title": "128 阶群中卡尔森关联素数深度猜想的精确反例",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460892.html"
+            "url": "http://arxiv.org/abs/2607.23732v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460542.html"
+            "url": "http://arxiv.org/abs/2607.23722v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "title": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460253.html"
+            "url": "http://arxiv.org/abs/2607.23715v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+            "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460234.html"
+            "url": "http://arxiv.org/abs/2607.23710v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+            "title": "LabRobFail：化学自动驾驶实验室机器人故障分析基准",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460186.html"
+            "url": "http://arxiv.org/abs/2607.23704v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+            "title": "用于多模态推理的离线-在线课程强化学习",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/07/460174.html"
+            "url": "http://arxiv.org/abs/2607.23700v1"
         }
     ],
     "aiTools": [
@@ -625,15 +627,15 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
-            "size": "medium"
-        },
-        {
             "text": "Claude",
             "size": "medium"
         },
         {
-            "text": "LLM",
+            "text": "代理",
+            "size": "medium"
+        },
+        {
+            "text": "AI",
             "size": "medium"
         },
         {
@@ -641,15 +643,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "AnySearch",
-            "size": "small"
-        },
-        {
-            "text": "代理",
-            "size": "small"
-        },
-        {
-            "text": "LoRA",
+            "text": "OpenAI",
             "size": "small"
         },
         {
@@ -657,140 +651,190 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "产品",
             "size": "small"
         },
         {
-            "text": "科技",
-            "size": "small"
-        },
-        {
-            "text": "中国",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
+            "text": "LLM",
             "size": "small"
         },
         {
             "text": "器官",
             "size": "small"
+        },
+        {
+            "text": "智能",
+            "size": "small"
+        },
+        {
+            "text": "工具",
+            "size": "small"
+        },
+        {
+            "text": "ARCH",
+            "size": "small"
+        },
+        {
+            "text": "LabRobFail",
+            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "按时间倒序顺序观察今年宣布大幅裁员的大型科技公司，其中人工智能是一个明确的因素。"
+            "snippet": "项目数据模型均开源"
         },
         {
-            "title": "华纳兄弟诉讼指控亚马逊非法挖角高管",
+            "title": "Zing：法学硕士的社会思维",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综合框架。为了进行测量，我们引入了 SoM"
+        },
+        {
+            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试数据中生成伪标签以进行自我训练。教师平均"
+        },
+        {
+            "title": "人工智能战略：如何选择实施什么人工智能产品",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）标记了销售推广机会，并在年度总佣金收入中"
+        },
+        {
+            "title": "128 阶群中卡尔森关联素数深度猜想的精确反例",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在他 1995 年关于深度和传递的论文的 Question~3.1 中，卡尔森询问有限群上同调环的深度是否总是由其相关素数之一的维数来实现。我们给出否定的答案。设\\[ G=\\SG{128}{859},\\qquad k=\\kbar。 \\] 精"
+        },
+        {
+            "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "该诉讼可能会重新引发关于定期就业协议在加州是否可执行的争论。法律"
+            "snippet": "大型语言模型 (LLM) 越来越多地部署为通过多个步骤与有状态环境交互的代理：收集隐藏信息、编写工具调用和提交状态更改。我们将此功能称为多步骤工具使用。现有的基准测试具有先进的工具使用代理评估，但通常侧重于孤立的 API 调用、短轨迹或难以"
         },
         {
-            "title": "羞辱间谍软件制造商却从未被抓获的黑客",
+            "title": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们报告了 ARCH 的一流 IEEE-754 binary32 (FP32) 和 bfloat16 (BF16) 算法的设计和端到端验证，ARCH 是一种旨在由语言模型生成的硬件描述语言。每个运算符 - 比较、转换、加法、减法、乘法和融合"
+        },
+        {
+            "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一位令人敬畏的黑客活动分子入侵了两个有争议的政府间谍软件制造商，他可能是迄今为止最多产的黑客。我们对菲尼亚斯·费舍尔了解多少？"
+            "snippet": "大型语言模型 (LLM) 越来越多地集成到软件开发工作流程中，但它们自主生成安全身份验证代码的能力仍然不确定。本文通过结合静态代码分析和动态渗透测试的双模态评估框架（映射到 NIST SP 800-63B 指南）评估了由五位著名人工智能编码"
         },
         {
-            "title": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "据报道，埃隆·马斯克的隧道初创公司正在就新一轮重大融资进行谈判。"
+            "title": "LabRobFail：化学自动驾驶实验室机器人故障分析基准",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "在自动驾驶实验室中部署实体代理可以加速科学发现，但其可靠性受到化学实验的不可逆性和安全关键性的限制。故障数据稀缺和缺乏细粒度的评估协议进一步阻碍了进展。为了应对这些挑战，我们推出了 LabRobFail，这是一个以故障为中心的框架，用于学习"
         },
         {
-            "title": "100%开源！吴恩达做了个个人桌面Agent",
+            "title": "用于多模态推理的离线-在线课程强化学习",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "多模态大语言模型表现出推理任务的能力，但通常会产生有缺陷的中间步骤，同时产生正确的最终答案。这种行为破坏了可解释性和可靠性，表明依赖于虚假的捷径而不是忠实的推理。尽管人们已经探索了步骤级监管，但区分决定性步骤和冗余步骤仍然具有挑战性。我们提"
+        },
+        {
+            "title": "通过生成模型和自适应测试进行线下到线上的创意优化",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "广告创意优化越来越受到评估而非生成的限制。生成模型可以产生许多看似合理的创意，但可靠的评估需要在线实验，其中只能测试有限的板岩。我们研究如何使用历史 A/B 测试的数据来生成和选择该名单中的候选人。我们开发并部署了性能驱动的离线到在线工作流"
+        },
+        {
+            "title": "SAM3 的参数高效适应快速驱动的手术概念分割",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "高效的手术分割支持临床诊断、术中监测以及用于重建和模拟的下游机器人管道。尽管像 Segment Anything Model 3 (SAM3) 这样的提示驱动基础模型在自然图像上实现了强大的分割性能，但手术数据与其预训练数据表现出域差距，导"
+        },
+        {
+            "title": "全局计算，本地实现：稀疏事件-KV 的内存契约",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "长视野代理越来越多地重用其 KV 缓存作为内存：服务系统保留缓存条目的子集并丢弃其余条目。因此，逐出和情景记忆方案依赖于一个很少直接测试的前提，即一旦产生它的观察消失，保留的事件仍然具有信息性。我们通过在其他相同的代理历史中省略所提供的服务"
+        },
+        {
+            "title": "GNM 头部：人体头部的生成人体测量模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "人体头部的参数模型是传统上用于计算机视觉和图形动画、渲染和重建的重要工具。最近，它们在生成大视觉模型中充当关键的调节信号，允许对生成的图像进行严格的空间控制。然而，现有的公开可用模型通常在解剖范围上受到限制，仅对外部几何形状进行建模，而忽略"
+        },
+        {
+            "title": "扰动感知扩散引导混合分割，用于稳健且注释高效的植物胁迫表型分析",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "农业图像中的语义分割通常在域内协议下进行评估，但实际部署需要对外观扰动、有限注释和跨域转移具有鲁棒性。本文提出了一种扩散引导的混合分割框架，其中 U-Net、DeepLabV3+ 和 SegFormer 主干网生成粗略掩模，并通过去噪扩散概"
+        },
+        {
+            "title": "专注就是你所需要的：多智能体图系统的自适应目标感知注意力编排",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "开源、隐私、本地优先、模型无关"
+            "snippet": "大型语言模型 (LLM) 使自主代理能够进行推理、规划和工具使用。最近的系统越来越多地将这些代理组织为专门的互连节点图。尽管基于图的编排支持灵活的分解和协调，但它带来了一个关键挑战：\\textbf{注意力分配}。随着工作流程的增长，现有方法"
         },
         {
-            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "title": "亚马逊的新手机卫星网络可能会加剧 SpaceX 的压力",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "这是机器人领域最好的时代"
+            "snippet": "亚马逊正在扩大其为手机提供卫星连接的计划。"
         },
         {
-            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "title": "Antares 筹集 4.7 亿美元为美军建造核反应堆",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "模型变强，Claude Code系统提示词都精简了"
+            "snippet": "Antares 已筹集 4.7 亿美元，用于为美国空军基地建造小型模块化反应堆（100 kW 至 1 MW）。"
         },
         {
-            "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+            "title": "OpenAI 的 Hugging Face 漏洞重新引发了关于对齐和控制的争论",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "不做人形，抓住真实用户需求"
+            "snippet": "OpenAI 的 Hugging Face 漏洞重新引发了关于人工智能调整和控制的争论，暴露了关于能力日益增强的人工智能是否应该更好地调整、更好地遏制或两者兼而有之的相互竞争的观点。"
         },
         {
-            "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+            "title": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，当我读到 OpenAI 的报道时，我第一次了解到它的一些模型如何突破遏制并侵入另一家人工智能公司 Hugging Face 的计算"
+        },
+        {
+            "title": "微软推出首个网络安全模型以及新的代理网络安全系统",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "工业圈和学术圈“唱反调”"
+            "snippet": "微软本周推出了首个人工智能安全模型和新的安全平台，增强了其人工智能网络安全产品。"
         },
         {
-            "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+            "title": "苹果因涉嫌 App Store 加密诈骗导致用户损失 180 万美元而被起诉",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "单卡突破10000 video tokens/s，Vivix打通实时多模态生成全链路"
+            "snippet": "苹果正面临三名用户的诉讼，他们称他们从 App Store 下载了一个欺诈性的加密钱包后总共损失了超过 180 万美元，这对该公司长期以来声称其应用程序审核流程可确保用户免受诈骗的说法提出了挑战。"
         },
         {
-            "title": "Hugging Face 首席执行官在“史无前例”的 OpenAI 黑客攻击后呼吁“彻底透明”",
+            "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "“第一次自主代理网络攻击是前所未有的事件。它应该得到前所未有的回应！”"
+            "snippet": "该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。"
         },
         {
-            "title": "TechCrunch Mobility：Uber 押注于其前首席执行官",
+            "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "欢迎回到 TechCrunch Mobility，这是未来交通运输的中心，而现在，人工智能在其中发挥的作用比以往任何时候都更加重要。"
+            "snippet": "纳德拉表示，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦。"
         },
         {
-            "title": "伦敦一栋创始人之家内部重写创始人之家规则",
+            "title": "Thea Energy 获得 2000 万美元联邦拨款，用于制造聚变反应堆磁体",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。"
+            "snippet": "聚变发电初创公司 Thea Energy 获得了 ARPA-E 的 2000 万美元资助，用于扩大其高温超导磁体的生产规模。"
         },
         {
-            "title": "理解对中国人工智能的恐慌",
+            "title": "随着竞争对手竞相收购，Peacock 通过与 YouTube 达成新协议押注捆绑销售",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在最新一期的 Equity 节目中，我们讨论了为什么 Moonshot AI 的 Kimi 似乎让硅谷和华尔街感到恐慌。"
-        },
-        {
-            "title": "下载：中国人工智能分裂白宫，版权支出创纪录",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾上周末，唐纳德·特朗普总统的几位现任和前任人工智能顾问公开侮辱了该国领先的人工智能领域。"
-        },
-        {
-            "title": "通过材料科学创新推进下一代人工智能",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "关于人工智能的讨论通常集中在算法、计算能力或对新半导体制造工厂和超大规模数据中心的巨额投资上。但在每一项进步的背后，还有使它们成为可能的另一层创新：先进材料。每一代新一代人工智能技术都需要更强的处理能力、更多的内存、更高的能源效率，以及……"
-        },
-        {
-            "title": "苹果能否制造出不会持续威胁隐私的智能眼镜？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "当苹果准备推出首款智能眼镜时，该公司可能也在努力解决如何解决消费者隐私问题。"
-        },
-        {
-            "title": "下载：NASA 的新型太空望远镜和 OpenAI 的自主黑客",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国宇航局新型太空望远镜上的变形镜可以揭示像我们自己的木星一样当美国宇航局的南希·格雷斯·罗曼太空望远镜发射时，最早在下个月底，它将&#8230;"
-        },
-        {
-            "title": "美国宇航局新太空望远镜上的变形镜可以揭示像我们自己的木星一样的木星",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "当美国宇航局的南希·格蕾丝·罗曼太空望远镜最早于下月底发射时，它将尝试迄今为止天文学上最精确的消失行为之一。该望远镜将携带第一台太空“主动”日冕仪，这种仪器可以在摄影过程中有效地消除恒星的大部分光线。它将允许天文学家“"
+            "snippet": "该交易意味着内容将整合到 YouTube 体验中，让观众无需离开平台即可发现和观看 Peacock 内容。"
         },
         {
             "title": "过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”",
@@ -805,36 +849,6 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。可能重塑纽约电网的输电线遇到了障碍。在 7 月 3 日的热浪期间，纽约州电网从加拿大进口了足够的电力来满足大约 100% 的电力需求。"
         },
         {
-            "title": "人工智能如何帮助科学家设计下一代药物",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "设计和开发新药是一项昂贵且容易失败的科学挑战。一种新药的开发可能需要多年时间，并且需要大量投资。即便如此，大多数可能的候选人也永远无法接触到患者。对于生物药物，由工程蛋白质而不是合成化学（通常用于“治疗”）制成的疗法。"
-        },
-        {
-            "title": "可能重塑纽约电网的输电线遇到了障碍",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "7月3日，随着热浪席卷该地区，纽约州电网从加拿大进口了52吉瓦时的电力，足以满足当天约9%的总电力需求。其中一些电力通过一条从魁北克延伸到皇后区的 339 英里电力线输送，称为尚普兰哈德逊电力快车 (CHPE)。"
-        },
-        {
-            "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "跑出原生全模态新路径"
-        },
-        {
-            "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "给它一张图，还你整个世界"
-        },
-        {
-            "title": "菲尔兹奖得主王虹，也发过NeurIPS",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "王虹主页唯一没挂链接的论文"
-        },
-        {
             "title": "追求让器官在体外保持活力",
             "category": "AI研究",
             "tag": "research",
@@ -845,18 +859,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。一旦器官从捐赠者的体内取出，"
-        },
-        {
-            "title": "通过机器人渲染构建机器人因素的世界模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "动作条件视频世界模型根据初始观察和动作信号预测未来的观察。在机器人技术中，动作通过两个不同的过程影响未来的观察：它们首先由机器人主体和控制器实现为机器人运动，然后场景通过接触和物体运动做出响应。直接根据动作命令进行调节要求世界模型学习实现过"
-        },
-        {
-            "title": "SM4RT：学习结构化运动几何以进行 4D 重建",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "几何基础模型 (GFM) 具有相当先进的单目 3D 重建能力，但将这种能力扩展到 4D 动态理解仍然是一个基本挑战。大多数现有的运动感知方法（例如稀疏跟踪、密集的逐点流）将运动视为独立的逐点位移，忽略了物理运动的结构化本质。然而，现实世界的"
         }
     ]
 }
