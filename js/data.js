@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-07-28 01:26:45
+ * 生成时间: 2026-07-29 01:27:28
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-            "summary": "项目数据模型均开源",
+            "title": "突然，翁荔离开Thinking Machines",
+            "summary": "20个月「像过完了一辈子」",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/07/460962.html"
+            "url": "https://www.qbitai.com/2026/07/461517.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Zing：法学硕士的社会思维",
-            "summary": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综",
-            "source": "arXiv",
+            "tag": "头条 · 大模型",
+            "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+            "summary": "一次技术与场景的深度耦合",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "http://arxiv.org/abs/2607.23740v1"
+            "url": "https://www.qbitai.com/2026/07/461444.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
-            "summary": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试",
-            "source": "arXiv",
+            "tag": "头条 · 大模型",
+            "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+            "summary": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "http://arxiv.org/abs/2607.23735v1"
+            "url": "https://www.qbitai.com/2026/07/461398.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "人工智能战略：如何选择实施什么人工智能产品",
-            "summary": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）",
-            "source": "arXiv",
+            "tag": "独家 · 研究",
+            "title": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
+            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，当我读到 OpenAI 的报道时，我第一次了解到它的一些模型如何突破遏制并侵入另一家人工智",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2607.23733v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:26",
-            "text": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+            "time": "01:27",
+            "text": "突然，翁荔离开Thinking Machines",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/07/460962.html"
+            "url": "https://www.qbitai.com/2026/07/461517.html"
         },
         {
-            "time": "01:26",
-            "text": "Zing：法学硕士的社会思维",
+            "time": "01:27",
+            "text": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23740v1"
+            "url": "https://www.qbitai.com/2026/07/461444.html"
         },
         {
-            "time": "01:26",
-            "text": "教师的无来源受控适应，以实现持续的考试时间适应",
+            "time": "01:27",
+            "text": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23735v1"
+            "url": "https://www.qbitai.com/2026/07/461398.html"
         },
         {
-            "time": "01:26",
-            "text": "人工智能战略：如何选择实施什么人工智能产品",
+            "time": "01:27",
+            "text": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23733v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
         },
         {
-            "time": "01:26",
-            "text": "128 阶群中卡尔森关联素数深度猜想的精确反例",
+            "time": "01:27",
+            "text": "激光器如何帮助为核反应堆提供燃料",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23732v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
         },
         {
-            "time": "01:26",
-            "text": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
+            "time": "01:27",
+            "text": "下载：用于核燃料的激光器和器官保存的进展",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23722v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
         },
         {
-            "time": "01:26",
-            "text": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
+            "time": "01:27",
+            "text": "通往超级人工智能之路",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23715v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
         },
         {
-            "time": "01:26",
-            "text": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
+            "time": "01:27",
+            "text": "关闭人工智能驱动药物发现的数据循环",
             "hot": false,
-            "url": "http://arxiv.org/abs/2607.23710v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+                    "title": "突然，翁荔离开Thinking Machines",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/07/460962.html",
+                    "url": "https://www.qbitai.com/2026/07/461517.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "项目数据模型均开源..."
+                    "desc": "20个月「像过完了一辈子」..."
                 },
                 {
-                    "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
-                    "source": "arXiv",
+                    "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2607.23722v1"
+                    "url": "https://www.qbitai.com/2026/07/461444.html"
                 },
                 {
-                    "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
-                    "source": "arXiv",
+                    "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2607.23710v1"
+                    "url": "https://www.qbitai.com/2026/07/461398.html"
                 },
                 {
-                    "title": "专注就是你所需要的：多智能体图系统的自适应目标感知注意力编排",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "HBO Max 通过新的“Shorts”提要拥抱垂直视频",
+                    "source": "TechCrunch AI",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2607.23678v1"
+                    "url": "https://techcrunch.com/2026/07/28/hbo-max-embraces-vertical-video-with-a-new-shorts-feed/"
                 },
                 {
-                    "title": "亚马逊的新手机卫星网络可能会加剧 SpaceX 的压力",
+                    "title": "Ozlo 的 Sleepbuds 2 以 Bose 的睡眠耳塞传统为基础",
                     "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/"
+                    "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Zing：法学硕士的社会思维",
-                    "desc": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综合框架。为了进行测量，我们引入了 SoMBench，这是一个基于心理学的基准，涵盖 3 个主要维度、...",
+                    "title": "【arXiv】OmniQEC：人工智能科学家发现实用的量子纠错码",
+                    "desc": "量子纠错（QEC）对于可扩展的容错量子计算是不可或缺的。然而，发现仍然有效的 QEC 代码具有挑战性，因为逻辑性能取决于代码结构、硬件、校正子提取和解码之间的相互作用，而这通常会提出相互竞争的要求。在这里，我们介绍 OmniQEC，这是一位高效的人工智能科学家，用于发现适合在现代量子处理器上部署的 ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23740v1"
+                    "url": "http://arxiv.org/abs/2607.25865v1"
                 },
                 {
-                    "title": "【arXiv】教师的无来源受控适应，以实现持续的考试时间适应",
-                    "desc": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试数据中生成伪标签以进行自我训练。教师平均值更新为学生参数的指数移动平均值...",
+                    "title": "【arXiv】语言弱监督的开放式 CT 体积分割",
+                    "desc": "我们介绍了一种训练 CT 扫描的文本条件分割模型的方法，该方法将体素级监督与来自报告的粗略但可扩展的切片级监督相结合。我们从扫描报告对的大型数据库中提取对发现结果的描述以及发生这些发现的切片索引。然后，我们对通用 2D 图像分割模型 SAM3 进行微调，该模型具有来自强标记数据的标准分割损失和来自强...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23735v1"
+                    "url": "http://arxiv.org/abs/2607.25860v1"
                 },
                 {
-                    "title": "【arXiv】人工智能战略：如何选择实施什么人工智能产品",
-                    "desc": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）标记了销售推广机会，并在年度总佣金收入中占据了九位数的份额。另一种备受推崇的人工智能产品（一种上市时...",
+                    "title": "【arXiv】盾星",
+                    "desc": "我们推出了 Shieldstral，这是一种 3B 参数策略自适应多模式安全分类器，它在文本安全基准上匹配或优于其大小近 7 倍的模型，并设定了多模式安全分类的新技术水平。 Shieldstral 将内容审核制定为二元问答任务。这个简单的公式将不同的审核任务统一为一个是/否问题，从而使具有不同分类法...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23733v1"
+                    "url": "http://arxiv.org/abs/2607.25857v1"
                 },
                 {
-                    "title": "【arXiv】128 阶群中卡尔森关联素数深度猜想的精确反例",
-                    "desc": "在他 1995 年关于深度和传递的论文的 Question~3.1 中，卡尔森询问有限群上同调环的深度是否总是由其相关素数之一的维数来实现。我们给出否定的答案。设\\[ G=\\SG{128}{859},\\qquad k=\\kbar。 \\] 精确的呈现证书证明$\\深度H^*(G;k)=2$。奥山关联素数...",
+                    "title": "【arXiv】HiSkill：通过分层技能图为 LLM 代理提供支持",
+                    "desc": "技能已成为使大型语言模型（LLM）代理能够在长期交互​​任务中重用过去经验的重要抽象。然而，现有的轨迹到技能方法通常会产生独立存储和检索的高级文本技能的平面集合，导致技能关系未得到充分利用，并在高级技能和可执行动作之间保持差距。在本文中，我们提出了 HiSkill，一个分层技能图框架，它组织了 i...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23732v1"
+                    "url": "http://arxiv.org/abs/2607.25853v1"
                 },
                 {
-                    "title": "【arXiv】E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
-                    "desc": "大型语言模型 (LLM) 越来越多地部署为通过多个步骤与有状态环境交互的代理：收集隐藏信息、编写工具调用和提交状态更改。我们将此功能称为多步骤工具使用。现有的基准测试具有先进的工具使用代理评估，但通常侧重于孤立的 API 调用、短轨迹或难以扩展或控制的设置。我们推出 E-Bench，这是一个具有 3...",
+                    "title": "【arXiv】AngelSpec：通过推测解码实现现实世界的高性能推理",
+                    "desc": "推测性解码可以在不改变目标分布的情况下加速大型语言模型推理，但没有单一的起草结构能够在实际工作负载中表现最佳。自回归多令牌预测（MTP）是一种轻量级、稳定的提议机制，而块并行扩散可以在更长的候选序列上摊销起草延迟；更好的选择很大程度上取决于输出分布。我们推出 AngelSpec，一个针对 MTP 和...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23722v1"
+                    "url": "http://arxiv.org/abs/2607.25852v1"
                 },
                 {
-                    "title": "【arXiv】ARCH HDL 中经过正式验证的可综合浮点数据类型",
-                    "desc": "我们报告了 ARCH 的一流 IEEE-754 binary32 (FP32) 和 bfloat16 (BF16) 算法的设计和端到端验证，ARCH 是一种旨在由语言模型生成的硬件描述语言。每个运算符 - 比较、转换、加法、减法、乘法和融合乘法加法 (FMA) - 都针对单个位向量 IR 进行一次描...",
+                    "title": "【arXiv】对抗性 Deepfake 生成和基于纯化的对抗性检测的研究",
+                    "desc": "本文介绍了“Go To 德国”团队参与 ImageCLEF 2026 Deepfake 检测与生成任务的情况。对于图像生成任务，我们采用 FLUX.1-dev 和 PuLID 进行身份保护人脸合成，并结合同时针对 12 个检测器的多模型 PGD 对抗攻击（DiffJPEG-in-loop、MI/DI...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.23715v1"
+                    "url": "http://arxiv.org/abs/2607.25842v1"
                 }
             ]
         },
@@ -274,59 +274,39 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "苹果因涉嫌 App Store 加密诈骗导致用户损失 180 万美元而被起诉",
-                    "time": "6小时前",
+                    "title": "App Store 中的这些隐藏瑰宝证明，人工智能时代优秀软件仍有发展空间",
+                    "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/"
+                    "url": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
                 },
                 {
                     "rank": 2,
-                    "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-                    "time": "23小时前",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/07/461149.html"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 3,
-                    "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
-                    "time": "2026-07-28",
+                    "title": "通过在线学习和迭代定价的分布式约束优化及其在大规模卫星调度中的应用",
+                    "time": "10小时前",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3914520847570307?f=rss"
+                    "url": "http://arxiv.org/abs/2607.25835v1"
                 },
                 {
                     "rank": 4,
-                    "title": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布",
-                    "time": "2026-07-27",
-                    "emoji": "🔍",
-                    "url": "https://36kr.com/p/3913320648971395?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "清华博士团队创业，这家公司要给飞机做氢能「心脏」｜36氪首发",
-                    "time": "2026-07-27",
-                    "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3913736066028932?f=rss"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "最前线 | 最大起飞重量8吨的无人货运 eVTOL，牧羽天航空飞行重卡AT8000整机机身下线",
-                    "time": "2026-07-27",
-                    "emoji": "🎵",
-                    "url": "https://36kr.com/p/3912369056240772?f=rss"
-                },
-                {
-                    "rank": 7,
-                    "title": "优衣库一边关店，一边赚钱",
-                    "time": "2026-07-27",
-                    "emoji": "📝",
-                    "url": "https://36kr.com/p/3913266058826880?f=rss"
-                },
-                {
-                    "rank": 8,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
-                    "emoji": "🤖",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -336,59 +316,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-                    "time": "20小时前",
+                    "title": "Waymo 和机器人出租车运营商因应急响应失败而面临新的审查",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/07/461220.html"
+                    "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/"
                 },
                 {
                     "rank": 2,
-                    "title": "36氪首发 | 前大疆工程师创业做智能网球发球机，产品已开启海外市场批量交付",
-                    "time": "2026-07-27",
+                    "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
+                    "time": "3小时前",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3913490184754313?f=rss"
+                    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
                 },
                 {
                     "rank": 3,
-                    "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
-                    "time": "2026-07-27",
+                    "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+                    "time": "2026-07-29",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3910655616521348?f=rss"
+                    "url": "https://36kr.com/p/3878652674715905?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "最前线｜加速构建太空大脑，「数字空间一号」试验星工程正式在京启动",
-                    "time": "2026-07-27",
+                    "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+                    "time": "2026-07-29",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3912546487637378?f=rss"
+                    "url": "https://36kr.com/p/3915953688604296?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
-                    "time": "2026-07-27",
+                    "title": "UCLA博士团队创业做人形机器人基础模型，拿下近5亿元天使++轮融资｜硬氪首发",
+                    "time": "2026-07-28",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3913118530819457?f=rss"
+                    "url": "https://36kr.com/p/3913213962540164?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
+                    "time": "2026-07-28",
                     "emoji": "🔄",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3913637793059968?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "Kando AI完成数千万元种子轮融资，要做“决策领域的Cursor”｜涌现新项目",
+                    "time": "2026-07-28",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3915057199535233?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所人工智能领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "重估老铺黄金",
+                    "time": "2026-07-28",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://36kr.com/p/3914752931976583?f=rss"
+                },
+                {
+                    "rank": 9,
+                    "title": "🎁36氪送福利！免费抽大疆 Osmo Pocket 4、DJI MIC MINI，还有专属礼品！",
+                    "time": "2026-07-28",
+                    "emoji": "📰",
+                    "url": "https://36kr.com/p/3913529825039745?f=rss"
+                },
+                {
+                    "rank": 10,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🏢",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -434,44 +428,44 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+452,981",
+                    "stars": "+453,057",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+393,155",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+384,353",
+                    "stars": "+384,437",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+362,897",
+                    "stars": "+362,999",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "基于项目的教程精选列表",
-                    "lang": "Python",
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+275,499",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "stars": "+308,919",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+262,715",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 6,
@@ -479,7 +473,7 @@ var siteData = {
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,750",
+                    "stars": "+246,738",
                     "url": "https://github.com/react/react"
                 },
                 {
@@ -488,17 +482,17 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+240,790",
+                    "stars": "+240,880",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+234,192",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "与您共同成长的代理商",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+221,915",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -507,72 +501,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+            "title": "突然，翁荔离开Thinking Machines",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/07/460962.html"
+            "url": "https://www.qbitai.com/2026/07/461517.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Zing：法学硕士的社会思维",
+            "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
             "heat": "110.3万热度",
-            "url": "http://arxiv.org/abs/2607.23740v1"
+            "url": "https://www.qbitai.com/2026/07/461444.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
+            "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
             "heat": "100.6万热度",
-            "url": "http://arxiv.org/abs/2607.23735v1"
+            "url": "https://www.qbitai.com/2026/07/461398.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "人工智能战略：如何选择实施什么人工智能产品",
+            "title": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23733v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "128 阶群中卡尔森关联素数深度猜想的精确反例",
+            "title": "激光器如何帮助为核反应堆提供燃料",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23732v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
+            "title": "下载：用于核燃料的激光器和器官保存的进展",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23722v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
+            "title": "通往超级人工智能之路",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23715v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
+            "title": "关闭人工智能驱动药物发现的数据循环",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23710v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "LabRobFail：化学自动驾驶实验室机器人故障分析基准",
+            "title": "构建代理人工智能的企业环境",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23704v1"
+            "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "用于多模态推理的离线-在线课程强化学习",
+            "title": "OmniQEC：人工智能科学家发现实用的量子纠错码",
             "heat": "",
-            "url": "http://arxiv.org/abs/2607.23700v1"
+            "url": "http://arxiv.org/abs/2607.25865v1"
         }
     ],
     "aiTools": [
@@ -619,31 +613,35 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "人工智能",
-            "size": "large"
-        },
-        {
             "text": "模型",
             "size": "large"
         },
         {
-            "text": "Claude",
-            "size": "medium"
-        },
-        {
             "text": "代理",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "AI",
             "size": "medium"
         },
         {
+            "text": "Claude",
+            "size": "medium"
+        },
+        {
+            "text": "人工智能",
+            "size": "medium"
+        },
+        {
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
             "text": "Code",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "QEC",
             "size": "small"
         },
         {
@@ -651,19 +649,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "产品",
+            "text": "DCOP",
             "size": "small"
         },
         {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "器官",
-            "size": "small"
-        },
-        {
-            "text": "智能",
+            "text": "语言",
             "size": "small"
         },
         {
@@ -671,128 +661,36 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "ARCH",
+            "text": "OmniQEC",
             "size": "small"
         },
         {
-            "text": "LabRobFail",
+            "text": "Ventures",
+            "size": "small"
+        },
+        {
+            "text": "Salesforce",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+            "title": "突然，翁荔离开Thinking Machines",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "项目数据模型均开源"
+            "snippet": "20个月「像过完了一辈子」"
         },
         {
-            "title": "Zing：法学硕士的社会思维",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "随着大型语言模型从解决孤立的任务转向在人类环境中长期服务，它们需要社交智能：推断心理状态、跟踪社会关系、推理规范以及根据上下文调整行为的能力。本报告介绍了智境，这是一个用于测量、内化和奠定社会智能的综合框架。为了进行测量，我们引入了 SoM"
-        },
-        {
-            "title": "教师的无来源受控适应，以实现持续的考试时间适应",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在许多现实场景中，在推理过程中遇到域的持续变化是很常见的。因此，利用师生框架的持续测试时间适应（CTTA）技术获得了重视，该技术允许模型即使在部署后也能持续适应。在这样的框架中，使用权重平均教师从测试数据中生成伪标签以进行自我训练。教师平均"
-        },
-        {
-            "title": "人工智能战略：如何选择实施什么人工智能产品",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "企业很难选择能够带来回报的人工智能项目：两个项目对于聪明、积极主动的利益相关者来说可能看起来同样有前途，但却值得做出相反的决定。在住宅房地产经纪公司 Compass，一款人工智能产品（可能出售的建议）标记了销售推广机会，并在年度总佣金收入中"
-        },
-        {
-            "title": "128 阶群中卡尔森关联素数深度猜想的精确反例",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "在他 1995 年关于深度和传递的论文的 Question~3.1 中，卡尔森询问有限群上同调环的深度是否总是由其相关素数之一的维数来实现。我们给出否定的答案。设\\[ G=\\SG{128}{859},\\qquad k=\\kbar。 \\] 精"
-        },
-        {
-            "title": "E-Bench：在真实产品场景中对多步骤工具使用代理进行基准测试",
+            "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 越来越多地部署为通过多个步骤与有状态环境交互的代理：收集隐藏信息、编写工具调用和提交状态更改。我们将此功能称为多步骤工具使用。现有的基准测试具有先进的工具使用代理评估，但通常侧重于孤立的 API 调用、短轨迹或难以"
+            "snippet": "一次技术与场景的深度耦合"
         },
         {
-            "title": "ARCH HDL 中经过正式验证的可综合浮点数据类型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们报告了 ARCH 的一流 IEEE-754 binary32 (FP32) 和 bfloat16 (BF16) 算法的设计和端到端验证，ARCH 是一种旨在由语言模型生成的硬件描述语言。每个运算符 - 比较、转换、加法、减法、乘法和融合"
-        },
-        {
-            "title": "安全 LLM 代码的幻想：通过迭代重新提示缩小安全差距",
+            "title": "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 越来越多地集成到软件开发工作流程中，但它们自主生成安全身份验证代码的能力仍然不确定。本文通过结合静态代码分析和动态渗透测试的双模态评估框架（映射到 NIST SP 800-63B 指南）评估了由五位著名人工智能编码"
-        },
-        {
-            "title": "LabRobFail：化学自动驾驶实验室机器人故障分析基准",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在自动驾驶实验室中部署实体代理可以加速科学发现，但其可靠性受到化学实验的不可逆性和安全关键性的限制。故障数据稀缺和缺乏细粒度的评估协议进一步阻碍了进展。为了应对这些挑战，我们推出了 LabRobFail，这是一个以故障为中心的框架，用于学习"
-        },
-        {
-            "title": "用于多模态推理的离线-在线课程强化学习",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "多模态大语言模型表现出推理任务的能力，但通常会产生有缺陷的中间步骤，同时产生正确的最终答案。这种行为破坏了可解释性和可靠性，表明依赖于虚假的捷径而不是忠实的推理。尽管人们已经探索了步骤级监管，但区分决定性步骤和冗余步骤仍然具有挑战性。我们提"
-        },
-        {
-            "title": "通过生成模型和自适应测试进行线下到线上的创意优化",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "广告创意优化越来越受到评估而非生成的限制。生成模型可以产生许多看似合理的创意，但可靠的评估需要在线实验，其中只能测试有限的板岩。我们研究如何使用历史 A/B 测试的数据来生成和选择该名单中的候选人。我们开发并部署了性能驱动的离线到在线工作流"
-        },
-        {
-            "title": "SAM3 的参数高效适应快速驱动的手术概念分割",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "高效的手术分割支持临床诊断、术中监测以及用于重建和模拟的下游机器人管道。尽管像 Segment Anything Model 3 (SAM3) 这样的提示驱动基础模型在自然图像上实现了强大的分割性能，但手术数据与其预训练数据表现出域差距，导"
-        },
-        {
-            "title": "全局计算，本地实现：稀疏事件-KV 的内存契约",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "长视野代理越来越多地重用其 KV 缓存作为内存：服务系统保留缓存条目的子集并丢弃其余条目。因此，逐出和情景记忆方案依赖于一个很少直接测试的前提，即一旦产生它的观察消失，保留的事件仍然具有信息性。我们通过在其他相同的代理历史中省略所提供的服务"
-        },
-        {
-            "title": "GNM 头部：人体头部的生成人体测量模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "人体头部的参数模型是传统上用于计算机视觉和图形动画、渲染和重建的重要工具。最近，它们在生成大视觉模型中充当关键的调节信号，允许对生成的图像进行严格的空间控制。然而，现有的公开可用模型通常在解剖范围上受到限制，仅对外部几何形状进行建模，而忽略"
-        },
-        {
-            "title": "扰动感知扩散引导混合分割，用于稳健且注释高效的植物胁迫表型分析",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "农业图像中的语义分割通常在域内协议下进行评估，但实际部署需要对外观扰动、有限注释和跨域转移具有鲁棒性。本文提出了一种扩散引导的混合分割框架，其中 U-Net、DeepLabV3+ 和 SegFormer 主干网生成粗略掩模，并通过去噪扩散概"
-        },
-        {
-            "title": "专注就是你所需要的：多智能体图系统的自适应目标感知注意力编排",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 使自主代理能够进行推理、规划和工具使用。最近的系统越来越多地将这些代理组织为专门的互连节点图。尽管基于图的编排支持灵活的分解和协调，但它带来了一个关键挑战：\\textbf{注意力分配}。随着工作流程的增长，现有方法"
-        },
-        {
-            "title": "亚马逊的新手机卫星网络可能会加剧 SpaceX 的压力",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "亚马逊正在扩大其为手机提供卫星连接的计划。"
-        },
-        {
-            "title": "Antares 筹集 4.7 亿美元为美军建造核反应堆",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Antares 已筹集 4.7 亿美元，用于为美国空军基地建造小型模块化反应堆（100 kW 至 1 MW）。"
-        },
-        {
-            "title": "OpenAI 的 Hugging Face 漏洞重新引发了关于对齐和控制的争论",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 的 Hugging Face 漏洞重新引发了关于人工智能调整和控制的争论，暴露了关于能力日益增强的人工智能是否应该更好地调整、更好地遏制或两者兼而有之的相互竞争的观点。"
+            "snippet": ""
         },
         {
             "title": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
@@ -801,52 +699,100 @@ var siteData = {
             "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，当我读到 OpenAI 的报道时，我第一次了解到它的一些模型如何突破遏制并侵入另一家人工智能公司 Hugging Face 的计算"
         },
         {
-            "title": "微软推出首个网络安全模型以及新的代理网络安全系统",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "微软本周推出了首个人工智能安全模型和新的安全平台，增强了其人工智能网络安全产品。"
+            "title": "激光器如何帮助为核反应堆提供燃料",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "在肯塔基州帕迪尤卡小镇外，大量铀被锁在数千个储存罐中，里面装满了来自现已关闭的核浓缩设施的废料。激光可以帮助将其取出。一家名为 Global Laser Enrichment (GLE) 的公司正在寻求利用一种名为“激光”的新技术来重新处理"
         },
         {
-            "title": "苹果因涉嫌 App Store 加密诈骗导致用户损失 180 万美元而被起诉",
+            "title": "下载：用于核燃料的激光器和器官保存的进展",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。激光如何帮助为核反应堆提供燃料？目前，核电提供了全球约 9% 的电力，随着各国寻求建造新反应堆，这一比例可能会上升。"
+        },
+        {
+            "title": "通往超级人工智能之路",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "想象一下由多个人工智能代理组成的医疗保健系统：一个负责管理症状评估，另一个负责调度，第三个保险和第四个药房。每个人都是其领域的专家。但他们都有自己独特的知识和目标。如今，他们可以交换数据，但还无法真正协调——"
+        },
+        {
+            "title": "关闭人工智能驱动药物发现的数据循环",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "药物发现是一项高成本、高风险的工作，它面临着日益由先发优势决定的市场带来的越来越大的压力。自 20 世纪 50 年代以来，开发新药物的成本大约每九年翻一番，这种现象被称为“埃鲁姆定律”。如今，将一种新药推向市场平均需要 10 至 15 年的"
+        },
+        {
+            "title": "构建代理人工智能的企业环境",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "对于企业来说，代理人工智能的承诺不仅仅是一个更好的聊天机器人。它是跨人员、业务工作流程、数据和系统端到端执行业务任务的软件代理。最适合运行代理的平台具有适当的 CPU 容量、弹性数据访问、策略感知工具使用、可观察性、内存​​管理和“可扩展性"
+        },
+        {
+            "title": "OmniQEC：人工智能科学家发现实用的量子纠错码",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "量子纠错（QEC）对于可扩展的容错量子计算是不可或缺的。然而，发现仍然有效的 QEC 代码具有挑战性，因为逻辑性能取决于代码结构、硬件、校正子提取和解码之间的相互作用，而这通常会提出相互竞争的要求。在这里，我们介绍 OmniQEC，这是一位"
+        },
+        {
+            "title": "语言弱监督的开放式 CT 体积分割",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们介绍了一种训练 CT 扫描的文本条件分割模型的方法，该方法将体素级监督与来自报告的粗略但可扩展的切片级监督相结合。我们从扫描报告对的大型数据库中提取对发现结果的描述以及发生这些发现的切片索引。然后，我们对通用 2D 图像分割模型 SAM"
+        },
+        {
+            "title": "盾星",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们推出了 Shieldstral，这是一种 3B 参数策略自适应多模式安全分类器，它在文本安全基准上匹配或优于其大小近 7 倍的模型，并设定了多模式安全分类的新技术水平。 Shieldstral 将内容审核制定为二元问答任务。这个简单的公"
+        },
+        {
+            "title": "App Store 中的这些隐藏瑰宝证明，人工智能时代优秀软件仍有发展空间",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "苹果正面临三名用户的诉讼，他们称他们从 App Store 下载了一个欺诈性的加密钱包后总共损失了超过 180 万美元，这对该公司长期以来声称其应用程序审核流程可确保用户免受诈骗的说法提出了挑战。"
+            "snippet": "尽管预测人工智能代理可能会让传统应用程序变得过时，但开发人员发布新软件的速度比以往任何时候都快。从更智能的书签工具和社区市场到数字笔友和自然期刊，以下是 App Store 中值得添加到主屏幕的最新内容。"
         },
         {
-            "title": "PSA：您的 Claude 共享聊天记录和工件可能已出现在 Google 上",
+            "title": "HBO Max 通过新的“Shorts”提要拥抱垂直视频",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "该问题似乎源于 Claude 的“共享聊天”功能，该功能允许用户创建链接，使任何拥有指定 URL 的人都可以查看对话或项目。"
+            "snippet": "与其他流媒体平台一样，HBO Max 正在重新考虑内容发现，因为大型图书馆让观众很难找到可看的内容，而且观众已经习惯了 TikTok 和 Instagram Reels 等平台上的短片内容。"
         },
         {
-            "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+            "title": "Ozlo 的 Sleepbuds 2 以 Bose 的睡眠耳塞传统为基础",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "纳德拉表示，没有自己的模型的公司，或者没有被称为人工智能网关的人工智能基础设施层，将其提示与模型本身分开的公司，将会遇到麻烦。"
+            "snippet": "Ozlo 对其睡眠耳塞的首次重大更新引入了更长的电池寿命、改进的连接性、增强的音频和新的睡眠功能，这家初创公司延续了曾被 Bose 放弃的产品线。"
         },
         {
-            "title": "Thea Energy 获得 2000 万美元联邦拨款，用于制造聚变反应堆磁体",
+            "title": "美国宇航局雇佣来举升轨道望远镜的机器人失控翻倒",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "聚变发电初创公司 Thea Energy 获得了 ARPA-E 的 2000 万美元资助，用于扩大其高温超导磁体的生产规模。"
+            "snippet": "据美国宇航局称，控制航天器对准的三个反作用轮中有两个出现故障，航天器的其中一个推进器系统也出现了问题。"
         },
         {
-            "title": "随着竞争对手竞相收购，Peacock 通过与 YouTube 达成新协议押注捆绑销售",
+            "title": "Waymo 和机器人出租车运营商因应急响应失败而面临新的审查",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "加州民主党众议员凯文·穆林 (Kevin Mullin) 提出了一项法案，指示联邦监管机构为自动驾驶汽车运营商制定最低国家安全标准。"
+        },
+        {
+            "title": "eBay 与其 2019 年恐吓的电子商务通讯作者达成 5600 万美元和解",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "该交易意味着内容将整合到 YouTube 体验中，让观众无需离开平台即可发现和观看 Peacock 内容。"
+            "snippet": "伊娜·斯坦纳和大卫·斯坦纳在时事通讯中偶尔批评该公司，这激怒了 eBay 高层管理人员。 2019年，有人策划了一个阴谋来恐吓这对夫妇停止负面报道。"
         },
         {
-            "title": "过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "对于器官捐献来说，时间就是一切。一旦器官被小心地从捐献者体内取出，它就会开始恶化。外科医生需要几个小时的时间才能将其送入接受者体内。放置时间太长，器官将无法使用。在大多数情况下，器官会被保留——"
+            "title": "萨姆·奥尔特曼已准备好减速",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "他的立场发生了变化，是在“我亲身感受到的第一起安全事件”之后。"
         },
         {
-            "title": "下载：能源传输和美国对中国人工智能的威胁",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。可能重塑纽约电网的输电线遇到了障碍。在 7 月 3 日的热浪期间，纽约州电网从加拿大进口了足够的电力来满足大约 100% 的电力需求。"
+            "title": "MCP 初创公司 Runlayer 指责 Rippleing 窃取其产品创意",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在 Rippling 评估了这家初创公司的 MCP 网关产品并选择自行构建之后，Runlayer 正在起诉 Rippling。"
         },
         {
             "title": "追求让器官在体外保持活力",
@@ -859,6 +805,54 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”——对于器官捐献来说，时间就是一切。一旦器官从捐赠者的体内取出，"
+        },
+        {
+            "title": "机器人检测初创公司 Spur 从 Insight 获得 2 亿美元投资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Spur Intelligence 已从 Insight Partners 筹集了 2 亿美元资金，用于开发能够识别来自机器人的合法人流量的技术。"
+        },
+        {
+            "title": "智能体走向终端，个人AI时代正在到来",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "扩散模型首次打通长程Agent任务"
+        },
+        {
+            "title": "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "文｜胡香赟\n  编辑｜海若镜\n  36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由蓝湾资本、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化"
+        },
+        {
+            "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今日热点导览\n  \n   李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决\n   小米已注册澎程关联商标\n   泡泡玛特城市乐园涨价\n   英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议\n   “抱抱脸”向OpenAI索赔1亿美"
+        },
+        {
+            "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品"
+        },
+        {
+            "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶"
         }
     ]
 }
