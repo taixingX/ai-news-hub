@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-02 01:44:23
+ * 生成时间: 2026-08-03 01:47:01
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
-            "summary": "据报道，OpenAI 在调查 Hugging Face 事件时发现了其他特工不当行为的证据。",
+            "title": "伦敦黑客之家内部反对创始人倦怠",
+            "summary": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-            "summary": "开源项目GitHub狂揽8000+Star",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+            "summary": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/07/464328.html"
+            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-            "summary": "行业独家的30s视频原生直出",
-            "source": "量子位",
+            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+            "summary": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/07/464329.html"
+            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "下载：蒙大拿州新的实验药物规则",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
+            "summary": "苹果公司的新升级计划是智能手机所有权正在发生变化的最新迹象。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:44",
-            "text": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+            "time": "01:47",
+            "text": "伦敦黑客之家内部反对创始人倦怠",
             "hot": true,
-            "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
         },
         {
-            "time": "01:44",
-            "text": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+            "time": "01:47",
+            "text": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/464328.html"
+            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
         },
         {
-            "time": "01:44",
-            "text": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+            "time": "01:47",
+            "text": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/07/464329.html"
+            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
         },
         {
-            "time": "01:44",
-            "text": "下载：蒙大拿州新的实验药物规则",
+            "time": "01:47",
+            "text": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
         },
         {
-            "time": "01:44",
-            "text": "蒙大拿州新的“尝试权”法律对某些人来说还不够快",
-            "hot": false,
-            "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
-        },
-        {
-            "time": "01:44",
-            "text": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-        },
-        {
-            "time": "01:44",
+            "time": "01:47",
             "text": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
             "hot": false,
             "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
         },
         {
-            "time": "01:44",
-            "text": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
+            "time": "01:47",
+            "text": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+            "url": "https://www.qbitai.com/2026/08/464781.html"
+        },
+        {
+            "time": "01:47",
+            "text": "获奖之后，王虹最想感谢的人",
+            "hot": false,
+            "url": "https://www.qbitai.com/2026/08/464761.html"
+        },
+        {
+            "time": "01:47",
+            "text": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "hot": false,
+            "url": "https://www.qbitai.com/2026/08/464713.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+                    "title": "伦敦黑客之家内部反对创始人倦怠",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+                    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "据报道，OpenAI 在调查 Hugging Face 事件时发现了其他特工不当行为的证据。..."
+                    "desc": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。..."
                 },
                 {
-                    "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-                    "source": "量子位",
+                    "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/07/464329.html"
-                },
-                {
-                    "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
-                    "views": "60.14K",
-                    "comments": "220",
-                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+                    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
                 },
                 {
                     "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
                     "source": "TechCrunch AI",
-                    "time": "6小时前",
-                    "views": "50.21K",
-                    "comments": "180",
-                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "time": "昨天",
+                    "views": "60.14K",
+                    "comments": "220",
+                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
                     "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
                 },
                 {
-                    "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+                    "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
                     "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "time": "昨天",
+                    "views": "50.21K",
+                    "comments": "180",
+                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+                },
+                {
+                    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+                    "url": "https://www.qbitai.com/2026/08/464781.html"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】学习追踪塞伯格二元性",
-                    "desc": "对偶性在建立广泛的物理系统中的微观现象和涌现现象方面发挥着重要作用。然而，在实践中，即使所有“游戏规则”都是众所周知的，确定两个系统何时是对偶的，在计算上通常也具有挑战性。换句话说，当面对两个系统时，如何有效地确定它们实际上是对偶的？在本文中，我们使用机器学习方法来解决 su 的 Seiberg 对...",
+                    "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+                    "desc": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。\n  奇点逃逸创始...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "36氪 AI",
+                    "time": "2026-08-03",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28628v1"
+                    "url": "https://36kr.com/p/3919025939246727?f=rss"
                 },
                 {
-                    "title": "【arXiv】ReToken：一种改进视觉检索视觉语言模型的代币",
-                    "desc": "长视觉上下文对视觉语言模型提出了挑战：随着干扰因素数量的增加，性能会下降，并且在 GPU 内存限制下一次处理所有标记在计算上是不可行的。我们提出了 ReToken，这是一个被训练为显式检索目标的单一可学习嵌入，它从预填充的视觉 KV 缓存中选择一组稀疏的与查询相关的视觉标记。仅在小型图像 QA 数据...",
+                    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
+                    "desc": "文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱玲\n  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "36氪 AI",
+                    "time": "2026-07-31",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28627v1"
+                    "url": "https://36kr.com/p/3910776673064073?f=rss"
                 },
                 {
-                    "title": "【arXiv】ACE-Data-0：以人为本的环境捕捉作为具体数据引擎",
-                    "desc": "具身智能面临着基本的数据瓶颈。模型必须捕捉第一人称感知、全身运动、灵巧操作、物体状态、声音和触觉如何随着人类追求目标而一起演变。现有的数据集将这种体验分割成不同的观点、模式或空间尺度，只留下部分观察到的完整的感知-行动循环。我们推出环境捕捉引擎 (ACE)，这是一种以人为本的数据引擎，可改变真实的家...",
+                    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+                    "desc": "开源项目GitHub狂揽8000+Star...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
+                    "source": "量子位",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28625v1"
+                    "url": "https://www.qbitai.com/2026/07/464328.html"
                 },
                 {
-                    "title": "【arXiv】PhiZero：围绕物理语言构建的世界模型",
-                    "desc": "我们介绍 PhiZero，一个围绕物理语言构建的物理世界模型，是世界状态转换的紧凑离散表示。现有的物理世界模型通常直接在像素空间中预测未来的视频，将潜在的世界动态隐含在高维视觉预测器中。受人类从视觉经验中抽象预测结构并以自然语言组织它以进行明确推理的能力的激励，我们从内部学习物理语言...",
+                    "title": "下载：蒙大拿州新的实验药物规则",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
+                    "source": "MIT Tech Review",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28624v1"
-                },
-                {
-                    "title": "【arXiv】PAC-MAN：感知感知 CBF-RL 在人形躲避球中实现全身安全",
-                    "desc": "我们推出了 PAC-MAN，这是一种感知感知的 CBF-RL 框架，它将控制屏障安全性与部署逼真的机载传感相结合，用于全身人形躲避球。部署的策略仅将球视为来自头戴式摄像头的分段屏蔽深度，而训练时 CBF 指导表示对每个身体链接的间隙，并且对抗性运动先验规范了由此产生的规避反射。我们对受控任意链接接触...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28623v1"
-                },
-                {
-                    "title": "【arXiv】AskChem：以权利要求为中心的化学文献合成基础设施",
-                    "desc": "化学文献综合通常需要汇集分散在许多出版物中的具体发现，但现有的文献检索系统主要返回排名的文档列表。因此，科学家和人工智能代理需要找到相关信息，验证其来源，并手动组装跨论文答案。我们推出了 AskChem，这是一个以权利要求为中心的跨论文化学搜索基础设施。 AskChem 将检索单位从论文更改为带有出...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2607.28618v1"
+                    "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
                 }
             ]
         },
@@ -274,73 +252,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-                    "time": "9小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-                },
-                {
-                    "rank": 2,
                     "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
-                    "time": "5小时前",
-                    "emoji": "💡",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
                 },
                 {
-                    "rank": 3,
-                    "title": "AISPA：大型语言模型应用程序的以用户为中心的系统提示审核",
-                    "time": "2天前",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2607.28617v1"
+                    "rank": 2,
+                    "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+                    "time": "2026-08-03",
+                    "emoji": "💡",
+                    "url": "https://36kr.com/p/3923043072634498?f=rss"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
                     "time": "2026-08-01",
-                    "emoji": "🔍",
+                    "emoji": "🎬",
                     "url": "https://36kr.com/p/3920241240419720?f=rss"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
                     "time": "2026-07-31",
-                    "emoji": "⚖️",
+                    "emoji": "🔍",
                     "url": "https://36kr.com/p/3919378312670857?f=rss"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "title": "开云的转折：在中国，做一个AI乐观派",
                     "time": "2026-07-31",
-                    "emoji": "🎵",
+                    "emoji": "⚖️",
                     "url": "https://36kr.com/p/3919225763540611?f=rss"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
                     "time": "2026-07-31",
-                    "emoji": "📝",
+                    "emoji": "🎵",
                     "url": "https://36kr.com/p/3919301778288261?f=rss"
                 },
                 {
-                    "rank": 8,
-                    "title": "最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼”",
-                    "time": "2026-07-31",
-                    "emoji": "🤖",
-                    "url": "https://36kr.com/p/3919271016263303?f=rss"
-                },
-                {
-                    "rank": 9,
+                    "rank": 7,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "📊",
+                    "emoji": "📝",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 10,
-                    "title": "帮助您摆脱末日滚动并变得活跃的应用程序",
-                    "time": "11小时前",
-                    "emoji": "🌐",
-                    "url": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/"
+                    "rank": 8,
+                    "title": "App Store 中的这些隐藏瑰宝证明，人工智能时代优秀软件仍有发展空间",
+                    "time": "10小时前",
+                    "emoji": "🤖",
+                    "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
                 }
             ]
         },
@@ -351,7 +315,7 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/08/464693.html"
                 },
@@ -396,13 +360,6 @@ var siteData = {
                     "time": "2026-01-13",
                     "emoji": "🚀",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
-                },
-                {
-                    "rank": 8,
-                    "title": "Uber 正在打造一个自动驾驶汽车帝国，以下是它所使用的每家公司",
-                    "time": "10小时前",
-                    "emoji": "🤝",
-                    "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/"
                 }
             ]
         },
@@ -448,35 +405,35 @@ var siteData = {
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,327",
+                    "stars": "+453,362",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+393,511",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+384,856",
+                    "stars": "+384,961",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
+                    "rank": 3,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+310,251",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
                     "rank": 4,
-                    "name": "react/react",
-                    "desc": "Web 和本机用户界面的库。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+246,842",
-                    "url": "https://github.com/react/react"
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+265,171",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 5,
@@ -484,35 +441,35 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+241,374",
+                    "stars": "+241,447",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 6,
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+237,082",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+223,851",
+                    "stars": "+224,336",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "n8n-io/n8n",
                     "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+198,988",
+                    "stars": "+199,094",
                     "url": "https://github.com/n8n-io/n8n"
-                },
-                {
-                    "rank": 8,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "适合所有人的开源机器学习框架",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+196,651",
-                    "url": "https://github.com/tensorflow/tensorflow"
                 }
             ]
         }
@@ -521,72 +478,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+            "title": "伦敦黑客之家内部反对创始人倦怠",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
+            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/07/464328.html"
+            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/07/464329.html"
+            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
         },
         {
             "rank": 4,
-            "top3": false,
-            "title": "下载：蒙大拿州新的实验药物规则",
-            "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
-        },
-        {
-            "rank": 5,
-            "top3": false,
-            "title": "蒙大拿州新的“尝试权”法律对某些人来说还不够快",
-            "heat": "",
-            "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
-        },
-        {
-            "rank": 6,
-            "top3": false,
-            "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/"
-        },
-        {
-            "rank": 7,
-            "top3": false,
-            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
-        },
-        {
-            "rank": 8,
             "top3": false,
             "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
             "heat": "",
             "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
         },
         {
+            "rank": 5,
+            "top3": false,
+            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+            "heat": "",
+            "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+        },
+        {
+            "rank": 6,
+            "top3": false,
+            "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+            "heat": "",
+            "url": "https://www.qbitai.com/2026/08/464781.html"
+        },
+        {
+            "rank": 7,
+            "top3": false,
+            "title": "获奖之后，王虹最想感谢的人",
+            "heat": "",
+            "url": "https://www.qbitai.com/2026/08/464761.html"
+        },
+        {
+            "rank": 8,
+            "top3": false,
+            "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "heat": "",
+            "url": "https://www.qbitai.com/2026/08/464713.html"
+        },
+        {
             "rank": 9,
             "top3": false,
-            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+            "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            "url": "https://www.qbitai.com/2026/08/464693.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+            "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+            "url": "https://www.qbitai.com/2026/08/464532.html"
         }
     ],
     "aiTools": [
@@ -637,27 +594,51 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "模型",
+            "text": "Claude",
             "size": "large"
+        },
+        {
+            "text": "Code",
+            "size": "medium"
+        },
+        {
+            "text": "人工智能",
+            "size": "medium"
         },
         {
             "text": "OpenAI",
             "size": "medium"
         },
         {
-            "text": "视觉",
-            "size": "medium"
-        },
-        {
-            "text": "Claude",
-            "size": "medium"
-        },
-        {
-            "text": "人工智能",
+            "text": "Anthropic",
             "size": "small"
         },
         {
-            "text": "Code",
+            "text": "模型",
+            "size": "small"
+        },
+        {
+            "text": "智能",
+            "size": "small"
+        },
+        {
+            "text": "Sam",
+            "size": "small"
+        },
+        {
+            "text": "Altman",
+            "size": "small"
+        },
+        {
+            "text": "SK",
+            "size": "small"
+        },
+        {
+            "text": "工具",
+            "size": "small"
+        },
+        {
+            "text": "Ventures",
             "size": "small"
         },
         {
@@ -665,82 +646,16 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "PR",
-            "size": "small"
-        },
-        {
-            "text": "语言",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "CUA",
-            "size": "small"
-        },
-        {
-            "text": "视频",
-            "size": "small"
-        },
-        {
-            "text": "物理",
-            "size": "small"
-        },
-        {
-            "text": "智能",
+            "text": "Salesforce",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+            "title": "伦敦黑客之家内部反对创始人倦怠",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "据报道，OpenAI 在调查 Hugging Face 事件时发现了其他特工不当行为的证据。"
-        },
-        {
-            "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "开源项目GitHub狂揽8000+Star"
-        },
-        {
-            "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "行业独家的30s视频原生直出"
-        },
-        {
-            "title": "下载：蒙大拿州新的实验药物规则",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。"
-        },
-        {
-            "title": "蒙大拿州新的“尝试权”法律对某些人来说还不够快",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "克里斯·德瓦特很绝望。他的儿子布罗迪 (Brody) 于 2023 年 3 月出生。德瓦特说，不久之后他就开始表现出发育迟缓的迹象。布罗迪说，随着时间的推移，他开始错过言语、动作和协调方面的关键里程碑。当布罗迪两岁半左右时，进行了一项基因测"
-        },
-        {
-            "title": "这把 9 美元的钥匙可以物理锁定您最容易上瘾的应用程序",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "这款 9 美元的 NFC 钥匙需要您对其进行物理扫描才能解锁手机上分散注意力的应用程序。"
-        },
-        {
-            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。"
-        },
-        {
-            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "苹果公司的新升级计划是智能手机所有权正在发生变化的最新迹象。"
+            "snippet": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。"
         },
         {
             "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
@@ -755,10 +670,76 @@ var siteData = {
             "snippet": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”"
         },
         {
-            "title": "伦敦黑客之家内部反对创始人倦怠",
+            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。"
+            "snippet": "苹果公司的新升级计划是智能手机所有权正在发生变化的最新迹象。"
+        },
+        {
+            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。"
+        },
+        {
+            "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "具身智能的τ（bushi）"
+        },
+        {
+            "title": "获奖之后，王虹最想感谢的人",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "\"他真的给了我很大的帮助\""
+        },
+        {
+            "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "狂刷3小时！"
+        },
+        {
+            "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "对前沿实验室估值悲观"
+        },
+        {
+            "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "下一场竞争，是谁能造出更多“有用的世界”"
+        },
+        {
+            "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "三本教科书，救活英伟达"
+        },
+        {
+            "title": "Anthropic模型，也失控了。。。",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "14万次测试翻旧账"
+        },
+        {
+            "title": "AI顶会现场，见到了一家美妆巨头",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "欧莱雅把爱装进美庄全联路"
+        },
+        {
+            "title": "TechCrunch Mobility：对于机器人出租车来说两条路是分叉的",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "欢迎回到 TechCrunch Mobility，这是未来交通运输的中心，而现在，人工智能在其中发挥的作用比以往任何时候都更加重要。"
+        },
+        {
+            "title": "据报道马来西亚将关闭 Balaji Srinivasan 的网络学校",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让我们看看这个“技术乐观主义者的前沿社区”是如何做的......"
         },
         {
             "title": "下载：OpenAI 可预测的黑客攻击以及 AI 股票的抛售",
@@ -773,6 +754,18 @@ var siteData = {
             "snippet": "三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他直接回家为这家芯片制造商的韩国竞争对手 SK 海力士处理工作申请，并与同事分享了关于“芯片制造商”的建议。"
         },
         {
+            "title": "全球内存短缺对 MacBook Air 造成冲击",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全球内存芯片短缺似乎正在影响苹果最受欢迎的 Mac 的供应。"
+        },
+        {
+            "title": "Sam Altman 和 AI 的减速争论",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在最新一集的《Equity》中，我们讨论了为什么 Sam Altman 呼吁业界“加快人工智能的发展速度”。"
+        },
+        {
             "title": "被忽视的地热发电厂如何获得第二次机会",
             "category": "AI研究",
             "tag": "research",
@@ -782,7 +775,7 @@ var siteData = {
             "title": "下载：一场芯片人才之战，并抑制人工智能炒作",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。三星的芯片工人正在跳槽到竞争对手 SK 海力士。李是三星半导体部门的一名工程师，过去常常工作到很晚。但最近，他一直准时下班，并且正在努力……"
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。三星的芯片工人正在跳槽到竞争对手 SK 海力士。李是三星半导体部门的一名工程师，过去经常工作到很晚。但最近，他一直准时下班，并且正在努力……"
         },
         {
             "title": "人工智能炒作指数：不性感的人工智能",
@@ -806,73 +799,37 @@ var siteData = {
             "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性产生了巨大影响，"
+            "snippet": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性具有巨大影响，该技术"
         },
         {
-            "title": "学习追踪塞伯格二元性",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "对偶性在建立广泛的物理系统中的微观现象和涌现现象方面发挥着重要作用。然而，在实践中，即使所有“游戏规则”都是众所周知的，确定两个系统何时是对偶的，在计算上通常也具有挑战性。换句话说，当面对两个系统时，如何有效地确定它们实际上是对偶的？在本文"
-        },
-        {
-            "title": "ReToken：一种改进视觉检索视觉语言模型的代币",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "长视觉上下文对视觉语言模型提出了挑战：随着干扰因素数量的增加，性能会下降，并且在 GPU 内存限制下一次处理所有标记在计算上是不可行的。我们提出了 ReToken，这是一个被训练为显式检索目标的单一可学习嵌入，它从预填充的视觉 KV 缓存中"
-        },
-        {
-            "title": "ACE-Data-0：以人为本的环境捕捉作为具体数据引擎",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "具身智能面临着基本的数据瓶颈。模型必须捕捉第一人称感知、全身运动、灵巧操作、物体状态、声音和触觉如何随着人类追求目标而一起演变。现有的数据集将这种体验分割成不同的观点、模式或空间尺度，只留下部分观察到的完整的感知-行动循环。我们推出环境捕捉"
-        },
-        {
-            "title": "PhiZero：围绕物理语言构建的世界模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们介绍 PhiZero，一个围绕物理语言构建的物理世界模型，是世界状态转换的紧凑离散表示。现有的物理世界模型通常直接在像素空间中预测未来的视频，将潜在的世界动态隐含在高维视觉预测器中。受人类从视觉经验中抽象预测结构并以自然语言组织它以进行"
-        },
-        {
-            "title": "PAC-MAN：感知感知 CBF-RL 在人形躲避球中实现全身安全",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们推出了 PAC-MAN，这是一种感知感知的 CBF-RL 框架，它将控制屏障安全性与部署逼真的机载传感相结合，用于全身人形躲避球。部署的策略仅将球视为来自头戴式摄像头的分段屏蔽深度，而训练时 CBF 指导表示对每个身体链接的间隙，并且对"
-        },
-        {
-            "title": "AskChem：以权利要求为中心的化学文献合成基础设施",
+            "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "化学文献综合通常需要汇集分散在许多出版物中的具体发现，但现有的文献检索系统主要返回排名的文档列表。因此，科学家和人工智能代理需要找到相关信息，验证其来源，并手动组装跨论文答案。我们推出了 AskChem，这是一个以权利要求为中心的跨论文化学"
+            "snippet": "开源项目GitHub狂揽8000+Star"
         },
         {
-            "title": "AISPA：大型语言模型应用程序的以用户为中心的系统提示审核",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "系统提示是开发人员配置的指令，用于管理人工智能应用程序中基础模型的行为。它们在整个商业人工智能产品中使用，但很少向公众或监管机构披露，这在人工智能系统的广泛部署中造成了严重的信任和责任差距。在本文中，我们介绍了人工智能系统提示保证（AISP"
-        },
-        {
-            "title": "Chimera：设计和龙猫缩放混合视觉扩散变压器",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉生成越来越需要高分辨率图像、长视频和多模态上下文，这使得充分注意力的二次成本令人望而却步。我们引入了 Chimera，一种具有原则性缩放配方的混合视觉扩散主干。 Chimera 在一个光栅排序流中处理文本、图像和视频标记，无需位置嵌入。"
-        },
-        {
-            "title": "OSReward：为跨平台计算机使用奖励模型建立标准化评估",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "计算机使用代理 (CUA) 在数字世界中快速发展。 CUA 轨迹记录了智能体的动作、状态和推理。验证它是否完成任务指令是 CUA 评估、数据管理和强化学习的核心。人工编写的验证器和人工注释器都无法大规模提供此类验证，因此该领域越来越多地转向"
-        },
-        {
-            "title": "诱导语言模型维护自己的意识可以恢复人类的信仰和价值观",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "调整大型语言模型以防止它们将意识归因于自己无意中改变了它们在其他实体以及人类信仰和价值观中的思想表征。我们证明，安全微调不仅可以抑制模型将思想归因于自身，还可以归因于非人类动物和自然物体的倾向，同时也会导致精神信仰的减少。既消除了习得的安全"
-        },
-        {
-            "title": "信标：知道何时以及如何执行代理视觉推理",
+            "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "代理视觉推理的基本目标是提高多模态大语言模型（MLLM）在复杂任务上的成功率，而不是仅仅为其配备复杂但低效的推理范式。在这项工作中，我们通过工具使用的两个关键维度重新思考代理视觉推理：模式适应性（MA）和工具效果（TE）。模式适应性表征了 "
+            "snippet": "行业独家的30s视频原生直出"
+        },
+        {
+            "title": "下载：蒙大拿州新的实验药物规则",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。"
+        },
+        {
+            "title": "蒙大拿州新的“尝试权”法律对某些人来说还不够快",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "克里斯·德瓦特很绝望。他的儿子布罗迪 (Brody) 于 2023 年 3 月出生。德瓦特说，没过多久，他就开始表现出发育迟缓的迹象。布罗迪说，随着时间的推移，他开始错过言语、动作和协调方面的关键里程碑。当布罗迪两岁半左右时，进行了一项基因"
+        },
+        {
+            "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续"
         }
     ]
 }
