@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-03 01:47:01
+ * 生成时间: 2026-08-04 01:22:42
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "伦敦黑客之家内部反对创始人倦怠",
-            "summary": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
+            "summary": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations in",
+            "source": "arXiv",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
+            "url": "http://arxiv.org/abs/2608.01075v1"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
-            "summary": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+            "summary": "Tabular data is used extensively in many real-world use cases. Deep learning models have been develo",
+            "source": "arXiv",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            "url": "http://arxiv.org/abs/2608.01074v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
-            "summary": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”",
-            "source": "TechCrunch AI",
+            "tag": "政策 · 法规",
+            "title": "PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models f",
+            "summary": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, ",
+            "source": "arXiv",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+            "url": "http://arxiv.org/abs/2608.01072v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
-            "summary": "苹果公司的新升级计划是智能手机所有权正在发生变化的最新迹象。",
-            "source": "TechCrunch AI",
+            "tag": "政策 · 法规",
+            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
+            "summary": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需",
+            "source": "arXiv",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+            "url": "http://arxiv.org/abs/2608.01067v1"
         }
     ],
     "quickNews": [
         {
-            "time": "01:47",
-            "text": "伦敦黑客之家内部反对创始人倦怠",
+            "time": "01:22",
+            "text": "角色解耦的注意力残差：深度分离匹配和内容检索",
             "hot": true,
-            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
+            "url": "http://arxiv.org/abs/2608.01075v1"
         },
         {
-            "time": "01:47",
-            "text": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+            "time": "01:22",
+            "text": "Logit-Origin Centering for Singleton Test-Time Adaptation",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            "url": "http://arxiv.org/abs/2608.01074v1"
         },
         {
-            "time": "01:47",
-            "text": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+            "time": "01:22",
+            "text": "PlantRig - From Bones to Branches: Adaptation of Autoregress",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+            "url": "http://arxiv.org/abs/2608.01072v1"
         },
         {
-            "time": "01:47",
-            "text": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
+            "time": "01:22",
+            "text": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Lan",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+            "url": "http://arxiv.org/abs/2608.01067v1"
         },
         {
-            "time": "01:47",
-            "text": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+            "time": "01:22",
+            "text": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+            "url": "http://arxiv.org/abs/2608.01060v1"
         },
         {
-            "time": "01:47",
-            "text": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+            "time": "01:22",
+            "text": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/464781.html"
+            "url": "http://arxiv.org/abs/2608.01058v1"
         },
         {
-            "time": "01:47",
-            "text": "获奖之后，王虹最想感谢的人",
+            "time": "01:22",
+            "text": "Control Under Compression: Reliability Frontiers for Tool-Us",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/464761.html"
+            "url": "http://arxiv.org/abs/2608.01056v1"
         },
         {
-            "time": "01:47",
-            "text": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "time": "01:22",
+            "text": "Credit the Right Box: Marginal Contribution Assignment for S",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/464713.html"
+            "url": "http://arxiv.org/abs/2608.01055v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "伦敦黑客之家内部反对创始人倦怠",
-                    "source": "TechCrunch AI",
+                    "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Per",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+                    "url": "http://arxiv.org/abs/2608.01055v1",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。..."
+                    "desc": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require vis..."
                 },
                 {
-                    "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
-                    "source": "TechCrunch AI",
+                    "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+                    "url": "http://arxiv.org/abs/2608.01050v1"
                 },
                 {
-                    "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
-                    "source": "TechCrunch AI",
+                    "title": "DeBERTa-Sentinel：实现 AI 生成文本的透明且值得信赖的检测",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+                    "url": "http://arxiv.org/abs/2608.01046v1"
                 },
                 {
-                    "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+                    "title": "WhatsApp says it is fixing an issue that disabled several accounts",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+                    "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/"
                 },
                 {
-                    "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/464781.html"
+                    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-                    "desc": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。\n  奇点逃逸创始...",
+                    "title": "【arXiv】角色解耦的注意力残差：深度分离匹配和内容检索",
+                    "desc": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "36氪 AI",
-                    "time": "2026-08-03",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://36kr.com/p/3919025939246727?f=rss"
+                    "url": "http://arxiv.org/abs/2608.01075v1"
                 },
                 {
-                    "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-                    "desc": "文｜王毓婵 兰杰\n  编辑｜乔芊\n  36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。\n  36氪就此事向B站方面求证，对方暂无回应。\n  \n  曾爱玲\n  B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或...",
+                    "title": "【arXiv】Logit-Origin Centering for Singleton Test-Time Adaptation",
+                    "desc": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perfo...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "36氪 AI",
-                    "time": "2026-07-31",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://36kr.com/p/3910776673064073?f=rss"
+                    "url": "http://arxiv.org/abs/2608.01074v1"
                 },
                 {
-                    "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-                    "desc": "开源项目GitHub狂揽8000+Star...",
+                    "title": "【arXiv】PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant S",
+                    "desc": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, but their ability to generalize to plant structure...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "量子位",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.qbitai.com/2026/07/464328.html"
+                    "url": "http://arxiv.org/abs/2608.01072v1"
                 },
                 {
-                    "title": "下载：蒙大拿州新的实验药物规则",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。...",
+                    "title": "【arXiv】ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
+                    "desc": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需的校正因样本而异。我们表明，这种不匹配会导致现有的防御随着攻击的加强而急剧下降。我们推出 ReACT...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+                    "url": "http://arxiv.org/abs/2608.01067v1"
+                },
+                {
+                    "title": "【arXiv】一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
+                    "desc": "跨视图地理定位 (CVGL) 检索带有地理标记的卫星图像以进行地面视图查询。大多数系统都会详尽地搜索平坦的、固定分辨率的图库，这会导致大面积的成本高昂，并且对卫星分辨率变化的适应能力较差。自回归从粗到精的替代方案减少了比较，但将后来的预测与早期的决策和预定义的层次结构绑定在一起。我们介绍 GeoMo...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2608.01060v1"
+                },
+                {
+                    "title": "【arXiv】扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
+                    "desc": "Artificial Intelligence is increasingly applied to surgical video analysis for phase segmentation, skill assessment, and workflow optimization. A key ...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2608.01058v1"
                 }
             ]
         },
@@ -252,59 +274,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+                    "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+                    "url": "http://arxiv.org/abs/2608.01056v1"
                 },
                 {
                     "rank": 2,
-                    "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-                    "time": "2026-08-03",
+                    "title": "What Could the Agent See at 19:05? Generating Temporal Enterprise Scen",
+                    "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://36kr.com/p/3923043072634498?f=rss"
+                    "url": "http://arxiv.org/abs/2608.01042v1"
                 },
                 {
                     "rank": 3,
-                    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
-                    "time": "2026-08-01",
+                    "title": "AWS is helping vibe-coding startup Superblocks, and the implications a",
+                    "time": "5小时前",
                     "emoji": "🎬",
-                    "url": "https://36kr.com/p/3920241240419720?f=rss"
+                    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
                 },
                 {
                     "rank": 4,
-                    "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
-                    "time": "2026-07-31",
+                    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks?",
+                    "time": "5小时前",
                     "emoji": "🔍",
-                    "url": "https://36kr.com/p/3919378312670857?f=rss"
+                    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/"
                 },
                 {
                     "rank": 5,
-                    "title": "开云的转折：在中国，做一个AI乐观派",
-                    "time": "2026-07-31",
+                    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+                    "time": "3小时前",
                     "emoji": "⚖️",
-                    "url": "https://36kr.com/p/3919225763540611?f=rss"
+                    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/"
                 },
                 {
                     "rank": 6,
-                    "title": "最前线｜创客工具赛道升温，国内首个Maker Tool行业联盟成立",
-                    "time": "2026-07-31",
+                    "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
+                    "time": "22小时前",
                     "emoji": "🎵",
-                    "url": "https://36kr.com/p/3919301778288261?f=rss"
+                    "url": "https://www.qbitai.com/2026/08/464835.html"
                 },
                 {
                     "rank": 7,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+                    "time": "2026-08-03",
                     "emoji": "📝",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://36kr.com/p/3923465542364545?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "App Store 中的这些隐藏瑰宝证明，人工智能时代优秀软件仍有发展空间",
-                    "time": "10小时前",
+                    "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+                    "time": "2026-08-03",
                     "emoji": "🤖",
-                    "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/"
+                    "url": "https://36kr.com/p/3923374038265217?f=rss"
+                },
+                {
+                    "rank": 9,
+                    "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+                    "time": "2026-08-03",
+                    "emoji": "📊",
+                    "url": "https://36kr.com/p/3923043072634498?f=rss"
+                },
+                {
+                    "rank": 10,
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
+                    "emoji": "🌐",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 }
             ]
         },
@@ -314,52 +350,66 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-                    "time": "昨天",
+                    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+                    "time": "2026-08-04",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/08/464693.html"
+                    "url": "https://36kr.com/p/3924467692927369?f=rss"
                 },
                 {
                     "rank": 2,
-                    "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
-                    "time": "2026-08-01",
+                    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+                    "time": "2026-08-03",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3920595518533250?f=rss"
+                    "url": "https://36kr.com/p/3923717502072969?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-                    "time": "2026-07-31",
+                    "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+                    "time": "2026-08-03",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3919386961177985?f=rss"
+                    "url": "https://36kr.com/p/3923603053686151?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "创业这件事，你最关心的问题是什么？36氪想跟你聊一聊",
-                    "time": "2026-07-31",
+                    "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+                    "time": "2026-08-03",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3919112515956355?f=rss"
+                    "url": "https://36kr.com/p/3923371035831684?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+                    "time": "2026-08-03",
                     "emoji": "📉",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3923367465266824?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+                    "time": "2026-08-03",
                     "emoji": "🔄",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3923317976526208?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                },
+                {
+                    "rank": 8,
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
+                    "emoji": "🤝",
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                },
+                {
+                    "rank": 9,
+                    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+                    "time": "18小时前",
+                    "emoji": "📰",
+                    "url": "https://www.qbitai.com/2026/08/465361.html"
                 }
             ]
         },
@@ -401,75 +451,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+454,263",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,362",
+                    "stars": "+453,431",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
-                    "name": "openclaw/openclaw",
-                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+384,961",
-                    "url": "https://github.com/openclaw/openclaw"
-                },
-                {
                     "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+310,251",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+393,652",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 4,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+265,171",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "openclaw/openclaw",
+                    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+385,047",
+                    "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 5,
-                    "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+241,447",
-                    "url": "https://github.com/torvalds/linux"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+363,500",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+237,082",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "vinta/awesome-python",
+                    "desc": "An opinionated list of Python frameworks, libraries, tools, and resources",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+312,007",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 7,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "基于项目的教程精选列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+224,336",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+276,363",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 },
                 {
                     "rank": 8,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+199,094",
-                    "url": "https://github.com/n8n-io/n8n"
+                    "name": "obra/superpowers",
+                    "desc": "An agentic skills framework & software development methodology that works.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+265,732",
+                    "url": "https://github.com/obra/superpowers"
                 }
             ]
         }
@@ -478,72 +528,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "伦敦黑客之家内部反对创始人倦怠",
+            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/"
+            "url": "http://arxiv.org/abs/2608.01075v1"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+            "title": "Logit-Origin Centering for Singleton Test-Time Ada",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            "url": "http://arxiv.org/abs/2608.01074v1"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+            "title": "PlantRig - From Bones to Branches: Adaptation of A",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+            "url": "http://arxiv.org/abs/2608.01072v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
+            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for V",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/"
+            "url": "http://arxiv.org/abs/2608.01067v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+            "title": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/"
+            "url": "http://arxiv.org/abs/2608.01060v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+            "title": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/464781.html"
+            "url": "http://arxiv.org/abs/2608.01058v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "获奖之后，王虹最想感谢的人",
+            "title": "Control Under Compression: Reliability Frontiers f",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/464761.html"
+            "url": "http://arxiv.org/abs/2608.01056v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "title": "Credit the Right Box: Marginal Contribution Assign",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/464713.html"
+            "url": "http://arxiv.org/abs/2608.01055v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+            "title": "Struct-GStream：利用结构化 3D 高斯实现低比特率的高效自由视点视频流",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/464693.html"
+            "url": "http://arxiv.org/abs/2608.01053v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+            "title": "Don't Offer What Can't Be Done: Deterministic Exec",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/464532.html"
+            "url": "http://arxiv.org/abs/2608.01050v1"
         }
     ],
     "aiTools": [
@@ -594,242 +644,242 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Claude",
+            "text": "模型",
             "size": "large"
-        },
-        {
-            "text": "Code",
-            "size": "medium"
-        },
-        {
-            "text": "人工智能",
-            "size": "medium"
         },
         {
             "text": "OpenAI",
             "size": "medium"
         },
         {
+            "text": "Claude",
+            "size": "medium"
+        },
+        {
             "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "Download",
             "size": "small"
         },
         {
-            "text": "模型",
+            "text": "AWS",
             "size": "small"
         },
         {
-            "text": "智能",
+            "text": "Code",
             "size": "small"
         },
         {
-            "text": "Sam",
+            "text": "Agent",
             "size": "small"
         },
         {
-            "text": "Altman",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "SK",
+            "text": "Qwen3",
             "size": "small"
         },
         {
-            "text": "工具",
+            "text": "Models",
             "size": "small"
         },
         {
-            "text": "Ventures",
+            "text": "CLIP",
             "size": "small"
         },
         {
-            "text": "代理",
+            "text": "Language",
             "size": "small"
         },
         {
-            "text": "Salesforce",
+            "text": "LLM",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "伦敦黑客之家内部反对创始人倦怠",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "一家创始人如何押注工作与生活的平衡可以战胜倦怠。"
+            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting "
         },
         {
-            "title": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+            "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tab"
+        },
+        {
+            "title": "PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Re",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, but their ability to"
+        },
+        {
+            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需的校正因样本而异。我们表明，这种不匹配会"
+        },
+        {
+            "title": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "跨视图地理定位 (CVGL) 检索带有地理标记的卫星图像以进行地面视图查询。大多数系统都会详尽地搜索平坦的、固定分辨率的图库，这会导致大面积的成本高昂，并且对卫星分辨率变化的适应能力较差。自回归从粗到精的替代方案减少了比较，但将后来的预测与"
+        },
+        {
+            "title": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Artificial Intelligence is increasingly applied to surgical video analysis for phase segmentation, skill assessment, and"
+        },
+        {
+            "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "尽管 xAI 提起诉讼，但明尼苏达州禁止允许用户“裸体”图像的应用程序的禁令仍然可以继续推进。"
+            "snippet": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions t"
         },
         {
-            "title": "YouTuber Hank Green 表示他对人工智能的使用“不健康”",
+            "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "格林做出了引人注目的道歉，他说“我从与法学硕士的互动中获得的多巴胺水平......对我来说不健康，也不对世界有好处。”"
+            "snippet": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require vis"
         },
         {
-            "title": "您是否仍然应该购买下一部智能手机——或者改为订阅它？",
+            "title": "Struct-GStream：利用结构化 3D 高斯实现低比特率的高效自由视点视频流",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Constructing photorealistic Free-Viewpoint Videos (FVVs) of dynamic scenes from a set of posed 2D images has been an int"
+        },
+        {
+            "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "苹果公司的新升级计划是智能手机所有权正在发生变化的最新迹象。"
+            "snippet": "从大型技能库中进行选择的生产 LLM 代理面临着仅语义相关性无法解决的限制：技能可能与用户的主题匹配，但无法在当前帐户状态下执行。我们为 Wix 的客户服务助理 Helpmate 提供了一个已部署的三阶段选择管道。首先，面向召回的语义匹配器"
         },
         {
-            "title": "Sam Altman 仍在通过 ChatGPT 阐述养育子女的理由",
+            "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Ch",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of"
+        },
+        {
+            "title": "DeBERTa-Sentinel：实现 AI 生成文本的透明且值得信赖的检测",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "OpenAI 的首席执行官似乎很高兴为家长分享一个“很酷的用例”。"
+            "snippet": "大型语言模型 (LLM) 在网络上的快速传播引起了人们对错误信息、学术诚信、自动化内容操纵以及脆弱在线社区风险的担忧。现有的基于 Transformer 的检测器（例如 GPT-Sentinel）显示出了希望，但很难推广到不同的模型输出和释"
         },
         {
-            "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+            "title": "诱饵图像增强了针对编码越狱的字幕介导的防御",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们报告了图像输入与视觉语言模型（VLM）上现有黑盒防御之间的反直觉交互：将编码的越狱提示与不相关的诱饵图像配对可以大幅降低攻击成功率（ASR）。有效的变化在于防御管道，而不是图像。在五个前沿 VLM、两个编码攻击系列和三个黑盒防御中，字幕"
+        },
+        {
+            "title": "What Could the Agent See at 19:05? Generating Temporal Enterprise Scenarios from Real Research and R",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "企业人工智能代理在许多数据不断变化的应用程序中运行，因此答案仅相对于存在的数据以及在被询问时谁可以看到它而言才是正确的。今天的离线评估根据单个静态快照进行评分，这实际上是这一集的结束。因此，它只能评估一种情况，即最后一种情况，尽管该情节的每"
+        },
+        {
+            "title": "WAM-Diff2：用于高效自动驾驶 VLA 的分层 AR 到扩散蒸馏",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Vision-Language-Action (VLA) models have emerged as a prominent paradigm for end-to-end autonomous driving; however, the"
+        },
+        {
+            "title": "Outernet 将您保存的帖子变成现实世界的冒险",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app hel"
+        },
+        {
+            "title": "WhatsApp says it is fixing an issue that disabled several accounts",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "具身智能的τ（bushi）"
+            "snippet": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users "
         },
         {
-            "title": "获奖之后，王虹最想感谢的人",
+            "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "\"他真的给了我很大的帮助\""
+            "snippet": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
         },
         {
-            "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+            "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "狂刷3小时！"
+            "snippet": "苹果公司对英国政府的一项新法律要求提出上诉，批评者称这可能威胁到世界各地用户的隐私权。"
         },
         {
-            "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "对前沿实验室估值悲观"
-        },
-        {
-            "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+            "title": "苹果终于修复了 Siri。那么为什么会感觉虎头蛇尾呢？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "下一场竞争，是谁能造出更多“有用的世界”"
+            "snippet": "苹果期待已久的人工智能改革终于让 Siri 成为了人们一直期待的助手。然而，现在已经到了这样一个时刻：仅仅作为一个有能力的人工智能助手不再给人带来革命性的感觉。"
         },
         {
-            "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "三本教科书，救活英伟达"
-        },
-        {
-            "title": "Anthropic模型，也失控了。。。",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "14万次测试翻旧账"
-        },
-        {
-            "title": "AI顶会现场，见到了一家美妆巨头",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "欧莱雅把爱装进美庄全联路"
-        },
-        {
-            "title": "TechCrunch Mobility：对于机器人出租车来说两条路是分叉的",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "欢迎回到 TechCrunch Mobility，这是未来交通运输的中心，而现在，人工智能在其中发挥的作用比以往任何时候都更加重要。"
-        },
-        {
-            "title": "据报道马来西亚将关闭 Balaji Srinivasan 的网络学校",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让我们看看这个“技术乐观主义者的前沿社区”是如何做的......"
-        },
-        {
-            "title": "下载：OpenAI 可预测的黑客攻击以及 AI 股票的抛售",
+            "title": "特朗普的人工智能保护主义针对机器人",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。&#160; —Will Douglas Heaven，高级 AI 编辑 上周阅读了 Op"
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "三星的芯片工人正在跳槽到竞争对手 SK 海力士",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "三星半导体部门的工程师李在下班时打卡下班。他过去常常工作更长的时间，加倍努力以出色地完成他的项目。但最近，他直接回家为这家芯片制造商的韩国竞争对手 SK 海力士处理工作申请，并与同事分享了关于“芯片制造商”的建议。"
+            "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step t"
         },
         {
-            "title": "全球内存短缺对 MacBook Air 造成冲击",
+            "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "OpenAI 和 Anthropic 承认，他们未发布的人工智能模型逃脱了沙箱，并在前所未有的网络攻击中入侵了多家公司。从法律上讲谁应该受到责备？检察官是否应该起诉这两个人工智能前沿实验室？受害者可以起诉他们吗？我们采访了专门研究计算机黑客"
+        },
+        {
+            "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "全球内存芯片短缺似乎正在影响苹果最受欢迎的 Mac 的供应。"
+            "snippet": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人类评估。"
         },
         {
-            "title": "Sam Altman 和 AI 的减速争论",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在最新一集的《Equity》中，我们讨论了为什么 Sam Altman 呼吁业界“加快人工智能的发展速度”。"
-        },
-        {
-            "title": "被忽视的地热发电厂如何获得第二次机会",
+            "title": "How an overlooked geothermal plant got a second chance",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "2024 年 6 月，一家名为 Zanskar 的小公司购买了新墨西哥州的一座地热发电厂，但该发电厂很快就崩溃了。来自地下水库的水一天天变冷，使得工厂的运行变得不经济。两年后的现在，得益于新的设备，该工厂再次满负荷运行。"
+            "snippet": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The"
         },
         {
-            "title": "下载：一场芯片人才之战，并抑制人工智能炒作",
+            "title": "The Download: a chip talent battle, and deflating AI hype",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。三星的芯片工人正在跳槽到竞争对手 SK 海力士。李是三星半导体部门的一名工程师，过去经常工作到很晚。但最近，他一直准时下班，并且正在努力……"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "人工智能炒作指数：不性感的人工智能",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "当一封由顶尖经济学家签署的公开信警告人工智能可能会抢走你的工作时，这已经够糟糕的了。事实上它很快就会比你做晚饭更好？侮辱伤害。但这正是 1X 公司在展示一双新的、令人印象深刻的灵巧（对某些人来说，“”）时所承诺的。"
-        },
-        {
-            "title": "蒙大拿州成为实验医疗中心的计划刚刚推进",
+            "title": "Montana’s plan to become an experimental medical hub just pushed forward",
             "category": "AI研究",
             "tag": "research",
             "snippet": "截至本周，在蒙大拿州，任何拥有实验药物的生物技术公司都有明确的途径将其出售给消费者。其药物已通过初步测试（有时只需 10 名健康人）的公司可以支付 12,500 美元向新成立的审查委员会申请批准。一旦经过橡皮图章处理，“”"
         },
         {
-            "title": "下载：欺骗法学硕士，重振地热发电厂",
-            "category": "AI研究",
-            "tag": "research",
+            "title": "The Download: tricking LLMs, and reviving geothermal plants",
+            "category": "大模型动态",
+            "tag": "llm",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一个根本缺陷使法学硕士极易受到攻击 由于大型语言模型的工作方式存在根本缺陷，因此不可能使大型语言模型完全免受黑客攻击。"
         },
         {
-            "title": "一个根本性的缺陷使得法学硕士极易受到攻击",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性具有巨大影响，该技术"
-        },
-        {
-            "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "开源项目GitHub狂揽8000+Star"
-        },
-        {
-            "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+            "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "行业独家的30s视频原生直出"
+            "snippet": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性产生了巨大影响，"
         },
         {
-            "title": "下载：蒙大拿州新的实验药物规则",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。"
-        },
-        {
-            "title": "蒙大拿州新的“尝试权”法律对某些人来说还不够快",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "克里斯·德瓦特很绝望。他的儿子布罗迪 (Brody) 于 2023 年 3 月出生。德瓦特说，没过多久，他就开始表现出发育迟缓的迹象。布罗迪说，随着时间的推移，他开始错过言语、动作和协调方面的关键里程碑。当布罗迪两岁半左右时，进行了一项基因"
-        },
-        {
-            "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "文 | 赵京娜\n  访谈 编辑 | 海若镜\n  36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续"
+            "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of"
         }
     ]
 }
