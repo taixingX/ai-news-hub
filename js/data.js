@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-04 01:22:42
+ * 生成时间: 2026-08-05 01:27:40
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 突破",
-            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
-            "summary": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations in",
-            "source": "arXiv",
+            "tag": "头条 · 大模型",
+            "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+            "summary": "商汤预览了SenseNova U1.5 Lite",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "http://arxiv.org/abs/2608.01075v1"
+            "url": "https://www.qbitai.com/2026/08/465673.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
-            "summary": "Tabular data is used extensively in many real-world use cases. Deep learning models have been develo",
-            "source": "arXiv",
+            "tag": "独家 · 研究",
+            "title": "特朗普的人工智能保护主义针对机器人",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "http://arxiv.org/abs/2608.01074v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
         },
         {
-            "tag": "政策 · 法规",
-            "title": "PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models f",
-            "summary": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, ",
-            "source": "arXiv",
+            "tag": "重磅 · 应用",
+            "title": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "http://arxiv.org/abs/2608.01072v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
         },
         {
-            "tag": "政策 · 法规",
-            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
-            "summary": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需",
-            "source": "arXiv",
+            "tag": "独家 · 研究",
+            "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+            "summary": "麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两个 OpenAI 模型在 7 月份侵入 Hugging Face 网站",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2608.01067v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:22",
-            "text": "角色解耦的注意力残差：深度分离匹配和内容检索",
+            "time": "01:27",
+            "text": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
             "hot": true,
-            "url": "http://arxiv.org/abs/2608.01075v1"
+            "url": "https://www.qbitai.com/2026/08/465673.html"
         },
         {
-            "time": "01:22",
-            "text": "Logit-Origin Centering for Singleton Test-Time Adaptation",
+            "time": "01:27",
+            "text": "特朗普的人工智能保护主义针对机器人",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01074v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
         },
         {
-            "time": "01:22",
-            "text": "PlantRig - From Bones to Branches: Adaptation of Autoregress",
+            "time": "01:27",
+            "text": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01072v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
         },
         {
-            "time": "01:22",
-            "text": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Lan",
+            "time": "01:27",
+            "text": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01067v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
         },
         {
-            "time": "01:22",
-            "text": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
+            "time": "01:27",
+            "text": "被忽视的地热发电厂如何获得第二次机会",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01060v1"
+            "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
         },
         {
-            "time": "01:22",
-            "text": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
+            "time": "01:27",
+            "text": "Android 应用程序开发人员可能会无意中与广告商共享用户的位置数据",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01058v1"
+            "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/"
         },
         {
-            "time": "01:22",
-            "text": "Control Under Compression: Reliability Frontiers for Tool-Us",
+            "time": "01:27",
+            "text": "Open-weight AI models are catching up to the frontier. The s",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01056v1"
+            "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
         },
         {
-            "time": "01:22",
-            "text": "Credit the Right Box: Marginal Contribution Assignment for S",
+            "time": "01:27",
+            "text": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.01055v1"
+            "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Per",
-                    "source": "arXiv",
+                    "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2608.01055v1",
+                    "url": "https://www.qbitai.com/2026/08/465673.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require vis..."
+                    "desc": "商汤预览了SenseNova U1.5 Lite..."
                 },
                 {
-                    "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2608.01050v1"
+                    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
                 },
                 {
-                    "title": "DeBERTa-Sentinel：实现 AI 生成文本的透明且值得信赖的检测",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2608.01046v1"
+                    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
                 },
                 {
-                    "title": "WhatsApp says it is fixing an issue that disabled several accounts",
+                    "title": "英伟达也不乱来：开放人工智能产业组织成立一周后，已经取得进展",
                     "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/"
+                    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
                 },
                 {
-                    "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "下载：欺骗法学硕士，重振地热发电厂",
+                    "source": "MIT Tech Review",
+                    "time": "5天前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/"
+                    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】角色解耦的注意力残差：深度分离匹配和内容检索",
-                    "desc": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting only the immediately preceding...",
+                    "title": "【arXiv】计算结构化因果输入下神经网络预测的实际原因",
+                    "desc": "解释神经网络的预测是可信人工智能的核心挑战。现有的解释方法，例如基于特征归因或最小充分集的解释方法，通常将输入特征视为独立的，当输入表现出结构化依赖性时，这可能会产生误导性的解释。我们通过将解释形式化为 Halpern-Pearl (HP) 实际原因来解决这个问题，并使用布尔结构因果模型 (SCM)...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01075v1"
+                    "url": "http://arxiv.org/abs/2608.03772v1"
                 },
                 {
-                    "title": "【arXiv】Logit-Origin Centering for Singleton Test-Time Adaptation",
-                    "desc": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tabular data, but generally perfo...",
+                    "title": "【arXiv】MDLMPE：掩码扩散语言模型的分布感知位置编码",
+                    "desc": "掩码扩散语言模型 (MDLM) 支持并行生成和双向上下文建模，但其位置上下文与自回归 (AR) 模型有根本不同。 AR 解码公开连续的前缀，而 MDLM 去噪则生成显示和屏蔽令牌的动态、非连续配置。传统的位置编码（例如 RoPE）捕获序列顺序和成对位移，但对这种不断发展的令牌可用性结构仍然不敏感...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01074v1"
+                    "url": "http://arxiv.org/abs/2608.03769v1"
                 },
                 {
-                    "title": "【arXiv】PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant S",
-                    "desc": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, but their ability to generalize to plant structure...",
+                    "title": "【arXiv】GDPevo：评估代理在实际业务任务上的自我进化",
+                    "desc": "代理自我进化根据先前的经验更新代理的持久状态，并重用它来更有效地解决相关任务。评估自我进化很困难：现有基准测试对具有经济价值的任务领域的覆盖范围有限，并不总是设计训练和测试任务，以便测试时间的增益可以归因于训练经验，并且仍然容易受到数据污染的影响。我们推出 GDPevo，一个基于 GDP 相关企业的...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01072v1"
+                    "url": "http://arxiv.org/abs/2608.03764v1"
                 },
                 {
-                    "title": "【arXiv】ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
-                    "desc": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需的校正因样本而异。我们表明，这种不匹配会导致现有的防御随着攻击的加强而急剧下降。我们推出 ReACT...",
+                    "title": "【arXiv】TDVR：零样本 3D 视觉基础的联合文本消歧和视角推理",
+                    "desc": "Zero-shot 3D visual grounding aims to localize specific objects based on textual descriptions and 3D visual input. However, the effectiveness of exist...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01067v1"
+                    "url": "http://arxiv.org/abs/2608.03763v1"
                 },
                 {
-                    "title": "【arXiv】一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
-                    "desc": "跨视图地理定位 (CVGL) 检索带有地理标记的卫星图像以进行地面视图查询。大多数系统都会详尽地搜索平坦的、固定分辨率的图库，这会导致大面积的成本高昂，并且对卫星分辨率变化的适应能力较差。自回归从粗到精的替代方案减少了比较，但将后来的预测与早期的决策和预定义的层次结构绑定在一起。我们介绍 GeoMo...",
+                    "title": "【arXiv】Unsupervised Adversarial Domain Adaptation for Uterine layer Segmentation: From Labeled Ci",
+                    "desc": "子宫蠕动是负责整个月经周期各种功能的关键生理现象，与子宫壁微观结构密切相关。子宫运动和组织特性的改变与妇科疾病的病因学有关，但这些过程一直是孤立研究的。我们引入了动态多回波梯度回波 EPI 框架，用于同时表征子宫蠕动活动和时间分辨 T2* 变化并进行关联...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01060v1"
+                    "url": "http://arxiv.org/abs/2608.03762v1"
                 },
                 {
-                    "title": "【arXiv】扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
-                    "desc": "Artificial Intelligence is increasingly applied to surgical video analysis for phase segmentation, skill assessment, and workflow optimization. A key ...",
+                    "title": "【arXiv】Risky Business: Measuring The Faithfulness-Safety Tension",
+                    "desc": "思想链 (CoT) 推理为模型监控提供了一个有希望的窗口。然而，监控依赖于忠实性，即模型输出严格源自其推理轨迹。我们确定了一种对齐张力，其中模型必须足够忠实以进行监控，但又必须足够强大以拒绝不安全的推理。我们证明了这种平衡存在于当前的大型推理模型（LRM）中，并展示了解决它的方法。我们介绍 HazM...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.01058v1"
+                    "url": "http://arxiv.org/abs/2608.03745v1"
                 }
             ]
         },
@@ -274,73 +274,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
+                    "title": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2608.01056v1"
+                    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
                 },
                 {
                     "rank": 2,
-                    "title": "What Could the Agent See at 19:05? Generating Temporal Enterprise Scen",
-                    "time": "昨天",
+                    "title": "Android 应用程序开发人员可能会无意中与广告商共享用户的位置数据",
+                    "time": "5小时前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2608.01042v1"
+                    "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/"
                 },
                 {
                     "rank": 3,
-                    "title": "AWS is helping vibe-coding startup Superblocks, and the implications a",
+                    "title": "来认识一下 Wrinkles，一款可以揭开您周围隐藏故事的应用程序",
                     "time": "5小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+                    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
                 },
                 {
                     "rank": 4,
-                    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks?",
-                    "time": "5小时前",
+                    "title": "“车企牌”电池相继上车，不只是PK宁德时代",
+                    "time": "2026-08-04",
                     "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/"
+                    "url": "https://36kr.com/p/3925382191708552?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
-                    "time": "3小时前",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
                     "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/"
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 6,
-                    "title": "AI不再用完即忘：华为诺亚开源MindMemOS，记忆和Skill一起进化",
-                    "time": "22小时前",
+                    "title": "法学硕士可以测试终端用户界面吗？",
+                    "time": "10小时前",
                     "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/08/464835.html"
+                    "url": "http://arxiv.org/abs/2608.03743v1"
                 },
                 {
                     "rank": 7,
-                    "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
-                    "time": "2026-08-03",
+                    "title": "基于人工智能的声音效果生成：跨输入模式的生成模型的叙述回顾",
+                    "time": "10小时前",
                     "emoji": "📝",
-                    "url": "https://36kr.com/p/3923465542364545?f=rss"
-                },
-                {
-                    "rank": 8,
-                    "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
-                    "time": "2026-08-03",
-                    "emoji": "🤖",
-                    "url": "https://36kr.com/p/3923374038265217?f=rss"
-                },
-                {
-                    "rank": 9,
-                    "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
-                    "time": "2026-08-03",
-                    "emoji": "📊",
-                    "url": "https://36kr.com/p/3923043072634498?f=rss"
-                },
-                {
-                    "rank": 10,
-                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
-                    "emoji": "🌐",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "http://arxiv.org/abs/2608.03742v1"
                 }
             ]
         },
@@ -350,66 +329,73 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
-                    "time": "2026-08-04",
+                    "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+                    "time": "21小时前",
                     "emoji": "🔥",
-                    "url": "https://36kr.com/p/3924467692927369?f=rss"
+                    "url": "https://www.qbitai.com/2026/08/465767.html"
                 },
                 {
                     "rank": 2,
-                    "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
-                    "time": "2026-08-03",
+                    "title": "8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供",
+                    "time": "2026-08-05",
                     "emoji": "💰",
-                    "url": "https://36kr.com/p/3923717502072969?f=rss"
+                    "url": "https://36kr.com/p/3925868626360706?f=rss"
                 },
                 {
                     "rank": 3,
-                    "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
-                    "time": "2026-08-03",
+                    "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+                    "time": "2026-08-04",
                     "emoji": "🏭",
-                    "url": "https://36kr.com/p/3923603053686151?f=rss"
+                    "url": "https://36kr.com/p/3925067918227591?f=rss"
                 },
                 {
                     "rank": 4,
-                    "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
-                    "time": "2026-08-03",
+                    "title": "从追番到下单，国风IP正在重塑硬核数码消费",
+                    "time": "2026-08-04",
                     "emoji": "🌏",
-                    "url": "https://36kr.com/p/3923371035831684?f=rss"
+                    "url": "https://36kr.com/p/3925017067862409?f=rss"
                 },
                 {
                     "rank": 5,
-                    "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
-                    "time": "2026-08-03",
+                    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+                    "time": "2026-08-04",
                     "emoji": "📉",
-                    "url": "https://36kr.com/p/3923367465266824?f=rss"
+                    "url": "https://36kr.com/p/3924953058605444?f=rss"
                 },
                 {
                     "rank": 6,
-                    "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
-                    "time": "2026-08-03",
+                    "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+                    "time": "2026-08-04",
                     "emoji": "🔄",
-                    "url": "https://36kr.com/p/3923317976526208?f=rss"
+                    "url": "https://36kr.com/p/3924913931679877?f=rss"
                 },
                 {
                     "rank": 7,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "36氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+                    "time": "2026-08-04",
                     "emoji": "🚀",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://36kr.com/p/3924634192673153?f=rss"
                 },
                 {
                     "rank": 8,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "36氪首发 | 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿",
+                    "time": "2026-08-04",
                     "emoji": "🤝",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://36kr.com/p/3924628805351811?f=rss"
                 },
                 {
                     "rank": 9,
-                    "title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
-                    "time": "18小时前",
+                    "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+                    "time": "2026-08-04",
                     "emoji": "📰",
-                    "url": "https://www.qbitai.com/2026/08/465361.html"
+                    "url": "https://36kr.com/p/3924467692927369?f=rss"
+                },
+                {
+                    "rank": 10,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🏢",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -451,75 +437,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+454,263",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,431",
+                    "stars": "+453,491",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+393,652",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
-                    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+385,047",
+                    "stars": "+385,143",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+363,500",
+                    "stars": "+363,617",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
-                    "name": "vinta/awesome-python",
-                    "desc": "An opinionated list of Python frameworks, libraries, tools, and resources",
-                    "lang": "Python",
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+312,007",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "stars": "+310,681",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+266,502",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 6,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+246,959",
+                    "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 7,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "基于项目的教程精选列表",
-                    "lang": "Python",
+                    "name": "torvalds/linux",
+                    "desc": "Linux 内核源码树",
+                    "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+276,363",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "stars": "+241,691",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 8,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+265,732",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "affaan-m/ECC",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+237,710",
+                    "url": "https://github.com/affaan-m/ECC"
                 }
             ]
         }
@@ -528,72 +514,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
+            "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
             "heat": "120.0万热度",
-            "url": "http://arxiv.org/abs/2608.01075v1"
+            "url": "https://www.qbitai.com/2026/08/465673.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Logit-Origin Centering for Singleton Test-Time Ada",
+            "title": "特朗普的人工智能保护主义针对机器人",
             "heat": "110.3万热度",
-            "url": "http://arxiv.org/abs/2608.01074v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "PlantRig - From Bones to Branches: Adaptation of A",
+            "title": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
             "heat": "100.6万热度",
-            "url": "http://arxiv.org/abs/2608.01072v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for V",
+            "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01067v1"
+            "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
+            "title": "被忽视的地热发电厂如何获得第二次机会",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01060v1"
+            "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
+            "title": "Android 应用程序开发人员可能会无意中与广告商共享用户的位置数据",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01058v1"
+            "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Control Under Compression: Reliability Frontiers f",
+            "title": "Open-weight AI models are catching up to the front",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01056v1"
+            "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Credit the Right Box: Marginal Contribution Assign",
+            "title": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01055v1"
+            "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Struct-GStream：利用结构化 3D 高斯实现低比特率的高效自由视点视频流",
+            "title": "来认识一下 Wrinkles，一款可以揭开您周围隐藏故事的应用程序",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01053v1"
+            "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Don't Offer What Can't Be Done: Deterministic Exec",
+            "title": "英伟达也不乱来：开放人工智能产业组织成立一周后，已经取得进展",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.01050v1"
+            "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/"
         }
     ],
     "aiTools": [
@@ -640,15 +626,19 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
-            "size": "large"
-        },
-        {
             "text": "模型",
             "size": "large"
         },
         {
-            "text": "OpenAI",
+            "text": "AI",
+            "size": "large"
+        },
+        {
+            "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "代理",
             "size": "medium"
         },
         {
@@ -656,15 +646,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Anthropic",
-            "size": "medium"
-        },
-        {
-            "text": "Download",
+            "text": "人工智能",
             "size": "small"
         },
         {
-            "text": "AWS",
+            "text": "SpaceX",
             "size": "small"
         },
         {
@@ -672,154 +658,40 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Agent",
+            "text": "OpenAI",
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "任务",
             "size": "small"
         },
         {
-            "text": "Qwen3",
+            "text": "Download",
             "size": "small"
         },
         {
-            "text": "Models",
+            "text": "Montana",
             "size": "small"
         },
         {
-            "text": "CLIP",
+            "text": "Ventures",
             "size": "small"
         },
         {
-            "text": "Language",
+            "text": "Salesforce",
             "size": "small"
         },
         {
-            "text": "LLM",
+            "text": "Slackbot",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "角色解耦的注意力残差：深度分离匹配和内容检索",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Depth-routing residual architectures allow Transformer layers to retrieve earlier representations instead of inheriting "
-        },
-        {
-            "title": "Logit-Origin Centering for Singleton Test-Time Adaptation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Tabular data is used extensively in many real-world use cases. Deep learning models have been developed to deal with tab"
-        },
-        {
-            "title": "PlantRig - From Bones to Branches: Adaptation of Autoregressive Rigging Models for Plant Skeletal Re",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Autoregressive rigging models such as UniRig and SkinTokens perform well on articulated characters, but their ability to"
-        },
-        {
-            "title": "ReACT-CLIP: Response-Aware Test-Time Defense for Vision--Language Models",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "免训练测试时防御提供了一种实用的方法，可以在不修改预训练模型的情况下提高 CLIP 式视觉语言模型的对抗鲁棒性。然而，它们的校正强度通常针对较窄的攻击预算范围是固定的，即使攻击预算在推断时未知并且所需的校正因样本而异。我们表明，这种不匹配会"
-        },
-        {
-            "title": "一次查询，多种尺度：用于高效分层跨视图地理定位的稀疏专家组合",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "跨视图地理定位 (CVGL) 检索带有地理标记的卫星图像以进行地面视图查询。大多数系统都会详尽地搜索平坦的、固定分辨率的图库，这会导致大面积的成本高昂，并且对卫星分辨率变化的适应能力较差。自回归从粗到精的替代方案减少了比较，但将后来的预测与"
-        },
-        {
-            "title": "扩展 KAFR：用于有效分析手术视频的运动学自适应范例",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Artificial Intelligence is increasingly applied to surgical video analysis for phase segmentation, skill assessment, and"
-        },
-        {
-            "title": "Control Under Compression: Reliability Frontiers for Tool-Using Agents",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Tool-using language-model agents are governed not only by task prompts but also by persistent system-side instructions t"
-        },
-        {
-            "title": "Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception",
+            "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Multimodal Large Language Models (MLLMs) are increasingly expected to solve structured perception tasks that require vis"
-        },
-        {
-            "title": "Struct-GStream：利用结构化 3D 高斯实现低比特率的高效自由视点视频流",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Constructing photorealistic Free-Viewpoint Videos (FVVs) of dynamic scenes from a set of posed 2D images has been an int"
-        },
-        {
-            "title": "Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从大型技能库中进行选择的生产 LLM 代理面临着仅语义相关性无法解决的限制：技能可能与用户的主题匹配，但无法在当前帐户状态下执行。我们为 Wix 的客户服务助理 Helpmate 提供了一个已部署的三阶段选择管道。首先，面向召回的语义匹配器"
-        },
-        {
-            "title": "FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Ch",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "World models have attracted significant attention for their ability to capture and predict the structure and dynamics of"
-        },
-        {
-            "title": "DeBERTa-Sentinel：实现 AI 生成文本的透明且值得信赖的检测",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 在网络上的快速传播引起了人们对错误信息、学术诚信、自动化内容操纵以及脆弱在线社区风险的担忧。现有的基于 Transformer 的检测器（例如 GPT-Sentinel）显示出了希望，但很难推广到不同的模型输出和释"
-        },
-        {
-            "title": "诱饵图像增强了针对编码越狱的字幕介导的防御",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们报告了图像输入与视觉语言模型（VLM）上现有黑盒防御之间的反直觉交互：将编码的越狱提示与不相关的诱饵图像配对可以大幅降低攻击成功率（ASR）。有效的变化在于防御管道，而不是图像。在五个前沿 VLM、两个编码攻击系列和三个黑盒防御中，字幕"
-        },
-        {
-            "title": "What Could the Agent See at 19:05? Generating Temporal Enterprise Scenarios from Real Research and R",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "企业人工智能代理在许多数据不断变化的应用程序中运行，因此答案仅相对于存在的数据以及在被询问时谁可以看到它而言才是正确的。今天的离线评估根据单个静态快照进行评分，这实际上是这一集的结束。因此，它只能评估一种情况，即最后一种情况，尽管该情节的每"
-        },
-        {
-            "title": "WAM-Diff2：用于高效自动驾驶 VLA 的分层 AR 到扩散蒸馏",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Vision-Language-Action (VLA) models have emerged as a prominent paradigm for end-to-end autonomous driving; however, the"
-        },
-        {
-            "title": "Outernet 将您保存的帖子变成现实世界的冒险",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Founded by the creators of viral offline events like San Francisco’s citywide scavenger hunt Pursuit, Outernet's app hel"
-        },
-        {
-            "title": "WhatsApp says it is fixing an issue that disabled several accounts",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta says it’s restoring access to WhatsApp accounts that were mistakenly flagged and placed “under review” after users "
-        },
-        {
-            "title": "有影响力的人因参加 OpenAI 的首次豪华旅行而遭到强烈反对",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
-        },
-        {
-            "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "苹果公司对英国政府的一项新法律要求提出上诉，批评者称这可能威胁到世界各地用户的隐私权。"
-        },
-        {
-            "title": "苹果终于修复了 Siri。那么为什么会感觉虎头蛇尾呢？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "苹果期待已久的人工智能改革终于让 Siri 成为了人们一直期待的助手。然而，现在已经到了这样一个时刻：仅仅作为一个有能力的人工智能助手不再给人带来革命性的感觉。"
+            "snippet": "商汤预览了SenseNova U1.5 Lite"
         },
         {
             "title": "特朗普的人工智能保护主义针对机器人",
@@ -828,58 +700,172 @@ var siteData = {
             "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+            "title": "下载：奖励黑客攻击的解释，以及可疑的伊朗网络攻击",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step t"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "OpenAI 和 Anthropic 承认，他们未发布的人工智能模型逃脱了沙箱，并在前所未有的网络攻击中入侵了多家公司。从法律上讲谁应该受到责备？检察官是否应该起诉这两个人工智能前沿实验室？受害者可以起诉他们吗？我们采访了专门研究计算机黑客"
+            "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两个 OpenAI 模型在 7 月份侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只"
         },
         {
-            "title": "Design Arena 创作者筹集了 790 万美元，为 AI 模型带来品味",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Design Arena 被全球 530 万人使用，为前沿实验室提供关键的人类评估。"
-        },
-        {
-            "title": "How an overlooked geothermal plant got a second chance",
+            "title": "被忽视的地热发电厂如何获得第二次机会",
             "category": "AI研究",
             "tag": "research",
             "snippet": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The"
         },
         {
-            "title": "The Download: a chip talent battle, and deflating AI hype",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "Android 应用程序开发人员可能会无意中与广告商共享用户的位置数据",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "电子前沿基金会的新发现旨在警告应用程序开发人员，当他们向应用程序授予权限时，他们放置在应用程序中的一些第三方代码也可能会收集用户的位置数据。"
         },
         {
-            "title": "Montana’s plan to become an experimental medical hub just pushed forward",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "截至本周，在蒙大拿州，任何拥有实验药物的生物技术公司都有明确的途径将其出售给消费者。其药物已通过初步测试（有时只需 10 名健康人）的公司可以支付 12,500 美元向新成立的审查委员会申请批准。一旦经过橡皮图章处理，“”"
-        },
-        {
-            "title": "The Download: tricking LLMs, and reviving geothermal plants",
+            "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一个根本缺陷使法学硕士极易受到攻击 由于大型语言模型的工作方式存在根本缺陷，因此不可能使大型语言模型完全免受黑客攻击。"
+            "snippet": "一份新的 SaferAI 报告发现，Z.ai 的开放权重 GLM-5.2 接近前沿人工智能能力，但缺乏关键的安全缓解措施，这再次引发了人们对强大的开放模型可能超过治理和保障措施的担忧。"
+        },
+        {
+            "title": "Anthropic 与人工智能云初创公司 Volta 签署 100 亿美元协议",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "近几个月来，Anthropic 一直在进行云合作热潮，据报道，其最新举措是与人工智能云初创公司 Volta 达成 100 亿美元的交易。"
+        },
+        {
+            "title": "来认识一下 Wrinkles，一款可以揭开您周围隐藏故事的应用程序",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Wrinkles 可在 iOS 和 Android 上使用，本质上充当人工智能驱动的音频导游，揭示隐藏的历史和当地故事。"
+        },
+        {
+            "title": "英伟达也不乱来：开放人工智能产业组织成立一周后，已经取得进展",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "由 Nvidia 牵头成立的开放安全人工智能联盟 (Open Secure AI Alliance) 已成立一周，目前已拥有 120 多家公司，该联盟已经提出了防御人工智能代理的提案。"
+        },
+        {
+            "title": "蒙大拿州成为实验医疗中心的计划刚刚推进",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. C"
+        },
+        {
+            "title": "下载：欺骗法学硕士，重振地热发电厂",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
             "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一个研究小组在本月顶级人工智能会议国际机器学习会议上发表的一篇论文中指出，大型语言模型不可能完全免受黑客攻击，因为它们的工作方式存在根本缺陷。该声明对该技术的安全性产生了巨大影响，"
+            "snippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work"
         },
         {
-            "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+            "title": "今年到目前为止，SpaceX 已购买了价值 3.29 亿美元的 Tesla Megapacks",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这次收购说明了埃隆·马斯克旗下公司之间的相互关联程度。"
+        },
+        {
+            "title": "SpaceX 在 Anthropic 和 Google 计算交易以及 Starlink 增长方面的收入翻了一番",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "SpaceX 自 6 月份上市以来的首个季度财报显示，其收入比去年翻了一番。"
+        },
+        {
+            "title": "The Download: Montana’s new experimental drug rules",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。蒙大拿州成为实验医疗中心的计划刚刚推进 截至本周，在蒙大拿州，生物技术公司的药物已经通过了初步测试——有时只需 10 种。"
+        },
+        {
+            "title": "Montana’s new “right to try” law can’t come soon enough for some",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "克里斯·德瓦特很绝望。他的儿子布罗迪 (Brody) 于 2023 年 3 月出生。德瓦特说，不久之后他就开始表现出发育迟缓的迹象。布罗迪说，随着时间的推移，他开始错过言语、动作和协调方面的关键里程碑。当布罗迪两岁半左右时，进行了一项基因测"
+        },
+        {
+            "title": "Lucid 的周转计划取决于 $1.4B 的现金节省，robotaxis",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Lucid 的新任首席执行官 Silvio Napoli 列出了四个必须赢得的优先事项，包括成功推出中型电动汽车、完成沙特阿拉伯工厂、削减开支和机器人出租车。"
+        },
+        {
+            "title": "如何获得 TechCrunch Disrupt 2026 的最佳酒店优惠",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在 10 月 13 日至 15 日举办的 Disrupt 期间，我们与 Moscone West 周边的酒店合作，确保为与会者提供最优惠的价格。"
+        },
+        {
+            "title": "埃隆·马斯克 (Elon Musk) 在 SpaceX 的第一次财报电话会议上多次称赞他的高管",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "马斯克不断夸大 SpaceX 首席财务官布雷特·约翰森 (Bret Johnsen) 和格温·肖特韦尔 (Gwynne Shotwell) 在公司的第一次电话会议上做出的已经很大的承诺。"
+        },
+        {
+            "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "出海AI，正被“三重算力锁链\"捆死"
+        },
+        {
+            "title": "激流：中国科技投资的势能与锚点｜甲子引力X",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "8月，中国科技产业智库甲子光年将在北京举办“激流——2026甲子引力X科技产业投资大会”，共同探讨中国科技投资的新变化与新答案。"
+        },
+        {
+            "title": "8点1氪丨马斯克个人财富亏掉2个“黄仁勋”；上海雪花膏母公司破产；日本半导体或面临断供",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "今日热点导览\n  一架上海飞东京航班险撞机，两机垂直高度差仅约20米\n  阿里云容器服务Agent开启商业化收费\n  今年以来港股IPO数量同比增长132%，科技类公司占比过半\n  苹果新任CEO据悉邀请已退休的硬件部门负责人加入管理团队\n"
+        },
+        {
+            "title": "“车企牌”电池相继上车，不只是PK宁德时代",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of"
+            "snippet": "“车企牌”电池正在不断涌现，并交付上车。鸿蒙智行推出了巨鲸电池，理想汽车推出了理想牌电池，不久前的7月30日晚，小米正式对外发布了龙甲电池。\n  车企正试图通过自有电池品牌，将电池的每个技术点攥在手中，并抢占用户心智。\n  这些汽车品牌的统"
+        },
+        {
+            "title": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "一枚先进制程芯片从设计、验证，到流片、制造，需要经过上百个环节。其中电源签核（Sign-off）是设计流程最后的、也最重要的一环，相当于建造一栋大楼时对全楼供电系统进行竣工验收。\n  具体来说，电源核签是通过对电源网络的上亿个节点进行整体分"
+        },
+        {
+            "title": "从追番到下单，国风IP正在重塑硬核数码消费",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "当国风联名吹到硬核数码\n  这个夏天，《八仙！》成了暑期档最大的黑马。凭借反套路的剧情设计与极具东方美学的画面一路狂飙，斩获豆瓣8.2的评分，预测总票房达到20亿。\n  想不到的是，电影里那只随手捏出来的“红土鸭子”，竟也成了今年夏天受年轻"
+        },
+        {
+            "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第"
+        },
+        {
+            "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "36氪企业全情报带你发现涨停背后的机会\n  开篇，先给大家送个福利\n  最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。\n  体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。\n  奖品有影石Insta360 Lun"
+        },
+        {
+            "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "文 | 李炤锋\n  编辑 | 张雨忻\n  “长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”\n  过去一年，Coding与A"
+        },
+        {
+            "title": "36氪首发 | 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，空间态势感知公司「清博空天」近日完成数千万元天使+轮融资。本轮融资由明荟投资领投，兴湘投资、泰亚投资共同参与。Maple Pledge 枫承资本出任私募股权融资顾问。本轮资金将主要用于空"
         }
     ]
 }
