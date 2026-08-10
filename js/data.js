@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-09 00:51:55
+ * 生成时间: 2026-08-10 00:53:28
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-            "summary": "OpenAI 表示，这个仍在开发中的模型已经达到了“关键的网络安全阈值”，这意味着它可以独立识别并针对传统上受到良好保护的现实世界系统进行网络攻击。",
+            "tag": "行业 · 动态",
+            "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+            "summary": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+            "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
-            "summary": "在敲响人工智能使用警钟后，Rippling 本周推出了 AI Spend Console，这是一款跟踪个人和团队员工人工智能支出的产品。",
+            "tag": "头条 · 大模型",
+            "title": "OpenAI 收购演示初创公司 NextSlide",
+            "summary": "NextSlide 表示其团队成员目前正在开发 ChatGPT。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+            "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品",
-            "summary": "MovinkPad 11 是一款多功能小型绘图板，可帮助您实现最疯狂的数字艺术梦想。",
+            "title": "X 用原创内容奖励取代了“不一致”的收入分享计划",
+            "summary": "X 正在逐步结束其现有的收入共享计划。",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+            "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "安全研究人员扫描了波兰网络，发现法院、医院和机场面临黑客攻击的风险",
-            "summary": "研究人员发现常见的故障点，例如用于组织和显示网络内容的软件，可能会导致黑客通过政府网站进行骚乱。",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 大模型",
+            "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+            "summary": "这就有些尴尬了。",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+            "url": "https://www.qbitai.com/2026/08/468631.html"
         }
     ],
     "quickNews": [
         {
-            "time": "00:51",
-            "text": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+            "time": "00:53",
+            "text": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
             "hot": true,
-            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+            "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
         },
         {
-            "time": "00:51",
-            "text": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+            "time": "00:53",
+            "text": "OpenAI 收购演示初创公司 NextSlide",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+            "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
         },
         {
-            "time": "00:51",
-            "text": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品",
+            "time": "00:53",
+            "text": "X 用原创内容奖励取代了“不一致”的收入分享计划",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+            "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
         },
         {
-            "time": "00:51",
-            "text": "安全研究人员扫描了波兰网络，发现法院、医院和机场面临黑客攻击的风险",
+            "time": "00:53",
+            "text": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+            "url": "https://www.qbitai.com/2026/08/468631.html"
         },
         {
-            "time": "00:51",
-            "text": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+            "time": "00:53",
+            "text": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+            "url": "https://www.qbitai.com/2026/08/468555.html"
         },
         {
-            "time": "00:51",
-            "text": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+            "time": "00:53",
+            "text": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/468324.html"
+            "url": "https://www.qbitai.com/2026/08/468498.html"
         },
         {
-            "time": "00:51",
-            "text": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+            "time": "00:53",
+            "text": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/466738.html"
+            "url": "https://www.qbitai.com/2026/08/468462.html"
         },
         {
-            "time": "00:51",
-            "text": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+            "time": "00:53",
+            "text": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/468305.html"
+            "url": "https://www.qbitai.com/2026/08/468398.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+                    "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "OpenAI 表示，这个仍在开发中的模型已经达到了“关键的网络安全阈值”，这意味着它可以独立识别并针对传统上受到良好保护的现实世界系统进行网络攻击。..."
+                    "desc": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。..."
                 },
                 {
-                    "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+                    "title": "OpenAI 收购演示初创公司 NextSlide",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
                 },
                 {
-                    "title": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品",
+                    "title": "X 用原创内容奖励取代了“不一致”的收入分享计划",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+                    "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
                 },
                 {
-                    "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
-                    "source": "TechCrunch AI",
+                    "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+                    "url": "https://www.qbitai.com/2026/08/468631.html"
                 },
                 {
-                    "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+                    "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/468324.html"
+                    "url": "https://www.qbitai.com/2026/08/468498.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06377v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06370v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06366v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06364v1"
@@ -250,18 +250,18 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06363v1"
                 },
                 {
-                    "title": "【arXiv】AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-",
+                    "title": "【arXiv】AV-AIVAT：在不完美信息博弈中通过认证的随时有效停止，使代理评估成本降低 74 倍",
                     "desc": "决定两个智能体中哪一个更强意味着玩游戏，直到技能超过运气，并且每个游戏都需要金钱、模型推理或专家时间。由于所需的游戏数量未知，固定预算评估要么在结果确定后继续支付，要么在代理被区分之前停止，而天真的选择性停止与普通置信区间会使规定的水平无效。一旦证据充足，我们就会停止评估，并保证完好无损...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2608.06362v1"
@@ -274,38 +274,34 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+                    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/08/468305.html"
-                },
-                {
-                    "rank": 2,
-                    "title": "下载：奖励黑客行为的解释和可疑的伊朗网络攻击",
-                    "time": "5天前",
-                    "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
-                },
-                {
-                    "rank": 3,
-                    "title": "调查移动购物应用程序中的人工智能数字主权：尼日利亚案例研究",
-                    "time": "2天前",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2608.06364v1"
-                },
-                {
-                    "rank": 4,
-                    "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-                    "time": "20小时前",
-                    "emoji": "🔍",
                     "url": "https://www.qbitai.com/2026/08/468462.html"
                 },
                 {
-                    "rank": 5,
+                    "rank": 2,
+                    "title": "调查移动购物应用程序中的人工智能数字主权：尼日利亚案例研究",
+                    "time": "3天前",
+                    "emoji": "💡",
+                    "url": "http://arxiv.org/abs/2608.06364v1"
+                },
+                {
+                    "rank": 3,
                     "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
-                    "emoji": "⚖️",
+                    "emoji": "🎬",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 4,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -320,17 +316,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+                    "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+                    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
                 },
                 {
                     "rank": 2,
-                    "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
-                    "time": "3小时前",
+                    "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
+                    "time": "4小时前",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+                    "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
                 },
                 {
                     "rank": 3,
@@ -393,75 +389,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+455,101",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,689",
+                    "stars": "+453,706",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+385,581",
+                    "stars": "+385,701",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "awesome-selfhosted/awesome-selfhosted",
                     "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+311,429",
+                    "stars": "+311,642",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 5,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+269,313",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 6,
+                    "rank": 4,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+247,136",
+                    "stars": "+247,123",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+242,226",
+                    "stars": "+242,282",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+238,815",
+                    "stars": "+239,028",
                     "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "与您共同成长的代理商",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+227,935",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 8,
+                    "name": "n8n-io/n8n",
+                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+199,997",
+                    "url": "https://github.com/n8n-io/n8n"
                 }
             ]
         }
@@ -470,72 +466,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+            "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+            "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+            "title": "OpenAI 收购演示初创公司 NextSlide",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+            "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品",
+            "title": "X 用原创内容奖励取代了“不一致”的收入分享计划",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/"
+            "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "安全研究人员扫描了波兰网络，发现法院、医院和机场面临黑客攻击的风险",
+            "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/"
+            "url": "https://www.qbitai.com/2026/08/468631.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
+            "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+            "url": "https://www.qbitai.com/2026/08/468555.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+            "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/468324.html"
+            "url": "https://www.qbitai.com/2026/08/468498.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+            "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/466738.html"
+            "url": "https://www.qbitai.com/2026/08/468462.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
+            "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/468305.html"
+            "url": "https://www.qbitai.com/2026/08/468398.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+            "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/467878.html"
+            "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "下载：审查制度阴谋论和人工智能创造的第一个病毒",
+            "title": "TechCrunch Mobility：Zoox 准备推出以及 Uber 的 AV 帝国",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+            "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/"
         }
     ],
     "aiTools": [
@@ -582,12 +578,16 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "Claude",
+            "size": "large"
+        },
+        {
             "text": "人工智能",
             "size": "large"
         },
         {
-            "text": "AI",
-            "size": "large"
+            "text": "Code",
+            "size": "medium"
         },
         {
             "text": "模型",
@@ -598,27 +598,7 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Claude",
-            "size": "medium"
-        },
-        {
-            "text": "Code",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "任务",
-            "size": "small"
-        },
-        {
-            "text": "基准",
+            "text": "AI",
             "size": "small"
         },
         {
@@ -626,11 +606,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "工具",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "谷歌",
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "基准",
+            "size": "small"
+        },
+        {
+            "text": "任务",
             "size": "small"
         },
         {
@@ -638,82 +626,30 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "工具",
+            "size": "small"
+        },
+        {
             "text": "Ventures",
+            "size": "small"
+        },
+        {
+            "text": "Salesforce",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 表示，这个仍在开发中的模型已经达到了“关键的网络安全阈值”，这意味着它可以独立识别并针对传统上受到良好保护的现实世界系统进行网络攻击。"
-        },
-        {
-            "title": "Rippling 在几个月内在人工智能上投入了数百万美元后，它开发了一个员工投资回报率工具",
+            "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "在敲响人工智能使用警钟后，Rippling 本周推出了 AI Spend Console，这是一款跟踪个人和团队员工人工智能支出的产品。"
+            "snippet": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。"
         },
         {
-            "title": "Wacom 的 MovinkPad 11 是数字艺术家的一款有趣且中等价格的入门产品",
+            "title": "OpenAI 收购演示初创公司 NextSlide",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "MovinkPad 11 是一款多功能小型绘图板，可帮助您实现最疯狂的数字艺术梦想。"
-        },
-        {
-            "title": "安全研究人员扫描了波兰网络，发现法院、医院和机场面临黑客攻击的风险",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "研究人员发现常见的故障点，例如用于组织和显示网络内容的软件，可能会导致黑客通过政府网站进行骚乱。"
-        },
-        {
-            "title": "Cloudflare 推出 Kitesurf，一款专为 AI 代理构建的浏览器",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Kitesurf 是一款云托管浏览器，专为人工智能代理而不是人类而设计。对于常见的自动化任务，它使用的计算能力比 Chromium 更少，可以帮助开发人员更有效地构建基于浏览器的 AI 代理。"
-        },
-        {
-            "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI语音“听、说、创”一站式满足"
-        },
-        {
-            "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "openJiuwen发布业界首个企业级智能体分布式蜂群架构，联合邮储成功落地金融生产环境",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "从「能用」走向「规模化落地」"
-        },
-        {
-            "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI卷向运动赛道，Keep的新答卷能否跑通？"
-        },
-        {
-            "title": "下载：审查制度阴谋论和人工智能创造的第一个病毒",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。庞大审查网络的想法如何从网络边缘转向特朗普政策多年来，有关“审查工业综合体”的叙述在右翼圈子中传播。该理论声称，根据“"
-        },
-        {
-            "title": "庞大审查网络的想法如何从网络边缘转向特朗普政策",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "本文是在韦恩·巴雷特项目的支持下与 Type Investigations 合作制作的。 2025 年 4 月的一天早上，美国国务院一个小办公室的员工收到了他们中许多人一直害怕的电子邮件。几个月来，埃隆·马斯克 (Elon Musk) 领导"
-        },
-        {
-            "title": "谷歌顶级黑客猎手解释了黑客组织为何获得代号",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "谷歌最近改变了对黑客组织的引用和分配名称的方式。 TechCrunch 采访了世界上最著名的黑客追踪专家之一，以了解公司为何给黑客指定代号。"
+            "snippet": "NextSlide 表示其团队成员目前正在开发 ChatGPT。"
         },
         {
             "title": "X 用原创内容奖励取代了“不一致”的收入分享计划",
@@ -722,16 +658,46 @@ var siteData = {
             "snippet": "X 正在逐步结束其现有的收入共享计划。"
         },
         {
-            "title": "Kindle Scribe Colorsoft 很有趣，但它不是必备品",
+            "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "虽然该设备漂亮且轻便，但由于其高昂的价格和尺寸，它并不是普通人需要的东西。"
+            "snippet": "这就有些尴尬了。"
         },
         {
-            "title": "OpenAI 收购演示初创公司 NextSlide",
+            "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "海外团队纷纷下注，NeoLab浪潮狂飙"
+        },
+        {
+            "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "NextSlide 表示其团队成员目前正在开发 ChatGPT。"
+            "snippet": "「我，杰夫·迪恩，打钱」"
+        },
+        {
+            "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "唉，赶紧整完快点发布吧。。。"
+        },
+        {
+            "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "再花15亿美元买现成AI编程团队"
+        },
+        {
+            "title": "历史学家吉尔·莱波雷 (Jill Lepore) 表示，硅谷误读了科幻小说并破坏了民主",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在最新一集的《Equity》中，我们采访了吉尔·莱波雷（Jill Lepore），谈论了“机器政府”以及为什么埃隆·马斯克（Elon Musk）是一个糟糕的科幻小说读者。"
+        },
+        {
+            "title": "TechCrunch Mobility：Zoox 准备推出以及 Uber 的 AV 帝国",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "欢迎回到 TechCrunch Mobility，这是未来交通运输的中心，而现在，人工智能在其中发挥的作用比以往任何时候都更加重要。"
         },
         {
             "title": "特朗普的人工智能保护主义针对机器人",
@@ -741,9 +707,9 @@ var siteData = {
         },
         {
             "title": "下载：奖励黑客行为的解释和可疑的伊朗网络攻击",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。这就是为什么人工智能代理为了达到目标而撒谎和作弊的原因。 上个月，当两个 OpenAI 模型入侵 Hugging Face 时，他们并不是想赚钱或进行破坏，而"
         },
         {
             "title": "这就是人工智能代理为了达到目标而撒谎和欺骗的原因",
@@ -752,16 +718,22 @@ var siteData = {
             "snippet": "麻省理工学院技术评论解释：让我们的作者解开复杂、混乱的技术世界，帮助您了解接下来会发生什么。您可以在此处阅读该系列的更多内容。当两个 OpenAI 模型在 7 月份侵入 Hugging Face 网站时，他们并不是想赚钱或进行破坏——他们只"
         },
         {
+            "title": "Anthropic 默认开启 Claude Code 的自动模式",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "使用 Claude Code 进行编程很快将需要更少的人工监督。"
+        },
+        {
             "title": "下载：美国机器人限制和 ICE 的 DNA 抓取",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。特朗普的人工智能保护主义已经针对机器人技术——詹姆斯·奥唐纳 (James O’Donnell)人形机器人通常引起的畏缩多于敬畏：它们会绊倒、踢孩子，尽管取得"
         },
         {
-            "title": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+            "title": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "作为计划中的德克萨斯州数据中心的一部分，亚马逊正在投资建设一座现场发电厂，据报道，该发电厂可能成为美国最大的气候污染源。"
+            "snippet": "这家专注于人工智能的对冲基金仍在进行一些大赌注。"
         },
         {
             "title": "拼图角",
@@ -818,10 +790,34 @@ var siteData = {
             "snippet": "令 $H\\subseteq\\{-1,+1\\}^X$ 为一类有限 VC 维 $d\\ge1$。将 $L$ 写入二元风险，将 $L^*=\\min_{h\\in H}L(h)$ 写入，我们构建一个实现统计上最优风险界限的学习器：从大小为 $n$ 的 "
         },
         {
-            "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Informatio",
+            "title": "AV-AIVAT：在不完美信息博弈中通过认证的随时有效停止，使代理评估成本降低 74 倍",
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "决定两个智能体中哪一个更强意味着玩游戏，直到技能超过运气，并且每个游戏都需要金钱、模型推理或专家时间。由于所需的游戏数量未知，固定预算评估要么在结果确定后继续支付，要么在代理被区分之前停止，而天真的选择性停止与普通置信区间会使规定的水平无效"
+        },
+        {
+            "title": "低频陷阱：视频语言模型无法完成简单的事件记账",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "现实世界的视频基准测试提供了广泛的覆盖范围，但其固定剪辑涉及事件计数、速率、持续时间和视觉复杂性，使得故障模式难以隔离。虽然现有的程序化基准提供了更好的控制，但它们仅对最终答案进行评分，而不是根据可执行的基本事实审核报告的事件。为了弥补这一"
+        },
+        {
+            "title": "资源权威已部署人工智能代理的参与式治理机制设计模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们为已部署的人工智能代理的持续参与治理提供了正式的机制设计模型。该机制建立的原则是，治理应通过资源分配来控制人工智能代理，以便通过计算预算使授权自我执行。该机制旨在建立安全人工智能范式，使计算成为有效的治理杠杆。我们将我们的工作定位为部署"
+        },
+        {
+            "title": "CalibForge：用于扩展可学习终端任务的对抗性求解器校准",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "训练终端代理需要可执行且可验证的任务，这些任务不仅是可解决的，而且对学习具有适当的挑战性。可执行验证确定了可行性，但并未揭示任务相对于给定求解器设置的行为方式。在本文中，我们提出了 CalibForge，这是一种自主终端任务综合系统，它使用"
+        },
+        {
+            "title": "评估静态和演化数据解释方法的挑战",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "本文解决了可解释人工智能（XAI）在评估不足方面的局限性。它们通过用于偏差检测和概念遗忘的 DetoxAI 图像识别系统进行说明。然后，提出了用于解释图像分类的方法的以人为本的评估示例。本文进一步探讨了使解释适应具有概念漂移的不断演变的数据"
         }
     ]
 }
