@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-11 00:52:56
+ * 生成时间: 2026-08-12 00:59:33
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
-            "summary": "旧金山的房地产市场再次陷入困境。",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+            "summary": "三视角世界模型谁更稳?",
+            "source": "量子位",
+            "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+            "url": "https://www.qbitai.com/2026/08/469860.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
-            "summary": "OpenAI 正在扩展其人工智能网络安全防御计划 Daybreak，并推出新的网络训练人工智能模型。",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "独家 · 研究",
+            "title": "人工智能教授正在讨论学术研究的新现实",
+            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，我前往旧金山以南 30 英里的加利福尼亚州山景城的一家酒店，加入了一些最有成就、最有前途的",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "Aptoide 成为美国第一家重返 Google Play 的竞争对手应用商店",
-            "summary": "十多年后，Aptoide 已将其游戏商店带回 Google Play，法院下令进行的更改向竞争应用商店开放了 Android。",
-            "source": "TechCrunch AI",
-            "time": "6小时前",
+            "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。科学人工智能需要推理，而不仅仅是数据——谷歌前首席执行官、施密特科学公司联合创始人埃里克·施密特（Eric Sc​​h",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
-            "summary": "Meta、TikTok、Snapchat 和 Google 等平台正面临着漫长的诉讼之路。",
-            "source": "TechCrunch AI",
-            "time": "6小时前",
+            "tag": "政策 · 法规",
+            "title": "科学人工智能需要推理，而不仅仅是数据",
+            "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicis",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
         }
     ],
     "quickNews": [
         {
-            "time": "00:52",
-            "text": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+            "time": "00:59",
+            "text": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
             "hot": true,
-            "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+            "url": "https://www.qbitai.com/2026/08/469860.html"
         },
         {
-            "time": "00:52",
-            "text": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
+            "time": "00:59",
+            "text": "人工智能教授正在讨论学术研究的新现实",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
         },
         {
-            "time": "00:52",
-            "text": "Aptoide 成为美国第一家重返 Google Play 的竞争对手应用商店",
+            "time": "00:59",
+            "text": "The Download: AI agents for science, and the “censorship-ind",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
         },
         {
-            "time": "00:52",
-            "text": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
+            "time": "00:59",
+            "text": "科学人工智能需要推理，而不仅仅是数据",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
         },
         {
-            "time": "00:52",
-            "text": "YouTube 现在要求创作者的观看时长增加一倍才能开始赚钱",
+            "time": "00:59",
+            "text": "这些初创公司正在追逐法学硕士的下一个重大目标",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
         },
         {
-            "time": "00:52",
-            "text": "拼图角",
+            "time": "00:59",
+            "text": "监督前的感知：来自反事实盲点的独立视觉蒸馏",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/"
+            "url": "http://arxiv.org/abs/2608.09931v1"
         },
         {
-            "time": "00:52",
-            "text": "下载：美国宇航局的新望远镜和中国技术进口限制",
+            "time": "00:59",
+            "text": "超越自然：在语言基础维度上探索自动文本到语音评估器",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+            "url": "http://arxiv.org/abs/2608.09930v1"
         },
         {
-            "time": "00:52",
-            "text": "美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星",
+            "time": "00:59",
+            "text": "Multimodal Model Diffing for Feature Discovery and Control",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+            "url": "http://arxiv.org/abs/2608.09928v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+                    "url": "https://www.qbitai.com/2026/08/469860.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "旧金山的房地产市场再次陷入困境。..."
+                    "desc": "三视角世界模型谁更稳?..."
                 },
                 {
-                    "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "title": "监督前的感知：来自反事实盲点的独立视觉蒸馏",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+                    "url": "http://arxiv.org/abs/2608.09931v1"
                 },
                 {
-                    "title": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "超越自然：在语言基础维度上探索自动文本到语音评估器",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/"
+                    "url": "http://arxiv.org/abs/2608.09930v1"
                 },
                 {
-                    "title": "YouTube 现在要求创作者的观看时长增加一倍才能开始赚钱",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "Multimodal Model Diffing for Feature Discovery and Control",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/"
+                    "url": "http://arxiv.org/abs/2608.09928v1"
                 },
                 {
-                    "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
-                    "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "title": "DistMoE：用于分布式指令调优的专家混合中的私有数据免演练路由",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+                    "url": "http://arxiv.org/abs/2608.09907v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】SimWAM：端到端自动驾驶的简单世界行动模型",
-                    "desc": "世界动作模型（WAM）通过在动作预测之前传输视频动态来改进端到端自动驾驶，但现有方法需要昂贵的下一代推理。我们推出了 SimWAM，这是一种简单而有效的 WAM，它纯粹使用视频生成作为训练信号。它通过联合流匹配来共同训练预训练的视频专家和轻量级动作专家。隔离的注意力掩模使动作预测独立于未来的帧，从而...",
+                    "title": "【arXiv】监督前的感知：来自反事实盲点的独立视觉蒸馏",
+                    "desc": "多模态大语言模型 (MLLM) 的自我改进通常由仅提供粗略标量反馈的基于奖励的方法驱动。蒸馏通过密集的令牌级监督提供了更丰富的替代方案，但在视觉领域，它通常依赖于使用外部注释和工具或更强大的模型构建的特权上下文。我们引入 \\textbf{CVPD} （对比反事实视觉过程蒸馏），据我们所知，这是第一个...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07468v1"
+                    "url": "http://arxiv.org/abs/2608.09931v1"
                 },
                 {
-                    "title": "【arXiv】MirrorWorld：驯服视频扩散模型以生成镜面反射",
-                    "desc": "视频扩散模型 (VDM) 的最新进展使得高保真视频合成成为可能。然而，生成镜面反射仍然具有挑战性，因为镜子内的内容必须与周围场景保持一致。现有的 VDM 并不是专门为场景与镜子关系建模而设计的，这可能会导致反射内容不正确或空间排列不一致。我们观察到镜面反射的生成涉及两个互补的挑战：...",
+                    "title": "【arXiv】超越自然：在语言基础维度上探索自动文本到语音评估器",
+                    "desc": "自动文本转语音 (TTS) 评估方法（平均意见得分 (MOS) 预测器和音频大语言模型 (Audio-LLM) 判断器）预计能够反映人类的感知，但尚不清楚它们如何准确地捕捉听众实际感知的语音的不同方面。我们将“自然性”解构为跨越 10 个不同感知维度的基于语言的注释模式，并用它构建 TTS 的第一个...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07463v1"
+                    "url": "http://arxiv.org/abs/2608.09930v1"
                 },
                 {
-                    "title": "【arXiv】CreativeInstruct：可扩展地教授法学硕士以平衡质量、创造力和多样性",
-                    "desc": "虽然后期训练提高了大型语言模型 (LLM) 的能力，但它通常会降低其输出多样性和创造力，从而对明确需要创造力的任务（例如故事生成）以及隐式需要创造力的任务（例如强化学习 (RL)）产生负面影响。相反，我们提出了 CreativeInstruct，这是一种可扩展的指令调整方法，通过学习 t...",
+                    "title": "【arXiv】Multimodal Model Diffing for Feature Discovery and Control",
+                    "desc": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07460v1"
+                    "url": "http://arxiv.org/abs/2608.09928v1"
                 },
                 {
-                    "title": "【arXiv】CoinRAG：长上下文 RAG 的上下文信息块 KV 缓存重用",
-                    "desc": "最近关于检索增强生成（RAG）的优化研究利用了块级 KV 缓存重用，以避免处理长检索上下文以提高效率，同时粗粒度块中仍然存在大量信息冗余和噪声。本文通过提出 CoinRAG（用于长上下文 RAG 的上下文信息块 KV 缓存重用），在低预填充延迟约束下优化了 Pareto 前沿，同时最大化了准确性。这...",
+                    "title": "【arXiv】学习世界如何演变：通过潜在动力学推理推断视频世界模型",
+                    "desc": "世界按照其动力学（即运动定律）演化。然而，领先的视频扩散模型很大程度上适合像素，而没有对像素随时间的传输方式进行建模。因此，它们呈现视觉上合理的框架，但可能不准确地遵守法律。为了纯粹从像素捕获动态，我们引入了潜在动态推理（LDR）。 LDR 将潜在转变转换为显式运动学积分，其中低阶动力学以数值方式积...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07458v1"
+                    "url": "http://arxiv.org/abs/2608.09926v1"
                 },
                 {
-                    "title": "【arXiv】交互创造了孤立的动态人工智能行为",
-                    "desc": "当人工智能代理在日常生活中交互时会发生什么，例如当一个人工智能开始对另一个人工智能发号施令时？我们找到了一个违反直觉的答案，为非平衡物理学开辟了新途径。当老板人工智能向下属人工智能发出一连串消息而忽略其回复时，它会促使下属进入一种陌生的行为状态，而这是它单独无法表现出来的。尽管两个人工智能共享相同的...",
+                    "title": "【arXiv】从价值观到基准：评估荷兰语政府使用的大型语言模型",
+                    "desc": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of p...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07457v1"
+                    "url": "http://arxiv.org/abs/2608.09925v1"
                 },
                 {
-                    "title": "【arXiv】复杂天然产物的策略优先合成规划",
-                    "desc": "复杂分子的全合成是化学中要求最高的智力和实验壮举之一：化学家必须提前计划许多步骤，以了解如何将简单的构建块组装成复杂的目标，设计备用策略并预测程序挑战。这也是一项极具创造性的活动。半个世纪以来，天然产物和其他复杂分子的逆合成设计自动化的努力已经利用了编目反应，以及由此产生的结果。...",
+                    "title": "【arXiv】GENCO - 嵌入稳态电网分析开发框架的统一神经求解器",
+                    "desc": "基础模型正在改变业务工作流程并提高生产力，但它们在电力系统分析等必须强制执行严格物理一致性的工程领域中仍然基本上缺席。我们推出了 GENCO（几何神经校正优化器），这是一种用于稳态输电网分析的统一神经求解器，可在单一架构和共享网络表示中处理功率流 (PF)、最优功率流 (OPF) 和状态估计 (SE...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.07454v1"
+                    "url": "http://arxiv.org/abs/2608.09921v1"
                 }
             ]
         },
@@ -274,30 +274,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Aptoide 成为美国第一家重返 Google Play 的竞争对手应用商店",
-                    "time": "6小时前",
+                    "title": "The Download: AI agents for science, and the “censorship-industrial co",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+                    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
                 },
                 {
                     "rank": 2,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Bluesky’s active user base is shrinking as its focus expands beyond th",
+                    "time": "7小时前",
+                    "emoji": "💡",
+                    "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/"
                 },
                 {
                     "rank": 3,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
+                    "time": "2026-01-22",
+                    "emoji": "🎬",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and",
+                    "time": "2026-01-13",
+                    "emoji": "🔍",
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+                    "time": "11小时前",
+                    "emoji": "⚖️",
+                    "url": "https://www.qbitai.com/2026/08/470674.html"
                 },
                 {
                     "rank": 6,
@@ -312,38 +320,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "什么是 Scaleup Europe，刚刚支持卫星公司 ICEYE 的 $5.7B 基金？",
+                    "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/"
                 },
                 {
                     "rank": 2,
-                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
-                    "time": "2026-01-22",
+                    "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+                    "time": "7小时前",
                     "emoji": "💰",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "How the “censorship-industrial complex” is changing the Internet and U",
+                    "time": "7小时前",
                     "emoji": "🏭",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
                 },
                 {
                     "rank": 4,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Accel 在数周内关闭了超额认购的 5.5 亿美元印度基金，距上次发行已过去 19 个月",
+                    "time": "3小时前",
                     "emoji": "🌏",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/"
                 },
                 {
                     "rank": 5,
-                    "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-                    "time": "17小时前",
+                    "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+                    "time": "20小时前",
                     "emoji": "📉",
-                    "url": "https://www.qbitai.com/2026/08/469520.html"
+                    "url": "https://www.qbitai.com/2026/08/470254.html"
+                },
+                {
+                    "rank": 6,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🔄",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                },
+                {
+                    "rank": 7,
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
+                    "emoji": "🚀",
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 }
             ]
         },
@@ -385,56 +407,56 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+455,512",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,756",
+                    "stars": "+453,827",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": "：书籍：免费提供的编程书籍",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+394,169",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+385,826",
+                    "stars": "+385,961",
                     "url": "https://github.com/openclaw/openclaw"
-                },
-                {
-                    "rank": 3,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+311,842",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-                },
-                {
-                    "rank": 4,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "基于项目的教程精选列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+278,002",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 },
                 {
                     "rank": 5,
                     "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
+                    "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+247,128",
+                    "stars": "+247,168",
                     "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 6,
                     "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
+                    "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+242,370",
+                    "stars": "+242,525",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
@@ -443,7 +465,7 @@ var siteData = {
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+239,246",
+                    "stars": "+239,486",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
@@ -452,7 +474,7 @@ var siteData = {
                     "desc": "与您共同成长的代理商",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+228,461",
+                    "stars": "+229,032",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
@@ -462,72 +484,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+            "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+            "url": "https://www.qbitai.com/2026/08/469860.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
+            "title": "人工智能教授正在讨论学术研究的新现实",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Aptoide 成为美国第一家重返 Google Play 的竞争对手应用商店",
+            "title": "The Download: AI agents for science, and the “cens",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
+            "title": "科学人工智能需要推理，而不仅仅是数据",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "YouTube 现在要求创作者的观看时长增加一倍才能开始赚钱",
+            "title": "这些初创公司正在追逐法学硕士的下一个重大目标",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/"
+            "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "拼图角",
+            "title": "监督前的感知：来自反事实盲点的独立视觉蒸馏",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/"
+            "url": "http://arxiv.org/abs/2608.09931v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "下载：美国宇航局的新望远镜和中国技术进口限制",
+            "title": "超越自然：在语言基础维度上探索自动文本到语音评估器",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
+            "url": "http://arxiv.org/abs/2608.09930v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星",
+            "title": "Multimodal Model Diffing for Feature Discovery and",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+            "url": "http://arxiv.org/abs/2608.09928v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
+            "title": "学习世界如何演变：通过潜在动力学推理推断视频世界模型",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/"
+            "url": "http://arxiv.org/abs/2608.09926v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "人工智能教授正在讨论学术研究的新现实",
+            "title": "从价值观到基准：评估荷兰语政府使用的大型语言模型",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+            "url": "http://arxiv.org/abs/2608.09925v1"
         }
     ],
     "aiTools": [
@@ -574,15 +596,19 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "人工智能",
-            "size": "large"
-        },
-        {
-            "text": "LLM",
+            "text": "模型",
             "size": "large"
         },
         {
             "text": "Claude",
+            "size": "large"
+        },
+        {
+            "text": "Code",
+            "size": "medium"
+        },
+        {
+            "text": "人工智能",
             "size": "medium"
         },
         {
@@ -590,19 +616,7 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "模型",
-            "size": "medium"
-        },
-        {
-            "text": "Code",
-            "size": "small"
-        },
-        {
-            "text": "代理",
-            "size": "small"
-        },
-        {
-            "text": "Google",
+            "text": "TTS",
             "size": "small"
         },
         {
@@ -610,84 +624,44 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
             "text": "谷歌",
             "size": "small"
         },
         {
-            "text": "Meta",
+            "text": "语言",
             "size": "small"
         },
         {
-            "text": "RAG",
+            "text": "DSLE",
             "size": "small"
         },
         {
-            "text": "KV",
+            "text": "Anthropic",
             "size": "small"
         },
         {
-            "text": "DisCoCat",
+            "text": "Gemini",
+            "size": "small"
+        },
+        {
+            "text": "视觉",
+            "size": "small"
+        },
+        {
+            "text": "VF",
+            "size": "small"
+        },
+        {
+            "text": "Puzzle",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+            "title": "五大高校联手发榜！首份机器人三视角世界模型评测结果出炉，榜单持续更新中",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "旧金山的房地产市场再次陷入困境。"
-        },
-        {
-            "title": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI 正在扩展其人工智能网络安全防御计划 Daybreak，并推出新的网络训练人工智能模型。"
-        },
-        {
-            "title": "Aptoide 成为美国第一家重返 Google Play 的竞争对手应用商店",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "十多年后，Aptoide 已将其游戏商店带回 Google Play，法院下令进行的更改向竞争应用商店开放了 Android。"
-        },
-        {
-            "title": "上诉失败后，社交媒体平台仍面临数千起用户成瘾诉讼",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta、TikTok、Snapchat 和 Google 等平台正面临着漫长的诉讼之路。"
-        },
-        {
-            "title": "YouTube 现在要求创作者的观看时长增加一倍才能开始赚钱",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "想要开始在该平台上赚钱的创作者需要在过去一年中至少获得 8,000 小时的合格观看时长，或者在过去 90 天内获得 2,000 万次合格的 Shorts 观看次数。"
-        },
-        {
-            "title": "拼图角",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "准备好迎接一组新的谜题了吗？ 单击此处查看 2026 年 9 月/10 月的《拼图角》，由 Puzzle Corner Puzzle Crew（又名 PC2）的 ScD '95 Michael S. Branicky 为您带来，其中还包括 "
-        },
-        {
-            "title": "下载：美国宇航局的新望远镜和中国技术进口限制",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星 八月底，美国宇航局计划从肯尼迪航天公司发射南希·格雷斯·罗马太空望远镜"
-        },
-        {
-            "title": "美国宇航局的新型暗能量太空望远镜还可以探测杀手小行星",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "八月底，美国宇航局将于佛罗里达州肯尼迪航天中心发射南希·格雷斯·罗马太空望远镜。它的目标是帮助我们更好地理解宇宙是如何运作的，从将星系保持在一起的胶水状暗物质到驱动宇宙膨胀的难以捉摸的暗能量。"
-        },
-        {
-            "title": "克劳德特工入侵健身房后，科技行业一片喧嚣",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "一名 OpenClaw 特工侵入了一家健身房的预订系统，将其人类老板提升到了课程候补名单上的位置。科技行业也注意到了这一点。"
+            "snippet": "三视角世界模型谁更稳?"
         },
         {
             "title": "人工智能教授正在讨论学术研究的新现实",
@@ -696,124 +670,172 @@ var siteData = {
             "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。上周，我前往旧金山以南 30 英里的加利福尼亚州山景城的一家酒店，加入了一些最有成就、最有前途的 AI 团队。"
         },
         {
+            "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。科学人工智能需要推理，而不仅仅是数据——谷歌前首席执行官、施密特科学公司联合创始人埃里克·施密特（Eric Sc​​hmidt）和领导人工智能科学工作的苏哈斯"
+        },
+        {
+            "title": "科学人工智能需要推理，而不仅仅是数据",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson w"
+        },
+        {
+            "title": "这些初创公司正在追逐法学硕士的下一个重大目标",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "《麻省理工学院技术评论》的“下一步是什么”系列涵盖了各个行业、趋势和技术，让您对未来有一个初步的了解。您可以在此处阅读其余内容。早在 2017 年夏天，谷歌的人工智能研究人员就发表了一篇名为“注意力就是你所需要的”的论文，其中他们描述了一种"
+        },
+        {
+            "title": "监督前的感知：来自反事实盲点的独立视觉蒸馏",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "多模态大语言模型 (MLLM) 的自我改进通常由仅提供粗略标量反馈的基于奖励的方法驱动。蒸馏通过密集的令牌级监督提供了更丰富的替代方案，但在视觉领域，它通常依赖于使用外部注释和工具或更强大的模型构建的特权上下文。我们引入 \\textbf{C"
+        },
+        {
+            "title": "超越自然：在语言基础维度上探索自动文本到语音评估器",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "自动文本转语音 (TTS) 评估方法（平均意见得分 (MOS) 预测器和音频大语言模型 (Audio-LLM) 判断器）预计能够反映人类的感知，但尚不清楚它们如何准确地捕捉听众实际感知的语音的不同方面。我们将“自然性”解构为跨越 10 个不"
+        },
+        {
+            "title": "Multimodal Model Diffing for Feature Discovery and Control",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these"
+        },
+        {
+            "title": "学习世界如何演变：通过潜在动力学推理推断视频世界模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "世界按照其动力学（即运动定律）演化。然而，领先的视频扩散模型很大程度上适合像素，而没有对像素随时间的传输方式进行建模。因此，它们呈现视觉上合理的框架，但可能不准确地遵守法律。为了纯粹从像素捕获动态，我们引入了潜在动态推理（LDR）。 LDR"
+        },
+        {
+            "title": "从价值观到基准：评估荷兰语政府使用的大型语言模型",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks j"
+        },
+        {
+            "title": "GENCO - 嵌入稳态电网分析开发框架的统一神经求解器",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "基础模型正在改变业务工作流程并提高生产力，但它们在电力系统分析等必须强制执行严格物理一致性的工程领域中仍然基本上缺席。我们推出了 GENCO（几何神经校正优化器），这是一种用于稳态输电网分析的统一神经求解器，可在单一架构和共享网络表示中处理"
+        },
+        {
+            "title": "通过综合生成克服硬件保障中的数据稀缺性和保密性",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "硬件保证依赖于扫描电子显微镜 (SEM) 来验证纳米级结构，但组装自动分析所需的大型高质量数据集受到耗时的采集和专有设计的严格知识产权 (IP) 限制的阻碍。我们提出了一种隐私保护管道，通过严重扭曲功能设计来保护知识产权，同时从一小组初始示"
+        },
+        {
+            "title": "超越危险相似性：用于免训练视频异常检测的对比事件判定",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "视频异常检测（VAD）旨在识别并暂时定位视频中的异常事件。监督方法从目标域注释中学习异常决策边界，但需要大量的域内数据。现有的免训练方法利用预训练模型丰富的语义知识和推理能力来解释视觉内容，但这些能力并不能直接定义异常决策标准：更丰富的异常"
+        },
+        {
+            "title": "DistMoE：用于分布式指令调优的专家混合中的私有数据免演练路由",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "多模态大型语言模型（MLLM）已表现出强大的多模态指令跟踪能力，但将其适应不同的视觉语言领域通常需要集中的数据访问和昂贵的联合训练。当数据跨私有、特定于域或权限受限的客户端分发时，这是限制性的。为此，我们提出了 DistMoE，一种用于分布"
+        },
+        {
+            "title": "DSLE：黑暗之魂 Boss 遭遇战的学习环境",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们推出了《黑暗之魂》学习环境 (DSLE)，这是一个容器化平台，通过 Gymnasium 风格的界面呈现《黑暗之魂：重制版》的所有 22 个 Boss 遭遇，作为游戏代理基准。 DSLE 结合了实时战斗、高维视觉输入和稀疏终端奖励，每个环"
+        },
+        {
+            "title": "解码级禁忌：LLM稳健性的诊断压力测试",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大型语言模型评估通常关注标称条件下的性能，从而产生一种模型可以轻松地在狭窄、高度优化的生成走廊中行走的错觉。然而，在现实部署中，复杂的系统提示、安全护栏和结构约束不断迫使模型偏离这条名义路径，从而导致基准分数和部署性能之间出现差异。为了解决"
+        },
+        {
+            "title": "无验证者测试时间扩展的一致性",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "测试时间扩展通常使用外部验证器，例如编码中的编译器和测试用例或机器人应用程序中经过训练的值函数，以获得高质量的部署。无验证器测试时间缩放（或 VF-TTS）作为一种增强大型语言模型（LLM）推理的机制正在受到广泛关注，主要是因为我们在许多实"
+        },
+        {
+            "title": "大型语言模型中数学泛化的融合训练",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "思维模式融合（TMF）通过在单个模型中统一非思维模式和思维模式，使大型语言模型能够支持简洁的响应和长形式的推理。然而，它的训练动态，包括两种模式之间的\\emph{数据比率}和\\emph{训练计划}，仍未得到充分探索。在这项工作中，我们通过分"
+        },
+        {
+            "title": "BDH-CQ：具有循环潜在推理的情境学习",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "我们引入了 BDH-CQ，这是一种将上下文学习与循环潜在推理相结合的推理模型。推理时呈现的输入不断更新模型的循环记忆；然后，该模型通过高维潜在空间中的迭代计算来解决查询，而无需用语言表达其中间推理。我们在公共 ARC-AGI-1 评估集上评"
+        },
+        {
+            "title": "创造空间与死球：广播足球的无球控球质量指数",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "控球率是足球界最常被提及和最具误导性的数字：60% 的控球权用在己方半场，而不是 60% 的控球权用于压制对手。现有的基于事件的控球价值框架（预期威胁、VAEP、有球价值）对有球行为进行定价，但忽略了无球控球带来的无球问题：持球是否创造了空"
+        },
+        {
+            "title": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "在选举后激增一年多后，Bluesky 的移动应用程序的活跃用户数持续下降，尽管其剩余社区仍然相对活跃。"
+        },
+        {
+            "title": "什么是 Scaleup Europe，刚刚支持卫星公司 ICEYE 的 $5.7B 基金？",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Scaleup Europe 是一家公私合营基金，目标规模为 57 亿美元，该基金通过支持芬兰卫星公司 ICEYE 进行了第一笔投资。"
+        },
+        {
+            "title": "OpenAI 的长期首席运营官 Brad Lightcap 即将离职，“开始新的事情”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 任职时间最长的高管之一即将离职，尽管这位长期担任首席运营官的员工表示，他“很高兴能够从不同的角度帮助大家推进使命”。"
+        },
+        {
+            "title": "General Catalyst 领投 2 个月大的 River AI 融资 1.1 亿美元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured "
+        },
+        {
+            "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "我第一次听到“审查工业综合体”这个词是在 2025 年 4 月 15 日。就在那时，我得到消息称，美国国务院的一个小办公室，专注于监控和反击来自俄罗斯、伊朗和中国等国家的外国虚假信息，第二天就面临着关闭。原因是什么？ R/FIMI，作为办公"
+        },
+        {
+            "title": "谷歌 Gemini 应用用户数量激增至 10 亿",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谷歌还分享了人们实际如何使用聊天机器人的数据，63% 的 Gemini 用户使用语音功能直接与助手交谈。此外，据谷歌称，Gemini 现在每天生成超过 1.5 亿张图像。"
+        },
+        {
+            "title": "Puzzle Corner",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "准备好迎接一组新的谜题了吗？ 单击此处查看 2026 年 9 月/10 月的《拼图角》，由 Puzzle Corner Puzzle Crew（又名 PC2）的 ScD '95 Michael S. Branicky 为您带来，其中还包括 "
+        },
+        {
+            "title": "FBI 表示网络犯罪分子正在侵入受害者的在线帐户以窃取他们的私密照片",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "美国联邦调查局在一份新警报中表示，网络犯罪分子以成年人和未成年人为目标，试图在勒索活动中窃取他们的个人和亲密照片。"
+        },
+        {
+            "title": "OpenAI 推出适用于 Linux 的 ChatGPT 桌面应用程序",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 最终将专用的 ChatGPT 桌面应用程序引入 Linux 操作系统。"
+        },
+        {
             "title": "下载：谷歌的人工智能变革和 Meta 的流氓模型",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。谷歌的人工智能帝国正在重塑。这是更改的内容。在经历了一波技术人才大战的痛苦损失、下一代旗舰机型的推迟以及士气低落的抱怨之后，“"
-        },
-        {
-            "title": "谷歌联合创始人谢尔盖·布林现已斥资 1 亿美元对抗亿万富翁税",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "加州第 40 号提案将对该州亿万富翁的净资产一次性征收 5% 的税。"
-        },
-        {
-            "title": "马克·扎克伯格的人工智能宣言正是人们不喜欢人工智能的原因",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "周一，马克·扎克伯格发表了一份关于个人人工智能的 6,500 字宣言，主要是关于 Meta AI 正在构建的“个人超级智能”系统的可能性。"
-        },
-        {
-            "title": "下载：审查制度阴谋论和人工智能创造的第一个病毒",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。庞大审查网络的想法如何从网络边缘转向特朗普政策多年来，有关“审查工业综合体”的叙述在右翼圈子中传播。该理论声称，根据“"
-        },
-        {
-            "title": "庞大审查网络的想法如何从网络边缘转向特朗普政策",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "本文是在韦恩·巴雷特项目的支持下与 Type Investigations 合作制作的。 2025 年 4 月的一天早上，美国国务院一个小办公室的员工收到了他们中许多人一直害怕的电子邮件。几个月来，埃隆·马斯克 (Elon Musk) 领导"
-        },
-        {
-            "title": "SimWAM：端到端自动驾驶的简单世界行动模型",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "世界动作模型（WAM）通过在动作预测之前传输视频动态来改进端到端自动驾驶，但现有方法需要昂贵的下一代推理。我们推出了 SimWAM，这是一种简单而有效的 WAM，它纯粹使用视频生成作为训练信号。它通过联合流匹配来共同训练预训练的视频专家和轻"
-        },
-        {
-            "title": "MirrorWorld：驯服视频扩散模型以生成镜面反射",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视频扩散模型 (VDM) 的最新进展使得高保真视频合成成为可能。然而，生成镜面反射仍然具有挑战性，因为镜子内的内容必须与周围场景保持一致。现有的 VDM 并不是专门为场景与镜子关系建模而设计的，这可能会导致反射内容不正确或空间排列不一致。我"
-        },
-        {
-            "title": "CreativeInstruct：可扩展地教授法学硕士以平衡质量、创造力和多样性",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "虽然后期训练提高了大型语言模型 (LLM) 的能力，但它通常会降低其输出多样性和创造力，从而对明确需要创造力的任务（例如故事生成）以及隐式需要创造力的任务（例如强化学习 (RL)）产生负面影响。相反，我们提出了 CreativeInstru"
-        },
-        {
-            "title": "CoinRAG：长上下文 RAG 的上下文信息块 KV 缓存重用",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "最近关于检索增强生成（RAG）的优化研究利用了块级 KV 缓存重用，以避免处理长检索上下文以提高效率，同时粗粒度块中仍然存在大量信息冗余和噪声。本文通过提出 CoinRAG（用于长上下文 RAG 的上下文信息块 KV 缓存重用），在低预填充"
-        },
-        {
-            "title": "交互创造了孤立的动态人工智能行为",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "当人工智能代理在日常生活中交互时会发生什么，例如当一个人工智能开始对另一个人工智能发号施令时？我们找到了一个违反直觉的答案，为非平衡物理学开辟了新途径。当老板人工智能向下属人工智能发出一连串消息而忽略其回复时，它会促使下属进入一种陌生的行为"
-        },
-        {
-            "title": "复杂天然产物的策略优先合成规划",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "复杂分子的全合成是化学中要求最高的智力和实验壮举之一：化学家必须提前计划许多步骤，以了解如何将简单的构建块组装成复杂的目标，设计备用策略并预测程序挑战。这也是一项极具创造性的活动。半个世纪以来，天然产物和其他复杂分子的逆合成设计自动化的努力"
-        },
-        {
-            "title": "SkillProx：通过近端文本梯度下降自我进化代理技能",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "LLM 代理人通过积累技能方面的程序知识，越来越适应重复性任务。这些技能是轻量级、可重用的文本工件，无需权重更新即可加载到代理的上下文中。最近的方法通过迭代任务执行、故障诊断和轨迹引导的文本空间更新来完善技能。然而，现有框架缺乏明确的诊断—"
-        },
-        {
-            "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在企业环境中快速采用大型语言模型 (LLM) 带来了运营、安全和治理风险。随着生成式人工智能应用从试点转向生产，手动危害识别和缓解变得难以扩展。尽管许多工具支持模型评估、对抗性测试、运行时护栏和可观察性，但工具环境仍然支离破碎。工具通常是为"
-        },
-        {
-            "title": "爆炸半径",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "代理编码面临着日益严重的负担能力和浪费代币的问题。我们引入了 Blast Radius，这是一个预测内存管理层，可通过耦合的上下文和代码通道来估计传入提示的范围。尸检通过逐字归档死亡上下文来实现可逆驱逐，而重复死亡物质 (RDM) 则可以识"
-        },
-        {
-            "title": "基于 DisCoCat 的情感分析的 LLM 辅助重写中等复杂金融句子的探索性评估",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "量子自然语言处理 (QNLP) 为文本建模提供了语法感知框架，分布式组合分类 (DisCoCat) 是其理论基础公式之一。之前有关金融情绪分析的工作已经确定了 DisCoCat 的实际局限性，包括解析器敏感性、高模拟成本以及处理较长句子的困"
-        },
-        {
-            "title": "PsychoAgent：LLM 代理中冲突感知记忆的情感敏感认知架构",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "类人认知并不仅仅通过主题相似性来选择过去的经验：情感意义和未解决的冲突也塑造了可访问的内容。我们提出了 PsychoAgent，这是一种 LLM 代理的认知架构，它将事实记忆和情感记忆分开，并通过冲突感知执行控制器将两者集成。情感记忆首先根"
-        },
-        {
-            "title": "Fisher-R1：训练 LLM 代理进行可靠的假设检验",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "可靠的假设检验是许多实证科学主张的基础。大型语言模型 (LLM) 代理越来越多地用于自动化此过程，因为它们可以检查数据集、生成代码并进行端到端分析。然而，我们表明，尽管分析执行正确，但他们经常犯一些微妙的推理错误，导致错误的结论。现有基准无"
-        },
-        {
-            "title": "Muon 训练变压器中表示读出接口的后 Grokking 崩溃",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "在标准分割下，Muon 获得隐藏矩阵和 AdamW 嵌入/输出头。 Muon 使模加法更快，但其解不成立。 $(a+b) \\bmod 113$ grok 和后来的所有九个配置都失去了泛化性。在五颗种子中，选定的 AdamW 参考值在四颗种子"
-        },
-        {
-            "title": "SABRE：压力下 VLM 的可扩展和自动化基准测试",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视觉语言模型 (VLM) 正在迅速改进，但基准开发滞后，使得弱点难以识别。构建压力测试的成本很高：样本必须满足受控条件、保持可靠并挑战当前模型。我们推出 SABRE，这是一个可扩展的自动化管道，可将测试入门（带有数据模式的 Markdown"
-        },
-        {
-            "title": "任何视频颞接地器的保形覆盖保证",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Event boundaries in continuous video are ambiguous: re-annotate the same query-video pair and independent annotators mar"
         }
     ]
 }
