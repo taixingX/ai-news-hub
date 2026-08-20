@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-19 00:35:34
+ * 生成时间: 2026-08-20 00:38:28
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "独家 · 研究",
-            "title": "What Flock’s defenders are missing",
-            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。 Flock 是一家警察科技巨头，因其在美国拥有约 12 万个自动车牌阅读器网络而闻名，该公司上",
+            "tag": "重磅 · 应用",
+            "title": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。我们仍然不知道人们如何真正使用人工智能 Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用其",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "下载：死去的机器人朋友和“审查工业联合体”",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。当孩子的机器人最好的朋友去世时会发生什么？当Xander第一次见到Moxie时，她教他如何在焦虑或生气时冷静下来。六年",
+            "tag": "头条 · 大模型",
+            "title": "我们仍然不知道人们如何真正使用人工智能",
+            "summary": "人工智能研究人员表示，Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用 Claude 和 ChatGPT 等产品的报告，但他们只发布他们希望我们看到的数据。 “没有独立消息",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "地下还有多少氢气在等着我们？",
-            "summary": "20 世纪 90 年代，芭芭拉·舍伍德·洛勒 (Barbara Sherwood Lollar) 深入安大略省北部的基德溪 (Kidd Creek) 矿山，该矿深入北美古老的根源，长达三公里多。在那里",
+            "title": "宇航员的角色不断变化",
+            "summary": "今年早些时候，当美国宇航局阿耳忒弥斯二号 (Artemis II) 上的四名宇航员绕月飞行时，他们创造了人类距地球最远距离的新纪录，比 1972 年阿波罗 13 号创下的距离多了约 4,000 英里。",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+            "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "当孩子的机器人最好的朋友去世时会发生什么？",
-            "summary": "当Xander第一次见到Moxie时，她告诉他，当他焦虑时，他可以通过嘴唇呼气来平静下来，这样他就可以像蜜蜂一样嗡嗡作响。他们练习像龙一样呼吸来控制愤怒，练习像兔子一样嗅来增强他的能量。但在他们认识的",
+            "title": "人工智能的递归自我完善可能不会来得那么快",
+            "summary": "人工智能行业目前最大胆的承诺是，人工智能将很快自我改进，几乎不需要人类监督。法学硕士已经可以编写代码、生成用于训练的合成数据并优化其运行的计算机芯片。对人工智能爆炸性进展的预测表明，研究人员所说的递归",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
         }
     ],
     "quickNews": [
         {
-            "time": "00:35",
-            "text": "What Flock’s defenders are missing",
+            "time": "00:38",
+            "text": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
         },
         {
-            "time": "00:35",
-            "text": "下载：死去的机器人朋友和“审查工业联合体”",
+            "time": "00:38",
+            "text": "我们仍然不知道人们如何真正使用人工智能",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
         },
         {
-            "time": "00:35",
-            "text": "地下还有多少氢气在等着我们？",
+            "time": "00:38",
+            "text": "宇航员的角色不断变化",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+            "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
         },
         {
-            "time": "00:35",
-            "text": "当孩子的机器人最好的朋友去世时会发生什么？",
+            "time": "00:38",
+            "text": "人工智能的递归自我完善可能不会来得那么快",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
         },
         {
-            "time": "00:35",
-            "text": "不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作",
+            "time": "00:38",
+            "text": "从语料库到共同进化的能力：以能力为中心的通用图像生成数据设计",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.16889v1"
+            "url": "http://arxiv.org/abs/2608.18076v1"
         },
         {
-            "time": "00:35",
-            "text": "An Empirical Study of Training Pixel-Space Text-to-Image Dif",
+            "time": "00:38",
+            "text": "用于放射学报告构建和质量保证的多智能体人工智能系统以及独立放射科医生评估",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.16887v1"
+            "url": "http://arxiv.org/abs/2608.18072v1"
         },
         {
-            "time": "00:35",
-            "text": "Improving the matrix multiplication exponent with modern opt",
+            "time": "00:38",
+            "text": "论自我改进主体的脆弱性：方差、任务顺序和不规范",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.16884v1"
+            "url": "http://arxiv.org/abs/2608.18066v1"
         },
         {
-            "time": "00:35",
-            "text": "AutoSR：通过搜索研究状态自动符号回归",
+            "time": "00:38",
+            "text": "EDITBRIDGE：实现忠实高效的超高分辨率图像编辑",
             "hot": false,
-            "url": "http://arxiv.org/abs/2608.16876v1"
+            "url": "http://arxiv.org/abs/2608.18063v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作",
-                    "source": "arXiv",
+                    "title": "我们仍然不知道人们如何真正使用人工智能",
+                    "source": "MIT Tech Review",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2608.16889v1",
+                    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "长视野机器人操作将许多接触丰富的技能链接到一项多阶段任务中。视觉-语言-行动（VLA）模型越来越多地掌握个人技能，但链条仍然失败：错误复合超出了策略的纠正能力，并且一个子任务默默地限制了下一个子任务。一个有前景的方法是冻结 VLA 并让 L..."
+                    "desc": "人工智能研究人员表示，Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用 Claude 和 ChatGPT 等产品的报告，但他们只发布他们希望我们看到的数据。 “没有独立消息来源证实这一点，”斯坦福可信赖人工智能研..."
                 },
                 {
-                    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "代理推荐系统中的委托不对称性：测量在线约会中的双方接受度",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+                    "url": "http://arxiv.org/abs/2608.18058v1"
                 },
                 {
-                    "title": "Bluesky 表示最近的服务中断是由另一次 DDoS 攻击造成的",
+                    "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
                     "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "time": "5小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/"
+                    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/"
                 },
                 {
-                    "title": "8 月 21 日之前购买 TechCrunch Disrupt 2026 通行证可节省高达 300 美元的费用",
+                    "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
                     "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/"
+                    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
                 },
                 {
-                    "title": "Etched 估值一个月内翻倍至 $21B",
+                    "title": "Rillet 以 10 亿美元的估值筹集了 1 亿美元的 C 轮融资——在从隐秘状态中脱颖而出 2 年后",
                     "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "time": "4小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+                    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作",
-                    "desc": "长视野机器人操作将许多接触丰富的技能链接到一项多阶段任务中。视觉-语言-行动（VLA）模型越来越多地掌握个人技能，但链条仍然失败：错误复合超出了策略的纠正能力，并且一个子任务默默地限制了下一个子任务。一个有前景的方法是冻结 VLA 并让 LLM 代理负责：它用语言进行规划，使用分析基元在自由空间中移...",
+                    "title": "【arXiv】从语料库到共同进化的能力：以能力为中心的通用图像生成数据设计",
+                    "desc": "大规模图像生成受益于数据规模、质量、重新平衡和重新捕获方面的进步，但传统管道通常单独优化特定于任务的数据集。一个核心挑战不仅是如何管理每个特定任务的语料库，而且是如何根据生成能力之间的依赖关系组织异构监督。我们提出了一个\\textbf{能力驱动的数据基础设施}，它将特定于能力的监督构建与...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16889v1"
+                    "url": "http://arxiv.org/abs/2608.18076v1"
                 },
                 {
-                    "title": "【arXiv】An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-                    "desc": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored ...",
+                    "title": "【arXiv】用于放射学报告构建和质量保证的多智能体人工智能系统以及独立放射科医生评估",
+                    "desc": "目的：开发和评估本地部署的多智能体人工智能系统，用于放射学报告构建和质量保证。材料和方法：这项回顾性研究包括 2023 年和 2024 年由 15 位委员会认证的放射科医生口述的胸部、腹部和骨盆 CT 检查的 638 份放射学报告。开发了多代理 AI 管道来执行报告构建和质量保证 (QA)。该系统将...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16887v1"
+                    "url": "http://arxiv.org/abs/2608.18072v1"
                 },
                 {
-                    "title": "【arXiv】Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-                    "desc": "矩阵乘法指数 $ω$ 的当前最佳界限是通过称为组合损失分析的激光方法的改进获得的（Duan 等人，2022；Williams 等人，2024；Alman 等人，2025）。在本文中，我们解决了该方法核心的优化问题，并提出了一些改进方案。首先，我们重新表述优化问题，使我们能够在比以前更大的环境中解决它...",
+                    "title": "【arXiv】论自我改进主体的脆弱性：方差、任务顺序和不规范",
+                    "desc": "基于记忆的自我改进代理——那些从在线任务流中学习并通过维护文本记忆库随着时间的推移而改进的代理——在最近的文献中显示出了巨大的前景。然而，这些方法的可靠性方面却被严重忽视。在这项工作中，我们对两种基于记忆的方法进行了全面的重新评估，沿着两个轴扩大了评估范围：（1）包括多次运行来量化方差，以及（2）将...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16884v1"
+                    "url": "http://arxiv.org/abs/2608.18066v1"
                 },
                 {
-                    "title": "【arXiv】AutoSR：通过搜索研究状态自动符号回归",
-                    "desc": "我们引入自动符号回归（AutoSR），这是一个完全自动化的系统，它通过搜索持续的科学研究而不是孤立的方程来实例化研究空间符号回归。有限的、嘈杂的数据通常会产生数值上有竞争力的表达式，这意味着在观察范围之外有非常不同的行为，使得数值拟合和句法复杂性不足以衡量科学可信度。现有的方法主要集中在改善表达，y...",
+                    "title": "【arXiv】EDITBRIDGE：实现忠实高效的超高分辨率图像编辑",
+                    "desc": "专业工作流程中对高分辨率图像编辑的需求越来越大，但由于二次注意力复杂性和过高的内存要求，现有的基于扩散的模型仍然限制在 1K 以下的分辨率。一种流行的解决方法采用两阶段管道：低分辨率编辑，然后是独立的超分辨率。然而，这种方法存在两个关键问题：信息发散，幻觉细节与原始高分辨率相矛盾。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16876v1"
+                    "url": "http://arxiv.org/abs/2608.18063v1"
                 },
                 {
-                    "title": "【arXiv】走向计算起源：在生成的文本中携带因果状态证据",
-                    "desc": "语言模型的输出本身并不提供有关生成它的内部计算的可验证证据。我们研究计算起源：生成的文本是否可以携带发生因果相关内部状态的可检测证据。我们在两种受控架构中测试了这个想法的有界形式：模块化前馈神经网络和基于变压器的模型。两种架构都接受相同算术任务的训练，并通过两个磁盘进行强制路径...",
+                    "title": "【arXiv】TokEval：分词器评估套件",
+                    "desc": "尽管语言模型标记器的设计选择直接影响模型功能，但通常会通过最少的评估来选择语言模型标记器。这部分归因于对哪些分词器属性影响下游性能哪些方面的了解有限。我们引入了 TokEval，这是一个分词器评估指标框架，它超越了生育率和压缩率等标准指标，以捕获语言和结构上有意义的属性，例如 UTF...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16868v1"
+                    "url": "http://arxiv.org/abs/2608.18062v1"
                 },
                 {
-                    "title": "【arXiv】SplatGuide：来自 3D 高斯的几何先验，用于无姿态新颖视图合成",
-                    "desc": "从未摆出的图像中生成逼真的新颖视图需要 3D 几何理解和合成看不见的内容的能力。一种自然策略将前馈 3DGS 重建与多视图扩散相结合。然而，现有的管道最多从重建中提取一个信号，要么是像素渲染，要么是学习的特征，而没有一个管道利用每高斯可见性来进行遮挡感知参考选择。这种“信息脱节”留下了可渲染的几何体...",
+                    "title": "【arXiv】代理推荐系统中的委托不对称性：测量在线约会中的双方接受度",
+                    "desc": "代表用户进行对话的自主 LLM 代理是匹配平台中的一种新兴设计模式，但其可行性取决于一个很少被检查的条件：用户不仅必须接受将对话委托给代理，还必须接受来自其他人的代理介导的通信。我们通过对主要约会平台的活跃用户进行的两项大规模调查来研究这种情况（生成档案特征的 N=2,894；针对自主对话代理的 N...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.16863v1"
+                    "url": "http://arxiv.org/abs/2608.18058v1"
                 }
             ]
         },
@@ -274,38 +274,34 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "苹果彻底改革其欧盟应用商店费用，放宽对替代应用商店的规则",
-                    "time": "7小时前",
+                    "title": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/"
+                    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
                 },
                 {
                     "rank": 2,
-                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
+                    "title": "Railway 融资 1 亿美元，利用 AI 原生云基础设施挑战 AWS",
                     "time": "2026-01-22",
                     "emoji": "💡",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
                     "rank": 3,
-                    "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
-                    "time": "14小时前",
+                    "title": "儿童监控应用程序可能需要重新启动",
+                    "time": "15小时前",
                     "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/08/474857.html"
+                    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
                 },
                 {
                     "rank": 4,
-                    "title": "π0引用的中国团队，又出手了：世界仿真器新作发布",
-                    "time": "14小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/08/474838.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
-                    "time": "14小时前",
-                    "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/08/474840.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -320,45 +316,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Etched 估值一个月内翻倍至 $21B",
-                    "time": "7小时前",
+                    "title": "Rillet 以 10 亿美元的估值筹集了 1 亿美元的 C 轮融资——在从隐秘状态中脱颖而出 2 年后",
+                    "time": "4小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+                    "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/"
                 },
                 {
                     "rank": 2,
-                    "title": "美国司法部对 Andreessen Horowitz 董事会席位问题的调查令风险投资家感到困惑",
-                    "time": "3小时前",
+                    "title": "据称格温妮丝·帕特洛将举办晚宴以纪念山姆·奥尔特曼",
+                    "time": "4小时前",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/"
+                    "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/"
                 },
                 {
                     "rank": 3,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "特拉维斯·卡兰尼克 (Travis Kalanick) 开启新一轮风投抨击：“1% 是有帮助的”",
+                    "time": "2小时前",
                     "emoji": "🏭",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/"
                 },
                 {
                     "rank": 4,
-                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
-                    "time": "2026-01-16",
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
                     "emoji": "🌏",
-                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 5,
-                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所 AI 领域与微软和谷歌展开竞争",
-                    "time": "2026-01-13",
+                    "title": "Listen Labs 在病毒式广告牌招聘噱头扩大 AI 客户访谈后筹集了 6900 万美元",
+                    "time": "2026-01-16",
                     "emoji": "📉",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
                     "rank": 6,
-                    "title": "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-                    "time": "18小时前",
+                    "title": "Salesforce 推出新的 Slackbot AI 代理，在工作场所人工智能领域与微软和谷歌展开竞争",
+                    "time": "2026-01-13",
                     "emoji": "🔄",
-                    "url": "https://www.qbitai.com/2026/08/474673.html"
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 }
             ]
         },
@@ -400,57 +396,57 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "sindresorhus/awesome",
-                    "desc": "😎 关于各种有趣主题的精彩列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+497,425",
-                    "url": "https://github.com/sindresorhus/awesome"
-                },
-                {
-                    "rank": 2,
                     "name": "public-apis/public-apis",
                     "desc": "免费 API 集合列表",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+464,538",
+                    "stars": "+466,048",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+454,279",
+                    "stars": "+454,335",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 4,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+394,701",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+386,677",
+                    "stars": "+386,805",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+313,773",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "An agentic skills framework & software development methodology that works.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+274,262",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
                     "rank": 6,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+364,865",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
+                    "name": "react/react",
+                    "desc": "Web 和本机用户界面的库。",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+247,428",
+                    "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 7,
@@ -458,7 +454,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+243,220",
+                    "stars": "+243,320",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
@@ -467,7 +463,7 @@ var siteData = {
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+240,962",
+                    "stars": "+241,193",
                     "url": "https://github.com/affaan-m/ECC"
                 }
             ]
@@ -477,72 +473,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "What Flock’s defenders are missing",
+            "title": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "下载：死去的机器人朋友和“审查工业联合体”",
+            "title": "我们仍然不知道人们如何真正使用人工智能",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "地下还有多少氢气在等着我们？",
+            "title": "宇航员的角色不断变化",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+            "url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "当孩子的机器人最好的朋友去世时会发生什么？",
+            "title": "人工智能的递归自我完善可能不会来得那么快",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+            "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作",
+            "title": "从语料库到共同进化的能力：以能力为中心的通用图像生成数据设计",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16889v1"
+            "url": "http://arxiv.org/abs/2608.18076v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "An Empirical Study of Training Pixel-Space Text-to",
+            "title": "用于放射学报告构建和质量保证的多智能体人工智能系统以及独立放射科医生评估",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16887v1"
+            "url": "http://arxiv.org/abs/2608.18072v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Improving the matrix multiplication exponent with ",
+            "title": "论自我改进主体的脆弱性：方差、任务顺序和不规范",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16884v1"
+            "url": "http://arxiv.org/abs/2608.18066v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "AutoSR：通过搜索研究状态自动符号回归",
+            "title": "EDITBRIDGE：实现忠实高效的超高分辨率图像编辑",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16876v1"
+            "url": "http://arxiv.org/abs/2608.18063v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "走向计算起源：在生成的文本中携带因果状态证据",
+            "title": "TokEval：分词器评估套件",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16868v1"
+            "url": "http://arxiv.org/abs/2608.18062v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "SplatGuide：来自 3D 高斯的几何先验，用于无姿态新颖视图合成",
+            "title": "代理推荐系统中的委托不对称性：测量在线约会中的双方接受度",
             "heat": "",
-            "url": "http://arxiv.org/abs/2608.16863v1"
+            "url": "http://arxiv.org/abs/2608.18058v1"
         }
     ],
     "aiTools": [
@@ -589,27 +585,31 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "模型",
+            "text": "人工智能",
             "size": "large"
+        },
+        {
+            "text": "Anthropic",
+            "size": "large"
+        },
+        {
+            "text": "OpenAI",
+            "size": "medium"
+        },
+        {
+            "text": "代理",
+            "size": "medium"
         },
         {
             "text": "Claude",
-            "size": "large"
-        },
-        {
-            "text": "Flock",
             "size": "medium"
         },
         {
-            "text": "人工智能",
-            "size": "medium"
+            "text": "MRI",
+            "size": "small"
         },
         {
-            "text": "VLA",
-            "size": "medium"
-        },
-        {
-            "text": "AI",
+            "text": "Ventures",
             "size": "small"
         },
         {
@@ -617,23 +617,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "VentureBeat",
             "size": "small"
         },
         {
-            "text": "代理",
+            "text": "AI",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "Flock",
             "size": "small"
         },
         {
-            "text": "TikTok",
-            "size": "small"
-        },
-        {
-            "text": "Ventures",
+            "text": "SpaceX",
             "size": "small"
         },
         {
@@ -645,13 +641,181 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "任务",
+            "text": "报告",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "What Flock’s defenders are missing",
+            "title": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。我们仍然不知道人们如何真正使用人工智能 Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用其产品的报告。但他们只发布了&#8230;"
+        },
+        {
+            "title": "我们仍然不知道人们如何真正使用人工智能",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "人工智能研究人员表示，Anthropic 和 OpenAI 等人工智能公司定期发布有关人们如何使用 Claude 和 ChatGPT 等产品的报告，但他们只发布他们希望我们看到的数据。 “没有独立消息来源证实这一点，”斯坦福可信赖人工智能研"
+        },
+        {
+            "title": "宇航员的角色不断变化",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "今年早些时候，当美国宇航局阿耳忒弥斯二号 (Artemis II) 上的四名宇航员绕月飞行时，他们创造了人类距地球最远距离的新纪录，比 1972 年阿波罗 13 号创下的距离多了约 4,000 英里。虽然没有任何太空任务能够实现历史性的着陆"
+        },
+        {
+            "title": "人工智能的递归自我完善可能不会来得那么快",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "人工智能行业目前最大胆的承诺是，人工智能将很快自我改进，几乎不需要人类监督。法学硕士已经可以编写代码、生成用于训练的合成数据并优化其运行的计算机芯片。对人工智能爆炸性进展的预测表明，研究人员所说的递归自我改进即将到来。&#160;&#823"
+        },
+        {
+            "title": "从语料库到共同进化的能力：以能力为中心的通用图像生成数据设计",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "大规模图像生成受益于数据规模、质量、重新平衡和重新捕获方面的进步，但传统管道通常单独优化特定于任务的数据集。一个核心挑战不仅是如何管理每个特定任务的语料库，而且是如何根据生成能力之间的依赖关系组织异构监督。我们提出了一个\\textbf{能力"
+        },
+        {
+            "title": "用于放射学报告构建和质量保证的多智能体人工智能系统以及独立放射科医生评估",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "目的：开发和评估本地部署的多智能体人工智能系统，用于放射学报告构建和质量保证。材料和方法：这项回顾性研究包括 2023 年和 2024 年由 15 位委员会认证的放射科医生口述的胸部、腹部和骨盆 CT 检查的 638 份放射学报告。开发了多"
+        },
+        {
+            "title": "论自我改进主体的脆弱性：方差、任务顺序和不规范",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "基于记忆的自我改进代理——那些从在线任务流中学习并通过维护文本记忆库随着时间的推移而改进的代理——在最近的文献中显示出了巨大的前景。然而，这些方法的可靠性方面却被严重忽视。在这项工作中，我们对两种基于记忆的方法进行了全面的重新评估，沿着两个"
+        },
+        {
+            "title": "EDITBRIDGE：实现忠实高效的超高分辨率图像编辑",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "专业工作流程中对高分辨率图像编辑的需求越来越大，但由于二次注意力复杂性和过高的内存要求，现有的基于扩散的模型仍然限制在 1K 以下的分辨率。一种流行的解决方法采用两阶段管道：低分辨率编辑，然后是独立的超分辨率。然而，这种方法存在两个关键问题"
+        },
+        {
+            "title": "TokEval：分词器评估套件",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "尽管语言模型标记器的设计选择直接影响模型功能，但通常会通过最少的评估来选择语言模型标记器。这部分归因于对哪些分词器属性影响下游性能哪些方面的了解有限。我们引入了 TokEval，这是一个分词器评估指标框架，它超越了生育率和压缩率等标准指标，"
+        },
+        {
+            "title": "代理推荐系统中的委托不对称性：测量在线约会中的双方接受度",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "代表用户进行对话的自主 LLM 代理是匹配平台中的一种新兴设计模式，但其可行性取决于一个很少被检查的条件：用户不仅必须接受将对话委托给代理，还必须接受来自其他人的代理介导的通信。我们通过对主要约会平台的活跃用户进行的两项大规模调查来研究这种"
+        },
+        {
+            "title": "HLSR：混合实时预测选择性动态车辆重新路由以实现实时拥堵避免",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "城市交通拥堵会降低生产力并增加出行成本和排放。全网络实时行驶时间最短路径重新路由在模拟中非常有效，但假设基本上每辆道路车辆在每个决策周期都会重新规划。我们提出 HLSR，这是一种选择性混合实时预测车辆重新路由框架，可在有限的干预范围内将实时"
+        },
+        {
+            "title": "无监督动态对比增强 MRI 重建的原始表示学习",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "动态对比增强 MRI 的可靠定量分析需要高欠采样率下的高质量时空重建。使用高斯和 Gabor 原语的扫描特定重建已经显示出有希望的结果，而不需要大型训练数据集，但尚未解决动态对比度的附加维度。我们提出了一个多维、基于原始的动态对比增强 MR"
+        },
+        {
+            "title": "StagedWorkspace：知识工作代理的版本化工作空间",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "人工智能代理越来越多地执行知识工作（即，生成和修改持久性数字工件，例如代码存储库、文档、电子表格、幻灯片、报告），但他们搜索的解析视图、他们编辑的本机文件、他们审查的更改以及他们提交的工件可以引用同一工作产品的不同版本。我们将其表述为工作空"
+        },
+        {
+            "title": "语言有两个参数：叙事引发的语义可塑性和相敏解释",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "语言有两个参数。计算单词一起出现的频率，并估计幅度，即关联的强度。词嵌入和注意力权重改进了计数，将语料库中的每个作者加在一起。本文声称有第二个参数，即阶段，但从语料库中学习到的带符号权重不提供该参数。阶段只存在于意义之间：它决定了共同激活的"
+        },
+        {
+            "title": "优化您的采样：通过贝叶斯优化调整扩散采样",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "从扩散模型中采样通常需要通过大型神经网络进行多次前向传递，这使得生成的计算成本很高。虽然很多工作都集中在高效的求解器和采样器上，但相对较少的注意力集中在选择采样时间步长本身。最近的一项工作优化了理论上得出的样本质量替代指标，而不是质量指标本"
+        },
+        {
+            "title": "利用仅幅度和复杂的测量来改进动态 MRI 重建和学习先验",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "欠采样 k 空间数据的 MRI 重建方法自然会利用复值测量。稀疏相位检索的并行发展表明，仅幅度测量可以为信号恢复提供补充信息。然而，由于缺乏无需额外扫描时间即可获得信息丰富的震级测量的实际设置，它们在 MRI 重建中的使用在很大程度上仍未得"
+        },
+        {
+            "title": "用于端到端自动驾驶的即插即用交通要素感知",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "交通信号灯和路标等交通元素在人类驾驶决策中发挥着重要作用，自然会影响端到端的驾驶性能。然而，现有的端到端驾驶研究主要关注动态道路参与者（例如车辆和行人），而交通要素的作用在很大程度上仍未得到探索。社区仍然缺乏量化其影响的系统研究，很大程度上"
+        },
+        {
+            "title": "深度学术调查：学术调查自动化的状态代理闭环范例",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "学术调查在组织迅速扩展的学术文献方面发挥着核心作用，但其构建需要广泛的论文分析、连贯的知识组织、细粒度的引文支持和可靠的手稿组装。现有的深度研究和自动调查生成系统解决了该过程的部分问题，但通常不通过共享的、可修改的协调论文理解、文献组织、基"
+        },
+        {
+            "title": "重新审视无初始化捆绑调整：一项受控实验研究",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "无初始化束调整（InitFree BA）旨在直接从图像观测中恢复相机位姿和场景结构，避免传统运动结构管道的几何初始化阶段。最近基于对象空间误差 (OSE) 公式和可变投影 (VarPro) 的方法显示了随机相机配置的令人鼓舞的优化行为。然而"
+        },
+        {
+            "title": "人工智能现在应该赢得人们的支持——但事实并非如此",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "随着人工智能变得越来越难以避免，消费者对这项技术越来越警惕——而硅谷发现，广泛采用并不一定会带来接受。"
+        },
+        {
+            "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "新学习功能的推出标志着 Google 在继续与 OpenAI 等公司竞争的同时，将 Gemini 打造成学生在学习和学习时可以求助的 AI 助手的最新努力。"
+        },
+        {
+            "title": "Rillet 以 10 亿美元的估值筹集了 1 亿美元的 C 轮融资——在从隐秘状态中脱颖而出 2 年后",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "人工智能原生账户初创公司 Rillet 表示，在过去三个月内 ARR 翻了一番，成为由 Iconiq 领导的独角兽。"
+        },
+        {
+            "title": "据称格温妮丝·帕特洛将举办晚宴以纪念山姆·奥尔特曼",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "女演员的公司 Kinship Ventures 是该公司的投资者。"
+        },
+        {
+            "title": "赌博少年棒球联盟世界大赛？体育博彩玩家已经走得太远了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "我们是否尝试过关闭社会并重新打开它？"
+        },
+        {
+            "title": "Waymo 更便宜的下一代机器人出租车现已向这三个城市的所有乘客开放",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "下一代机器人出租车名为 Waymo Ojai，是该公司推动大规模规模并最终实现盈利的核心。"
+        },
+        {
+            "title": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 和 Anthropic 之间正在展开一场竞争，看谁能为企业客户数据提供最好的隐私保护。"
+        },
+        {
+            "title": "Cognition 首席执行官否认 SpaceX 试图收购这家初创公司的报道",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "据报道，SpaceX 正在洽谈收购人工智能编码初创公司 Cognition。 SpaceX 已经收购了 Cursor，以期在企业人工智能领域追赶 OpenAI 和 Anthropic 等竞争对手。"
+        },
+        {
+            "title": "特拉维斯·卡兰尼克 (Travis Kalanick) 开启新一轮风投抨击：“1% 是有帮助的”",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "在为新成立的机器人公司 Atoms 筹集 17 亿美元资金后，Travis Kalanick 开始反思风险投资在他的职业生涯中所扮演的角色。"
+        },
+        {
+            "title": "Flock 的防守者缺少什么",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类故事，请在此处注册。 Flock 是一家警察科技巨头，因其在美国拥有约 12 万个自动车牌阅读器网络而闻名，该公司上周四宣布对其平台进行一些更改。这些更新旨"
@@ -661,174 +825,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。当孩子的机器人最好的朋友去世时会发生什么？当Xander第一次见到Moxie时，她教他如何在焦虑或生气时冷静下来。六年后，她"
-        },
-        {
-            "title": "地下还有多少氢气在等着我们？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "20 世纪 90 年代，芭芭拉·舍伍德·洛勒 (Barbara Sherwood Lollar) 深入安大略省北部的基德溪 (Kidd Creek) 矿山，该矿深入北美古老的根源，长达三公里多。在那里，她的地球化学家团队发现了被封存在地下十"
-        },
-        {
-            "title": "当孩子的机器人最好的朋友去世时会发生什么？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "当Xander第一次见到Moxie时，她告诉他，当他焦虑时，他可以通过嘴唇呼气来平静下来，这样他就可以像蜜蜂一样嗡嗡作响。他们练习像龙一样呼吸来控制愤怒，练习像兔子一样嗅来增强他的能量。但在他们认识的六年里，&#8230;"
-        },
-        {
-            "title": "不要丢掉接力棒：通过代理子任务探索和转换感知记忆进行长视野机器人操作",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "长视野机器人操作将许多接触丰富的技能链接到一项多阶段任务中。视觉-语言-行动（VLA）模型越来越多地掌握个人技能，但链条仍然失败：错误复合超出了策略的纠正能力，并且一个子任务默默地限制了下一个子任务。一个有前景的方法是冻结 VLA 并让 L"
-        },
-        {
-            "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although n"
-        },
-        {
-            "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "矩阵乘法指数 $ω$ 的当前最佳界限是通过称为组合损失分析的激光方法的改进获得的（Duan 等人，2022；Williams 等人，2024；Alman 等人，2025）。在本文中，我们解决了该方法核心的优化问题，并提出了一些改进方案。首先"
-        },
-        {
-            "title": "AutoSR：通过搜索研究状态自动符号回归",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "我们引入自动符号回归（AutoSR），这是一个完全自动化的系统，它通过搜索持续的科学研究而不是孤立的方程来实例化研究空间符号回归。有限的、嘈杂的数据通常会产生数值上有竞争力的表达式，这意味着在观察范围之外有非常不同的行为，使得数值拟合和句法"
-        },
-        {
-            "title": "走向计算起源：在生成的文本中携带因果状态证据",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "语言模型的输出本身并不提供有关生成它的内部计算的可验证证据。我们研究计算起源：生成的文本是否可以携带发生因果相关内部状态的可检测证据。我们在两种受控架构中测试了这个想法的有界形式：模块化前馈神经网络和基于变压器的模型。两种架构都接受相同算术"
-        },
-        {
-            "title": "SplatGuide：来自 3D 高斯的几何先验，用于无姿态新颖视图合成",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "从未摆出的图像中生成逼真的新颖视图需要 3D 几何理解和合成看不见的内容的能力。一种自然策略将前馈 3DGS 重建与多视图扩散相结合。然而，现有的管道最多从重建中提取一个信号，要么是像素渲染，要么是学习的特征，而没有一个管道利用每高斯可见性"
-        },
-        {
-            "title": "HarnessEval-W：视觉世界评估的代理化",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "基准测试应该提供的不仅仅是标量分数：使评估值得信赖的是证明分数合理性的推理。这对于世界模型尤其重要，因为判断模型的推出需要了解物理、因果关系和世界状态是否正确演化。人类会自然地发现此类违规行为，但现有的基准测试还没有自动执行此功能：指标是暴"
-        },
-        {
-            "title": "当基本事实稀疏时，无监督方法能否胜过监督深度学习？低剂量CT支气管血管束分割案例研究",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "背景 肺癌仍然是全世界最致命的癌症，因为它常常诊断得太晚。有效的治疗取决于早期筛查阶段的检测。然而，患者数量的不断增加和放射科医生数量的有限导致诊断等待时间延长。在非常早期的肺癌中，邻近的血管和气道壁进一步降低了结节的可见度，因为结节通常与"
-        },
-        {
-            "title": "合规检测器读取什么？激活探针和防护模型的审核",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, c"
-        },
-        {
-            "title": "Proteus：用于长上下文序列建模的增量内存激活",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "针对长上下文的基于注意力的序列模型的二次成本促使人们越来越多地研究基于记忆的模型，这些模型可以将上下文压缩为紧凑的状态。然而，大多数现有的内存模型在整个序列中暴露静态内存。由于早期的令牌没有面临压缩压力，因此它们占据了太多的自由度并“污染”"
-        },
-        {
-            "title": "HAF：通过分层动作流和频谱潜在强化学习，使通才 VLA 适应人形全身局部操纵",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "人形机器人作为以人为中心的环境中的通用代理具有广阔的前景，但通用视觉语言动作（VLA）基础模型并不容易适用于人形全身运动操作。人形运动的高维性和相互依赖性使得传统的单级 VLA 架构难以有效协调运动、腰部姿势和双臂操纵。此外，通过离线行为克"
-        },
-        {
-            "title": "模型催眠：通过附加的潜意识效应对人工智能进行强有力的控制",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们证明人工智能模型很容易受到我们称为模型催眠的现象的影响，在这种现象中，提示中单独的微弱且看似不相关的线索可以系统地组合起来，以强烈控制模型的行为。模型催眠发生在模型家族和尺度上，包括前沿推理模型，并且催眠提示可以在模型之间转移。由于该模"
-        },
-        {
-            "title": "具有人类反馈的策略迭代：将训练后强化学习引入情境学习",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "生成预训练建立了可重用的任务表示；后来基于语言的任务调节和情境学习的研究表明，固定模型可以根据指令和演示来调整其行为。人工反馈策略迭代 (PIHF) 建立在这一发展以及广义策略迭代的循环评估和改进结构的基础上。 PIHF 使用预训练语言模型"
-        },
-        {
-            "title": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "视频世界模型通过生成采样来近似物理结果的随机分布，但现有的基准对各个代进行评分或粗略地比较整个数据集的分布，从而使特定现象的细粒度随意不确定性未经测试。我们引入了 CaliBench，它在物理上可解释的离散空间（bin 索引、骰子面、西装、"
-        },
-        {
-            "title": "Quipu：受治理的双时态知识图谱存储",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept "
-        },
-        {
-            "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "苹果泄露的配备摄像头的 AirPods 可能会阻止用户录制照片和视频，从而避免其他人工智能可穿戴设备的隐私陷阱。"
-        },
-        {
-            "title": "Bluesky 表示最近的服务中断是由另一次 DDoS 攻击造成的",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这是今年社交网站遭遇的最新大规模 DDoS 攻击。"
-        },
-        {
-            "title": "8 月 21 日之前购买 TechCrunch Disrupt 2026 通行证可节省高达 300 美元的费用",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join th"
-        },
-        {
-            "title": "Etched 估值一个月内翻倍至 $21B",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "该初创公司表示，Jane Street 已经安装了 Etched 的第一个出货的人工智能集群系统，并留下了深刻的印象，它领导了另一轮大规模融资。"
-        },
-        {
-            "title": "苹果彻底改革其欧盟应用商店费用，放宽对替代应用商店的规则",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "苹果正在简化其欧盟应用程序商店费用，对在应用程序商店之外分发的应用程序收取 5% 的佣金，取代每次安装费用，并使开发者更容易运营替代应用程序市场。"
-        },
-        {
-            "title": "康卡斯特为其数百万台新型路由器添加了运动感应功能，并具有隐私保护功能",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "康卡斯特最新路由器中添加的一项新功能可以检测家中是否有运动，而无需传统的运动传感器。"
-        },
-        {
-            "title": "OpenAI institutes new safeguards after Hugging Face breach",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasi"
-        },
-        {
-            "title": "报告称，TikTok 探索通过 DM 进行点对点支付",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in South"
-        },
-        {
-            "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 Flock 正在收紧规则，以应对日益增长的监控抵制 警用科技巨头 Flock 正在改变警察对其全国车牌读取器网络的访问权限。此举来了……"
-        },
-        {
-            "title": "This scientist is helping build a missing map of childhood",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A r"
-        },
-        {
-            "title": "美国司法部对 Andreessen Horowitz 董事会席位问题的调查令风险投资家感到困惑",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "由于投资组合公司经常转向并扩张到竞争市场，投资者认为对于大型风险投资公司来说，偶尔的利益冲突是不可避免的。"
         }
     ]
 }
