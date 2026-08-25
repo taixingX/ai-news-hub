@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-24 00:37:00
+ * 生成时间: 2026-08-25 00:36:21
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-            "summary": "在 HBS Foundry 计划中，人工智能化身在练习推介和董事会会议期间提供反馈。",
-            "source": "TechCrunch AI",
+            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+            "summary": "Tim和胡彦斌亲自颁奖",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
-        },
-        {
-            "tag": "行业 · 动态",
-            "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-            "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
-        },
-        {
-            "tag": "重磅 · 应用",
-            "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed A",
-            "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to rep",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+            "url": "https://www.qbitai.com/2026/08/478358.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-            "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be m",
+            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+            "summary": "玩的就是真实",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.qbitai.com/2026/08/478319.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "具身创业里的香港教授们",
+            "summary": "香港的大学里冒出了一批很特别的人",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://www.qbitai.com/2026/08/478289.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed",
+            "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than ",
             "source": "TechCrunch AI",
-            "time": "9小时前",
+            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
         }
     ],
     "quickNews": [
         {
             "time": "00:36",
-            "text": "Harvard’s $699 startup bootcamp offers AI avatars of its ins",
+            "text": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
             "hot": true,
-            "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+            "url": "https://www.qbitai.com/2026/08/478358.html"
         },
         {
             "time": "00:36",
-            "text": "Will the DOJ’s investigation into a16z spook other VCs?",
+            "text": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+            "url": "https://www.qbitai.com/2026/08/478319.html"
         },
         {
             "time": "00:36",
-            "text": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’",
+            "text": "具身创业里的香港教授们",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+            "url": "https://www.qbitai.com/2026/08/478289.html"
         },
         {
             "time": "00:36",
-            "text": "Flock CEO calls for ‘compromise’ as surveillance company fac",
+            "text": "Situational Awareness, star AI hedge fund that nearly implod",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
         },
         {
             "time": "00:36",
-            "text": "Is it legal to train AI models on copyrighted books? It’s co",
+            "text": "Instinct’s powerful AI assistant is raising privacy and secu",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+            "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
         },
         {
             "time": "00:36",
-            "text": "TechCrunch Mobility: The custom chip driving Waymo’s robotax",
+            "text": "VentureBeat names Rob Strechay as its first Lead Analyst, ex",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+            "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
         },
         {
             "time": "00:36",
-            "text": "Uber faces fine of nearly $1B over automated driver suspensi",
+            "text": "Showcase your startup at TechCrunch Disrupt 2026 and book an",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+            "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
         },
         {
             "time": "00:36",
-            "text": "Linkdaze’s smart calendar is built to run a household, not j",
+            "text": "Alabama launches investigation into OpenAI’s hack of Hugging",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+            "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-                    "source": "TechCrunch AI",
+                    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+                    "url": "https://www.qbitai.com/2026/08/478358.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "在 HBS Foundry 计划中，人工智能化身在练习推介和董事会会议期间提供反馈。..."
+                    "desc": "Tim和胡彦斌亲自颁奖..."
                 },
                 {
-                    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-                    "source": "TechCrunch AI",
+                    "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/08/478319.html"
                 },
                 {
-                    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "具身创业里的香港教授们",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+                    "url": "https://www.qbitai.com/2026/08/478289.html"
                 },
                 {
-                    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+                    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed",
                     "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "time": "刚刚",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+                    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
                 },
                 {
-                    "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+                    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while",
                     "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "time": "4小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-                    "desc": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and ben...",
+                    "title": "【arXiv】OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+                    "desc": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and g...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20338v1"
+                    "url": "http://arxiv.org/abs/2608.21360v1"
                 },
                 {
-                    "title": "【arXiv】4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-                    "desc": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconstruction-grade multiview-consis...",
+                    "title": "【arXiv】Primal Acceleration of Newton's Method",
+                    "desc": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal va...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20335v1"
+                    "url": "http://arxiv.org/abs/2608.21359v1"
                 },
                 {
-                    "title": "【arXiv】WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-                    "desc": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Beyond retaining each identity, ...",
+                    "title": "【arXiv】VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+                    "desc": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry p...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20336v1"
+                    "url": "http://arxiv.org/abs/2608.21357v1"
                 },
                 {
-                    "title": "【arXiv】Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
-                    "desc": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image editing. Our goal is to explore ho...",
+                    "title": "【arXiv】AI with Authority, from Application to Silicon",
+                    "desc": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inv...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20334v1"
+                    "url": "http://arxiv.org/abs/2608.21356v1"
                 },
                 {
-                    "title": "【arXiv】G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Int",
-                    "desc": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both eviden...",
+                    "title": "【arXiv】TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+                    "desc": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately un...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20331v1"
+                    "url": "http://arxiv.org/abs/2608.21343v1"
                 },
                 {
-                    "title": "【arXiv】An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sens",
-                    "desc": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated se...",
+                    "title": "【arXiv】Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with ",
+                    "desc": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduc...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "3天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.20320v1"
+                    "url": "http://arxiv.org/abs/2608.21332v1"
                 }
             ]
         },
@@ -274,52 +274,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outp",
-                    "time": "昨天",
+                    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+                    "time": "4小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+                    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
                 },
                 {
                     "rank": 2,
-                    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-                    "time": "9小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
-                },
-                {
-                    "rank": 3,
-                    "title": "Linkdaze’s smart calendar is built to run a household, not just track ",
-                    "time": "5小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
-                },
-                {
-                    "rank": 4,
                     "title": "Debates over AI consciousness are a trap",
-                    "time": "3天前",
-                    "emoji": "🔍",
+                    "time": "4天前",
+                    "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
                 },
                 {
-                    "rank": 5,
-                    "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+                    "rank": 3,
+                    "title": "AI with Authority, from Application to Silicon",
                     "time": "3天前",
+                    "emoji": "🎬",
+                    "url": "http://arxiv.org/abs/2608.21356v1"
+                },
+                {
+                    "rank": 4,
+                    "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR ",
+                    "time": "3天前",
+                    "emoji": "🔍",
+                    "url": "http://arxiv.org/abs/2608.21343v1"
+                },
+                {
+                    "rank": 5,
+                    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and",
+                    "time": "2026-01-13",
                     "emoji": "⚖️",
-                    "url": "http://arxiv.org/abs/2608.20314v1"
+                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 },
                 {
                     "rank": 6,
-                    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s qu",
-                    "time": "21小时前",
+                    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+                    "time": "17小时前",
                     "emoji": "🎵",
-                    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/"
-                },
-                {
-                    "rank": 7,
-                    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and",
-                    "time": "2026-01-13",
-                    "emoji": "📝",
-                    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+                    "url": "https://www.qbitai.com/2026/08/478469.html"
                 }
             ]
         },
@@ -329,31 +322,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-                    "time": "昨天",
+                    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit t",
+                    "time": "4小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+                    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
                 },
                 {
                     "rank": 2,
-                    "title": "Google just redesigned the search box for the first time in 25 years —",
-                    "time": "2026-05-19",
+                    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+                    "time": "3小时前",
                     "emoji": "💰",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
                 },
                 {
                     "rank": 3,
-                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
-                    "time": "2026-01-22",
+                    "title": "Google just redesigned the search box for the first time in 25 years —",
+                    "time": "2026-05-19",
                     "emoji": "🏭",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
                     "rank": 4,
+                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
+                    "time": "2026-01-22",
+                    "emoji": "🌏",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 5,
                     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI",
                     "time": "2026-01-16",
-                    "emoji": "🌏",
+                    "emoji": "📉",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+                },
+                {
+                    "rank": 6,
+                    "title": "Oura is reportedly eyeing a September IPO that could value it at more ",
+                    "time": "1小时前",
+                    "emoji": "🔄",
+                    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
                 }
             ]
         },
@@ -395,75 +402,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "openclaw/openclaw",
-                    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+387,271",
-                    "url": "https://github.com/openclaw/openclaw"
+                    "name": "login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily",
+                    "desc": "",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+2000",
+                    "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily"
                 },
                 {
                     "rank": 2,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+315,700",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "name": "Alishahryar1/free-claude-code",
+                    "desc": "",
+                    "lang": "Rust",
+                    "langClass": "lang-rust",
+                    "stars": "+1800",
+                    "url": "https://github.com/Alishahryar1/free-claude-code"
                 },
                 {
                     "rank": 3,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+247,683",
-                    "url": "https://github.com/react/react"
+                    "name": "openai/codex",
+                    "desc": "",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+1600",
+                    "url": "https://github.com/openai/codex"
                 },
                 {
                     "rank": 4,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+243,977",
-                    "url": "https://github.com/torvalds/linux"
+                    "name": "MadsLorentzen/ai-job-search",
+                    "desc": "",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+1400",
+                    "url": "https://github.com/MadsLorentzen/ai-job-search"
                 },
                 {
                     "rank": 5,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
+                    "name": "multica-ai/andrej-karpathy-skills",
+                    "desc": "",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+234,985",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+1200",
+                    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
                 },
                 {
                     "rank": 6,
-                    "name": "n8n-io/n8n",
-                    "desc": "具有原生 AI 功能的公平代码工作流程自动化平台。将可视化构建与自定义代码、自托管或云、400 多个集成相结合。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+202,150",
-                    "url": "https://github.com/n8n-io/n8n"
+                    "name": "makeplane/plane",
+                    "desc": "",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+1000",
+                    "url": "https://github.com/makeplane/plane"
                 },
                 {
                     "rank": 7,
-                    "name": "anomalyco/opencode",
-                    "desc": "The open source coding agent.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+200,668",
-                    "url": "https://github.com/anomalyco/opencode"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "",
+                    "lang": "Rust",
+                    "langClass": "lang-rust",
+                    "stars": "+800",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
                     "rank": 8,
-                    "name": "tensorflow/tensorflow",
-                    "desc": "An Open Source Machine Learning Framework for Everyone",
-                    "lang": "C++",
-                    "langClass": "lang-cpp",
-                    "stars": "+197,375",
-                    "url": "https://github.com/tensorflow/tensorflow"
+                    "name": "anthropics/claude-plugins-community",
+                    "desc": "",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+600",
+                    "url": "https://github.com/anthropics/claude-plugins-community"
                 }
             ]
         }
@@ -472,72 +479,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Harvard’s $699 startup bootcamp offers AI avatars ",
+            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+            "url": "https://www.qbitai.com/2026/08/478358.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Will the DOJ’s investigation into a16z spook other",
+            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/"
+            "url": "https://www.qbitai.com/2026/08/478319.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Inherent, founded by DeepMind alumni, says its AI ",
+            "title": "具身创业里的香港教授们",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+            "url": "https://www.qbitai.com/2026/08/478289.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Flock CEO calls for ‘compromise’ as surveillance c",
+            "title": "Situational Awareness, star AI hedge fund that nea",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
+            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Is it legal to train AI models on copyrighted book",
+            "title": "Instinct’s powerful AI assistant is raising privac",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+            "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "TechCrunch Mobility: The custom chip driving Waymo",
+            "title": "VentureBeat names Rob Strechay as its first Lead A",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/"
+            "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Uber faces fine of nearly $1B over automated drive",
+            "title": "Showcase your startup at TechCrunch Disrupt 2026 a",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/"
+            "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Linkdaze’s smart calendar is built to run a househ",
+            "title": "Alabama launches investigation into OpenAI’s hack ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
+            "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+            "title": "Amazon hikes hardware prices by 60%, blaming memor",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
+            "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "VentureBeat names Rob Strechay as its first Lead A",
+            "title": "Amjad Masad, CEO and co-founder of Replit, joins t",
             "heat": "",
-            "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+            "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
         }
     ],
     "aiTools": [
@@ -588,15 +595,15 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "Disrupt",
             "size": "large"
         },
         {
-            "text": "Models",
+            "text": "Download",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
+            "text": "TechCrunch",
             "size": "medium"
         },
         {
@@ -604,7 +611,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Image",
+            "text": "LLMs",
+            "size": "small"
+        },
+        {
+            "text": "Unified",
             "size": "small"
         },
         {
@@ -616,88 +627,60 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "its",
-            "size": "small"
-        },
-        {
-            "text": "Data",
-            "size": "small"
-        },
-        {
             "text": "VentureBeat",
             "size": "small"
         },
         {
-            "text": "Google",
+            "text": "Replit",
             "size": "small"
         },
         {
-            "text": "Code",
+            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "company",
+            "text": "Redfin",
             "size": "small"
         },
         {
-            "text": "models",
+            "text": "Steiner",
+            "size": "small"
+        },
+        {
+            "text": "Learning",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在 HBS Foundry 计划中，人工智能化身在练习推介和董事会会议期间提供反馈。"
+            "snippet": "Tim和胡彦斌亲自颁奖"
         },
         {
-            "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats."
-        },
-        {
-            "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI ",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa"
-        },
-        {
-            "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+            "snippet": "玩的就是真实"
         },
         {
-            "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools tha"
-        },
-        {
-            "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+            "title": "具身创业里的香港教授们",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+            "snippet": "香港的大学里冒出了一批很特别的人"
         },
         {
-            "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR"
+            "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversi"
         },
         {
-            "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner"
-        },
-        {
-            "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+            "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ab"
         },
         {
             "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -706,10 +689,34 @@ var siteData = {
             "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our "
         },
         {
-            "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
+        },
+        {
+            "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging F"
+        },
+        {
+            "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the"
+        },
+        {
+            "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's "
+        },
+        {
+            "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event."
         },
         {
             "title": "Debates over AI consciousness are a trap",
@@ -730,100 +737,100 @@ var siteData = {
             "snippet": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding be"
         },
         {
-            "title": "Unlocking hidden revenue streams with market models",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforw"
+            "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price o"
         },
         {
-            "title": "Support networks aim to help kids through the polycrisis",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’"
-        },
-        {
-            "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+            "title": "Zillow and Redfin settle FTC antitrust case",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning"
+            "snippet": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
         },
         {
-            "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We present 4DAnyone, a framework for reconstructing 4D humans from an uncalibrated monocular video by generating reconst"
-        },
-        {
-            "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Identity-preserving image generation becomes increasingly unreliable when a scene must contain many specified people. Be"
-        },
-        {
-            "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi-image edit"
-        },
-        {
-            "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretatio",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing "
-        },
-        {
-            "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Dema",
+            "title": "The Download: threats from space mirrors and credit for AI drugs",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are of"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Inducing Task Models from Computer-Use Traces",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource "
+            "title": "Mother tongue",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine fla"
         },
         {
-            "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+            "title": "When AI designs a drug, who gets the credit?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, "
+        },
+        {
+            "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for man"
+        },
+        {
+            "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the"
+            "snippet": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuous"
         },
         {
-            "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+            "title": "Primal Acceleration of Newton's Method",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve q"
+            "snippet": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The"
         },
         {
-            "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+            "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, "
+        },
+        {
+            "title": "AI with Authority, from Application to Silicon",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recen"
+            "snippet": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we"
         },
         {
-            "title": "Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The capability to perceive and synthesize human-human interactions is fundamental to developing intelligent digital huma"
+            "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases mu"
         },
         {
-            "title": "DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recover",
+            "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) F",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Egocentric video offers scalable manipulation data for embodied AI, yet recovering metric 3D hand trajectories remains c"
+            "snippet": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly whe"
         },
         {
-            "title": "CalcSeg: Confidence-aware 3D Latent Context Curriculum Learning For Myocardial Scar Segmentation Fro",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Myocardial scar segmentation from single-stack late gadolinium-enhanced cardiac magnetic resonance (LGE-CMR) imaging has"
-        },
-        {
-            "title": "幻象收益：根据衡量的零点来审核自我改进",
+            "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一个语言模型是否已经自我改进，越来越多地不再通过平均准确度来评判，而是通过它在哪些个别问题上得到和失去了来判断。跟踪这些转变意味着区分两个噪声估计，使它们容易受到测量伪影的影响。针对通过相同管道推送的冻结控制，审核 Qwen3-8B 上的三"
+            "snippet": "Users increasingly turn to large language models for emotional support, yet little is known about how these models actua"
+        },
+        {
+            "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-"
+        },
+        {
+            "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in In",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regula"
+        },
+        {
+            "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- ",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "That a prompt's effect is not a property of the prompt is established: prompts optimised for one model degrade on anothe"
         }
     ]
 }
