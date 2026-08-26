@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-25 00:36:21
+ * 生成时间: 2026-08-26 00:37:37
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-            "summary": "Tim和胡彦斌亲自颁奖",
-            "source": "量子位",
+            "tag": "头条 · 突破",
+            "title": "How to Train a Critic Stably and Efficiently",
+            "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a c",
+            "source": "arXiv",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/08/478358.html"
+            "url": "http://arxiv.org/abs/2608.23566v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-            "summary": "玩的就是真实",
-            "source": "量子位",
+            "tag": "政策 · 法规",
+            "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+            "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and str",
+            "source": "arXiv",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/08/478319.html"
+            "url": "http://arxiv.org/abs/2608.23565v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "具身创业里的香港教授们",
-            "summary": "香港的大学里冒出了一批很特别的人",
-            "source": "量子位",
+            "tag": "政策 · 法规",
+            "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository ",
+            "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration",
+            "source": "arXiv",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/08/478289.html"
+            "url": "http://arxiv.org/abs/2608.23564v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed",
-            "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than ",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "政策 · 法规",
+            "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Re",
+            "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive ",
+            "source": "arXiv",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+            "url": "http://arxiv.org/abs/2608.23563v1"
         }
     ],
     "quickNews": [
         {
-            "time": "00:36",
-            "text": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+            "time": "00:37",
+            "text": "How to Train a Critic Stably and Efficiently",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/08/478358.html"
+            "url": "http://arxiv.org/abs/2608.23566v1"
         },
         {
-            "time": "00:36",
-            "text": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+            "time": "00:37",
+            "text": "ReWorld: An Interactive World Model with Long-Horizon Memory",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/478319.html"
+            "url": "http://arxiv.org/abs/2608.23565v1"
         },
         {
-            "time": "00:36",
-            "text": "具身创业里的香港教授们",
+            "time": "00:37",
+            "text": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizo",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/478289.html"
+            "url": "http://arxiv.org/abs/2608.23564v1"
         },
         {
-            "time": "00:36",
-            "text": "Situational Awareness, star AI hedge fund that nearly implod",
+            "time": "00:37",
+            "text": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safet",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+            "url": "http://arxiv.org/abs/2608.23563v1"
         },
         {
-            "time": "00:36",
-            "text": "Instinct’s powerful AI assistant is raising privacy and secu",
+            "time": "00:37",
+            "text": "Physics-Constrained Deep Learning Model for Contactless Bloo",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+            "url": "http://arxiv.org/abs/2608.23562v1"
         },
         {
-            "time": "00:36",
-            "text": "VentureBeat names Rob Strechay as its first Lead Analyst, ex",
+            "time": "00:37",
+            "text": "Prime Agent: A Self-Improving RLM Harness",
             "hot": false,
-            "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+            "url": "http://arxiv.org/abs/2608.23552v1"
         },
         {
-            "time": "00:36",
-            "text": "Showcase your startup at TechCrunch Disrupt 2026 and book an",
+            "time": "00:37",
+            "text": "ConvergeFlow: Language Flow with Provable Convergence to Tok",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
+            "url": "http://arxiv.org/abs/2608.23551v1"
         },
         {
-            "time": "00:36",
-            "text": "Alabama launches investigation into OpenAI’s hack of Hugging",
+            "time": "00:37",
+            "text": "FixAnything: 3D-Consistent Rendering Refinement via Video Ge",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
+            "url": "http://arxiv.org/abs/2608.23549v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-                    "source": "量子位",
+                    "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/478358.html",
+                    "url": "http://arxiv.org/abs/2608.23541v1",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Tim和胡彦斌亲自颁奖..."
+                    "desc": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Ch..."
                 },
                 {
-                    "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "OpenAI loses a top data center exec, as stream of high-profile departures contin",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/478319.html"
+                    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
                 },
                 {
-                    "title": "具身创业里的香港教授们",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/478289.html"
+                    "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/"
                 },
                 {
-                    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed",
+                    "title": "Waymo robotaxis are headed to Munich",
                     "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+                    "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/"
                 },
                 {
-                    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while",
+                    "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
                     "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-                    "desc": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuously perceive environments and g...",
+                    "title": "【arXiv】How to Train a Critic Stably and Efficiently",
+                    "desc": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prom...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21360v1"
+                    "url": "http://arxiv.org/abs/2608.23566v1"
                 },
                 {
-                    "title": "【arXiv】Primal Acceleration of Newton's Method",
-                    "desc": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal va...",
+                    "title": "【arXiv】ReWorld: An Interactive World Model with Long-Horizon Memory",
+                    "desc": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: contr...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21359v1"
+                    "url": "http://arxiv.org/abs/2608.23565v1"
                 },
                 {
-                    "title": "【arXiv】VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-                    "desc": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry p...",
+                    "title": "【arXiv】SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migr",
+                    "desc": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents be...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21357v1"
+                    "url": "http://arxiv.org/abs/2608.23564v1"
                 },
                 {
-                    "title": "【arXiv】AI with Authority, from Application to Silicon",
-                    "desc": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inv...",
+                    "title": "【arXiv】EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Set",
+                    "desc": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete cras...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21356v1"
+                    "url": "http://arxiv.org/abs/2608.23563v1"
                 },
                 {
-                    "title": "【arXiv】TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-                    "desc": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately un...",
+                    "title": "【arXiv】Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Tri",
+                    "desc": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals a...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21343v1"
+                    "url": "http://arxiv.org/abs/2608.23562v1"
                 },
                 {
-                    "title": "【arXiv】Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with ",
-                    "desc": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduc...",
+                    "title": "【arXiv】Prime Agent: A Self-Improving RLM Harness",
+                    "desc": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active conte...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2608.21332v1"
+                    "url": "http://arxiv.org/abs/2608.23552v1"
                 }
             ]
         },
@@ -274,45 +274,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-                    "time": "4小时前",
+                    "title": "Launching youth entrepreneurship",
+                    "time": "3小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
+                    "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/"
                 },
                 {
                     "rank": 2,
-                    "title": "Debates over AI consciousness are a trap",
-                    "time": "4天前",
+                    "title": "AgeLab research inspires an A I startup",
+                    "time": "3小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+                    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/"
                 },
                 {
                     "rank": 3,
-                    "title": "AI with Authority, from Application to Silicon",
-                    "time": "3天前",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2608.21356v1"
-                },
-                {
-                    "rank": 4,
-                    "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR ",
-                    "time": "3天前",
-                    "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2608.21343v1"
-                },
-                {
-                    "rank": 5,
                     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and",
                     "time": "2026-01-13",
-                    "emoji": "⚖️",
+                    "emoji": "🎬",
                     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
                 },
                 {
+                    "rank": 4,
+                    "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+                    "time": "15小时前",
+                    "emoji": "🔍",
+                    "url": "https://www.qbitai.com/2026/08/479314.html"
+                },
+                {
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
                     "rank": 6,
-                    "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-                    "time": "17小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/08/478469.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,45 +318,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit t",
-                    "time": "4小时前",
+                    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 mi",
+                    "time": "5小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
+                    "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/"
                 },
                 {
                     "rank": 2,
-                    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-                    "time": "3小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/"
-                },
-                {
-                    "rank": 3,
                     "title": "Google just redesigned the search box for the first time in 25 years —",
                     "time": "2026-05-19",
-                    "emoji": "🏭",
+                    "emoji": "💰",
                     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
                     "time": "2026-01-22",
-                    "emoji": "🌏",
+                    "emoji": "🏭",
                     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI",
                     "time": "2026-01-16",
-                    "emoji": "📉",
+                    "emoji": "🌏",
                     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
                 },
                 {
-                    "rank": 6,
-                    "title": "Oura is reportedly eyeing a September IPO that could value it at more ",
-                    "time": "1小时前",
-                    "emoji": "🔄",
-                    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/"
+                    "rank": 5,
+                    "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
+                    "time": "17小时前",
+                    "emoji": "📉",
+                    "url": "https://www.qbitai.com/2026/08/479132.html"
                 }
             ]
         },
@@ -402,75 +391,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily",
-                    "desc": "",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+2000",
-                    "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily"
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+454,603",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "Alishahryar1/free-claude-code",
-                    "desc": "",
-                    "lang": "Rust",
-                    "langClass": "lang-rust",
-                    "stars": "+1800",
-                    "url": "https://github.com/Alishahryar1/free-claude-code"
+                    "name": "openclaw/openclaw",
+                    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+387,607",
+                    "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 3,
-                    "name": "openai/codex",
-                    "desc": "",
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+1600",
-                    "url": "https://github.com/openai/codex"
+                    "stars": "+316,065",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 4,
-                    "name": "MadsLorentzen/ai-job-search",
-                    "desc": "",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+1400",
-                    "url": "https://github.com/MadsLorentzen/ai-job-search"
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+247,905",
+                    "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 5,
-                    "name": "multica-ai/andrej-karpathy-skills",
-                    "desc": "",
-                    "lang": "Python",
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+1200",
-                    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+                    "stars": "+244,403",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 6,
-                    "name": "makeplane/plane",
-                    "desc": "",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+1000",
-                    "url": "https://github.com/makeplane/plane"
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+243,207",
+                    "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 7,
                     "name": "NousResearch/hermes-agent",
-                    "desc": "",
-                    "lang": "Rust",
-                    "langClass": "lang-rust",
-                    "stars": "+800",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+236,411",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
                     "rank": 8,
-                    "name": "anthropics/claude-plugins-community",
-                    "desc": "",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+600",
-                    "url": "https://github.com/anthropics/claude-plugins-community"
+                    "name": "TheAlgorithms/Python",
+                    "desc": "All Algorithms implemented in Python",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+224,029",
+                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -479,72 +468,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+            "title": "How to Train a Critic Stably and Efficiently",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/08/478358.html"
+            "url": "http://arxiv.org/abs/2608.23566v1"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+            "title": "ReWorld: An Interactive World Model with Long-Hori",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/08/478319.html"
+            "url": "http://arxiv.org/abs/2608.23565v1"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "具身创业里的香港教授们",
+            "title": "SWE Refactor Bench: Can Coding Agents Complete a L",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/08/478289.html"
+            "url": "http://arxiv.org/abs/2608.23564v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Situational Awareness, star AI hedge fund that nea",
+            "title": "EG-ARSA: An Expert-Grounded Open Model for Visual ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+            "url": "http://arxiv.org/abs/2608.23563v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Instinct’s powerful AI assistant is raising privac",
+            "title": "Physics-Constrained Deep Learning Model for Contac",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/"
+            "url": "http://arxiv.org/abs/2608.23562v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "VentureBeat names Rob Strechay as its first Lead A",
+            "title": "Prime Agent: A Self-Improving RLM Harness",
             "heat": "",
-            "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+            "url": "http://arxiv.org/abs/2608.23552v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Showcase your startup at TechCrunch Disrupt 2026 a",
+            "title": "ConvergeFlow: Language Flow with Provable Converge",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/"
+            "url": "http://arxiv.org/abs/2608.23551v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Alabama launches investigation into OpenAI’s hack ",
+            "title": "FixAnything: 3D-Consistent Rendering Refinement vi",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/"
+            "url": "http://arxiv.org/abs/2608.23549v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Amazon hikes hardware prices by 60%, blaming memor",
+            "title": "How AI Assistance Affects Human Skill Development:",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/"
+            "url": "http://arxiv.org/abs/2608.23543v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Amjad Masad, CEO and co-founder of Replit, joins t",
+            "title": "The Interaction Tax: When Communication Erases Div",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/"
+            "url": "http://arxiv.org/abs/2608.23541v1"
         }
     ],
     "aiTools": [
@@ -595,35 +584,39 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Disrupt",
+            "text": "Claude",
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "Cowork",
             "size": "medium"
+        },
+        {
+            "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "MIT",
+            "size": "medium"
+        },
+        {
+            "text": "Agent",
+            "size": "small"
+        },
+        {
+            "text": "Model",
+            "size": "small"
+        },
+        {
+            "text": "Learning",
+            "size": "small"
+        },
+        {
+            "text": "Earth",
+            "size": "small"
         },
         {
             "text": "TechCrunch",
-            "size": "medium"
-        },
-        {
-            "text": "The",
-            "size": "medium"
-        },
-        {
-            "text": "LLMs",
-            "size": "small"
-        },
-        {
-            "text": "Unified",
-            "size": "small"
-        },
-        {
-            "text": "Claude",
-            "size": "small"
-        },
-        {
-            "text": "&#",
             "size": "small"
         },
         {
@@ -631,56 +624,154 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Replit",
+            "text": "Google",
             "size": "small"
         },
         {
-            "text": "IPO",
+            "text": "Code",
             "size": "small"
         },
         {
-            "text": "Redfin",
+            "text": "The",
             "size": "small"
         },
         {
-            "text": "Steiner",
-            "size": "small"
-        },
-        {
-            "text": "Learning",
+            "text": "its",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Tim和胡彦斌亲自颁奖"
+            "title": "How to Train a Critic Stably and Efficiently",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling mu"
         },
         {
-            "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "玩的就是真实"
-        },
-        {
-            "title": "具身创业里的香港教授们",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "香港的大学里冒出了一批很特别的人"
-        },
-        {
-            "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversi"
-        },
-        {
-            "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+            "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ab"
+            "snippet": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. Th"
+        },
+        {
+            "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and large"
+        },
+        {
+            "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing"
+        },
+        {
+            "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Body",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings,"
+        },
+        {
+            "title": "Prime Agent: A Self-Improving RLM Harness",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond "
+        },
+        {
+            "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with "
+        },
+        {
+            "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes,"
+        },
+        {
+            "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skill"
+        },
+        {
+            "title": "The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Does multi-agent LLM interaction help or hurt? Some work reports gains from debate (Du et al., 2024), critique loops (Ch"
+        },
+        {
+            "title": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retrain"
+        },
+        {
+            "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Olde",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most "
+        },
+        {
+            "title": "Correcting a learned physical invariant improves world-model rollouts",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3"
+        },
+        {
+            "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, a"
+        },
+        {
+            "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text"
+        },
+        {
+            "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from Presiden"
+        },
+        {
+            "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Life360’s new $7.99 scannable pet tags alert families when a lost pet is found and share its last known location, while "
+        },
+        {
+            "title": "Waymo robotaxis are headed to Munich",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial r"
+        },
+        {
+            "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029."
+        },
+        {
+            "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston "
+        },
+        {
+            "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join th"
+        },
+        {
+            "title": "Claude Cowork finally remembers what you told the app in chat",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on"
         },
         {
             "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -689,148 +780,46 @@ var siteData = {
             "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our "
         },
         {
-            "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
+            "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing"
+        },
+        {
+            "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
+            "snippet": "The company's new fundraising total now stands at $232 million."
         },
         {
-            "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+            "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X front ends, demanding i"
+        },
+        {
+            "title": "Addressing a sticking point in sustainable adhesives",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the j"
+        },
+        {
+            "title": "YouTuber finds niche as college admissions mentor",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely o"
+        },
+        {
+            "title": "Launching youth entrepreneurship",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging F"
+            "snippet": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, s"
         },
         {
-            "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the"
-        },
-        {
-            "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's "
-        },
-        {
-            "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event."
-        },
-        {
-            "title": "Debates over AI consciousness are a trap",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not"
-        },
-        {
-            "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+            "title": "A new stamp on cyberfraud prevention",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "The next big thing in hydrogen could be underground",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding be"
-        },
-        {
-            "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price o"
-        },
-        {
-            "title": "Zillow and Redfin settle FTC antitrust case",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
-        },
-        {
-            "title": "The Download: threats from space mirrors and credit for AI drugs",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Mother tongue",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine fla"
-        },
-        {
-            "title": "When AI designs a drug, who gets the credit?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, "
-        },
-        {
-            "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for man"
-        },
-        {
-            "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Recent omni-modal large language models (Omni-LLMs) show great potential as real-time video assistants, which continuous"
-        },
-        {
-            "title": "Primal Acceleration of Newton's Method",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The"
-        },
-        {
-            "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, "
-        },
-        {
-            "title": "AI with Authority, from Application to Silicon",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we"
-        },
-        {
-            "title": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases mu"
-        },
-        {
-            "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) F",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly whe"
-        },
-        {
-            "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Users increasingly turn to large language models for emotional support, yet little is known about how these models actua"
-        },
-        {
-            "title": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-"
-        },
-        {
-            "title": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in In",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regula"
-        },
-        {
-            "title": "Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- ",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "That a prompt's effect is not a property of the prompt is established: prompts optimised for one model degrade on anothe"
+            "snippet": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousan"
         }
     ]
 }
