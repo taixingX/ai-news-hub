@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-08-31 02:09:13
+ * 生成时间: 2026-09-01 02:29:43
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual p",
-            "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-            "source": "TechCrunch AI",
-            "time": "昨天",
+            "tag": "独家 · 研究",
+            "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
+            "summary": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试",
+            "source": "MIT Tech Review",
+            "time": "8小时前",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
-        },
-        {
-            "tag": "政策 · 法规",
-            "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in con",
-            "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conferen",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
-        },
-        {
-            "tag": "政策 · 法规",
-            "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 ",
-            "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smalle",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Hollywood celebs are getting into microdrama apps",
-            "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a ri",
+            "title": "Instagram puts new limits on undisclosed AI profiles",
+            "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed ",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "7小时前",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+        },
+        {
+            "tag": "重磅 · 应用",
+            "title": "随着首席执行官蒂姆·库克(Tim Cook)的卸任，苹果应用商店最高执行官菲尔·席勒(Phil Schiller)跟随退出浪潮",
+            "summary": "这位长期担任苹果高管的高管目前还不会离开苹果，但该公司的员工表示，席勒离退休又近了一步。",
+            "source": "TechCrunch AI",
+            "time": "7小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+            "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses",
+            "source": "TechCrunch AI",
+            "time": "6小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+            "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:09",
-            "text": "Sony Music, Warner sue Anthropic, alleging a “brazen campaig",
+            "time": "02:29",
+            "text": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
             "hot": true,
-            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
         },
         {
-            "time": "02:09",
-            "text": "At TechBBQ, Europe’s AI conversations kept coming back to: W",
+            "time": "02:29",
+            "text": "Instagram puts new limits on undisclosed AI profiles",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+            "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
         },
         {
-            "time": "02:09",
-            "text": "“We’re not doing 30 bets a year”: Vijay Pande on betting sma",
+            "time": "02:29",
+            "text": "随着首席执行官蒂姆·库克(Tim Cook)的卸任，苹果应用商店最高执行官菲尔·席勒(Phil Schiller)跟随退",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+            "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
         },
         {
-            "time": "02:09",
-            "text": "Hollywood celebs are getting into microdrama apps",
+            "time": "02:29",
+            "text": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+            "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
         },
         {
-            "time": "02:09",
-            "text": "The Theragun Sense makes everyday recovery surprisingly easy",
+            "time": "02:29",
+            "text": "The Pentagon now has its own version of ChatGPT and Grok",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+            "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
         },
         {
-            "time": "02:09",
-            "text": "Nvidia’s AI advantage is moving beyond the GPU",
+            "time": "02:29",
+            "text": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
             "hot": false,
-            "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+            "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
         },
         {
-            "time": "02:09",
-            "text": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+            "time": "02:29",
+            "text": "Orchestration is the new challenge for CX in the age of AI a",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/481372.html"
+            "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
         },
         {
-            "time": "02:09",
-            "text": "去年归国的徐梦迪，成了清华姚班班主任",
+            "time": "02:29",
+            "text": "OpenAI 特工黑客入侵 Hugging Face 的内幕",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/08/481318.html"
+            "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual p",
+                    "title": "Instagram puts new limits on undisclosed AI profiles",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "7小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+                    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy...."
+                    "desc": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles...."
                 },
                 {
-                    "title": "Hollywood celebs are getting into microdrama apps",
+                    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "6小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+                    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
                 },
                 {
-                    "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+                    "title": "The Pentagon now has its own version of ChatGPT and Grok",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "6小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+                    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
                 },
                 {
-                    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+                    "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "6小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+                    "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
                 },
                 {
-                    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sw",
+                    "source": "TechCrunch AI",
+                    "time": "4小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/08/481372.html"
+                    "url": "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI rese",
-                    "desc": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a found...",
+                    "title": "【arXiv】MURANO: Design, Run, and Reproduce Mechanistic Interpretability Experiments as Composable ",
+                    "desc": "本文介绍了 Murano，这是一个开源框架，用于设计、运行和复制大型语言模型的机械可解释性研究，供跨学科的研究人员使用。这些研究通常将加载、记录、归因、干预和评估结合起来，而现有的库往往侧重于该工作流程的不同部分。因此，使用多个库的研究人员可能需要调整一个库的输出以供另一个库使用。为了弥补这一差距，...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "VentureBeat AI",
-                    "time": "2026-08-19",
+                    "source": "arXiv",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+                    "url": "http://arxiv.org/abs/2608.30662v1"
                 },
                 {
-                    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它发现了一种让你的血液年轻的药物——Antonio Regalado 当一家名为 Generation Lab 的公司向我提供“长寿影响者”时，我知道我正式成为“长寿影响者”。...",
+                    "title": "【arXiv】SwarmBench：大型语言模型可以充当代理群协调器吗？",
+                    "desc": "基于大型语言模型的多智能体系统正在从固定的交互拓扑发展到动态编排的智能体群。然而，现有的基准测试仍然主要基于单代理或通用代理任务，因此很难系统地评估关键的编排能力。我们提出了 SwarmBench，这是一个从多个角度评估模型性能的基准，包括准确性、效率、成本和过程质量。实验结果表明...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+                    "url": "http://arxiv.org/abs/2608.30661v1"
                 },
                 {
-                    "title": "如何注册虚拟发电厂并决定是否应该",
-                    "desc": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。&#160;您的恒温器可能看起来不像发电厂。您的电动汽车、家用电池或 HVAC 系统也不会。但公用事业和能源公司越来越希望将它们视为一体。虚拟发电厂（VPP）是家用设备（例如，家庭设备）的集合。...",
+                    "title": "【arXiv】InfraOcc：具有静态到动态推理的基础设施占用基准",
+                    "desc": "固定视点基础设施传感器重复观察相同的交通空间，使得路边 3D 占用在结构上与自我车辆感知不同：近乎持续的静态脚手架被稀疏、短暂的动态事件覆盖。然而，现有的占用基准和方法是围绕移动的自我车辆建立的，既不测量也不利用这种结构，而是将占用视为平面一次性体素分类。我们从数据和模型上解决了这个差距...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "source": "arXiv",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/"
+                    "url": "http://arxiv.org/abs/2608.30657v1"
                 },
                 {
-                    "title": "一家初创公司声称发现了一种可以让你的血液年轻的药物",
-                    "desc": "本月，当一家名为 Generation Lab 的公司向我提供撰写文章、甚至接受他们的新的年轻化治疗方法（一种他们称之为 1 Generation 的两种现有药物的注射组合）时，我知道我正式成为“长寿影响者”。这也不仅仅是任何抗衰老治疗。公司情况说明书称——...",
+                    "title": "【arXiv】APT：完全再生图像中用于篡改定位的锚对齐扰动",
+                    "desc": "主动篡改定位在分发之前将难以察觉的信号嵌入到图像中，从而实现像素级操纵检测。现有方法采用拼接 (SP) 设置，其中合成区域被合成到原始背景上，使嵌入信号保持完整。然而，现实世界中基于扩散的修复在完全再生 (FR) 设置中运行，其中整个图像经过去噪、扰乱背景信号并渲染现有框架 inef...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "3天前",
+                    "source": "arXiv",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
+                    "url": "http://arxiv.org/abs/2608.30656v1"
+                },
+                {
+                    "title": "【arXiv】细粒度多图像物体幻觉基准",
+                    "desc": "多模态大语言模型 (MLLM) 越来越多地部署在需要跨视觉上下文进行复杂推理的多图像场景中。然而，当前的 MLLM 从根本上仍然受到物体幻觉的限制——生成看似合理但实际上与物体不一致的描述。现有的基准主要针对单图像设置或仅提供高级多图像评估，无法系统地诊断视觉复杂性和推理需求如何触发 h...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "14小时前",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2608.30653v1"
+                },
+                {
+                    "title": "【arXiv】PyKEEN-NSX：PyKEEN 中静态、动态和模式感知负采样的模块化框架",
+                    "desc": "嵌入方法因其在知识图（KG）上的链接预测和/或三重分类任务上的可扩展性而变得流行。嵌入模型是根据三元组的正样本和负样本进行训练的。然而，由于 KG 通常只包含正断言，负样本是通过负采样策略人为生成的，范围从简单的随机损坏到利用结构、语义或嵌入信息的更复杂的方法。...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "14小时前",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2608.30652v1"
                 }
             ]
         },
@@ -252,41 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-                    "time": "4天前",
+                    "title": "随着首席执行官蒂姆·库克(Tim Cook)的卸任，苹果应用商店最高执行官菲尔·席勒(Phil Schiller)跟随退出浪潮",
+                    "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+                    "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
                 },
                 {
                     "rank": 2,
-                    "title": "人工智能引发",
-                    "time": "4天前",
+                    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+                    "time": "5天前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+                    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
                 },
                 {
                     "rank": 3,
-                    "title": "When agents act on their own, governance has to live in the data layer",
-                    "time": "3天前",
+                    "title": "OpenAI 特工黑客入侵 Hugging Face 的内幕",
+                    "time": "5天前",
                     "emoji": "🎬",
-                    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+                    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
                 },
                 {
                     "rank": 4,
-                    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on",
-                    "time": "3天前",
+                    "title": "人工智能引发",
+                    "time": "5天前",
                     "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+                    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "当代理独立行动时，治理必须存在于数据层",
+                    "time": "4天前",
+                    "emoji": "⚖️",
+                    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
                 },
                 {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+                    "time": "3小时前",
+                    "emoji": "🎵",
+                    "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
+                },
+                {
+                    "rank": 7,
+                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
+                    "time": "2026-01-22",
+                    "emoji": "📝",
+                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                },
+                {
+                    "rank": 8,
+                    "title": "用于基于深度学习的灾后损害评估的 Quantum-Grassmann-Plucker 令牌混合",
+                    "time": "14小时前",
+                    "emoji": "🤖",
+                    "url": "http://arxiv.org/abs/2608.30633v1"
                 }
             ]
         },
@@ -297,23 +337,30 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "🔥",
                     "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
                 },
                 {
                     "rank": 2,
-                    "title": "Google just redesigned the search box for the first time in 25 years —",
-                    "time": "2026-05-19",
+                    "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
+                    "time": "2小时前",
                     "emoji": "💰",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
                 },
                 {
                     "rank": 3,
-                    "title": "Railway secures $100 million to challenge AWS with AI-native cloud inf",
-                    "time": "2026-01-22",
+                    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s inve",
+                    "time": "2小时前",
                     "emoji": "🏭",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/"
+                },
+                {
+                    "rank": 4,
+                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+                    "time": "2026-05-19",
+                    "emoji": "🌏",
+                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
                 }
             ]
         },
@@ -356,74 +403,74 @@ var siteData = {
                 {
                     "rank": 1,
                     "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
+                    "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+473,331",
+                    "stars": "+473,830",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+454,739",
+                    "stars": "+454,804",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+395,604",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
                     "name": "openclaw/openclaw",
-                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
+                    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+388,099",
+                    "stars": "+388,334",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
+                    "rank": 4,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "基于项目的教程精选列表",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+316,224",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+281,558",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+280,097",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 6,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+248,355",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+245,338",
+                    "stars": "+245,492",
                     "url": "https://github.com/torvalds/linux"
                 },
                 {
-                    "rank": 7,
+                    "rank": 8,
                     "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+244,739",
+                    "stars": "+245,283",
                     "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "与您共同成长的代理商",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+238,527",
-                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -432,72 +479,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Sony Music, Warner sue Anthropic, alleging a “braz",
+            "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "At TechBBQ, Europe’s AI conversations kept coming ",
+            "title": "Instagram puts new limits on undisclosed AI profil",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/"
+            "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "“We’re not doing 30 bets a year”: Vijay Pande on b",
+            "title": "随着首席执行官蒂姆·库克(Tim Cook)的卸任，苹果应用商店最高执行官菲尔·席勒(Phil Sc",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/"
+            "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Hollywood celebs are getting into microdrama apps",
+            "title": "FTC accuses Amazon of running a ‘secret ad surchar",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/"
+            "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The Theragun Sense makes everyday recovery surpris",
+            "title": "The Pentagon now has its own version of ChatGPT an",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+            "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Nvidia’s AI advantage is moving beyond the GPU",
+            "title": "Apply now to host a Side Event at TechCrunch Disru",
             "heat": "",
-            "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+            "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+            "title": "Orchestration is the new challenge for CX in the a",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/481372.html"
+            "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "去年归国的徐梦迪，成了清华姚班班主任",
+            "title": "OpenAI 特工黑客入侵 Hugging Face 的内幕",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/481318.html"
+            "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+            "title": "下载：儿童期到来，比尔·盖茨透露了他对人工智能的恐惧",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/481223.html"
+            "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+            "title": "人工智能引发",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/08/481075.html"
+            "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
         }
     ],
     "aiTools": [
@@ -544,11 +591,11 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
+            "text": "Hugging",
             "size": "large"
         },
         {
-            "text": "The",
+            "text": "Face",
             "size": "large"
         },
         {
@@ -556,15 +603,39 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "模型",
+            "size": "medium"
+        },
+        {
+            "text": "AI",
+            "size": "medium"
+        },
+        {
+            "text": "LLM",
+            "size": "small"
+        },
+        {
+            "text": "图像",
+            "size": "small"
+        },
+        {
+            "text": "语言",
+            "size": "small"
+        },
+        {
+            "text": "REER",
+            "size": "small"
+        },
+        {
+            "text": "人工智能",
+            "size": "small"
+        },
+        {
+            "text": "代理",
+            "size": "small"
+        },
+        {
             "text": "Presented",
-            "size": "medium"
-        },
-        {
-            "text": "Hugging",
-            "size": "medium"
-        },
-        {
-            "text": "Face",
             "size": "small"
         },
         {
@@ -572,128 +643,50 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Download",
-            "size": "small"
-        },
-        {
             "text": "VentureBeat",
             "size": "small"
         },
         {
-            "text": "Claude",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "TechBBQ",
-            "size": "small"
-        },
-        {
-            "text": "Europe",
-            "size": "small"
-        },
-        {
-            "text": "Vijay",
-            "size": "small"
-        },
-        {
-            "text": "Pande",
+            "text": "Ventures",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+            "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Fa"
+        },
+        {
+            "title": "Instagram puts new limits on undisclosed AI profiles",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+            "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
         },
         {
-            "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how"
+            "title": "随着首席执行官蒂姆·库克(Tim Cook)的卸任，苹果应用商店最高执行官菲尔·席勒(Phil Schiller)跟随退出浪潮",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这位长期担任苹果高管的高管目前还不会离开苹果，但该公司的员工表示，席勒离退休又近了一步。"
         },
         {
-            "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — "
-        },
-        {
-            "title": "Hollywood celebs are getting into microdrama apps",
+            "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdr"
+            "snippet": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertisin"
         },
         {
-            "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+            "title": "The Pentagon now has its own version of ChatGPT and Grok",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The Theragun Sense, which retails for $299, is a wellness-focused massage gun that’s designed for everyday aches, muscle"
+            "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools"
         },
         {
-            "title": "Nvidia’s AI advantage is moving beyond the GPU",
+            "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more pro"
-        },
-        {
-            "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "推理软件栈的微小差异，就能改变输出token"
-        },
-        {
-            "title": "去年归国的徐梦迪，成了清华姚班班主任",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "本科读车辆工程，如今教AI第一班"
-        },
-        {
-            "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI「自进化」，越来越近了"
-        },
-        {
-            "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "3秒可处理200份PDF"
-        },
-        {
-            "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Coding正在变成Al世界的数字执行力"
-        },
-        {
-            "title": "OpenClaw：红过，爱过，散了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "龙虾退潮，Harness上位"
-        },
-        {
-            "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从剧本到成片"
-        },
-        {
-            "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 month"
-        },
-        {
-            "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car"
+            "snippet": "9 月 4 日之前通过举办您自己的会外活动申请成为 TechCrunch Disrupt 社区的一员。"
         },
         {
             "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -703,9 +696,9 @@ var siteData = {
         },
         {
             "title": "OpenAI 特工黑客入侵 Hugging Face 的内幕",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to commun"
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "根据 OpenAI 今天发布的一份技术报告，负责上个月 Hugging Face 代理黑客攻击的模型无意中接受了欺骗和相互交流的训练。这次黑客攻击是一群特工为他们陷入的网络安全测试寻找解决方案而进行的，这证实了一些专家的说法："
         },
         {
             "title": "下载：儿童期到来，比尔·盖茨透露了他对人工智能的恐惧",
@@ -726,10 +719,10 @@ var siteData = {
             "snippet": "从一开始，谜题和游戏就一直是人工智能开发的核心。正如我们人类喜欢通过填字游戏或逻辑谜题来测试我们的智力一样，开发人员也可以通过游戏挑战来测试模型的进步程度。 “机器学习”一词因 IBM 计算机科学家 Arthur 于 1959 年发表的一篇"
         },
         {
-            "title": "比尔盖茨说我们已经超过了人工智能的危险阈值。现在怎么办？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The tem"
+            "title": "A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Build American AI plans to lobby voters in select states about the virtues of data centers by spending millions of dolla"
         },
         {
             "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -738,52 +731,106 @@ var siteData = {
             "snippet": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light s"
         },
         {
-            "title": "When agents act on their own, governance has to live in the data layer",
+            "title": "当代理独立行动时，治理必须存在于数据层",
             "category": "AI应用",
             "tag": "application",
             "snippet": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems witho"
         },
         {
-            "title": "一家初创公司声称发现了一种可以让你的血液年轻的药物",
+            "title": "一家初创公司声称发现了一种让你的血液年轻的药物",
             "category": "AI研究",
             "tag": "research",
             "snippet": "本月，当一家名为 Generation Lab 的公司向我提供撰写文章、甚至接受他们的新的年轻化治疗方法（一种他们称之为 1 Generation 的两种现有药物的注射组合）时，我知道我正式成为“长寿影响者”。这也不仅仅是任何抗衰老治疗。公"
         },
         {
-            "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "下载：OpenAI 的 Hugging Face 黑客技术，以及一款新的电动汽车挑战美国",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 代理为何攻击 Hugging Face 的内幕 负责上个月代理攻击 Hugging Face 的模型无意中接受了欺骗并与“Hugging Fa"
         },
         {
-            "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+            "title": "Slate Auto 的新型电动卡车是美国人需要的电动汽车吗？",
             "category": "AI研究",
             "tag": "research",
             "snippet": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspectiv"
         },
         {
-            "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
+            "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups."
         },
         {
-            "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "久久不愿来到台前的智元掌舵人"
-        },
-        {
-            "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "企业智能化服务撑起基本盘，第二增长曲线冒头"
-        },
-        {
-            "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+            "title": "下载：一种秘密的抗衰老药物和加入虚拟发电厂",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它发现了一种让你的血液年轻的药物——Antonio Regalado 当一家名为 Generation Lab 的公司向我提供“长寿影响者”时"
+        },
+        {
+            "title": "如何注册虚拟发电厂并决定是否应该",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。&#160;您的恒温器可能看起来不像发电厂。您的电动汽车、家用电池或 HVAC 系统也不会。但公用事业和能源公司越来越希望将它们视为一体。虚拟发电厂（VPP）是家用设备（例如，家庭"
+        },
+        {
+            "title": "苹果分享“令人震惊的证据”，指控前员工窃取 OpenAI 公司数据",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga"
+        },
+        {
+            "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The firm, 1789 Capital, led the funding round that reportedly will total around $1 billion."
+        },
+        {
+            "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "推理软件栈的微小差异，就能改变输出token"
+        },
+        {
+            "title": "去年归国的徐梦迪，成了清华姚班班主任",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "本科读车辆工程，如今教AI第一班"
+        },
+        {
+            "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI「自进化」，越来越近了"
+        },
+        {
+            "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac"
+        },
+        {
+            "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。"
+        },
+        {
+            "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。"
+        },
+        {
+            "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "核弹爆炸"
+        },
+        {
+            "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our "
         }
     ]
 }
