@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-03 01:56:07
+ * 生成时间: 2026-09-04 01:50:50
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-            "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+            "tag": "头条 · 大模型",
+            "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+            "summary": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/482699.html"
+            "url": "https://www.qbitai.com/2026/09/483552.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "李飞飞发布：全球首个多模态世界模型",
-            "summary": "一张图补全3D世界，还能给机器人造训练场",
+            "tag": "头条 · 大模型",
+            "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+            "summary": "4激光雷达+双M100上车",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/482586.html"
+            "url": "https://www.qbitai.com/2026/09/483462.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
-            "summary": "一个名为“费米探索者任务”的非营利组织今天宣布，它打算在 2029 年底之前向我们最近的恒星系统发射一艘航天器。这是一项雄心勃勃的任务——如果一切顺利，航天器可能需要长达 8 万年的时间才能抵达距离 ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "今年最难的机器人Demo，“机器人含量”为0",
+            "summary": "遥操，可能真的危险了",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+            "url": "https://www.qbitai.com/2026/09/483351.html"
         },
         {
             "tag": "独家 · 研究",
-            "title": "为遗产现代化提供人工智能驱动的案例",
-            "summary": "多年来，遗留技术一直是公司知道他们需要解决的问题，但他们经常难以解决。更换关键业务系统的成本、复杂性和风险可能会让现代化感觉像是一种管理中断，而不是一个值得追求的机会。但随着客户期望的提高和变化——",
+            "title": "大规模简化 AI 集成",
+            "summary": "随着公司规模的扩大，支持运营的技术可能会变成一种负债，就像它变成一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+            "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:56",
-            "text": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+            "time": "01:50",
+            "text": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/482699.html"
+            "url": "https://www.qbitai.com/2026/09/483552.html"
         },
         {
-            "time": "01:56",
-            "text": "李飞飞发布：全球首个多模态世界模型",
+            "time": "01:50",
+            "text": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/482586.html"
+            "url": "https://www.qbitai.com/2026/09/483462.html"
         },
         {
-            "time": "01:56",
-            "text": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
+            "time": "01:50",
+            "text": "今年最难的机器人Demo，“机器人含量”为0",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+            "url": "https://www.qbitai.com/2026/09/483351.html"
         },
         {
-            "time": "01:56",
-            "text": "为遗产现代化提供人工智能驱动的案例",
+            "time": "01:50",
+            "text": "大规模简化 AI 集成",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+            "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
         },
         {
-            "time": "01:56",
-            "text": "下载：农作物工程微生物以及 OpenAI 的培养问题",
+            "time": "01:50",
+            "text": "下载：人工智能谜题和通往距离我们最近的恒星系统的路径",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+            "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
         },
         {
-            "time": "01:56",
-            "text": "工程微生物如何帮助喂养世界各地的农作物",
+            "time": "01:50",
+            "text": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+            "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
         },
         {
-            "time": "01:56",
-            "text": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
+            "time": "01:50",
+            "text": "Meta 正在付费查看你如何使用他们最新的人工智能模型",
             "hot": false,
-            "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+            "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
         },
         {
-            "time": "01:56",
-            "text": "X shifts US creator payouts from Stripe to X Money",
+            "time": "01:50",
+            "text": "OpenAI 推出 Astra，其强大（且有争议）的新模型",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+            "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+                    "url": "https://www.qbitai.com/2026/09/483552.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "互联网存在信任问题，这不仅仅是因为社交媒体中充斥着人工智能的垃圾。人工智能生成的文本和图像现在正在进入工作申请、产品评论甚至保险索赔中，这让平台和用户都在忙着弄清楚“什么是真实的”。在过去的几年中出现了一些初创公司[&#8230;]..."
+                    "desc": "..."
                 },
                 {
-                    "title": "X shifts US creator payouts from Stripe to X Money",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+                    "url": "https://www.qbitai.com/2026/09/483462.html"
                 },
                 {
-                    "title": "看来黑客确实入侵了一项主要的身份证验证服务",
-                    "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "title": "今年最难的机器人Demo，“机器人含量”为0",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/"
+                    "url": "https://www.qbitai.com/2026/09/483351.html"
                 },
                 {
-                    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+                    "title": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
                     "source": "TechCrunch AI",
-                    "time": "6小时前",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/"
+                    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
                 },
                 {
-                    "title": "Google spared from ad-business breakup, but judge orders changes to how it opera",
+                    "title": "Meta 正在付费查看你如何使用他们最新的人工智能模型",
                     "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "time": "7小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
+                    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】使用大型语言模型在智能合约中自动注入漏洞",
-                    "desc": "评估智能合约的漏洞检测工具需要具有已知事实真相的数据集，但此类数据集很少且难以手动构建。我们提出了一种使用大型语言模型 (LLM) 自动将漏洞注入 Solidity 智能合约的方法，并在针对 OpenSCV 的 49 个漏洞类型的案例研究中进行了演示。注入的合约通过多步骤管道进行验证，检查编译、执行...",
+                    "title": "【arXiv】余量漂移重放：GRPO 中原则性重放控制的原语",
+                    "desc": "基于强化学习的推理模型后训练越来越受到重复的新推出生成的瓶颈，特别是在环境交互主导挂钟成本的代理环境中。重放可以通过重用过去的轨迹来减轻这种负担，但现有的方法通常将其嵌入到涉及探索、经验重组或混合策略优化的更大的训练管道中。这使得重放自身的贡献很难被隔离。我们提出一个有针对性的问题：h...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "11小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02624v1"
+                    "url": "http://arxiv.org/abs/2609.03941v1"
                 },
                 {
-                    "title": "【arXiv】通过语音印象引导伪三元组构造实现可扩展方向跟随 TTS",
-                    "desc": "配音演员经常重新阅读相同的剧本，同时根据表演指示修改其表达方式。我们将这种设置研究为方向跟踪 TTS，其中系统生成新的话语，反映相对于参考话语的给定方向，同时保留说话者身份和语言内容。一个关键的挑战是缺乏捕获此类相对修改的训练数据。为了解决这个问题，我们提出了一种可扩展的伪三元组构造管道，可以生成...",
+                    "title": "【arXiv】使用连续神经音频编解码器表示的掩蔽自回归语音增强",
+                    "desc": "之前大多数基于掩蔽生成模型的语音增强 (SE) 工作都依赖于使用神经音频编解码器 (NAC) 获得的音频信号的离散标记表示。然而，最近的一项研究表明，NAC 的连续潜在表示对于 SE 在语音质量和清晰度方面可能是有利的。在这项工作中，我们提出了掩蔽自回归SE（MARSE），这是一种基于使用连续NAC...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "11小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02623v1"
+                    "url": "http://arxiv.org/abs/2609.03940v1"
                 },
                 {
-                    "title": "【arXiv】混合社会中的集体创造力",
-                    "desc": "生成式人工智能正在改变文化艺术品的创造和传播方式，以及我们对创造力本身的理解。研究人员对于这些工具是否丰富或贫乏文化存在分歧，我们认为，这种分歧很大程度上来自于将创造力的两个不同组成部分混为一谈：新颖性（单一制品的属性）和多样性（群体的属性）。我们进一步认为，生成式人工智能背景下的创造力最好被理解为...",
+                    "title": "【arXiv】使用基于 SMT 的 HTN-SAT 编码进行数值 TOHTN 规划",
+                    "desc": "尽管近年来 HTN 规划受到了极大关注，但对数值推理的支持仍然非常有限。在本文中，我们研究了数值全序 HTN (TOHTN) 规划，并展示了如何使用 SMT 自然地扩展基于标准 SAT 的编码以处理数值流。此外，我们还引入了用于数值 TOHTN 规划的基准套件，为该设置中的评估提供了第一个通用基础。...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "11小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02620v1"
+                    "url": "http://arxiv.org/abs/2609.03938v1"
                 },
                 {
-                    "title": "【arXiv】AffectDelta：超越图像编辑的情感标签",
-                    "desc": "情感驱动的图像编辑旨在通过修改源图像中与情感相关的视觉线索来唤起特定的目标情感，同时保留原始场景的整体构图和语义结构连贯性。现有的场景级编辑器通常使用单一情感类别来指定目标，并且经常从操作级文本指令中学习视觉转换。类别将混合的情感端点折叠成一个主导标签，而语言无法精确表达...",
+                    "title": "【arXiv】RATL：从检索到的残差中学习以实现稳健的多元时间序列预测",
+                    "desc": "检索增强生成 (RAG) 通过检索的外部证据补充参数模型。同样的想法对于连续输出回归很有吸引力，但当样本在输出水平、数值尺度或局部动态方面不同时，直接重用检索到的目标值通常并不稳健。此外，传统的预测流程通常使用残差进行模型优化和错误诊断，但不会保留单个历史残差示例作为可访问的内存...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "11小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02616v1"
+                    "url": "http://arxiv.org/abs/2609.03937v1"
                 },
                 {
-                    "title": "【arXiv】使用言语和语言的多模态分析预测老年人的孤独感",
-                    "desc": "孤独是老年人中一个重要的公共卫生问题，与抑郁、认知能力下降和死亡的较高风险有关。可扩展、客观的检测方法仍然有限，特别是在自然对话环境中。我们通过半结构化电话访谈分析了 310 名老年人的言语和语言标记，以帮助了解他们如何处理孤独感以及他们的语言在不同程度的孤独感下有何不同。我们的多媒体...",
+                    "title": "【arXiv】固定后缀依赖比：量化拉脱维亚借词性别分配的双轨机制",
+                    "desc": "现有的研究反复观察到英语借词在不同接收语言中聚集在男性中的趋势，但这种模式的起源仍然很难确定，因为固定的形态规则和默认分配经常被一起分析。本研究提出固定后缀依赖比（FSDR）来量化不同性别对固定衍生后缀的依赖程度，并区分形态锚...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "11小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02606v1"
+                    "url": "http://arxiv.org/abs/2609.03930v1"
                 },
                 {
-                    "title": "【arXiv】具有自我训练和肿瘤感知变形的可推广脑肿瘤分割",
-                    "desc": "这项工作提出了一种完成 BraTS 2026 挑战赛的跨肿瘤通用性 (BraTS-GoAT) 任务的方法，该方法侧重于对异质患者群体中的脑肿瘤亚区域进行稳健分割。该方法采用具有大型残差编码器架构的 nnU-Net 框架，将半监督学习技术与未标记训练数据生成的伪标签和局部使病灶变形的肿瘤感知变形增强相...",
+                    "title": "【arXiv】用于从多视图图像生成场景的稀疏自回归建模",
+                    "desc": "从稀疏、无约束的视图生成完整的 3D 场景是 3D 视觉的一项基本挑战，这需要超越观察到的内容进行推理，同时保持计算上的易处理性。现有的前馈重建方法本质上仅限于输入图像中可见的内容，而 3D 生成建模则受到密集体积表示的高计算成本和大规模 3D 监督的稀缺性的阻碍。我们引入 SPAR3S，一种稀疏体...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "11小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.02600v1"
+                    "url": "http://arxiv.org/abs/2609.03931v1"
                 }
             ]
         },
@@ -274,52 +274,37 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-                    "time": "昨天",
+                    "title": "特斯拉正在询问人们是否愿意购买和运营 Cyber​​cab 车队",
+                    "time": "3小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/482699.html"
+                    "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/"
                 },
                 {
                     "rank": 2,
-                    "title": "李飞飞发布：全球首个多模态世界模型",
-                    "time": "昨天",
+                    "title": "下载：重新思考儿童安全和化石燃料农业",
+                    "time": "13小时前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/09/482586.html"
+                    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
                 },
                 {
                     "rank": 3,
-                    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity",
-                    "time": "6天前",
-                    "emoji": "🎬",
-                    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ ",
-                    "time": "5小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "编排是 AI 代理时代 CX 的新挑战",
-                    "time": "2026-08-26",
-                    "emoji": "⚖️",
-                    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
-                    "time": "16小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/09/483274.html"
-                },
-                {
-                    "rank": 7,
-                    "title": "用于多模式法学硕士评估的深度交错文本-图像上下文",
-                    "time": "12小时前",
-                    "emoji": "📝",
-                    "url": "http://arxiv.org/abs/2609.02573v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -329,17 +314,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
-                    "time": "2026-05-19",
+                    "title": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 400 亿美元",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+                    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
                 },
                 {
                     "rank": 2,
-                    "title": "Railway 融资 1 亿美元，利用人工智能原生云基础设施挑战 AWS",
-                    "time": "2026-01-22",
+                    "title": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元",
+                    "time": "1小时前",
                     "emoji": "💰",
-                    "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+                    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
                 }
             ]
         },
@@ -381,57 +366,57 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "sindresorhus/awesome",
-                    "desc": "😎 关于各种有趣主题的精彩列表 [注意：拉取请求暂时被禁用，直到我有机会赶上现有的请求为止]",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+502,431",
-                    "url": "https://github.com/sindresorhus/awesome"
-                },
-                {
-                    "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+474,635",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 3,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+454,909",
+                    "stars": "+454,974",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 4,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
-                    "desc": "您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞",
+                    "desc": "真正做事的人工智能。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+388,666",
+                    "stars": "+388,788",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+316,772",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "rank": 3,
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+366,252",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
+                    "rank": 4,
+                    "name": "obra/superpowers",
+                    "desc": "有效的代理技能框架和软件开发方法。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+281,355",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 5,
                     "name": "react/react",
                     "desc": "Web 和本机用户界面的库。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+248,668",
+                    "stars": "+249,062",
                     "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 6,
+                    "name": "mattpocock/skills",
+                    "desc": "真正工程师的技能。直接来自我的 .agents 目录。",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+247,514",
+                    "url": "https://github.com/mattpocock/skills"
                 },
                 {
                     "rank": 7,
@@ -439,7 +424,7 @@ var siteData = {
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+246,377",
+                    "stars": "+247,235",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
@@ -448,7 +433,7 @@ var siteData = {
                     "desc": "Linux 内核源码树",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+246,010",
+                    "stars": "+246,525",
                     "url": "https://github.com/torvalds/linux"
                 }
             ]
@@ -458,72 +443,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+            "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/482699.html"
+            "url": "https://www.qbitai.com/2026/09/483552.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "李飞飞发布：全球首个多模态世界模型",
+            "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/482586.html"
+            "url": "https://www.qbitai.com/2026/09/483462.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
+            "title": "今年最难的机器人Demo，“机器人含量”为0",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+            "url": "https://www.qbitai.com/2026/09/483351.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "为遗产现代化提供人工智能驱动的案例",
+            "title": "大规模简化 AI 集成",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+            "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "下载：农作物工程微生物以及 OpenAI 的培养问题",
+            "title": "下载：人工智能谜题和通往距离我们最近的恒星系统的路径",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+            "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "工程微生物如何帮助喂养世界各地的农作物",
+            "title": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+            "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
+            "title": "Meta 正在付费查看你如何使用他们最新的人工智能模型",
             "heat": "",
-            "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
+            "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "X shifts US creator payouts from Stripe to X Money",
+            "title": "OpenAI 推出 Astra，其强大（且有争议）的新模型",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/"
+            "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "看来黑客确实入侵了一项主要的身份证验证服务",
+            "title": "Cyber​​cab 是特斯拉的“岔路口”时刻",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/"
+            "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+            "title": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/"
+            "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
         }
     ],
     "aiTools": [
@@ -570,11 +555,11 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "人工智能",
+            "text": "模型",
             "size": "large"
         },
         {
-            "text": "模型",
+            "text": "人工智能",
             "size": "large"
         },
         {
@@ -582,66 +567,156 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "LLM",
+            "text": "HTN",
             "size": "medium"
-        },
-        {
-            "text": "文本",
-            "size": "medium"
-        },
-        {
-            "text": "VentureBeat",
-            "size": "small"
-        },
-        {
-            "text": "RGB",
-            "size": "small"
-        },
-        {
-            "text": "图像",
-            "size": "small"
         },
         {
             "text": "代理",
-            "size": "small"
+            "size": "medium"
         },
         {
-            "text": "语言",
-            "size": "small"
-        },
-        {
-            "text": "AI",
-            "size": "small"
-        },
-        {
-            "text": "Generation",
-            "size": "small"
-        },
-        {
-            "text": "TechCrunch",
-            "size": "small"
-        },
-        {
-            "text": "Disrupt",
+            "text": "Cyber",
             "size": "small"
         },
         {
             "text": "Hugging",
             "size": "small"
+        },
+        {
+            "text": "Face",
+            "size": "small"
+        },
+        {
+            "text": "TOHTN",
+            "size": "small"
+        },
+        {
+            "text": "OctWorld",
+            "size": "small"
+        },
+        {
+            "text": "任务",
+            "size": "small"
+        },
+        {
+            "text": "规划",
+            "size": "small"
+        },
+        {
+            "text": "SE",
+            "size": "small"
+        },
+        {
+            "text": "场景",
+            "size": "small"
+        },
+        {
+            "text": "NAC",
+            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。"
+            "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
         },
         {
-            "title": "李飞飞发布：全球首个多模态世界模型",
+            "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "4激光雷达+双M100上车"
+        },
+        {
+            "title": "今年最难的机器人Demo，“机器人含量”为0",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "遥操，可能真的危险了"
+        },
+        {
+            "title": "大规模简化 AI 集成",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着公司规模的扩大，支持运营的技术可能会变成一种负债，就像它变成一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策变得更加困难。对于 Jabil 来说，这"
+        },
+        {
+            "title": "下载：人工智能谜题和通往距离我们最近的恒星系统的路径",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。人工智能模型搞砸了这些智力测试。你还能过得更好吗？谜题和游戏一直是人工智能开发的核心。 “机器学习”一词因 1959 年的一篇文章而流行起来——"
+        },
+        {
+            "title": "Abliteration.ai 正在通过拆除人工智能护栏来做生意",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Abliteration.AI 正在使没有护栏的强大人工智能模型更容易访问，并认为为防御者提供与不良行为者相同的工具最终可以改善网络安全。"
+        },
+        {
+            "title": "Meta 正在付费查看你如何使用他们最新的人工智能模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "对于其用于操作编码和其他代理的新 Muse Spark 模型，Meta 为通过分享提示和模型输出为未来模型的开发“做出贡献”的用户提供平均约 95% 的明确折扣。"
+        },
+        {
+            "title": "OpenAI 推出 Astra，其强大（且有争议）的新模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 声称 Astra 代表了“计算机和浏览器使用的新领域”，并且它以无与伦比的“速度、准确性和安全性”处理任务。"
+        },
+        {
+            "title": "Cyber​​cab 是特斯拉的“岔路口”时刻",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "该公司即将正式推出这款金色的两座汽车，没有方向盘或踏板，此举可能会永远改变特斯拉。"
+        },
+        {
+            "title": "据报道，Accel 正在洽谈领投 Thinking Machines 的 10 亿美元融资，估值为 400 亿美元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "这家备受瞩目的初创公司的年收入运行率超过 1 亿美元。"
+        },
+        {
+            "title": "公用事业公司竞相与融合初创公司建立联系，Realta Fusion 是最新受益者",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在新的人工智能数据中心的重压下，电网一直处于紧张状态，这使得公用事业公司向聚变初创公司示好。"
+        },
+        {
+            "title": "新研究显示，初创公司 ARR 的安全性比以往任何时候都低",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "人工智能时代彻底打破了企业的购买模式，初创公司还没有弄清楚如何应对。"
+        },
+        {
+            "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全球最强C"
+        },
+        {
+            "title": "大浦提交上市申请",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这家戒指制造商表示，其业务在过去一年中收入显着增长。"
+        },
+        {
+            "title": "特斯拉正在询问人们是否愿意购买和运营 Cyber​​cab 车队",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "一张图补全3D世界，还能给机器人造训练场"
+            "snippet": "该公司周四在其网站上发布了一份表格，向对“Cyber​​cab车队车辆采购”感兴趣的人们征求信息。"
+        },
+        {
+            "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "改进GPT Image 2的噪点问题"
+        },
+        {
+            "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Fa"
         },
         {
             "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
@@ -668,148 +743,58 @@ var siteData = {
             "snippet": "化肥对于全球粮食供应至关重要，但化肥生产需要消耗大量能源并产生大量排放。一些公司希望微生物能够提供帮助。越来越多的研究表明，在作物根部周围的土壤中播种有益微生物可以帮助植物生长，提供关键的氮来帮助植物生长。"
         },
         {
-            "title": "Pangram 的 Max Spero 解释了为什么人工智能检测比“真假”更难",
+            "title": "一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "互联网存在信任问题，这不仅仅是因为社交媒体中充斥着人工智能的垃圾。人工智能生成的文本和图像现在正在进入工作申请、产品评论甚至保险索赔中，这让平台和用户都在忙着弄清楚“什么是真实的”。在过去的几年中出现了一些初创公司[&#8230;]"
+            "snippet": "从工厂一路干到家庭"
         },
         {
-            "title": "X shifts US creator payouts from Stripe to X Money",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace t"
-        },
-        {
-            "title": "看来黑客确实入侵了一项主要的身份证验证服务",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verificati"
-        },
-        {
-            "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "If approved, the combined company would become one of the largest food delivery platforms in the world."
-        },
-        {
-            "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Gravitee 提出的代理复杂性是目前潜伏在企业内部的阴险阴影，需要一盏灯照亮它。这是因为企业不会部署单个代理并看着它运行，而是部署舰队，每个代理都调用 API，调用其他代理，触及从未考虑到机器决策者而构建的应用程序。这就是让你彻夜难眠的"
-        },
-        {
-            "title": "When agents act on their own, governance has to live in the data layer",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "由 EDB 提出 随着企业赋予 AI 代理更多的自主权（无需人工批准每一步即可跨系统进行计划、决策和行动的能力），一个难题就成为了每次架构审查的核心：当代理试图完成一项从未被授权执行的操作时，什么会真正阻止它？这些是您的代理，在您的模型上运"
-        },
-        {
-            "title": "一家初创公司声称发现了一种让你的血液年轻的药物",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "本月，当一家名为 Generation Lab 的公司向我伸出援手，为我提供撰写甚至接受他们新的返老还童疗法的机会时，我知道我正式成为“长寿影响者”，这是一种由两种现有药物组成的注射组合，他们称之为 1 Generation。这也不仅仅是任"
-        },
-        {
-            "title": "OpenAI 的新推理技术给人工智能安全专家敲响了警钟",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequent"
-        },
-        {
-            "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "这款曾经占据主导地位的地图应用程序在拒绝采用特朗普的“美国湖”名称后，已跃居苹果美国应用商店榜首，在短短六天内就吸引了其 2026 年美国下载量的一半以上。"
-        },
-        {
-            "title": "下载：一种秘密的抗衰老药物和加入虚拟发电厂",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。一家初创公司声称它发现了一种让你的血液年轻的药物——Antonio Regalado 当一家名为 Generation Lab 的公司向我提供“长寿影响者”时"
-        },
-        {
-            "title": "如何注册虚拟发电厂并决定是否应该",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。&#160;您的恒温器可能看起来不像发电厂。您的电动汽车、家用电池或 HVAC 系统也不会。但公用事业和能源公司越来越希望将它们视为一体。虚拟发电厂（VPP）是家用设备（例如，家庭"
-        },
-        {
-            "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "谷歌避开了拆分其广告业务的努力，但一名法官周三表示，该公司将需要调整其业务以使竞争对手受益。"
-        },
-        {
-            "title": "消息人士称 Palo Alto Networks 斥资 5 亿美元购买 Thrive 支持的控制台",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "行业观察人士认为，此次收购还使红杉资本支持的 Serval 成为人工智能 IT 服务自动化领域事实上的初创企业领导者。"
-        },
-        {
-            "title": "TechCrunch Disrupt 2026 的全新真实世界人工智能舞台以 Nvidia、机器人和灭绝动物为特色",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在我们新的现实世界人工智能舞台上，我们将重点关注数字和物理之间的交叉点，以及我们将继续看到两者融合的所有方式。"
-        },
-        {
-            "title": "Builders Stage 为 TechCrunch Disrupt 2026 带来了扩大初创企业规模的实用策略",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for "
-        },
-        {
-            "title": "Hugging Face 黑客事件可能表明 OpenAI 存在文化问题",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这个故事最初出现在我们关于人工智能的每周通讯《算法》中。要首先在您的收件箱中收到此类报道，请在此处注册。现在你可能已经听说过上个月发生的重大人工智能安全事件，其中 OpenAI 代理逃离了沙箱，并在试图欺骗人工智能平台 Hugging Fa"
-        },
-        {
-            "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI客服日扛1.5万通电话"
-        },
-        {
-            "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色"
-        },
-        {
-            "title": "香港首个真实开放场景服务机器人落地兰桂坊",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在香港兰桂坊，一位特殊的“酒保”正式上岗"
-        },
-        {
-            "title": "编排是 AI 代理时代 CX 的新挑战",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, "
-        },
-        {
-            "title": "VentureBeat 任命 Rob Strechay 为其首位首席分析师，扩大其企业人工智能研究力度",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Rob Strechay 直到最近才担任 theCUBE Research 的董事总经理兼首席分析师，现已加入 VentureBeat，担任我们的首位首席分析师和 VentureBeat Research 的创始分析师。他的到来是 Vent"
-        },
-        {
-            "title": "Google 25 年来首次重新设计了搜索框——这就是为什么它比你想象的更重要。",
+            "title": "据报道 Crusoe 以 30B 美元的估值筹集了 3B 美元",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "四分之一个世纪以来，谷歌搜索框一直是计算领域最知名的界面之一：一个细长的白色矩形、一个闪烁的光标、几个键入的单词和一个蓝色链接列表。周二，谷歌将正式废除这一模式。在年度 I/O 开发者大会上，谷歌宣布对搜索框本身进行彻底的重新设计——每天都"
+            "snippet": "据报道，这家数据中心开发商与 Jane Street 签订了价值 130 亿美元的合同后，本轮融资就完成了。"
         },
         {
-            "title": "Railway 融资 1 亿美元，利用人工智能原生云基础设施挑战 AWS",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar "
+            "title": "在整个企业范围内扩展代理人工智能试点",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着代理人工智能从实验转向企业部署，面临的挑战是弄清楚代理如何协同工作，连接到他们所需的系统和数据，并在运行业务的工作流程中安全运行。尽管约 80% 的财富 500 强公司已经采用了代理 AI，但在实现有意义的规模化方面仍然取得了进展。"
         },
         {
-            "title": "Claude Code 每月费用高达 200 美元。 Goose 免费做同样的事情。",
+            "title": "世界生成模型来了3D头部玩家，可进入生产管线的场景级生成时代来临！",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "单图直出场景，顶会最佳论文落地"
+        },
+        {
+            "title": "陈大年复出，入局大模型",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "人工智能编码革命伴随着一个问题：价格昂贵。Claude Code 是 Anthropic 的基于终端的 AI 代理，可以自主编写、调试和部署代码，吸引了全世界软件开发人员的想象力。但它的定价——根据使用情况从每月 20 美元到 200 美元"
+            "snippet": "首秀逼近DeepSeek万亿旗舰"
+        },
+        {
+            "title": "农业依赖化石燃料。这让我们付出了代价。",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "如果您最近不得不给汽车加油或购买机票，您可能已经感受到了化石燃料价格上涨的影响。但为农作物购买化肥的农民尤其意识到伊朗冲突的连锁反应已经蔓延了多远。化肥价格一直在上涨。"
+        },
+        {
+            "title": "“没有Token的CS学生，应立即退学”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "禁止古法编程、Token自费"
+        },
+        {
+            "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "眼镜、耳机、麦克风都来了"
+        },
+        {
+            "title": "下载：重新思考儿童安全和化石燃料农业",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。儿童监控应用程序可能需要重新启动数字危害已成为美国父母最担心的问题。作为回应，他们越来越多地转向内容监控应用程序来扫描孩子的文本、照片、电子邮件等。"
         }
     ]
 }
