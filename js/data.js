@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-05 01:51:37
+ * 生成时间: 2026-09-06 01:46:23
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "独家 · 研究",
-            "title": "The Download: rethinking child safety and fossil-fueled farming",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
+            "tag": "行业 · 动态",
+            "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+            "summary": "本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+            "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
         },
         {
             "tag": "独家 · 研究",
-            "title": "Agriculture relies on fossil fuels. It’s costing us.",
-            "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt ",
-            "source": "MIT Tech Review",
+            "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+            "summary": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
+            "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "Scaling agentic AI pilots across the enterprise",
-            "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out",
-            "source": "MIT Tech Review",
+            "tag": "行业 · 动态",
+            "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+            "summary": "Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+            "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Sup",
-            "summary": "我们引入了 S$^3$T（随时间的自监督自蒸馏），据我们所知，这是第一个用于连续视频状态跟踪的完全独立的框架。我们的方法将时间采样密度视为特权信息，基于这样的假设：同一剪辑的更密集视图可以更准确地恢复",
-            "source": "arXiv",
+            "tag": "头条 · 大模型",
+            "title": "法官禁止 X 竞争对手使用 Twitter 名称，但暂时允许使用“Tweet”",
+            "summary": "一名联邦法官暂时禁止 X 竞争对手使用 Twitter 名称，但发现 X 很可能放弃了“Tweet”商标和鸟标志。该初创公司后来以 Tweet.app 的名称重新推出。",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2609.04203v1"
+            "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:51",
-            "text": "The Download: rethinking child safety and fossil-fueled farm",
+            "time": "01:46",
+            "text": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+            "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
         },
         {
-            "time": "01:51",
-            "text": "Agriculture relies on fossil fuels. It’s costing us.",
+            "time": "01:46",
+            "text": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
+            "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
         },
         {
-            "time": "01:51",
-            "text": "Scaling agentic AI pilots across the enterprise",
+            "time": "01:46",
+            "text": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+            "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
         },
         {
-            "time": "01:51",
-            "text": "Temporal Self-Distillation: Learning Visual State Tracking i",
+            "time": "01:46",
+            "text": "法官禁止 X 竞争对手使用 Twitter 名称，但暂时允许使用“Tweet”",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.04203v1"
+            "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
         },
         {
-            "time": "01:51",
-            "text": "TokenMatch: 3D Mesh Correspondence Transformer with Curvatur",
+            "time": "01:46",
+            "text": "苹果的约翰·特努斯时代会是什么样子？",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.04202v1"
+            "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
         },
         {
-            "time": "01:51",
-            "text": "Scal3R: Learning Efficient Multi-Relative Pose Query for Sca",
+            "time": "01:46",
+            "text": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.04201v1"
+            "url": "https://www.qbitai.com/2026/09/484551.html"
         },
         {
-            "time": "01:51",
-            "text": "原理：视频模型的关系物理测试",
+            "time": "01:46",
+            "text": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.04200v1"
+            "url": "https://www.qbitai.com/2026/09/484547.html"
         },
         {
-            "time": "01:51",
-            "text": "Compile by Training: Turning Natural-Language Specifications",
+            "time": "01:46",
+            "text": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.04199v1"
+            "url": "https://www.qbitai.com/2026/09/484437.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "清洁工程，不稳定的测量：共享端点上黑盒 LLM 观察者的预先注册的可靠性故障",
-                    "source": "arXiv",
+                    "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.04198v1",
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement..."
+                    "desc": "本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。..."
                 },
                 {
-                    "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Ch",
-                    "source": "arXiv",
+                    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.04194v1"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
                 },
                 {
-                    "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better Wi",
-                    "source": "arXiv",
+                    "title": "法官禁止 X 竞争对手使用 Twitter 名称，但暂时允许使用“Tweet”",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.04180v1"
+                    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
                 },
                 {
-                    "title": "What will Apple’s John Ternus era look like?",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
+                    "url": "https://www.qbitai.com/2026/09/484551.html"
                 },
                 {
-                    "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/"
+                    "url": "https://www.qbitai.com/2026/09/484547.html"
                 }
             ]
         },
@@ -201,67 +201,67 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+                    "title": "【arXiv】时间自蒸馏：在没有监督的情况下学习视频中的视觉状态跟踪",
                     "desc": "我们引入了 S$^3$T（随时间的自监督自蒸馏），据我们所知，这是第一个用于连续视频状态跟踪的完全独立的框架。我们的方法将时间采样密度视为特权信息，基于这样的假设：同一剪辑的更密集视图可以更准确地恢复运行状态。该视图充当教师，而具有相同权重的稀疏视图学生则学习匹配其下一个标记分布。型号...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04203v1"
                 },
                 {
-                    "title": "【arXiv】TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
-                    "desc": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non...",
+                    "title": "【arXiv】TokenMatch：具有曲率引导标记化的 3D 网格对应转换器",
+                    "desc": "虽然数据驱动的 3D 形状对应估计最近取得了实质性进展，但部分观测和强非等距变形下的鲁棒匹配仍然具有挑战性。现有的基于学习的方法通常依赖于手工制作的描述符或基于模板的表示，而最近基于功能图的生成模型存在推理成本高、可解释性有限以及对部分形状的泛化能力差的问题。为了应对这些限制，本计划...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04202v1"
                 },
                 {
-                    "title": "【arXiv】Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-                    "desc": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces ext...",
+                    "title": "【arXiv】Scal3R：学习高效的多相对姿势查询以实现可扩展的在线 3D 重建",
+                    "desc": "在线 3D 重建模型在长视频上表现不佳。发生这种情况是因为相对于固定的第一帧锚点的回归姿势迫使外推远远超出训练分布。小的漂移累积并放大为严重的几何崩溃。然而，我们观察到每帧深度在整个失败过程中保持稳定。主干的局部几何形状保持不变；只有全局姿势头坏了。受这种解耦的推动，我们引入了 Scal3R。这种做...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04201v1"
                 },
                 {
                     "title": "【arXiv】原理：视频模型的关系物理测试",
-                    "desc": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibra...",
+                    "desc": "评估视频模型中的物理推理很困难，因为绝对运动测量取决于帧速率、对象比例和相机校准，所有这些在生成的视频中通常是不明确或不可用的。我们提出了一种不同的方法。当同一场景中的两个物体遵循相同的物理定律时，它们的运动必须满足可预测的关系，并且这些关系与校准无关。我们引入 Principia，一个评估牛顿物理...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04200v1"
                 },
                 {
-                    "title": "【arXiv】Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-                    "desc": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduce...",
+                    "title": "【arXiv】通过训练进行编译：将自然语言规范转化为局部神经函数",
+                    "desc": "许多重复出现的文本函数很容易描述，但很难用规则来实现，而为每个输入调用大型远程模型会带来重复的成本、延迟和对提供者的依赖。我们提出了通过训练进行编译，它将自然语言规范转化为可重用的神经函数。在编译时，教师模型会生成特定于任务的示例，用于训练紧凑解释器的小型适配器。生成的函数无需教师和 c 即可运行...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04199v1"
                 },
                 {
                     "title": "【arXiv】清洁工程，不稳定的测量：共享端点上黑盒 LLM 观察者的预先注册的可靠性故障",
-                    "desc": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one ra...",
+                    "desc": "语言模型评委现在负责控制训练数据、评分生成并推动排行榜。法官是一个测量仪器，基于一个很少提及的假设：相同的请求，发送到相同的型号名称，明天读取相同的结果。我们在两个预先注册的活动中审核了这一假设，每个阈值都是预先确定的；两者都没有通过验证其工具。在 52,988 次经审核的请求尝试中，同一窗口重复排...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.04198v1"
@@ -274,38 +274,34 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "A Computationally Feasible Framework for Causal Probabilistic Explanat",
+                    "title": "苹果的约翰·特努斯时代会是什么样子？",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2609.04177v1"
+                    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
                 },
                 {
                     "rank": 2,
-                    "title": "Another swarm of OpenAI agents reached the open internet without the f",
-                    "time": "9小时前",
+                    "title": "Clucky 的新闹钟应用程序会用鸡鸣声叫醒您",
+                    "time": "8小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/"
+                    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/"
                 },
                 {
                     "rank": 3,
-                    "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for n",
-                    "time": "7小时前",
+                    "title": "下载：重新思考儿童安全和化石燃料农业",
+                    "time": "2天前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
+                    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
                 },
                 {
                     "rank": 4,
-                    "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
-                    "time": "3天前",
-                    "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "Facilitating AI integration with simplicity at scale",
-                    "time": "2天前",
-                    "emoji": "⚖️",
-                    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -320,17 +316,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-                    "time": "4小时前",
+                    "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+                    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
                 },
                 {
                     "rank": 2,
-                    "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-                    "time": "11小时前",
+                    "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+                    "time": "昨天",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/"
+                    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
                 }
             ]
         },
@@ -372,75 +368,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+455,016",
-                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                    "name": "public-apis/public-apis",
+                    "desc": "免费 API 集合列表",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+475,906",
+                    "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+455,061",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "真正做事的人工智能。任何操作系统。任何平台。龙虾方式。 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+388,872",
+                    "stars": "+388,977",
                     "url": "https://github.com/openclaw/openclaw"
-                },
-                {
-                    "rank": 3,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+366,317",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
                     "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+317,189",
+                    "stars": "+317,371",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 5,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+281,808",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 6,
-                    "name": "mattpocock/skills",
-                    "desc": "真正工程师的技能。直接来自我的 .agents 目录。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+250,466",
-                    "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 7,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+249,080",
-                    "url": "https://github.com/react/react"
-                },
-                {
-                    "rank": 8,
                     "name": "affaan-m/ECC",
                     "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+248,541",
+                    "stars": "+249,942",
                     "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 6,
+                    "name": "torvalds/linux",
+                    "desc": "Linux 内核源码树",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+246,763",
+                    "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "与您共同成长的代理商",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+242,029",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 8,
+                    "name": "TheAlgorithms/Python",
+                    "desc": "所有算法均用Python实现",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+224,290",
+                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -449,72 +445,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "The Download: rethinking child safety and fossil-f",
+            "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+            "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Agriculture relies on fossil fuels. It’s costing u",
+            "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/"
+            "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Scaling agentic AI pilots across the enterprise",
+            "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+            "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Temporal Self-Distillation: Learning Visual State ",
+            "title": "法官禁止 X 竞争对手使用 Twitter 名称，但暂时允许使用“Tweet”",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04203v1"
+            "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "TokenMatch: 3D Mesh Correspondence Transformer wit",
+            "title": "苹果的约翰·特努斯时代会是什么样子？",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04202v1"
+            "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Scal3R: Learning Efficient Multi-Relative Pose Que",
+            "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04201v1"
+            "url": "https://www.qbitai.com/2026/09/484551.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "原理：视频模型的关系物理测试",
+            "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04200v1"
+            "url": "https://www.qbitai.com/2026/09/484547.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Compile by Training: Turning Natural-Language Spec",
+            "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04199v1"
+            "url": "https://www.qbitai.com/2026/09/484437.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "清洁工程，不稳定的测量：共享端点上黑盒 LLM 观察者的预先注册的可靠性故障",
+            "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04198v1"
+            "url": "https://www.qbitai.com/2026/09/484293.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "ESPO: Error-Structured Prompt Optimization via Dia",
+            "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.04197v1"
+            "url": "https://www.qbitai.com/2026/09/484203.html"
         }
     ],
     "aiTools": [
@@ -561,246 +557,246 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
+            "text": "模型",
             "size": "large"
-        },
-        {
-            "text": "The",
-            "size": "large"
-        },
-        {
-            "text": "Video",
-            "size": "medium"
         },
         {
             "text": "OpenAI",
+            "size": "large"
+        },
+        {
+            "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "&#",
+            "text": "视频",
             "size": "medium"
         },
         {
             "text": "AI",
-            "size": "small"
-        },
-        {
-            "text": "Language",
-            "size": "small"
-        },
-        {
-            "text": "World",
-            "size": "small"
-        },
-        {
-            "text": "Models",
-            "size": "small"
-        },
-        {
-            "text": "Ternus",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "Tweet",
             "size": "small"
         },
         {
-            "text": "Ukraine",
+            "text": "框架",
             "size": "small"
         },
         {
-            "text": "Google",
+            "text": "编辑",
             "size": "small"
         },
         {
-            "text": "Scaling",
+            "text": "事件",
             "size": "small"
         },
         {
-            "text": "data",
+            "text": "任务",
+            "size": "small"
+        },
+        {
+            "text": "代理",
+            "size": "small"
+        },
+        {
+            "text": "Nscale",
+            "size": "small"
+        },
+        {
+            "text": "IPO",
+            "size": "small"
+        },
+        {
+            "text": "Twitter",
+            "size": "small"
+        },
+        {
+            "text": "Ternus",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "The Download: rethinking child safety and fossil-fueled farming",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Agriculture relies on fossil fuels. It’s costing us.",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of risin"
-        },
-        {
-            "title": "Scaling agentic AI pilots across the enterprise",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work"
-        },
-        {
-            "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "我们引入了 S$^3$T（随时间的自监督自蒸馏），据我们所知，这是第一个用于连续视频状态跟踪的完全独立的框架。我们的方法将时间采样密度视为特权信息，基于这样的假设：同一剪辑的更密集视图可以更准确地恢复运行状态。该视图充当教师，而具有相同权重"
-        },
-        {
-            "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under parti"
-        },
-        {
-            "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed"
-        },
-        {
-            "title": "原理：视频模型的关系物理测试",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, ob"
-        },
-        {
-            "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote m"
-        },
-        {
-            "title": "清洁工程，不稳定的测量：共享端点上黑盒 LLM 观察者的预先注册的可靠性故障",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement"
-        },
-        {
-            "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producin"
-        },
-        {
-            "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, a"
-        },
-        {
-            "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reaso",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A"
-        },
-        {
-            "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing "
-        },
-        {
-            "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video ",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an"
-        },
-        {
-            "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit tha"
-        },
-        {
-            "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, s"
-        },
-        {
-            "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "3D Foundation Models (3DFMs) such as VGGT have recently pushed the boundaries of 3D vision by predicting rich unified re"
-        },
-        {
-            "title": "Last Translation Benchmark",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that"
-        },
-        {
-            "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
-        },
-        {
-            "title": "What will Apple’s John Ternus era look like?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the"
-        },
-        {
-            "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's"
-        },
-        {
-            "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned"
-        },
-        {
-            "title": "Architecting memory and storage in the AI era",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accel"
-        },
-        {
-            "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+            "title": "XDOF 刚刚隐身三个月，正在就 B 轮融资进行谈判，估值为 1.2B 美元",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation o"
+            "snippet": "本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。"
+        },
+        {
+            "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。"
+        },
+        {
+            "title": "AI 计算提供商 Nscale 正在寻求 3.5B 美元的 IPO 前融资",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。"
+        },
+        {
+            "title": "法官禁止 X 竞争对手使用 Twitter 名称，但暂时允许使用“Tweet”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一名联邦法官暂时禁止 X 竞争对手使用 Twitter 名称，但发现 X 很可能放弃了“Tweet”商标和鸟标志。该初创公司后来以 Tweet.app 的名称重新推出。"
+        },
+        {
+            "title": "苹果的约翰·特努斯时代会是什么样子？",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Apple 正式进入 Ternus 时代。蒂姆·库克 (Tim Cook) 本周辞去了首席执行官一职，将公司交给了前硬件主管约翰·特努斯 (John Ternus)，后者在第一份备忘录中承诺“下周将推出大型产品”——在他还没坐下来之前，他就"
+        },
+        {
+            "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "最后靠Harness救回来"
+        },
+        {
+            "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "国产卡跑出高品质 AI Token 生产级性能"
+        },
+        {
+            "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL"
+        },
+        {
+            "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "不训练模型、不调参数"
+        },
+        {
+            "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "5000支队伍同台做题，写尽行业四年变化"
+        },
+        {
+            "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "智能不只是模式识别，更是对世界的建模"
+        },
+        {
+            "title": "构建人工智能时代的内存和存储",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "AI推理时代已经到来。想象一下，一个医疗保健系统可以实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能助理可以立即解决数千个复杂的客户需求。这些现实世界的突破依赖于先进的基础设施作为持续智能的引擎，为实时服务提供支持，同时……"
+        },
+        {
+            "title": "下载：出售战场无人机数据和AI重塑语言",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来自乌克兰无人机的数据正在推动一个新的狂野西部市场的发展——墨尔本大学研究人工智能对民主影响的研究员科里·阿尔珀特（Cory Alpert）曾在“狂野西部”市"
+        },
+        {
+            "title": "乌克兰无人机的数据正在推动新的狂野西部市场",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "乌克兰战场上散落着无人机的残骸，无人机现已成为现代战争的关键武器。但在所有这些残骸的背后，有一个国防部门的新金矿。无人机产生的数据将远远超过它们用于战斗的战争，并日益成为人类社会的一部分。"
+        },
+        {
+            "title": "Clucky 的新闹钟应用程序会用鸡鸣声叫醒您",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Clucky 的新闹钟应用程序有一个选项，可以让用户被公鸡的声音叫醒。然后他们完成一项任务，将其关闭。"
+        },
+        {
+            "title": "OpenAI 确认“维基事件”，并表示正在“开发一个框架”以进行更多披露",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI 承认其在最近报道的一起人工智能代理接管德国维基论坛事件中所扮演的角色。"
+        },
+        {
+            "title": "使用 Google Gemini 进行规划后徒步旅行者获救",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "治安官办公室表示，“双子座建议徒步旅行者携带的食物和水远少于团队所需的食物和水。”"
         },
         {
             "title": "人工智能如何规划前往半人马座阿尔法星的星际之旅",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our"
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "一个名为“费米探索者任务”的非营利组织今天宣布，它打算在 2029 年底之前向我们最近的恒星系统发射一艘航天器。这是一项雄心勃勃的任务——如果一切顺利，航天器可能需要长达 8 万年的时间才能抵达距离 4.4 光年远的半人马座阿尔法星。还有&"
         },
         {
-            "title": "Making the AI-powered case for legacy modernization",
+            "title": "为遗产现代化提供人工智能驱动的案例",
             "category": "AI研究",
             "tag": "research",
             "snippet": "多年来，遗留技术一直是公司知道他们需要解决的问题，但他们经常难以解决。更换关键业务系统的成本、复杂性和风险可能会让现代化感觉像是一种管理中断，而不是一个值得追求的机会。但随着客户期望的提高和变化——"
         },
         {
-            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The round is being raised just months after the robot data startup exited from stealth."
-        },
-        {
-            "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+            "title": "大规模简化 AI 集成",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers q"
+            "snippet": "随着公司规模的扩大，支持运营的技术可能会成为一种负债，就像它成为一种资产一样快。断开连接的系统、特定于站点的工具、电子表格和手动解决方法可能会形成数据孤岛，从而使尽早发现问题、协调响应和自信地做出决策变得更加困难。对于 Jabil 来说，这"
         },
         {
-            "title": "Facilitating AI integration with simplicity at scale",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. "
-        },
-        {
-            "title": "The Download: AI puzzles and a path to our nearest star system",
+            "title": "下载：人工智能谜题和通往距离我们最近的恒星系统的路径",
             "category": "AI研究",
             "tag": "research",
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。人工智能模型搞砸了这些智力测试。你还能过得更好吗？谜题和游戏一直是人工智能开发的核心。 “机器学习”一词因 1959 年的一篇文章而流行起来——"
+        },
+        {
+            "title": "《西雅图时报》和《新闻日报》是最新起诉 OpenAI 和微软的出版物",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "另外两家新闻机构正在起诉 OpenAI 和微软，指控其利用新闻报道来训练人工智能。"
+        },
+        {
+            "title": "下载：重新思考儿童安全和化石燃料农业",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。儿童监控应用程序可能需要重新启动数字危害已成为美国父母最担心的问题。作为回应，他们越来越多地转向内容监控应用程序来扫描孩子的文本、照片、电子邮件等。"
+        },
+        {
+            "title": "农业依赖化石燃料。这让我们付出了代价。",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "如果您最近不得不给汽车加油或购买机票，您可能已经感受到了化石燃料价格上涨的影响。但为农作物购买化肥的农民尤其意识到伊朗冲突的连锁反应已经蔓延了多远。化肥价格一直在上涨。"
+        },
+        {
+            "title": "在整个企业范围内扩展代理人工智能试点",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "随着代理人工智能从实验转向企业部署，面临的挑战是弄清楚代理如何协同工作，连接到他们所需的系统和数据，并在运行业务的工作流程中安全运行。尽管约 80% 的财富 500 强公司已经采用了代理 AI，但在实现有意义的规模化方面仍然取得了进展。"
+        },
+        {
+            "title": "时间自蒸馏：在没有监督的情况下学习视频中的视觉状态跟踪",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "我们引入了 S$^3$T（随时间的自监督自蒸馏），据我们所知，这是第一个用于连续视频状态跟踪的完全独立的框架。我们的方法将时间采样密度视为特权信息，基于这样的假设：同一剪辑的更密集视图可以更准确地恢复运行状态。该视图充当教师，而具有相同权重"
+        },
+        {
+            "title": "TokenMatch：具有曲率引导标记化的 3D 网格对应转换器",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "虽然数据驱动的 3D 形状对应估计最近取得了实质性进展，但部分观测和强非等距变形下的鲁棒匹配仍然具有挑战性。现有的基于学习的方法通常依赖于手工制作的描述符或基于模板的表示，而最近基于功能图的生成模型存在推理成本高、可解释性有限以及对部分形状"
+        },
+        {
+            "title": "Scal3R：学习高效的多相对姿势查询以实现可扩展的在线 3D 重建",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "在线 3D 重建模型在长视频上表现不佳。发生这种情况是因为相对于固定的第一帧锚点的回归姿势迫使外推远远超出训练分布。小的漂移累积并放大为严重的几何崩溃。然而，我们观察到每帧深度在整个失败过程中保持稳定。主干的局部几何形状保持不变；只有全局姿"
+        },
+        {
+            "title": "原理：视频模型的关系物理测试",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "评估视频模型中的物理推理很困难，因为绝对运动测量取决于帧速率、对象比例和相机校准，所有这些在生成的视频中通常是不明确或不可用的。我们提出了一种不同的方法。当同一场景中的两个物体遵循相同的物理定律时，它们的运动必须满足可预测的关系，并且这些关"
+        },
+        {
+            "title": "通过训练进行编译：将自然语言规范转化为局部神经函数",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "许多重复出现的文本函数很容易描述，但很难用规则来实现，而为每个输入调用大型远程模型会带来重复的成本、延迟和对提供者的依赖。我们提出了通过训练进行编译，它将自然语言规范转化为可重用的神经函数。在编译时，教师模型会生成特定于任务的示例，用于训练"
         }
     ]
 }
