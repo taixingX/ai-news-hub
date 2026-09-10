@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-09 02:00:36
+ * 生成时间: 2026-09-10 01:57:01
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "3秒变身！会合体的机器人，卖到全球50国",
-            "summary": "谁说现在机器人都长得差不多的！",
+            "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+            "summary": "Blender也不用学了",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/485525.html"
+            "url": "https://www.qbitai.com/2026/09/485854.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-            "summary": "OpenAI研究院人均带3个AI实习生",
+            "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
+            "summary": "百万奖金、大厂直通、VC跟投",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/485431.html"
+            "url": "https://www.qbitai.com/2026/09/485794.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-            "summary": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
+            "tag": "行业 · 动态",
+            "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+            "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/09/485154.html"
+            "url": "https://www.qbitai.com/2026/09/485784.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-            "summary": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "下载：今年 35 名 35 岁以下创新者",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。介绍 2026 年 35 名 35 岁以下创新者名单 下一代科学技术会是什么样子？我们最新的 35 岁以下创新者名单让",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/09/485108.html"
+            "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:00",
-            "text": "3秒变身！会合体的机器人，卖到全球50国",
+            "time": "01:57",
+            "text": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/485525.html"
+            "url": "https://www.qbitai.com/2026/09/485854.html"
         },
         {
-            "time": "02:00",
-            "text": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "time": "01:57",
+            "text": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/485431.html"
+            "url": "https://www.qbitai.com/2026/09/485794.html"
         },
         {
-            "time": "02:00",
-            "text": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程",
+            "time": "01:57",
+            "text": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/485154.html"
+            "url": "https://www.qbitai.com/2026/09/485784.html"
         },
         {
-            "time": "02:00",
-            "text": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+            "time": "01:57",
+            "text": "下载：今年 35 名 35 岁以下创新者",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/485108.html"
+            "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
         },
         {
-            "time": "02:00",
-            "text": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+            "time": "01:57",
+            "text": "这位创始人正在教芯片如何回收（能量）",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/485064.html"
+            "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
         },
         {
-            "time": "02:00",
-            "text": "下载：寻找地下氢气和更多流氓 OpenAI 代理",
+            "time": "01:57",
+            "text": "这位人工智能企业家正在开发能够提前计划意外情况的代理",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
         },
         {
-            "time": "02:00",
-            "text": "谷歌云与埃森哲达成协议，在人工智能部署大战中奋起直追",
+            "time": "01:57",
+            "text": "这位创始人正在生产更便宜、更清洁的钢铁",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
         },
         {
-            "time": "02:00",
-            "text": "如何观看 Apple 的可折叠 iPhone 发布会",
+            "time": "01:57",
+            "text": "这位遗传学家的年龄逆转技术可以帮助恢复视力",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "3秒变身！会合体的机器人，卖到全球50国",
+                    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/485525.html",
+                    "url": "https://www.qbitai.com/2026/09/485854.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "谁说现在机器人都长得差不多的！..."
+                    "desc": "Blender也不用学了..."
                 },
                 {
-                    "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+                    "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/485431.html"
+                    "url": "https://www.qbitai.com/2026/09/485794.html"
                 },
                 {
-                    "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
+                    "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/485154.html"
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/09/485784.html"
                 },
                 {
-                    "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/485108.html"
+                    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/"
                 },
                 {
-                    "title": "谷歌云与埃森哲达成协议，在人工智能部署大战中奋起直追",
+                    "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "5小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+                    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】通过应用程序流持续学习 GUI 代理的选择性知识控制",
-                    "desc": "持续学习是图形用户界面 (GUI) 代理适应不断发展的应用程序同时保留从以前的应用程序中获取的知识的关键能力。此类应用程序流提出了具有挑战性的知识建模问题：新应用程序通常与过去的应用程序共享基础知识，但也引入了不得干扰历史知识的特定知识。在本文中，我们提出了激活条件选择性知识控制，一种轻量级的...",
+                    "title": "【arXiv】超越弱标签：高分辨率多光谱图像中弱监督水体分割的即时引导局部细化",
+                    "desc": "高分辨率水绘图支持环境监测和相关应用，但精确的像素级标签生产起来很困难且成本高昂。官方水文矢量提供可扩展的弱监督，但它们包含边界噪声、时间不匹配和小型水体结构遗漏等伪影。我们提出了一个两阶段框架，用于高分辨率多光谱图像中的弱监督水体分割。第一阶段从光栅化向量中学习初始掩模...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06530v1"
+                    "url": "http://arxiv.org/abs/2609.10371v1"
                 },
                 {
-                    "title": "【arXiv】ProcArena：针对自然语言直接和交互式 PL/SQL 开发的法学硕士的多场景基准",
-                    "desc": "大型语言模型 (LLM) 在将自然语言 (NL) 需求转换为 PL/SQL 程序方面表现出了强大的潜力，吸引了数据库社区越来越多的关注。然而，现有的 NL 到 PL/SQL 工作主要集中于从完整的 NL 需求直接生成 PL/SQL。在实践中，PL/SQL开发涉及从头开发、代码修改、调试、优化等多种场...",
+                    "title": "【arXiv】AVSRBench：多条件 AVSR 基准",
+                    "desc": "虽然 AVSR 在标准 LRS3 基准上实现了低于 1% 的字错误率，但它对广播语音的依赖掩盖了这是否反映了真正的泛化或只是领域适应。为了研究这一差距，我们评估了六种条件下的三种 AVSR 架构：受控广播语音、固定语法话语、超清晰的伦巴第语音、专业口语演讲者和非专业演讲者的朗读演讲以及自发的多方视频...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06527v1"
+                    "url": "http://arxiv.org/abs/2609.10366v1"
                 },
                 {
-                    "title": "【arXiv】基于云的混合模型，使用 YOLO Tiny 和 Haar Cascade 实时检测 BRTA 批准的车牌",
-                    "desc": "准确的车辆牌照检测对于智能交通系统、收费、停车管理和执法等应用至关重要。在孟加拉国，由于本地车牌的复杂性以及照明、遮挡、运动模糊以及污垢或泥土等障碍物等环境因素，这项任务面临着明显的挑战。这些挑战常常使传统方法变得无效。本文介绍了一种新颖的混合方法，结合...",
+                    "title": "【arXiv】OmniMed-FL：用于临床诊断的鲁棒多模式联合学习框架",
+                    "desc": "临床诊断中经常需要同时评估医学影像和患者记录。然而，标准机器学习算法无法一起分析这些数据类型。同时，遵守 HIPAA 和 GDPR 可能会限制敏感患者数据的集中聚合。这使得远程网络上的视觉和文本上下文的安全融合出现了严重的空白。因此，我们提出了 OmniMed-FL，这是一项五类多模式联邦学习的受控...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06507v1"
+                    "url": "http://arxiv.org/abs/2609.10364v1"
                 },
                 {
-                    "title": "【arXiv】CAM：通过连续提取和自适应查询对以实体为中心的视频进行问答",
-                    "desc": "记忆通过提取和检索事实以适应多模式法学硕士（MLLM）的有限上下文窗口，有助于在长视频上回答问题。现有的解决方案通常从固定长度的视频剪辑中提取独立的内存条目，因此无法捕获需要在较长时间段内总结的高级语义，例如角色特征和关系。此外，它们仅依赖于基于相似性的检索，可能无法检索细粒度的细节...",
+                    "title": "【arXiv】SceneHI：具有可控照明的高分辨率 3D 一致场景纹理",
+                    "desc": "SceneHI 是一个框架，可从 2D 扩散模型中提升高分辨率、照明感知先验，以执行 3D 纹理合成。它首次证明了以前仅限于 2D 合成的高分辨率纹理可以直接在 3D 对象上生成，无需模型微调或优化。 SceneHI 专为复杂的多对象环境而设计，在单个生成程序中独特地结合了 3D 一致性、高分辨率保...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06504v1"
+                    "url": "http://arxiv.org/abs/2609.10363v1"
                 },
                 {
-                    "title": "【arXiv】DFlow：在块扩散推测解码中启用验证者信息流",
-                    "desc": "块扩散推测解码通过并行提出未来令牌块并通过目标模型的单次前向传递来验证它们，从而提高了 LLM 推理效率。然而，现有的方法仅保留接受的前缀并丢弃拒绝的后缀，从而阻止在这些位置上花费的计算有利于后续的起草轮次，并迫使起草者从头开始重复重建未来令牌的表示。我们观察到拒绝...",
+                    "title": "【arXiv】发现变化：评估长期变化的接地图像差异描述",
+                    "desc": "对于地图维护和城市基础设施监控的应用来说，随着时间的推移重新访问同一地点的图像来了解长期变化是一项具有挑战性的任务。之前的工作通过像素级预测或差异字幕来解决这个问题，但这两种方法都不足以可靠地衡量模型检测和描述此类变化的程度。我们引入了 SPOT-THE-SHIFT，这是一个经过人类验证的基准，用于...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06498v1"
+                    "url": "http://arxiv.org/abs/2609.10356v1"
                 },
                 {
-                    "title": "【arXiv】用于多模态情感分析的视觉引导文本提示调整",
-                    "desc": "多模态情感分析需要对言语语义和非言语情感线索进行有效建模。一个核心挑战是以受控、自适应和参数有效的方式用视觉面部证据来校准以文本为中心的情感理解。文本通常充当语义锚点，而视觉线索则为模糊或隐含的表达提供补充证据；然而，不加区别的融合可能会引入视觉噪音并扭曲文本语义。莫...",
+                    "title": "【arXiv】为什么视频仍然如此昂贵？视频和视听法学硕士中推理效率机制的调查",
+                    "desc": "视频理解已迅速向视频大语言模型 (VideoLLM) 发展：将视频表示与预训练的大语言模型以及文本提示上的条件生成相结合的系统。它们在字幕、问答、检索和时间基础方面的强大性能伴随着计算和内存成本随着帧数和上下文长度的增加而增加，限制了在实时、移动和资源有限的环境中的部署。这项调查涵盖了推理e...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.06497v1"
+                    "url": "http://arxiv.org/abs/2609.10355v1"
                 }
             ]
         },
@@ -274,52 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-                    "time": "昨天",
+                    "title": "超越弱标签：高分辨率多光谱图像中弱监督水体分割的即时引导局部细化",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/485064.html"
+                    "url": "http://arxiv.org/abs/2609.10371v1"
                 },
                 {
                     "rank": 2,
-                    "title": "如何观看 Apple 的可折叠 iPhone 发布会",
-                    "time": "8小时前",
+                    "title": "Apple Watch 的新功能可监听您的聊天内容并进行回顾",
+                    "time": "6小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
+                    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/"
                 },
                 {
                     "rank": 3,
-                    "title": "下载：重新思考儿童安全和化石燃料农业",
-                    "time": "5天前",
+                    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+                    "time": "6小时前",
                     "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+                    "url": "https://www.qbitai.com/2026/09/486450.html"
                 },
                 {
                     "rank": 4,
-                    "title": "通过应用程序流持续学习 GUI 代理的选择性知识控制",
-                    "time": "2天前",
+                    "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+                    "time": "5小时前",
                     "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2609.06530v1"
+                    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/"
                 },
                 {
                     "rank": 5,
-                    "title": "基于云的混合模型，使用 YOLO Tiny 和 Haar Cascade 实时检测 BRTA 批准的车牌",
-                    "time": "2天前",
+                    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+                    "time": "22小时前",
                     "emoji": "⚖️",
-                    "url": "http://arxiv.org/abs/2609.06507v1"
+                    "url": "https://www.qbitai.com/2026/09/486052.html"
                 },
                 {
                     "rank": 6,
-                    "title": "用摄像头思考：通过动态视点控制进行主动视觉推理，实现监控视频理解",
-                    "time": "2天前",
+                    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+                    "time": "20小时前",
                     "emoji": "🎵",
-                    "url": "http://arxiv.org/abs/2609.06475v1"
+                    "url": "https://www.qbitai.com/2026/09/486288.html"
                 },
                 {
                     "rank": 7,
-                    "title": "随着人工智能改变安全格局，Chrome 现在每两周发布一次更新",
+                    "title": "发现变化：评估长期变化的接地图像差异描述",
                     "time": "10小时前",
                     "emoji": "📝",
-                    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/"
+                    "url": "http://arxiv.org/abs/2609.10356v1"
+                },
+                {
+                    "rank": 8,
+                    "title": "视觉语言模型适应的策略蒸馏，低质量多模态数据的有效范式",
+                    "time": "10小时前",
+                    "emoji": "🤖",
+                    "url": "http://arxiv.org/abs/2609.10321v1"
                 }
             ]
         },
@@ -329,23 +336,9 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "探索公司筹集 4.5 亿美元挑战 SpaceX",
-                    "time": "5小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场",
-                    "time": "4小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
-                },
-                {
-                    "rank": 3,
                     "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
-                    "time": "22小时前",
-                    "emoji": "🏭",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/09/485784.html"
                 }
             ]
@@ -389,73 +382,73 @@ var siteData = {
                 {
                     "rank": 1,
                     "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
+                    "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+477,636",
+                    "stars": "+478,154",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,238",
+                    "stars": "+455,224",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
-                    "name": "openclaw/openclaw",
-                    "desc": "真正做事的人工智能。任何操作系统。任何平台。龙虾方式。 🦞",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+389,253",
-                    "url": "https://github.com/openclaw/openclaw"
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+396,371",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "name": "openclaw/openclaw",
+                    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+366,634",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
+                    "stars": "+389,315",
+                    "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 5,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+283,396",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+366,746",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
                     "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+254,343",
+                    "stars": "+255,204",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 7,
                     "name": "react/react",
-                    "desc": "Web 和本机用户界面的库。",
+                    "desc": "The library for web and native user interfaces.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+249,669",
+                    "stars": "+249,638",
                     "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 8,
                     "name": "torvalds/linux",
-                    "desc": "Linux 内核源码树",
+                    "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+247,587",
+                    "stars": "+247,644",
                     "url": "https://github.com/torvalds/linux"
                 }
             ]
@@ -465,72 +458,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "3秒变身！会合体的机器人，卖到全球50国",
+            "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/485525.html"
+            "url": "https://www.qbitai.com/2026/09/485854.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/485431.html"
+            "url": "https://www.qbitai.com/2026/09/485794.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzh",
+            "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/09/485154.html"
+            "url": "https://www.qbitai.com/2026/09/485784.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+            "title": "下载：今年 35 名 35 岁以下创新者",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/485108.html"
+            "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+            "title": "这位创始人正在教芯片如何回收（能量）",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/485064.html"
+            "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "下载：寻找地下氢气和更多流氓 OpenAI 代理",
+            "title": "这位人工智能企业家正在开发能够提前计划意外情况的代理",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "谷歌云与埃森哲达成协议，在人工智能部署大战中奋起直追",
+            "title": "这位创始人正在生产更便宜、更清洁的钢铁",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "如何观看 Apple 的可折叠 iPhone 发布会",
+            "title": "这位遗传学家的年龄逆转技术可以帮助恢复视力",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/"
+            "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争",
+            "title": "超越弱标签：高分辨率多光谱图像中弱监督水体分割的即时引导局部细化",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
+            "url": "http://arxiv.org/abs/2609.10371v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？",
+            "title": "AVSRBench：多条件 AVSR 基准",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+            "url": "http://arxiv.org/abs/2609.10366v1"
         }
     ],
     "aiTools": [
@@ -577,51 +570,39 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "OpenAI",
+            "size": "large"
+        },
+        {
             "text": "模型",
             "size": "large"
         },
         {
-            "text": "PL",
-            "size": "large"
-        },
-        {
-            "text": "SQL",
+            "text": "Apple",
             "size": "medium"
-        },
-        {
-            "text": "AI",
-            "size": "medium"
-        },
-        {
-            "text": "GOSIM",
-            "size": "medium"
-        },
-        {
-            "text": "Meta",
-            "size": "small"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "NL",
-            "size": "small"
         },
         {
             "text": "视觉",
+            "size": "medium"
+        },
+        {
+            "text": "语言",
+            "size": "medium"
+        },
+        {
+            "text": "AVSR",
             "size": "small"
         },
         {
-            "text": "代理",
+            "text": "Watch",
             "size": "small"
         },
         {
-            "text": "应用程序",
+            "text": "iPhone",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "SceneHI",
             "size": "small"
         },
         {
@@ -629,44 +610,146 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Shenzhen",
+            "text": "视频",
             "size": "small"
         },
         {
-            "text": "用户",
+            "text": "苹果",
+            "size": "small"
+        },
+        {
+            "text": "数学",
+            "size": "small"
+        },
+        {
+            "text": "AI",
+            "size": "small"
+        },
+        {
+            "text": "高分辨率",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "3秒变身！会合体的机器人，卖到全球50国",
+            "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "谁说现在机器人都长得差不多的！"
+            "snippet": "Blender也不用学了"
         },
         {
-            "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "title": "现场围观金融AI决赛，大厂挑人的逻辑我悟了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "OpenAI研究院人均带3个AI实习生"
+            "snippet": "百万奖金、大厂直通、VC跟投"
         },
         {
-            "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。"
+            "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。"
         },
         {
-            "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "“在两个模型之间找到数学上的共同基础其实非常困难”"
+            "title": "下载：今年 35 名 35 岁以下创新者",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。介绍 2026 年 35 名 35 岁以下创新者名单 下一代科学技术会是什么样子？我们最新的 35 岁以下创新者名单让您一睹风采。每年，&#8230;"
         },
         {
-            "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+            "title": "这位创始人正在教芯片如何回收（能量）",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "纵观计算机芯片的历史，工程师们一直将废热视为计算中不可避免的成本。然而，汉娜·厄利 (Hannah Earley) 认为这是一种设计选择。 Earley，31 岁，是 VaireComputing 的联合创始人兼首席技术官，这家初创公司生产"
+        },
+        {
+            "title": "这位人工智能企业家正在开发能够提前计划意外情况的代理",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "丹尼贾·哈夫纳 (Danijar Hafner) 位于旧金山 SoMa 区的办公室几乎空无一人。他的全新初创公司仍处于秘密模式，甚至门上都没有名字。我去的那天，那里只有一个人，而且几乎没有家具。但它弥补了装饰上的不足——"
+        },
+        {
+            "title": "这位创始人正在生产更便宜、更清洁的钢铁",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "钢铁行业并不以创新而闻名。自 1850 年代铁矿石提纯工艺发明并商业化以来，该工艺几乎没有发生任何变化。大多数钢铁制造商在高炉内以令人眩晕的高温熔化固体铁矿石，材料与气体发生反应，引发化学反应，去除氧气。它&#8230;"
+        },
+        {
+            "title": "这位遗传学家的年龄逆转技术可以帮助恢复视力",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "卢元成 (Ryan) 痴迷于衰老。还有眼睛。当他走出马萨诸塞州剑桥市怀特海德研究所时，他的飞行员眼镜在阳光下自动变暗。他的家族遗传了与年龄相关的失明。据说，中国的一位姑婆在过马路时被杀，因为她看不到迎面而来的车辆。还有卢自己的“"
+        },
+        {
+            "title": "超越弱标签：高分辨率多光谱图像中弱监督水体分割的即时引导局部细化",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。"
+            "snippet": "高分辨率水绘图支持环境监测和相关应用，但精确的像素级标签生产起来很困难且成本高昂。官方水文矢量提供可扩展的弱监督，但它们包含边界噪声、时间不匹配和小型水体结构遗漏等伪影。我们提出了一个两阶段框架，用于高分辨率多光谱图像中的弱监督水体分割。第"
+        },
+        {
+            "title": "AVSRBench：多条件 AVSR 基准",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "虽然 AVSR 在标准 LRS3 基准上实现了低于 1% 的字错误率，但它对广播语音的依赖掩盖了这是否反映了真正的泛化或只是领域适应。为了研究这一差距，我们评估了六种条件下的三种 AVSR 架构：受控广播语音、固定语法话语、超清晰的伦巴第语"
+        },
+        {
+            "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "苹果表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和 3D 打印。"
+        },
+        {
+            "title": "Apple Watch 的新功能可监听您的聊天内容并进行回顾",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Siri Recap 功能类似于 Granola 等其他笔记应用程序。"
+        },
+        {
+            "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "一比根号二的小胖折叠"
+        },
+        {
+            "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的语音并总结周围对话的功能引发了有关同意、隐私以及人们在知道自己随时可能被录音时如何行为的新问题。"
+        },
+        {
+            "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+        },
+        {
+            "title": "新款 iPhone 闪亮登场，因此苹果让你为旧款机型支付更多费用",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "苹果将​​现有 iPhone 型号的价格提高 100 美元，包括 iPhone 16、iPhone 17 和 iPhone Air。"
+        },
+        {
+            "title": "马萨诸塞州通过新的清洁能源规则打击数据中心",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "马萨诸塞州已成为几个月来第三个对数据中心开发实施新限制的州。"
+        },
+        {
+            "title": "苹果新任首席执行官正在恢复史蒂夫·乔布斯 25 年前的战略",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "约翰·特努斯 (John Ternus) 在他作为苹果首席执行官的第一次主题演讲中表示，iPhone 不会消失。"
+        },
+        {
+            "title": "OpenAI 董事会增加了一位杰出的 AI 毁灭者",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Paul Christiano 是一位有影响力的人工智能研究员，专注于一致性，他将加入 OpenAI 基金会，成为其董事会成员。"
+        },
+        {
+            "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Mullenweg 在公司 Slack 消息中表示，这违背了他的意愿。"
         },
         {
             "title": "下载：寻找地下氢气和更多流氓 OpenAI 代理",
@@ -675,148 +758,58 @@ var siteData = {
             "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。地下还有多少氢气在等着我们？一系列勘探工作正在寻找氢气的地下储存库，这可以提供宝贵的零碳燃料来源。狩猎已经结束了。"
         },
         {
-            "title": "谷歌云与埃森哲达成协议，在人工智能部署大战中奋起直追",
+            "title": "宜宾，一场机器人“招聘会”的产业雄心",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "谷歌云与埃森哲合作扩大其企业人工智能的推动力，押注于前沿部署的工程师来推动采用并克服部署瓶颈。"
+            "snippet": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。"
         },
         {
-            "title": "如何观看 Apple 的可折叠 iPhone 发布会",
+            "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Apple 年度 iPhone 发布会将于 9 月 9 日上午 10 点（太平洋夏令时间）进行直播，我们期待重大消息。"
+            "snippet": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动"
         },
         {
-            "title": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "第一个提供纳维-斯托克斯存在性和平滑性问题解决方案的人将获得 100 万美元的奖金。"
-        },
-        {
-            "title": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta 的新个人 AI 代理 Muse 希望访问用户的电子邮件、日历、支付、健康服务等，这是该公司最大的消费者 AI 赌注，也是人们是否仍然信任 Meta 处理其数据的重大考验。"
-        },
-        {
-            "title": "探索公司筹集 4.5 亿美元挑战 SpaceX",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "探索公司 (TEC) 已筹集 4.5 亿美元用于建造可重复使用的航天器，该公司将其描述为“欧洲航天公司有史以来最大的 C 轮融资”。"
-        },
-        {
-            "title": "下载：重新思考儿童安全和化石燃料农业",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。儿童监控应用程序可能需要重新启动数字危害已成为美国父母最担心的问题。作为回应，他们越来越多地转向内容监控应用程序来扫描孩子的文本、照片、电子邮件等。"
-        },
-        {
-            "title": "黑客正在从订阅者那里窃取克劳德代币",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "上个月，一位 Claude 用户注意到他的帐户正在消耗代币，即使他没有工作。此后，Anthropic 向用户发出了关于黑客的警告。"
-        },
-        {
-            "title": "Cognition 估值达到 48B 美元，表明投资者相信人工智能编码远非赢家通吃的市场",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Cognition 的估值倍数高于 Cursor 出售给 SpaceX 之前的估值倍数。"
-        },
-        {
-            "title": "构建人工智能时代的内存和存储",
+            "title": "OpenAI 的最新争议告诉我们数学的未来",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "AI推理时代已经到来。想象一下，一个医疗保健系统可以实时分析数百万个数据点，以加速挽救生命的医学研究，或者一个智能助理可以立即解决数千个复杂的客户需求。这些现实世界的突破依赖于先进的基础设施作为持续智能的引擎，为实时服务提供支持，同时……"
+            "snippet": "OpenAI 最新的数学里程碑很快就陷入了争议。今天，该公司宣布其代理人已经解决了千年奖问题之一，这是数学中一些最重要的开放问题。在正常情况下，该解决方案将成为 OpenAI 的一大亮点。但这一声明被指控所掩盖。"
         },
         {
-            "title": "下载：出售战场无人机数据和AI重塑语言",
+            "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "从Demo到货架，这两家公司要让具身智能算得过账"
+        },
+        {
+            "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。"
+        },
+        {
+            "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。来自乌克兰无人机的数据正在推动一个新的狂野西部市场的发展——墨尔本大学研究人工智能对民主影响的研究员科里·阿尔珀特（Cory Alpert）曾在“狂野西部”市"
+            "snippet": "消息人士称，Listen Labs 放弃了 Menlo Ventures 签署的 C 轮投资意向书。"
         },
         {
-            "title": "乌克兰无人机的数据正在推动新的狂野西部市场",
+            "title": "了解便携式电源的热上限",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "乌克兰战场上散落着无人机的残骸，无人机现已成为现代战争的关键武器。但在所有这些残骸的背后，有一个国防部门的新金矿。无人机产生的数据将远远超过它们用于战斗的战争，并日益成为人类社会的一部分。"
+            "snippet": "将手机插入现代充电器后，前 10 分钟的体验令人印象深刻。接下来的 20 个不是。这不是缺陷。这是连接的设备在保护自己。随着充电过程中温度升高，智能手机的电池管理系统会减少其接受的电流，因为热量会加速化学降解，从而永久降低电池的性能。"
         },
         {
-            "title": "俄罗斯方块公司抱怨后，白宫下架了“筑墙”游戏",
+            "title": "电池刚刚在美国打破了另一项记录",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "2026 年第二季度，美国电池装机量创下新纪录。根据一份新报告，总共新增容量 20.2 吉瓦时。这足以满足约70万户家庭的日常用电需求。这一激增使该国的发电量有望达到 71 吉瓦时。"
+        },
+        {
+            "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "在俄罗斯方块公司发帖称其“非常严肃地对待版权侵权”后，特朗普政府短命的街机游戏“Build the Wall”现在已经下落不明。"
-        },
-        {
-            "title": "通过应用程序流持续学习 GUI 代理的选择性知识控制",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "持续学习是图形用户界面 (GUI) 代理适应不断发展的应用程序同时保留从以前的应用程序中获取的知识的关键能力。此类应用程序流提出了具有挑战性的知识建模问题：新应用程序通常与过去的应用程序共享基础知识，但也引入了不得干扰历史知识的特定知识。在"
-        },
-        {
-            "title": "ProcArena：针对自然语言直接和交互式 PL/SQL 开发的法学硕士的多场景基准",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大型语言模型 (LLM) 在将自然语言 (NL) 需求转换为 PL/SQL 程序方面表现出了强大的潜力，吸引了数据库社区越来越多的关注。然而，现有的 NL 到 PL/SQL 工作主要集中于从完整的 NL 需求直接生成 PL/SQL。在实践中"
-        },
-        {
-            "title": "基于云的混合模型，使用 YOLO Tiny 和 Haar Cascade 实时检测 BRTA 批准的车牌",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "准确的车辆牌照检测对于智能交通系统、收费、停车管理和执法等应用至关重要。在孟加拉国，由于本地车牌的复杂性以及照明、遮挡、运动模糊以及污垢或泥土等障碍物等环境因素，这项任务面临着明显的挑战。这些挑战常常使传统方法变得无效。本文介绍了一种新颖的"
-        },
-        {
-            "title": "CAM：通过连续提取和自适应查询对以实体为中心的视频进行问答",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "记忆通过提取和检索事实以适应多模式法学硕士（MLLM）的有限上下文窗口，有助于在长视频上回答问题。现有的解决方案通常从固定长度的视频剪辑中提取独立的内存条目，因此无法捕获需要在较长时间段内总结的高级语义，例如角色特征和关系。此外，它们仅依赖"
-        },
-        {
-            "title": "DFlow：在块扩散推测解码中启用验证者信息流",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "块扩散推测解码通过并行提出未来令牌块并通过目标模型的单次前向传递来验证它们，从而提高了 LLM 推理效率。然而，现有的方法仅保留接受的前缀并丢弃拒绝的后缀，从而阻止在这些位置上花费的计算有利于后续的起草轮次，并迫使起草者从头开始重复重建未来"
-        },
-        {
-            "title": "用于多模态情感分析的视觉引导文本提示调整",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "多模态情感分析需要对言语语义和非言语情感线索进行有效建模。一个核心挑战是以受控、自适应和参数有效的方式用视觉面部证据来校准以文本为中心的情感理解。文本通常充当语义锚点，而视觉线索则为模糊或隐含的表达提供补充证据；然而，不加区别的融合可能会引"
-        },
-        {
-            "title": "Diffuse2Seg：扩散模型可以在没有监督的情况下分割任何东西",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "开放世界实体分割旨在跨域和多粒度（从部分到整个对象）预测任意对象的掩码。在这种情况下，SAM 设定了一个强有力的标准：在 SA-1B 上进行训练，包括 11M 图像和超过 1B 个仔细注释的掩模，它实现了卓越的零样本性能。然而，收集此类标签"
-        },
-        {
-            "title": "OracleZoom：受策略自蒸馏启发的参考约束递归图像超分辨率",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "递归超分辨率 (SR) 通过将预测重复反馈到同一模型中，将固定比例的 SR 扩展到极限放大倍数，类似于重复缩放图像。然而，随着所需的源分辨率呈几何级数增长，导致更深入的预测不受监督，各个尺度的地面实况可用性（尤其是深度）仍然具有挑战性。我们"
-        },
-        {
-            "title": "随机连续蒙特卡罗树搜索中的幂均值估计",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "蒙特卡洛树搜索 (MCTS) 在确定性环境的在线规划方面取得了成功，但在使其适应随机马尔可夫决策过程 (MDP) 方面仍然存在重大挑战，特别是在连续状态动作空间中。现有的方法，例如将 MCTS 与分层乐观优化 (HOO) 强盗策略相结合的 "
-        },
-        {
-            "title": "具有最优传输贝尔曼平滑的二阶平滑规划",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "使用生成模型进行规划的目的是使用尽可能少的模拟器调用来估计状态的价值。 SmoothCruiser 通过利用熵正则化 Bellman 备份的平滑性，实现了与问题无关的复杂度 $\\widetilde O(\\varepsilon^{-4})$，"
-        },
-        {
-            "title": "一个 MLLM，一个呼叫：通过空间感知路点进行高效的零射击视觉和语言导航",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "连续环境中的视觉和语言导航（VLN-CE）需要一个实体代理通过遵循自然语言指令来导航看不见的环境。当前的零样本 VLN-CE 方法要么依赖于预先训练的路点预测器，要么需要每步对大型模型进行多次查询。为了解决令人望而却步的推理延迟和计算开销，"
-        },
-        {
-            "title": "用摄像头思考：通过动态视点控制进行主动视觉推理，实现监控视频理解",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "大型视觉语言模型（LVLM）最近在通用视频理解方面取得了显着进展。然而，由于缺乏大规模的特定领域数据集以及从固定视点进行被动观察的限制，它们在监控视频中的应用仍然具有挑战性。在监控场景中，当目标较远、较小、被遮挡或超出当前摄像机视野时，很容"
+            "snippet": ""
         }
     ]
 }
