@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-11 01:55:16
+ * 生成时间: 2026-09-12 02:00:01
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-            "summary": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+            "tag": "独家 · 研究",
+            "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+            "summary": "爆料直指霍奇猜想",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/486436.html"
+            "url": "https://www.qbitai.com/2026/09/487092.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-            "summary": "赶上了API限时五折",
+            "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
+            "summary": "15秒视频，50秒出片",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/486350.html"
+            "url": "https://www.qbitai.com/2026/09/487055.html"
         },
         {
             "tag": "独家 · 研究",
-            "title": "The Download: OpenAI’s turning point for math and a battery record",
-            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们数学的未来 OpenAI 表示，其代理已经解决了数学中最重要的开放问题之一。在正常情",
-            "source": "MIT Tech Review",
+            "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+            "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+            "url": "https://www.qbitai.com/2026/09/486934.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "Batteries just broke another record in the US",
-            "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigaw",
+            "tag": "行业 · 动态",
+            "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
+            "summary": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。上帝告诉他们要出售加密货币。他们的投资者失去了一切。当伊莱·雷加拉多第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:55",
-            "text": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+            "time": "02:00",
+            "text": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/486436.html"
+            "url": "https://www.qbitai.com/2026/09/487092.html"
         },
         {
-            "time": "01:55",
-            "text": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+            "time": "02:00",
+            "text": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/486350.html"
+            "url": "https://www.qbitai.com/2026/09/487055.html"
         },
         {
-            "time": "01:55",
-            "text": "The Download: OpenAI’s turning point for math and a battery ",
+            "time": "02:00",
+            "text": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+            "url": "https://www.qbitai.com/2026/09/486934.html"
         },
         {
-            "time": "01:55",
-            "text": "Batteries just broke another record in the US",
+            "time": "02:00",
+            "text": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
         },
         {
-            "time": "01:55",
-            "text": "Understanding the thermal ceiling in portable power",
+            "time": "02:00",
+            "text": "为人工智能提供动力是一个架构问题",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
+            "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
         },
         {
-            "time": "01:55",
-            "text": "What OpenAI’s latest controversy tells us about the future o",
+            "time": "02:00",
+            "text": "该路线图可以帮助我们决定是否部署太阳能地球工程",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
         },
         {
-            "time": "01:55",
-            "text": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like y",
+            "time": "02:00",
+            "text": "美国电池市场能否摆脱中国的束缚？",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
         },
         {
-            "time": "01:55",
-            "text": "Proxima Fusion bets €140M on a critical fusion ingredient do",
+            "time": "02:00",
+            "text": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+                    "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/486350.html",
+                    "url": "https://www.qbitai.com/2026/09/487055.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "赶上了API限时五折..."
+                    "desc": "15秒视频，50秒出片..."
                 },
                 {
-                    "title": "Furo 的创始人离开了硅谷——并且得到了回报",
-                    "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/"
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
                 },
                 {
-                    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-                    "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
                 },
                 {
-                    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about y",
+                    "title": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会",
                     "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+                    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
                 },
                 {
-                    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+                    "title": "中欧亚大陆公布 2026 年“战场之路”获胜者：Cerberus、WeGlobal AI 和 LOOQ",
                     "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "time": "7小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+                    "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits",
-                    "desc": "超声心动图中舒张末期 (ED) 和收缩末期 (ES) 的准确识别支持心室功能的量化，但这些关键帧的手动选择具有主观性，并且会引入临床上显着的操作者间差异。最近的自监督方法要么规定严格的周期性轨迹，要么从重建或配准目标中学习无约束的低维运动子空间。前者提供了可解释性，但施加了限制...",
+                    "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
+                    "desc": "爆料直指霍奇猜想...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "10小时前",
+                    "source": "量子位",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11650v1"
+                    "url": "https://www.qbitai.com/2026/09/487092.html"
                 },
                 {
-                    "title": "【arXiv】ZipCodec：超低帧率流式语音编码",
-                    "desc": "神经音频编解码器是现代语音生成系统的基本组成部分。虽然最近的编解码器实现了越来越低的比特率，但降低帧速率仍然具有挑战性，因为每个令牌必须在保持重建质量的同时保留更多信息。我们推出了 ZipCodec，一种以 6.25 Hz 和 0.80 kbps 运行的流式神经语音编解码器，理论延迟为 160 ms...",
+                    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+                    "desc": "多模态AI大牛轮番登台，全球64支团队组团解题...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "11小时前",
+                    "source": "量子位",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11642v1"
+                    "url": "https://www.qbitai.com/2026/09/486934.html"
                 },
                 {
-                    "title": "【arXiv】LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytic",
-                    "desc": "通过越来越多地采用分布式发电、电气化设备和需求响应计划，能源转型正在重塑居民电力消费。了解这些不断变化的行为需要访问用于负载预测、设备检测和需求方灵活性分析等应用的精细智能电表数据。然而，此类数据受到严格的访问限制和数据保护法规的约束。因此，现实的合成替代品...",
+                    "title": "圆桌会议：人工智能的末日危机",
+                    "desc": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更多的是危言耸听和炒作？与《麻省理工科技评论》执行主编 Niall Firth 一起，与高级 AI 编辑 Will Douglas Heaven 和 AI 记者 Grace Huckins 进行对话，了解 AI...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "11小时前",
+                    "source": "MIT Tech Review",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11639v1"
+                    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
                 },
                 {
-                    "title": "【arXiv】Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
-                    "desc": "我们推出Vidu S2，它包括Vidu S2-Avatar（实时交互式数字角色模型）和Vidu S2-Editing（实时视频编辑模型）。此外，我们还探讨了 Vidu S2-Avatar 和 Vidu S2-Editing 实时空间视频生成的可行性。与Vidu S1相比，Vidu S2-Avatar...",
+                    "title": "下载：生物技术的未来和更便宜、更清洁的钢铁",
+                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识塑造生物技术未来的 35 岁以下人士 每年，《麻省理工科技评论》都会汇总 35 名 35 岁以下创新者，列出一些最聪明、最优秀的年轻人的名单。...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "11小时前",
+                    "source": "MIT Tech Review",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11638v1"
-                },
-                {
-                    "title": "【arXiv】MAPLE: Memory-Augmented Planning with Language and Evolution",
-                    "desc": "Domain practitioners understand their business constraints but may lack operations-research expertise or dedicated support. LLM-based optimization age...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "11小时前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11636v1"
-                },
-                {
-                    "title": "【arXiv】Physics-Informed Neural Networks to Infer the Perpendicular Energy Conductivity in the Scr",
-                    "desc": "In this work, we develop an inverse Physics-Informed Neural Network (PINN) framework to infer the dependence of the scrape-off layer (SOL) perpendicul...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "11小时前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.11628v1"
+                    "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
                 }
             ]
         },
@@ -274,66 +252,35 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+                    "title": "该路线图可以帮助我们决定是否部署太阳能地球工程",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/486436.html"
+                    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
                 },
                 {
                     "rank": 2,
-                    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-                    "time": "8小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
-                    "title": "亚马逊让您可以更轻松地购买在 Prime Video 上看到的内容",
-                    "time": "7小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-                    "time": "6小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-                    "time": "17小时前",
-                    "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/09/486900.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-                    "time": "17小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/09/486747.html"
-                },
-                {
-                    "rank": 7,
-                    "title": "LoaDiff: Conditional Generation of Electricity Consumption Time Series",
-                    "time": "11小时前",
-                    "emoji": "📝",
-                    "url": "http://arxiv.org/abs/2609.11639v1"
-                },
-                {
-                    "rank": 8,
-                    "title": "A Training-Free, Alignment-Free Approach to Corporate Intelligence: Ap",
-                    "time": "11小时前",
-                    "emoji": "🤖",
-                    "url": "http://arxiv.org/abs/2609.11620v1"
-                },
-                {
-                    "rank": 9,
-                    "title": "Distributed Optimization of Modular Production Systems using Model-bas",
-                    "time": "11小时前",
-                    "emoji": "📊",
-                    "url": "http://arxiv.org/abs/2609.11615v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -343,24 +290,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to ta",
-                    "time": "4小时前",
+                    "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/"
+                    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
                 },
                 {
                     "rank": 2,
                     "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
-                    "time": "16小时前",
+                    "time": "昨天",
                     "emoji": "💰",
                     "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
                 },
                 {
                     "rank": 3,
-                    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering ro",
-                    "time": "13小时前",
+                    "title": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会",
+                    "time": "9小时前",
                     "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
+                    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
+                },
+                {
+                    "rank": 4,
+                    "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的",
+                    "time": "4小时前",
+                    "emoji": "🌏",
+                    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+                },
+                {
+                    "rank": 5,
+                    "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+                    "time": "3小时前",
+                    "emoji": "📉",
+                    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
                 }
             ]
         },
@@ -402,75 +363,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+478,654",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,278",
+                    "stars": "+455,326",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+396,462",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+389,403",
+                    "stars": "+389,458",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+366,849",
+                    "stars": "+366,931",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
+                    "rank": 4,
                     "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+318,408",
+                    "stars": "+318,606",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "name": "obra/superpowers",
                     "desc": "有效的代理技能框架和软件开发方法。",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+284,725",
+                    "stars": "+285,391",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
-                    "rank": 8,
+                    "rank": 6,
                     "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+255,915",
+                    "stars": "+256,545",
                     "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 7,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+250,046",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 8,
+                    "name": "torvalds/linux",
+                    "desc": "Linux 内核源码树",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+248,304",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -479,72 +440,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+            "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/486436.html"
+            "url": "https://www.qbitai.com/2026/09/487092.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+            "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/486350.html"
+            "url": "https://www.qbitai.com/2026/09/487055.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "The Download: OpenAI’s turning point for math and ",
+            "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
+            "url": "https://www.qbitai.com/2026/09/486934.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Batteries just broke another record in the US",
+            "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Understanding the thermal ceiling in portable powe",
+            "title": "为人工智能提供动力是一个架构问题",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
+            "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "What OpenAI’s latest controversy tells us about th",
+            "title": "该路线图可以帮助我们决定是否部署太阳能地球工程",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, j",
+            "title": "美国电池市场能否摆脱中国的束缚？",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Proxima Fusion bets €140M on a critical fusion ing",
+            "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/"
+            "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "亚马逊让您可以更轻松地购买在 Prime Video 上看到的内容",
+            "title": "医疗保健人工智能的下一个测试是集成",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/"
+            "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Meta’s AI agent Muse is now the No. 2 app in the U",
+            "title": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+            "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
         }
     ],
     "aiTools": [
@@ -591,168 +552,72 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "S2",
-            "size": "large"
-        },
-        {
-            "text": "Vidu",
-            "size": "large"
-        },
-        {
             "text": "OpenAI",
-            "size": "medium"
+            "size": "large"
+        },
+        {
+            "text": "TechCrunch",
+            "size": "large"
         },
         {
             "text": "AI",
             "size": "medium"
         },
         {
-            "text": "US",
+            "text": "人工智能",
             "size": "medium"
         },
         {
-            "text": "LLMs",
+            "text": "Disrupt",
+            "size": "medium"
+        },
+        {
+            "text": "Roblox",
             "size": "small"
         },
         {
-            "text": "模型",
+            "text": "未来",
             "size": "small"
         },
         {
-            "text": "Download",
+            "text": "美国",
             "size": "small"
         },
         {
-            "text": "its",
+            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "Cerberus",
             "size": "small"
         },
         {
-            "text": "Video",
+            "text": "WeGlobal",
             "size": "small"
         },
         {
-            "text": "Meta",
+            "text": "LOOQ",
             "size": "small"
         },
         {
-            "text": "Fund",
+            "text": "Road",
             "size": "small"
         },
         {
-            "text": "God",
+            "text": "Startup",
             "size": "small"
         },
         {
-            "text": "Neural",
+            "text": "Battlefield",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行"
-        },
-        {
-            "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "赶上了API限时五折"
-        },
-        {
-            "title": "The Download: OpenAI’s turning point for math and a battery record",
+            "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们数学的未来 OpenAI 表示，其代理已经解决了数学中最重要的开放问题之一。在正常情况下，这将是……"
-        },
-        {
-            "title": "Batteries just broke another record in the US",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new cap"
-        },
-        {
-            "title": "Understanding the thermal ceiling in portable power",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. I"
-        },
-        {
-            "title": "What OpenAI’s latest controversy tells us about the future of math",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its ag"
-        },
-        {
-            "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "走进机器人的内心世界，试图让互联网相信它是人类。"
-        },
-        {
-            "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-tem"
-        },
-        {
-            "title": "亚马逊让您可以更轻松地购买在 Prime Video 上看到的内容",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of sho"
-        },
-        {
-            "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
-        },
-        {
-            "title": "Furo 的创始人离开了硅谷——并且得到了回报",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "能源初创公司 Furo 的三位 28 岁创始人从硅谷搬回德国，但仍从大多数美国支持者那里获得了 400 万美元的资金。"
-        },
-        {
-            "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, i"
-        },
-        {
-            "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "马克·沃尔伯格 (Mark Wahlberg) 与布鲁斯·李 (Bruce K. Lee) 在 Disrupt 上讨论投资、创业、医疗保健、健康和创业。"
-        },
-        {
-            "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capaci"
-        },
-        {
-            "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which h"
-        },
-        {
-            "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way t"
-        },
-        {
-            "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "模型可以开源，部署经验不能"
+            "snippet": "爆料直指霍奇猜想"
         },
         {
             "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
@@ -761,76 +626,172 @@ var siteData = {
             "snippet": "15秒视频，50秒出片"
         },
         {
-            "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制"
-        },
-        {
-            "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "轻量版LingBot-World 2.0"
-        },
-        {
-            "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。"
-        },
-        {
-            "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。"
-        },
-        {
-            "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R"
-        },
-        {
-            "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journ"
-        },
-        {
-            "title": "医疗保健人工智能的下一个测试是集成",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical f"
-        },
-        {
             "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
             "category": "AI研究",
             "tag": "research",
             "snippet": "多模态AI大牛轮番登台，全球64支团队组团解题"
         },
         {
+            "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。上帝告诉他们要出售加密货币。他们的投资者失去了一切。当伊莱·雷加拉多第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据伊莱和他的妻子说，“"
+        },
+        {
+            "title": "为人工智能提供动力是一个架构问题",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "2026 年 7 月 22 日，弗吉尼亚州阿什本（全球最大数据中心集群的核心）发生输电线路故障，几秒钟内导致超过 3 吉瓦的负载断电。这不是第一次了。两年前，一个发生故障的避雷器立即导致弗吉尼亚州约 60 个设施和 1,500 兆瓦电力中断"
+        },
+        {
+            "title": "该路线图可以帮助我们决定是否部署太阳能地球工程",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "《麻省理工科技评论》透露，旧金山一家非营利组织发布了一份详细的实验、研究和基础设施路线图，称需要这些路线图才能就太阳能地球工程的使用做出明智的决策。科学家们现在已经花了半个世纪的时间探索我们可以通过释放“二氧化碳”来应对气候变化的可能性。"
+        },
+        {
             "title": "美国电池市场能否摆脱中国的束缚？",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the gri"
+            "snippet": "美国储能市场的快速增长创下了纪录。这对于支撑电网、提高可靠性和减少排放大有帮助，因为电池可以帮助存储风能和太阳能等间歇性可再生能源的能量。至关重要的是，这一切都是在廉价的中国电池的帮助下发生的。”"
         },
         {
-            "title": "Powering AI is an architecture problem",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center clus"
-        },
-        {
-            "title": "This road map could help us decide whether to deploy solar geoengineering",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says"
-        },
-        {
-            "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+            "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "本文是与 Type Investigations 合作并得到调查新闻基金的支持。当伊莱·雷加拉多第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。现在，他将这种经历比作“有一个不是我的想法的想法”。神圣的话语在他的脑海中回响，就像……"
+        },
+        {
+            "title": "医疗保健人工智能的下一个测试是集成",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "主要人工智能公司进入医疗保健领域是一项有意义且受欢迎的发展，加速了该行业的技术基础。他们的模型越来越能够处理长临床记录、解释复杂的术语、将文档与证据进行比较以及从大量信息中生成连贯的摘要。对于临床医生、操作员和管理团队来说，他们需要："
+        },
+        {
+            "title": "Nscale 在潜在 IPO 之前将 OpenAI 前高管 Fidji Simo 加入董事会",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "OpenAI 的第二号执行官还领导 Instacart 在 2023 年完成了 IPO。"
+        },
+        {
+            "title": "中欧亚大陆公布 2026 年“战场之路”获胜者：Cerberus、WeGlobal AI 和 LOOQ",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Cerberus、WeGlobal AI 和 LOOQ 在 Road to TechCrunch Startup Battlefield 2026 地区决赛中获得前三名，并将代表中欧亚大陆参加今年 10 月在旧金山举行的 TechCrunc"
+        },
+        {
+            "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "看清「一个真正的人」"
+        },
+        {
+            "title": "Kimi 制造商 Moonshot AI 的年收入目标是 20 亿美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "虽然近几个月 K3 的使用量略有下降，但 OpenRouter 数据目前显示系统上的 K3 模型每天生成多达 3000 亿个代币。"
+        },
+        {
+            "title": "Roblox 使使用 AI 构建游戏变得更加容易，并且可以在 Roblox 之外玩游戏",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在其年度 Roblox 开发者大会 (RDC) 上，该公司宣布了多项新功能，包括新的游戏创建工具、扩展的 NPC 功能以及跨平台（包括网络）提供游戏的能力。"
+        },
+        {
+            "title": "OpenAI 与数学家的不和只会不断升级",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "二十五位顶尖数学家签署了一封公开信，认为人工智能实验室正在威胁他们的智力工作。"
+        },
+        {
+            "title": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "只剩下一周的时间来确保您的展台安全。席位有限，可在 9 月 18 日截止日期之前售完。"
+        },
+        {
+            "title": "TechCrunch Disrupt 2026 会外活动最后、最后、最后征集",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "申请在 TechCrunch Disrupt 2026 期间举办官方边会的最后机会是今晚，即 9 月 11 日晚上 11:59。 PT。"
+        },
+        {
+            "title": "圆桌会议：人工智能的末日危机",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更多的是危言耸听和炒作？与《麻省理工科技评论》执行主编 Niall Firth 一起，与高级 AI 编辑 Will Douglas Heaven 和 "
+        },
+        {
+            "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的第一个前哨基地",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "拉布伊斯说：“据称，它实际上现在正在建造中。”他显然已经处理了一两个错过的施工时间表的问题。"
+        },
+        {
+            "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谭希望规模较小的美国开放权重人工智能实验室能够使用与美国前沿人工智能实验室相同的训练技术，为美国提供一套比中国更强大的开放权重选择。"
+        },
+        {
+            "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "这家成立两年的初创公司的本轮融资是在 Mecka 宣布 A 轮融资几个月后进行的。"
+        },
+        {
+            "title": "下载：OpenAI 的数学转折点和电池记录",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们数学的未来 OpenAI 表示，其代理已经解决了数学中最重要的开放问题之一。在正常情况下，这将是……"
+        },
+        {
+            "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "今年12月，北京，MEET2027智能未来大会！"
+        },
+        {
+            "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。"
+        },
+        {
+            "title": "不简单，“吃货快乐榜”也全面AI化了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "认识塑造生物技术未来的 35 岁以下人士",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "每年，《麻省理工科技评论》都会列出一些在科学和技术领域工作的最聪明、最优秀的年轻人的名单。我们的 35 名 35 岁以下创新者值得关注，他们的研究和技术工作将塑造各自领域的未来。今年，该名单包括九人："
+        },
+        {
+            "title": "下载：生物技术的未来和更便宜、更清洁的钢铁",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识塑造生物技术未来的 35 岁以下人士 每年，《麻省理工科技评论》都会汇总 35 名 35 岁以下创新者，列出一些最聪明、最优秀的年轻人的名单。"
+        },
+        {
+            "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "把开发、交付和接单全打通了"
+        },
+        {
+            "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "原来你俩互相下单呢"
         }
     ]
 }
