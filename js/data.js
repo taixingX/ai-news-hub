@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-13 01:54:15
+ * 生成时间: 2026-09-14 02:12:03
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
-            "summary": "这家成立两年的初创公司的本轮融资是在 Mecka 宣布 A 轮融资几个月后进行的。",
+            "tag": "头条 · 大模型",
+            "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by boar",
+            "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
         },
         {
             "tag": "行业 · 动态",
-            "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的第一个前哨基地",
-            "summary": "拉布伊斯说：“据称，它实际上现在正在建造中。”他显然已经处理了一两个错过的施工时间表的问题。",
+            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+            "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, ac",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-            "summary": "谭希望规模较小的美国开放权重人工智能实验室能够使用与美国前沿人工智能实验室相同的训练技术，为美国提供一套比中国更强大的开放权重选择。",
+            "tag": "政策 · 法规",
+            "title": "Anthropic CEO outlines plan to slow AI development",
+            "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "OpenAI 与数学家的不和只会不断升级",
-            "summary": "二十五位顶尖数学家签署了一封公开信，认为人工智能实验室正在威胁他们的智力工作。",
-            "source": "TechCrunch AI",
+            "tag": "重磅 · 应用",
+            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+            "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+            "url": "https://www.qbitai.com/2026/09/487860.html"
         }
     ],
     "quickNews": [
         {
-            "time": "01:54",
-            "text": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+            "time": "02:12",
+            "text": "Automattic confirms Mullenweg has returned as CEO after atte",
             "hot": true,
-            "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
         },
         {
-            "time": "01:54",
-            "text": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hil",
+            "time": "02:12",
+            "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go pub",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
         },
         {
-            "time": "01:54",
-            "text": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
+            "time": "02:12",
+            "text": "Anthropic CEO outlines plan to slow AI development",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
         },
         {
-            "time": "01:54",
-            "text": "OpenAI 与数学家的不和只会不断升级",
+            "time": "02:12",
+            "text": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+            "url": "https://www.qbitai.com/2026/09/487860.html"
         },
         {
-            "time": "01:54",
-            "text": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
+            "time": "02:12",
+            "text": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+            "url": "https://www.qbitai.com/2026/09/487796.html"
         },
         {
-            "time": "01:54",
-            "text": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+            "time": "02:12",
+            "text": "探索RSI，生数新世界模型让机器人开始自我进化",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487631.html"
+            "url": "https://www.qbitai.com/2026/09/487752.html"
         },
         {
-            "time": "01:54",
-            "text": "啊？Anthropic最高320万招销售，只为服务Meta",
+            "time": "02:12",
+            "text": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487573.html"
+            "url": "https://www.qbitai.com/2026/09/487701.html"
         },
         {
-            "time": "01:54",
-            "text": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+            "time": "02:12",
+            "text": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487415.html"
+            "url": "https://www.qbitai.com/2026/09/487688.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+                    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by boar",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "这家成立两年的初创公司的本轮融资是在 Mecka 宣布 A 轮融资几个月后进行的。..."
+                    "desc": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"..."
                 },
                 {
-                    "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的第一个前哨基地",
+                    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+                    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
                 },
                 {
-                    "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-                    "source": "TechCrunch AI",
+                    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+                    "url": "https://www.qbitai.com/2026/09/487796.html"
                 },
                 {
-                    "title": "OpenAI 与数学家的不和只会不断升级",
-                    "source": "TechCrunch AI",
+                    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+                    "url": "https://www.qbitai.com/2026/09/487752.html"
                 },
                 {
-                    "title": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
-                    "source": "TechCrunch AI",
+                    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+                    "url": "https://www.qbitai.com/2026/09/487701.html"
                 }
             ]
         },
@@ -201,48 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "圆桌会议：人工智能真的会杀死我们所有人吗？",
-                    "desc": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更多的是危言耸听和炒作？与《麻省理工科技评论》执行主编 Niall Firth 一起，与高级 AI 编辑 Will Douglas Heaven 和 AI 记者 Grace Huckins 进行对话，了解 AI...",
+                    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+                    "desc": "模型、论文都还没出，没想到先从财务公告上剧透了...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
+                    "source": "量子位",
+                    "time": "1小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+                    "category": "paper",
+                    "url": "https://www.qbitai.com/2026/09/488694.html"
+                },
+                {
+                    "title": "Roundtables: Could AI really kill us all?",
+                    "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "MIT Tech Review",
+                    "time": "2天前",
+                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
                 },
                 {
-                    "title": "下载：生物技术的未来和更便宜、更清洁的钢铁",
-                    "desc": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识塑造生物技术未来的 35 岁以下人士 每年，《麻省理工科技评论》都会汇总 35 名 35 岁以下创新者，列出一些最聪明、最优秀的年轻人的名单。...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
+                    "title": "The Download: biotech’s future and cheaper, cleaner steel",
+                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
+                    "tag": "技术报告",
+                    "tagClass": "tag-blue",
                     "source": "MIT Tech Review",
-                    "time": "昨天",
-                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "time": "2天前",
+                    "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
                 },
                 {
-                    "title": "认识塑造生物技术未来的 35 岁以下人士",
-                    "desc": "每年，《麻省理工科技评论》都会列出一些在科学和技术领域工作的最聪明、最优秀的年轻人的名单。我们的 35 名 35 岁以下创新者值得关注，他们的研究和技术工作将塑造各自领域的未来。今年，该名单包括九人：...",
-                    "tag": "技术报告",
-                    "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
-                    "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
-                },
-                {
-                    "title": "为人工智能提供动力是一个架构问题",
-                    "desc": "2026 年 7 月 22 日，弗吉尼亚州阿什本（全球最大数据中心集群的核心）发生输电线路故障，几秒钟内导致超过 3 吉瓦的负载断电。这不是第一次了。两年前，一个发生故障的避雷器立即导致弗吉尼亚州约 60 个设施和 1,500 兆瓦电力中断。不&#8230;...",
+                    "title": "Meet the under-35s shaping the future of biotech",
+                    "desc": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Inn...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "MIT Tech Review",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+                    "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
                 }
             ]
         },
@@ -252,24 +252,20 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Tesla says it will finally unveil the second generation Roadster on Oc",
-                    "time": "6小时前",
+                    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/"
+                    "url": "https://www.qbitai.com/2026/09/487860.html"
                 },
                 {
                     "rank": 2,
-                    "title": "该路线图可以帮助我们决定是否部署太阳能地球工程",
-                    "time": "2天前",
-                    "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
-                    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-                    "time": "14小时前",
-                    "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/09/487860.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
@@ -294,45 +290,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+                    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 202",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
-                },
-                {
-                    "rank": 2,
-                    "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的",
-                    "time": "昨天",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
-                },
-                {
-                    "rank": 3,
-                    "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-                    "time": "5小时前",
-                    "emoji": "🏭",
                     "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
                 },
                 {
-                    "rank": 4,
-                    "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
-                    "time": "2天前",
-                    "emoji": "🌏",
+                    "rank": 2,
+                    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+                    "time": "昨天",
+                    "emoji": "💰",
+                    "url": "https://www.qbitai.com/2026/09/487688.html"
+                },
+                {
+                    "rank": 3,
+                    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering ro",
+                    "time": "3天前",
+                    "emoji": "🏭",
                     "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
                 },
                 {
-                    "rank": 5,
-                    "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
-                    "time": "2天前",
-                    "emoji": "📉",
+                    "rank": 4,
+                    "title": "God told them to sell crypto. Their investors lost everything.",
+                    "time": "3天前",
+                    "emoji": "🌏",
                     "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
-                },
-                {
-                    "rank": 6,
-                    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-                    "time": "19小时前",
-                    "emoji": "🔄",
-                    "url": "https://www.qbitai.com/2026/09/487688.html"
                 }
             ]
         },
@@ -375,74 +357,74 @@ var siteData = {
                 {
                     "rank": 1,
                     "name": "public-apis/public-apis",
-                    "desc": "免费 API 集合列表",
+                    "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+479,435",
+                    "stars": "+479,787",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
-                    "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+455,365",
-                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
-                },
-                {
-                    "rank": 3,
                     "name": "EbookFoundation/free-programming-books",
-                    "desc": "：书籍：免费提供的编程书籍",
+                    "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+396,633",
+                    "stars": "+396,707",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
-                    "desc": "真正做事的人工智能。任何操作系统。任何平台。龙虾方式。 🦞",
+                    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+389,532",
+                    "stars": "+389,623",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
-                    "desc": "交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+367,005",
+                    "stars": "+367,107",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表",
-                    "lang": "Unknown",
+                    "rank": 5,
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+318,827",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+320,464",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 6,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+250,416",
+                    "url": "https://github.com/react/react"
                 },
                 {
                     "rank": 7,
-                    "name": "obra/superpowers",
-                    "desc": "有效的代理技能框架和软件开发方法。",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+285,827",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+248,837",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "代理利用性能优化系统。 Claude Code、Codex、Opencode、Cursor 等的技能、直觉、记忆、安全性和研究优先的开发。",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+257,138",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+245,184",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -451,72 +433,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+            "title": "Automattic confirms Mullenweg has returned as CEO ",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路",
+            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/"
+            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
+            "title": "Anthropic CEO outlines plan to slow AI development",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "OpenAI 与数学家的不和只会不断升级",
+            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/"
+            "url": "https://www.qbitai.com/2026/09/487860.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
+            "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/"
+            "url": "https://www.qbitai.com/2026/09/487796.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
+            "title": "探索RSI，生数新世界模型让机器人开始自我进化",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487631.html"
+            "url": "https://www.qbitai.com/2026/09/487752.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "啊？Anthropic最高320万招销售，只为服务Meta",
+            "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487573.html"
+            "url": "https://www.qbitai.com/2026/09/487701.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
+            "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487415.html"
+            "url": "https://www.qbitai.com/2026/09/487688.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "不简单，“吃货快乐榜”也全面AI化了",
+            "title": "Obama urges Democrats to have a ‘clear plan’ for A",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487282.html"
+            "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "圆桌会议：人工智能真的会杀死我们所有人吗？",
+            "title": "What’s behind the AI industry’s latest warnings of",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+            "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
         }
     ],
     "aiTools": [
@@ -567,35 +549,47 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "人工智能",
+            "text": "Download",
             "size": "large"
         },
         {
-            "text": "Sam",
+            "text": "AI",
             "size": "medium"
         },
         {
-            "text": "Altman",
+            "text": "CEO",
             "size": "medium"
+        },
+        {
+            "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "God",
+            "size": "small"
+        },
+        {
+            "text": "&#",
+            "size": "small"
         },
         {
             "text": "Automattic",
-            "size": "medium"
-        },
-        {
-            "text": "AI",
             "size": "small"
         },
         {
-            "text": "Mecka",
+            "text": "Sam",
             "size": "small"
         },
         {
-            "text": "美国",
+            "text": "Altman",
             "size": "small"
         },
         {
-            "text": "数学",
+            "text": "The",
+            "size": "small"
+        },
+        {
+            "text": "Their",
             "size": "small"
         },
         {
@@ -603,182 +597,38 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Revolut",
+            "text": "Tier",
             "size": "small"
         },
         {
-            "text": "实验室",
-            "size": "small"
-        },
-        {
-            "text": "模型",
-            "size": "small"
-        },
-        {
-            "text": "中国",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
+            "text": "Obama",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "由于机器人训练数据的热潮，Mecka AI 在红杉主导的交易中估值接近 5 亿美元",
+            "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
+        },
+        {
+            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "这家成立两年的初创公司的本轮融资是在 Mecka 宣布 A 轮融资几个月后进行的。"
+            "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam A"
         },
         {
-            "title": "科斯拉风险投资公司 (Khosla Ventures) 将于今年秋天在纽约开设办事处，这是其在沙山路 (Sand Hill Road) 外的第一个前哨基地",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "拉布伊斯说：“据称，它实际上现在正在建造中。”他显然已经处理了一两个错过的施工时间表的问题。"
+            "title": "Anthropic CEO outlines plan to slow AI development",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that ac"
         },
         {
-            "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "谭希望规模较小的美国开放权重人工智能实验室能够使用与美国前沿人工智能实验室相同的训练技术，为美国提供一套比中国更强大的开放权重选择。"
-        },
-        {
-            "title": "OpenAI 与数学家的不和只会不断升级",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "二十五位顶尖数学家签署了一封公开信，认为人工智能实验室正在威胁他们的智力工作。"
-        },
-        {
-            "title": "距离 TechCrunch Disrupt 2026 预订展位还有一周时间",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "只剩下一周的时间来确保您的展台安全。席位有限，可在 9 月 18 日截止日期之前售完。"
-        },
-        {
-            "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "看清「一个真正的人」"
-        },
-        {
-            "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "原来你俩互相下单呢"
-        },
-        {
-            "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "把开发、交付和接单全打通了"
-        },
-        {
-            "title": "不简单，“吃货快乐榜”也全面AI化了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "圆桌会议：人工智能真的会杀死我们所有人吗？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "世界领先的人工智能实验室的员工表示，先进的人工智能确实有可能毁灭人类。他们是对的吗？或者这更多的是危言耸听和炒作？与《麻省理工科技评论》执行主编 Niall Firth 一起，与高级 AI 编辑 Will Douglas Heaven 和 "
-        },
-        {
-            "title": "下载：生物技术的未来和更便宜、更清洁的钢铁",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。认识塑造生物技术未来的 35 岁以下人士 每年，《麻省理工科技评论》都会汇总 35 名 35 岁以下创新者，列出一些最聪明、最优秀的年轻人的名单。"
-        },
-        {
-            "title": "认识塑造生物技术未来的 35 岁以下人士",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "每年，《麻省理工科技评论》都会列出一些在科学和技术领域工作的最聪明、最优秀的年轻人的名单。我们的 35 名 35 岁以下创新者值得关注，他们的研究和技术工作将塑造各自领域的未来。今年，该名单包括九人："
-        },
-        {
-            "title": "Anthropic首席执行官概述了减缓人工智能发展的计划",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意现在是“开拓前沿”的时候了。那实际上会是什么样子？"
-        },
-        {
-            "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "特斯拉的 Halo 跑车于 2017 年 11 月首次发布。"
-        },
-        {
-            "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "首席执行官 Sam Altman 表示，虽然 OpenAI 已秘密申请 IPO，但该公司今年不会上市。"
-        },
-        {
-            "title": "下载：OpenAI 的数学转折点和电池记录",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。 OpenAI 的最新争议告诉我们数学的未来 OpenAI 表示，其代理已经解决了数学中最重要的开放问题之一。在正常情况下，这将是……"
-        },
-        {
-            "title": "Automattic 确认 Mullenweg 在董事会试图罢免后已重新担任首席执行官",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Automattic 表示，在董事会的全力支持下，Mullenweg 重新担任 Automattic 董事长兼首席执行官。"
-        },
-        {
-            "title": "下载：“上帝驱动”的加密货币和太阳能工程路线图",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "这是今天的《下载》版本，这是我们的平日时事通讯，每天提供技术世界中正在发生的事情。上帝告诉他们要出售加密货币。他们的投资者失去了一切。当伊莱·雷加拉多第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。据伊莱和他的妻子说，“"
-        },
-        {
-            "title": "为人工智能提供动力是一个架构问题",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "2026 年 7 月 22 日，弗吉尼亚州阿什本（全球最大数据中心集群的核心）发生输电线路故障，几秒钟内导致超过 3 吉瓦的负载断电。这不是第一次了。两年前，一个发生故障的避雷器立即导致弗吉尼亚州约 60 个设施和 1,500 兆瓦电力中断"
-        },
-        {
-            "title": "该路线图可以帮助我们决定是否部署太阳能地球工程",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "《麻省理工科技评论》透露，旧金山一家非营利组织发布了一份详细的实验、研究和基础设施路线图，称需要这些路线图才能就太阳能地球工程的使用做出明智的决策。科学家们现在已经花了半个世纪的时间探索我们可以通过释放“二氧化碳”来应对气候变化的可能性。"
-        },
-        {
-            "title": "美国电池市场能否摆脱中国的束缚？",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "美国储能市场的快速增长创下了纪录。这对于支撑电网、提高可靠性和减少排放大有帮助，因为电池可以帮助存储风能和太阳能等间歇性可再生能源的能量。至关重要的是，这一切都是在廉价的中国电池的帮助下发生的。”"
-        },
-        {
-            "title": "上帝告诉他们要出售加密货币。他们的投资者失去了一切。",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "本文是与 Type Investigations 合作并得到调查新闻基金的支持。当伊莱·雷加拉多第一次听到上帝对他说话时，他怀疑自己是否产生了幻觉。现在，他将这种经历比作“有一个不是我的想法的想法”。神圣的话语在他的脑海中回响，就像……"
-        },
-        {
-            "title": "医疗保健人工智能的下一个测试是集成",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "主要人工智能公司进入医疗保健领域是一项有意义且受欢迎的发展，加速了该行业的技术基础。他们的模型越来越能够处理长临床记录、解释复杂的术语、将文档与证据进行比较以及从大量信息中生成连贯的摘要。对于临床医生、操作员和管理团队来说，他们需要："
-        },
-        {
-            "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "25位菲尔兹奖得主联名吹哨"
-        },
-        {
-            "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "冲刺港股IPO"
-        },
-        {
-            "title": "AI数学的最后一个高墙，榻了！GPT-6 Astra刷穿前沿数学第4层",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "FrontierMath Tier 4，排水了"
+            "snippet": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
         },
         {
             "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
@@ -793,16 +643,148 @@ var siteData = {
             "snippet": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
         },
         {
-            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
-        },
-        {
-            "title": "Revolut 确认客户数据因虚假政府要求而泄露",
+            "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Revolut 表示，已通知受影响的客户，并向相关政府机构、执法部门和金融监管机构发出警报。"
+            "snippet": "FrontierMath Tier 4，饱和了"
+        },
+        {
+            "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "冲刺港股IPO"
+        },
+        {
+            "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very "
+        },
+        {
+            "title": "What’s behind the AI industry’s latest warnings of doom?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+        },
+        {
+            "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion."
+        },
+        {
+            "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
+        },
+        {
+            "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on ",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival A"
+        },
+        {
+            "title": "The Download: OpenAI’s turning point for math and a battery record",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Powering AI is an architecture problem",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center clus"
+        },
+        {
+            "title": "This road map could help us decide whether to deploy solar geoengineering",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says"
+        },
+        {
+            "title": "Can the US battery market untangle from China?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the gri"
+        },
+        {
+            "title": "God told them to sell crypto. Their investors lost everything.",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journ"
+        },
+        {
+            "title": "Healthcare AI’s next test is integration",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical f"
+        },
+        {
+            "title": "Roundtables: Could AI really kill us all?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destro"
+        },
+        {
+            "title": "The Download: biotech’s future and cheaper, cleaner steel",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Meet the under-35s shaping the future of biotech",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across scie"
+        },
+        {
+            "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "RSI太危险，得管！"
+        },
+        {
+            "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "模型、论文都还没出，没想到先从财务公告上剧透了"
+        },
+        {
+            "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Agent的下一步是关系型生产力"
+        },
+        {
+            "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "亮源新创的Physical Al路线清晰了"
+        },
+        {
+            "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "出身寒微不是耻辱，放弃自己才是。"
+        },
+        {
+            "title": "Fusion power startups find new partners in the defense world",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that "
+        },
+        {
+            "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is "
         }
     ]
 }
