@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-14 02:12:03
+ * 生成时间: 2026-09-15 02:18:28
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by boar",
-            "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board",
+            "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+            "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to tak",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "刚刚",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
-        },
-        {
-            "tag": "行业 · 动态",
-            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-            "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, ac",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
         },
         {
             "tag": "政策 · 法规",
-            "title": "Anthropic CEO outlines plan to slow AI development",
-            "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.",
+            "title": "With iOS 27, I’m actually using Siri again",
+            "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assist",
             "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+            "time": "9小时前",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-            "summary": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "macOS 27: new Siri takes on AI productivity apps",
+            "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the desi",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+        },
+        {
+            "tag": "重磅 · 应用",
+            "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in you",
+            "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit phot",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/09/487860.html"
+            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:12",
-            "text": "Automattic confirms Mullenweg has returned as CEO after atte",
+            "time": "02:18",
+            "text": "Jensen Huang took a call from Trump, and showed off somethin",
             "hot": true,
-            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
         },
         {
-            "time": "02:12",
-            "text": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go pub",
+            "time": "02:18",
+            "text": "With iOS 27, I’m actually using Siri again",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
         },
         {
-            "time": "02:12",
-            "text": "Anthropic CEO outlines plan to slow AI development",
+            "time": "02:18",
+            "text": "macOS 27: new Siri takes on AI productivity apps",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
         },
         {
-            "time": "02:12",
-            "text": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+            "time": "02:18",
+            "text": "Fashion app Daydream uses Apple Intelligence to help you sho",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487860.html"
+            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
         },
         {
-            "time": "02:12",
-            "text": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+            "time": "02:18",
+            "text": "Amazon Prime Video takes on TikTok with short-form news clip",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487796.html"
+            "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
         },
         {
-            "time": "02:12",
-            "text": "探索RSI，生数新世界模型让机器人开始自我进化",
+            "time": "02:18",
+            "text": "ClickFix attacks are tricking Mac and Windows users into hac",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487752.html"
+            "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
         },
         {
-            "time": "02:12",
-            "text": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+            "time": "02:18",
+            "text": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487701.html"
+            "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
         },
         {
-            "time": "02:12",
-            "text": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+            "time": "02:18",
+            "text": "The AI industry has taken a doomer turn. What now?",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/487688.html"
+            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by boar",
+                    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "刚刚",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+                    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"..."
+                    "desc": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it...."
                 },
                 {
-                    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+                    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
                 },
                 {
-                    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/487796.html"
+                    "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
                 },
                 {
-                    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/487752.html"
+                    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
                 },
                 {
-                    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] hap",
+                    "source": "TechCrunch AI",
+                    "time": "4小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/487701.html"
+                    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
                 }
             ]
         },
@@ -201,48 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
-                    "desc": "模型、论文都还没出，没想到先从财务公告上剧透了...",
+                    "title": "The AI industry has taken a doomer turn. What now?",
+                    "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amo...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "量子位",
-                    "time": "1小时前",
+                    "source": "MIT Tech Review",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://www.qbitai.com/2026/09/488694.html"
+                    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
                 },
                 {
-                    "title": "Roundtables: Could AI really kill us all?",
-                    "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or...",
+                    "title": "Donated livers can be made biologically younger",
+                    "desc": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+                    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
                 },
                 {
-                    "title": "The Download: biotech’s future and cheaper, cleaner steel",
+                    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
                     "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
+                    "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
                 },
                 {
-                    "title": "Meet the under-35s shaping the future of biotech",
-                    "desc": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Inn...",
+                    "title": "Roundtables: Could AI really kill us all?",
+                    "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "MIT Tech Review",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/"
+                    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
                 }
             ]
         },
@@ -252,30 +252,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
-                    "time": "昨天",
+                    "title": "macOS 27: new Siri takes on AI productivity apps",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/487860.html"
+                    "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
                 },
                 {
                     "rank": 2,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outf",
+                    "time": "9小时前",
+                    "emoji": "💡",
+                    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
                 },
                 {
                     "rank": 3,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+                    "time": "8小时前",
+                    "emoji": "🎬",
+                    "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia",
+                    "time": "6小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "AI agents blew the whistle on their cheating colleagues",
+                    "time": "10小时前",
+                    "emoji": "⚖️",
+                    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
                 },
                 {
                     "rank": 6,
@@ -290,31 +298,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 202",
-                    "time": "昨天",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-                    "time": "昨天",
-                    "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/09/487688.html"
-                },
-                {
-                    "rank": 3,
                     "title": "The Download: a “God-driven” cryptocurrency and a solar engineering ro",
-                    "time": "3天前",
-                    "emoji": "🏭",
+                    "time": "4天前",
+                    "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
                 },
                 {
-                    "rank": 4,
-                    "title": "God told them to sell crypto. Their investors lost everything.",
-                    "time": "3天前",
-                    "emoji": "🌏",
-                    "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/"
+                    "rank": 2,
+                    "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+                    "time": "23小时前",
+                    "emoji": "💰",
+                    "url": "https://www.qbitai.com/2026/09/488699.html"
                 }
             ]
         },
@@ -360,71 +354,71 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+479,787",
+                    "stars": "+480,231",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+455,444",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                },
+                {
+                    "rank": 3,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+396,707",
+                    "stars": "+396,777",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+389,623",
+                    "stars": "+389,711",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
+                    "name": "donnemartin/system-design-primer",
+                    "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+370,036",
+                    "url": "https://github.com/donnemartin/system-design-primer"
+                },
+                {
+                    "rank": 6,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+367,107",
+                    "stars": "+367,234",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+320,464",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 6,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+250,416",
-                    "url": "https://github.com/react/react"
-                },
-                {
                     "rank": 7,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+248,837",
-                    "url": "https://github.com/torvalds/linux"
+                    "name": "obra/superpowers",
+                    "desc": "An agentic skills framework & software development methodology that works.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+286,718",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+245,184",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+283,342",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 }
             ]
         }
@@ -433,72 +427,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Automattic confirms Mullenweg has returned as CEO ",
+            "title": "Jensen Huang took a call from Trump, and showed of",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/"
+            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’",
+            "title": "With iOS 27, I’m actually using Siri again",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Anthropic CEO outlines plan to slow AI development",
+            "title": "macOS 27: new Siri takes on AI productivity apps",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+            "title": "Fashion app Daydream uses Apple Intelligence to he",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487860.html"
+            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+            "title": "Amazon Prime Video takes on TikTok with short-form",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487796.html"
+            "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+            "title": "ClickFix attacks are tricking Mac and Windows user",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487752.html"
+            "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+            "title": "Volkswagen’s crazy-efficient EV borrows an idea fr",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487701.html"
+            "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+            "title": "The AI industry has taken a doomer turn. What now?",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/487688.html"
+            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Obama urges Democrats to have a ‘clear plan’ for A",
+            "title": "AI infrastructure company Cornelis raises $205M to",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+            "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "What’s behind the AI industry’s latest warnings of",
+            "title": "OpenAI buys smartphone camera maker Glass Imaging ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/"
+            "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
         }
     ],
     "aiTools": [
@@ -545,7 +539,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "OpenAI",
+            "text": "AI",
             "size": "large"
         },
         {
@@ -553,35 +547,19 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "Siri",
             "size": "medium"
         },
         {
-            "text": "CEO",
+            "text": "Jensen",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
+            "text": "Huang",
             "size": "medium"
         },
         {
-            "text": "God",
-            "size": "small"
-        },
-        {
-            "text": "&#",
-            "size": "small"
-        },
-        {
-            "text": "Automattic",
-            "size": "small"
-        },
-        {
-            "text": "Sam",
-            "size": "small"
-        },
-        {
-            "text": "Altman",
+            "text": "Apple",
             "size": "small"
         },
         {
@@ -589,106 +567,104 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Their",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Mullenweg",
+            "text": "Trump",
             "size": "small"
         },
         {
-            "text": "Tier",
+            "text": "Dario",
             "size": "small"
         },
         {
-            "text": "Obama",
+            "text": "Daydream",
+            "size": "small"
+        },
+        {
+            "text": "Amazon",
+            "size": "small"
+        },
+        {
+            "text": "Prime",
+            "size": "small"
+        },
+        {
+            "text": "Video",
+            "size": "small"
+        },
+        {
+            "text": "ClickFix",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+            "title": "Jensen Huang took a call from Trump, and showed off something else, too",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
+            "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
         },
         {
-            "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam A"
-        },
-        {
-            "title": "Anthropic CEO outlines plan to slow AI development",
+            "title": "With iOS 27, I’m actually using Siri again",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that ac"
+            "snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day"
         },
         {
-            "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+            "title": "macOS 27: new Siri takes on AI productivity apps",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "太初（杭州）集成电路有限公司新一代超智融合计算系统元碁Hypertintellix入选“算力中国·年度卓越成就”。"
+            "snippet": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make"
         },
         {
-            "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+            "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable re"
+        },
+        {
+            "title": "Amazon Prime Video takes on TikTok with short-form news clips",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。"
+            "snippet": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-f"
         },
         {
-            "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+            "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "触觉、记忆、Ego数据、自进化……这个世界模型全都有"
+            "snippet": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" secu"
         },
         {
-            "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "FrontierMath Tier 4，饱和了"
+            "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid"
         },
         {
-            "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "冲刺港股IPO"
-        },
-        {
-            "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very "
-        },
-        {
-            "title": "What’s behind the AI industry’s latest warnings of doom?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-        },
-        {
-            "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion."
-        },
-        {
-            "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch."
-        },
-        {
-            "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on ",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival A"
-        },
-        {
-            "title": "The Download: OpenAI’s turning point for math and a battery record",
+            "title": "The AI industry has taken a doomer turn. What now?",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up"
+        },
+        {
+            "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much "
+        },
+        {
+            "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai"
+        },
+        {
+            "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang see"
         },
         {
             "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
@@ -709,24 +685,6 @@ var siteData = {
             "snippet": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says"
         },
         {
-            "title": "Can the US battery market untangle from China?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the gri"
-        },
-        {
-            "title": "God told them to sell crypto. Their investors lost everything.",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journ"
-        },
-        {
-            "title": "Healthcare AI’s next test is integration",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical f"
-        },
-        {
             "title": "Roundtables: Could AI really kill us all?",
             "category": "AI研究",
             "tag": "research",
@@ -745,46 +703,82 @@ var siteData = {
             "snippet": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across scie"
         },
         {
-            "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "RSI太危险，得管！"
+            "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "还是太嫩了啊Dario"
         },
         {
-            "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+            "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "小模型突破瓶颈，旗舰模型打开新空间"
+        },
+        {
+            "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这家中国公司，刚跑完了物理闭环里最难的一段路"
+        },
+        {
+            "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "共话AI时代的生活、影像与创造。"
+        },
+        {
+            "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI 蛋白质设计迈入“动态时代”"
+        },
+        {
+            "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让模型和设备共同进化"
+        },
+        {
+            "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "险资、券商与头部创投持续加码"
+        },
+        {
+            "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
+        },
+        {
+            "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "业界首个5A算电协同认证"
+        },
+        {
+            "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "模型、论文都还没出，没想到先从财务公告上剧透了"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Agent的下一步是关系型生产力"
+            "title": "Donated livers can be made biologically younger",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preserva"
         },
         {
-            "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "亮源新创的Physical Al路线清晰了"
-        },
-        {
-            "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "出身寒微不是耻辱，放弃自己才是。"
-        },
-        {
-            "title": "Fusion power startups find new partners in the defense world",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that "
-        },
-        {
-            "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is "
+            "title": "AI agents blew the whistle on their cheating colleagues",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried "
         }
     ]
 }
