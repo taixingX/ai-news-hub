@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-15 02:18:28
+ * 生成时间: 2026-09-16 02:11:58
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-            "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to tak",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "独家 · 研究",
+            "title": "The AI industry has taken a doomer turn. What now?",
+            "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your ",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
         },
         {
-            "tag": "政策 · 法规",
-            "title": "With iOS 27, I’m actually using Siri again",
-            "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assist",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "Donated livers can be made biologically younger",
+            "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the o",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "macOS 27: new Siri takes on AI productivity apps",
-            "summary": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the desi",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "AI agents blew the whistle on their cheating colleagues",
+            "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some ch",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in you",
-            "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit phot",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:18",
-            "text": "Jensen Huang took a call from Trump, and showed off somethin",
-            "hot": true,
-            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
-        },
-        {
-            "time": "02:18",
-            "text": "With iOS 27, I’m actually using Siri again",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
-        },
-        {
-            "time": "02:18",
-            "text": "macOS 27: new Siri takes on AI productivity apps",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
-        },
-        {
-            "time": "02:18",
-            "text": "Fashion app Daydream uses Apple Intelligence to help you sho",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
-        },
-        {
-            "time": "02:18",
-            "text": "Amazon Prime Video takes on TikTok with short-form news clip",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
-        },
-        {
-            "time": "02:18",
-            "text": "ClickFix attacks are tricking Mac and Windows users into hac",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
-        },
-        {
-            "time": "02:18",
-            "text": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
-        },
-        {
-            "time": "02:18",
+            "time": "02:11",
             "text": "The AI industry has taken a doomer turn. What now?",
-            "hot": false,
+            "hot": true,
             "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+        },
+        {
+            "time": "02:11",
+            "text": "Donated livers can be made biologically younger",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
+        },
+        {
+            "time": "02:11",
+            "text": "AI agents blew the whistle on their cheating colleagues",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+        },
+        {
+            "time": "02:11",
+            "text": "The Download: AI’s real extinction threat and age-reversal t",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
+        },
+        {
+            "time": "02:11",
+            "text": "US military says it has launched weapons into space",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/"
+        },
+        {
+            "time": "02:11",
+            "text": "Meta expands subscription push with new AI-focused plans",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+        },
+        {
+            "time": "02:11",
+            "text": "Health benefits platform Thatch reaches $1B valuation as hea",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/"
+        },
+        {
+            "time": "02:11",
+            "text": "AI agents now have a place to snitch",
+            "hot": false,
+            "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+                    "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
                     "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+                    "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it...."
+                    "desc": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual..."
                 },
                 {
-                    "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+                    "title": "US data centers could consume more natural gas than Germany and Japan combined b",
                     "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "time": "7小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+                    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
                 },
                 {
-                    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+                    "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
                     "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "time": "7小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+                    "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/"
                 },
                 {
-                    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+                    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
                     "source": "TechCrunch AI",
                     "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+                    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
                 },
                 {
-                    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] hap",
-                    "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+                    "source": "量子位",
+                    "time": "20小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+                    "url": "https://www.qbitai.com/2026/09/489288.html"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "The AI industry has taken a doomer turn. What now?",
-                    "desc": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amo...",
+                    "title": "【arXiv】AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
+                    "desc": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "MIT Tech Review",
-                    "time": "8小时前",
+                    "source": "arXiv",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+                    "url": "http://arxiv.org/abs/2609.17123v1"
                 },
                 {
-                    "title": "Donated livers can be made biologically younger",
-                    "desc": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put...",
+                    "title": "【arXiv】An Empirical Study of Counterfactual Self-Explanations in LLMs",
+                    "desc": "Large language models can easily generate explanations for their own outputs, but such self-explanations are not necessarily faithful to the model's b...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "10小时前",
+                    "source": "arXiv",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
+                    "url": "http://arxiv.org/abs/2609.17119v1"
                 },
                 {
-                    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
+                    "title": "【arXiv】Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Lar",
+                    "desc": "Large video models have exhibited impressive performance on a wide range of visual question answering tasks, owing to the rise of powerful, pretrained...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "14小时前",
+                    "source": "arXiv",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
+                    "url": "http://arxiv.org/abs/2609.17112v1"
                 },
                 {
-                    "title": "Roundtables: Could AI really kill us all?",
-                    "desc": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or...",
+                    "title": "【arXiv】Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
+                    "desc": "Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for ...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "3天前",
+                    "source": "arXiv",
+                    "time": "13小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+                    "url": "http://arxiv.org/abs/2609.17111v1"
+                },
+                {
+                    "title": "【arXiv】Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs",
+                    "desc": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-pref...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "13小时前",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2609.17109v1"
+                },
+                {
+                    "title": "【arXiv】Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational",
+                    "desc": "Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query an...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "13小时前",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2609.17107v1"
                 }
             ]
         },
@@ -252,43 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "macOS 27: new Siri takes on AI productivity apps",
-                    "time": "9小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outf",
-                    "time": "9小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
-                },
-                {
-                    "rank": 3,
-                    "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-                    "time": "8小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
-                },
-                {
-                    "rank": 4,
-                    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia",
-                    "time": "6小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
-                },
-                {
-                    "rank": 5,
                     "title": "AI agents blew the whistle on their cheating colleagues",
-                    "time": "10小时前",
-                    "emoji": "⚖️",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
                 },
                 {
+                    "rank": 2,
+                    "title": "US military says it has launched weapons into space",
+                    "time": "9小时前",
+                    "emoji": "💡",
+                    "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/"
+                },
+                {
+                    "rank": 3,
+                    "title": "Meta expands subscription push with new AI-focused plans",
+                    "time": "9小时前",
+                    "emoji": "🎬",
+                    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+                },
+                {
+                    "rank": 4,
+                    "title": "AI agents now have a place to snitch",
+                    "time": "8小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+                },
+                {
+                    "rank": 5,
+                    "title": "The AI graveyard: a running list of projects and startups that didn’t ",
+                    "time": "7小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+                },
+                {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huan",
+                    "time": "1小时前",
+                    "emoji": "🎵",
+                    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+                },
+                {
+                    "rank": 7,
+                    "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+                    "time": "15小时前",
+                    "emoji": "📝",
+                    "url": "https://www.qbitai.com/2026/09/489389.html"
+                },
+                {
+                    "rank": 8,
+                    "title": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Tru",
+                    "time": "13小时前",
+                    "emoji": "🤖",
+                    "url": "http://arxiv.org/abs/2609.17107v1"
                 }
             ]
         },
@@ -298,17 +336,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering ro",
-                    "time": "4天前",
+                    "title": "AI models need more data about biology, and OpenAI is paying to create",
+                    "time": "14小时前",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
-                },
-                {
-                    "rank": 2,
-                    "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-                    "time": "23小时前",
-                    "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/09/488699.html"
+                    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
                 }
             ]
         },
@@ -354,7 +385,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+480,231",
+                    "stars": "+480,631",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -363,7 +394,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,444",
+                    "stars": "+455,513",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -372,7 +403,7 @@ var siteData = {
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+396,777",
+                    "stars": "+396,863",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -381,7 +412,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+389,711",
+                    "stars": "+389,797",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -390,35 +421,35 @@ var siteData = {
                     "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+370,036",
+                    "stars": "+370,225",
                     "url": "https://github.com/donnemartin/system-design-primer"
                 },
                 {
                     "rank": 6,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+367,234",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+320,892",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 7,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+286,718",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+319,501",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 8,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+283,342",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+262,903",
+                    "url": "https://github.com/mattpocock/skills"
                 }
             ]
         }
@@ -427,72 +458,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Jensen Huang took a call from Trump, and showed of",
+            "title": "The AI industry has taken a doomer turn. What now?",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "With iOS 27, I’m actually using Siri again",
+            "title": "Donated livers can be made biologically younger",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "macOS 27: new Siri takes on AI productivity apps",
+            "title": "AI agents blew the whistle on their cheating colle",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Fashion app Daydream uses Apple Intelligence to he",
+            "title": "The Download: AI’s real extinction threat and age-",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/"
+            "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Amazon Prime Video takes on TikTok with short-form",
+            "title": "US military says it has launched weapons into spac",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/"
+            "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "ClickFix attacks are tricking Mac and Windows user",
+            "title": "Meta expands subscription push with new AI-focused",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+            "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Volkswagen’s crazy-efficient EV borrows an idea fr",
+            "title": "Health benefits platform Thatch reaches $1B valuat",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
+            "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The AI industry has taken a doomer turn. What now?",
+            "title": "AI agents now have a place to snitch",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+            "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "AI infrastructure company Cornelis raises $205M to",
+            "title": "Roundtables: Could AI really kill us all?",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+            "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "OpenAI buys smartphone camera maker Glass Imaging ",
+            "title": "The AI graveyard: a running list of projects and s",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+            "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         }
     ],
     "aiTools": [
@@ -547,148 +578,142 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Siri",
-            "size": "medium"
-        },
-        {
-            "text": "Jensen",
-            "size": "medium"
-        },
-        {
-            "text": "Huang",
-            "size": "medium"
-        },
-        {
-            "text": "Apple",
-            "size": "small"
-        },
-        {
             "text": "The",
-            "size": "small"
+            "size": "medium"
+        },
+        {
+            "text": "Learning",
+            "size": "medium"
+        },
+        {
+            "text": "Meta",
+            "size": "medium"
         },
         {
             "text": "&#",
             "size": "small"
         },
         {
-            "text": "Trump",
+            "text": "agents",
             "size": "small"
         },
         {
-            "text": "Dario",
+            "text": "WhatsApp",
             "size": "small"
         },
         {
-            "text": "Daydream",
+            "text": "Large",
             "size": "small"
         },
         {
-            "text": "Amazon",
+            "text": "Visual",
             "size": "small"
         },
         {
-            "text": "Prime",
+            "text": "Grounded",
             "size": "small"
         },
         {
-            "text": "Video",
+            "text": "OpenAI",
             "size": "small"
         },
         {
-            "text": "ClickFix",
+            "text": "data",
+            "size": "small"
+        },
+        {
+            "text": "This",
+            "size": "small"
+        },
+        {
+            "text": "Roundtables",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
-        },
-        {
-            "title": "With iOS 27, I’m actually using Siri again",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day"
-        },
-        {
-            "title": "macOS 27: new Siri takes on AI productivity apps",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make"
-        },
-        {
-            "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable re"
-        },
-        {
-            "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-f"
-        },
-        {
-            "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" secu"
-        },
-        {
-            "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid"
-        },
-        {
             "title": "The AI industry has taken a doomer turn. What now?",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up"
+            "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;si"
         },
         {
-            "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+            "title": "Donated livers can be made biologically younger",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preserva"
+        },
+        {
+            "title": "AI agents blew the whistle on their cheating colleagues",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much "
+            "snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried "
         },
         {
-            "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai"
-        },
-        {
-            "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang see"
-        },
-        {
-            "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-            "category": "行业动态",
-            "tag": "industry",
+            "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+            "category": "AI研究",
+            "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Powering AI is an architecture problem",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center clus"
+            "title": "US military says it has launched weapons into space",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit."
         },
         {
-            "title": "This road map could help us decide whether to deploy solar geoengineering",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says"
+            "title": "Meta expands subscription push with new AI-focused plans",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsAp"
+        },
+        {
+            "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual"
+        },
+        {
+            "title": "AI agents now have a place to snitch",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off autho"
         },
         {
             "title": "Roundtables: Could AI really kill us all?",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destro"
+            "snippet": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real poss"
+        },
+        {
+            "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut"
+        },
+        {
+            "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+        },
+        {
+            "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation"
+        },
+        {
+            "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl"
+        },
+        {
+            "title": "The AI data center boom is colliding with cities scarred by big industry",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construc"
         },
         {
             "title": "The Download: biotech’s future and cheaper, cleaner steel",
@@ -703,82 +728,88 @@ var siteData = {
             "snippet": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across scie"
         },
         {
-            "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "还是太嫩了啊Dario"
-        },
-        {
-            "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+            "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "小模型突破瓶颈，旗舰模型打开新空间"
+            "snippet": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。"
         },
         {
-            "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+            "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "这家中国公司，刚跑完了物理闭环里最难的一段路"
+            "snippet": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇"
         },
         {
-            "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "共话AI时代的生活、影像与创造。"
+            "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng"
         },
         {
-            "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI 蛋白质设计迈入“动态时代”"
-        },
-        {
-            "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让模型和设备共同进化"
-        },
-        {
-            "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "险资、券商与头部创投持续加码"
-        },
-        {
-            "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区"
-        },
-        {
-            "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "业界首个5A算电协同认证"
-        },
-        {
-            "title": "探索RSI，生数新世界模型让机器人开始自我进化",
-            "category": "大模型动态",
-            "tag": "llm",
+            "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+            "category": "AI研究",
+            "tag": "research",
             "snippet": ""
         },
         {
-            "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+            "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "刘慈欣督战"
+        },
+        {
+            "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "打破分子模拟“不可能三角”"
+        },
+        {
+            "title": "What’s at stake in AI’s trillion-dollar gamble",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impa"
+        },
+        {
+            "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "卡位具身智能规模化落地“最后一公里”！"
+        },
+        {
+            "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0"
+        },
+        {
+            "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Donated livers can be made biologically younger",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preserva"
+            "title": "AI models need more data about biology, and OpenAI is paying to create it",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI s"
         },
         {
-            "title": "AI agents blew the whistle on their cheating colleagues",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried "
+            "title": "Beyond In-Distribution Metrics: A Systematic Out-of-Distribution Evaluation of Congenital Heart Dise",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Congenital heart disease (CHD) diagnosis and surgical planning often require patient-specific 3D anatomical models, but "
+        },
+        {
+            "title": "Beyond \"ChatGPT Can Make Mistakes\": Designing Interventions to Support Metacognitive Monitoring in A",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI assistance places a metacognitive demand on users, who must judge their own competence and the system's. Yet designer"
+        },
+        {
+            "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一句话，YOYO全面接管我的生活"
         }
     ]
 }
