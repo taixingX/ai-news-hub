@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-18 02:01:49
+ * 生成时间: 2026-09-19 02:06:43
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "独家 · 研究",
-            "title": "Meet a mouse whose brain cortex is made up of human cells",
-            "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its positio",
-            "source": "MIT Tech Review",
+            "tag": "行业 · 动态",
+            "title": "Manus重生第17天，估值居然就翻倍了",
+            "summary": "作价40亿美元推进新融资",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+            "url": "https://www.qbitai.com/2026/09/491764.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "Building the materials foundation for AI",
-            "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materi",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+            "summary": "Git白学了？？？",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+            "url": "https://www.qbitai.com/2026/09/491711.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+            "summary": "构建个体专属AI助理",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
+            "url": "https://www.qbitai.com/2026/09/491649.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-            "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes t",
-            "source": "arXiv",
-            "time": "8小时前",
+            "tag": "头条 · 大模型",
+            "title": "Claude Code团队讲究啊，这都往外说",
+            "summary": "工程师的核心永远是Problem Solving。",
+            "source": "量子位",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2609.20822v1"
+            "url": "https://www.qbitai.com/2026/09/491596.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:01",
-            "text": "Meet a mouse whose brain cortex is made up of human cells",
+            "time": "02:06",
+            "text": "Manus重生第17天，估值居然就翻倍了",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+            "url": "https://www.qbitai.com/2026/09/491764.html"
         },
         {
-            "time": "02:01",
-            "text": "Building the materials foundation for AI",
+            "time": "02:06",
+            "text": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+            "url": "https://www.qbitai.com/2026/09/491711.html"
         },
         {
-            "time": "02:01",
-            "text": "The Download: AI’s trillion-dollar gamble and OpenAI’s biolo",
+            "time": "02:06",
+            "text": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
+            "url": "https://www.qbitai.com/2026/09/491649.html"
         },
         {
-            "time": "02:01",
+            "time": "02:06",
+            "text": "Claude Code团队讲究啊，这都往外说",
+            "hot": false,
+            "url": "https://www.qbitai.com/2026/09/491596.html"
+        },
+        {
+            "time": "02:06",
+            "text": "The Download: mice with part-human brains and climate tech i",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+        },
+        {
+            "time": "02:06",
+            "text": "Meet the innovators under 35 shaping climate tech",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+        },
+        {
+            "time": "02:06",
             "text": "Coding Agents with an Obstacle-Aware Harness for Safe Robot ",
             "hot": false,
             "url": "http://arxiv.org/abs/2609.20822v1"
         },
         {
-            "time": "02:01",
+            "time": "02:06",
             "text": "Embedding Models Measure in Peculiar Ways",
             "hot": false,
             "url": "http://arxiv.org/abs/2609.20821v1"
-        },
-        {
-            "time": "02:01",
-            "text": "Workspace Models: Lightweight Robotic Memory via Saliency-Dr",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2609.20820v1"
-        },
-        {
-            "time": "02:01",
-            "text": "Can 4D Foundation Models Remember?",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2609.20819v1"
-        },
-        {
-            "time": "02:01",
-            "text": "SplashSplat: Reconstructing Splashing Liquids from Real-Worl",
-            "hot": false,
-            "url": "http://arxiv.org/abs/2609.20818v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "Manus重生第17天，估值居然就翻倍了",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.20812v1",
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/09/491764.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is ..."
+                    "desc": "作价40亿美元推进新融资..."
                 },
                 {
-                    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learni",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "http://arxiv.org/abs/2609.20784v1"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/09/491711.html"
                 },
                 {
-                    "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transforme",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.20779v1"
+                    "url": "https://www.qbitai.com/2026/09/491649.html"
                 },
                 {
-                    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-                    "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "title": "Claude Code团队讲究啊，这都往外说",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/"
+                    "url": "https://www.qbitai.com/2026/09/491596.html"
                 },
                 {
-                    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-                    "source": "TechCrunch AI",
-                    "time": "3小时前",
+                    "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+                    "url": "http://arxiv.org/abs/2609.20812v1"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20822v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20821v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20820v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20819v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20818v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20817v1"
@@ -274,45 +274,35 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "UN turns to Google to make its global data ready for AI agents",
-                    "time": "6小时前",
+                    "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+                    "time": "10小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/"
+                    "url": "https://www.qbitai.com/2026/09/492421.html"
                 },
                 {
                     "rank": 2,
-                    "title": "The fix for rogue AI agents could be more AI",
-                    "time": "5小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
-                    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-                    "time": "3小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "Google DeepMind launches institute to widen the AGI debate",
-                    "time": "2小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
-                    "time": "22小时前",
-                    "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/09/491147.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "刚刚，唐杰发布智谱RSI首个成果",
-                    "time": "17小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/09/491357.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,17 +312,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcem",
-                    "time": "8小时前",
+                    "title": "Manus重生第17天，估值居然就翻倍了",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2609.20784v1"
+                    "url": "https://www.qbitai.com/2026/09/491764.html"
                 },
                 {
                     "rank": 2,
-                    "title": "AI models need more data about biology, and OpenAI is paying to create",
-                    "time": "2天前",
+                    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcem",
+                    "time": "昨天",
                     "emoji": "💰",
-                    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
+                    "url": "http://arxiv.org/abs/2609.20784v1"
                 }
             ]
         },
@@ -378,7 +368,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+481,242",
+                    "stars": "+481,445",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -387,7 +377,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,698",
+                    "stars": "+455,747",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -396,7 +386,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+390,013",
+                    "stars": "+390,059",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -405,44 +395,44 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+367,554",
+                    "stars": "+367,638",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 5,
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+321,578",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 6,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+320,194",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 7,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+288,145",
+                    "stars": "+288,561",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+264,533",
+                    "stars": "+265,291",
                     "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+261,206",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+250,548",
-                    "url": "https://github.com/react/react"
                 }
             ]
         }
@@ -451,72 +441,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Meet a mouse whose brain cortex is made up of huma",
+            "title": "Manus重生第17天，估值居然就翻倍了",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+            "url": "https://www.qbitai.com/2026/09/491764.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Building the materials foundation for AI",
+            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+            "url": "https://www.qbitai.com/2026/09/491711.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "The Download: AI’s trillion-dollar gamble and Open",
+            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
+            "url": "https://www.qbitai.com/2026/09/491649.html"
         },
         {
             "rank": 4,
+            "top3": false,
+            "title": "Claude Code团队讲究啊，这都往外说",
+            "heat": "",
+            "url": "https://www.qbitai.com/2026/09/491596.html"
+        },
+        {
+            "rank": 5,
+            "top3": false,
+            "title": "The Download: mice with part-human brains and clim",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+        },
+        {
+            "rank": 6,
+            "top3": false,
+            "title": "Meet the innovators under 35 shaping climate tech",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+        },
+        {
+            "rank": 7,
             "top3": false,
             "title": "Coding Agents with an Obstacle-Aware Harness for S",
             "heat": "",
             "url": "http://arxiv.org/abs/2609.20822v1"
         },
         {
-            "rank": 5,
+            "rank": 8,
             "top3": false,
             "title": "Embedding Models Measure in Peculiar Ways",
             "heat": "",
             "url": "http://arxiv.org/abs/2609.20821v1"
         },
         {
-            "rank": 6,
+            "rank": 9,
             "top3": false,
             "title": "Workspace Models: Lightweight Robotic Memory via S",
             "heat": "",
             "url": "http://arxiv.org/abs/2609.20820v1"
         },
         {
-            "rank": 7,
+            "rank": 10,
             "top3": false,
             "title": "Can 4D Foundation Models Remember?",
             "heat": "",
             "url": "http://arxiv.org/abs/2609.20819v1"
-        },
-        {
-            "rank": 8,
-            "top3": false,
-            "title": "SplashSplat: Reconstructing Splashing Liquids from",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2609.20818v1"
-        },
-        {
-            "rank": 9,
-            "top3": false,
-            "title": "FAMOS: Feed-Forward 3D Articulation Modeling from ",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2609.20817v1"
-        },
-        {
-            "rank": 10,
-            "top3": false,
-            "title": "Paint-Anything: Unified Any-Color Control for Imag",
-            "heat": "",
-            "url": "http://arxiv.org/abs/2609.20816v1"
         }
     ],
     "aiTools": [
@@ -579,19 +569,15 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "OpenAI",
+            "text": "Coding",
             "size": "medium"
         },
         {
-            "text": "Coding",
+            "text": "Anthropic",
             "size": "small"
         },
         {
-            "text": "Agents",
-            "size": "small"
-        },
-        {
-            "text": "Google",
+            "text": "Could",
             "size": "small"
         },
         {
@@ -603,7 +589,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "agents",
+            "text": "Agents",
+            "size": "small"
+        },
+        {
+            "text": "World",
             "size": "small"
         },
         {
@@ -611,36 +601,54 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "models",
+            "text": "CFO",
+            "size": "small"
+        },
+        {
+            "text": "world",
             "size": "small"
         },
         {
             "text": "Claude",
             "size": "small"
-        },
-        {
-            "text": "data",
-            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Meet a mouse whose brain cortex is made up of human cells",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving"
+            "title": "Manus重生第17天，估值居然就翻倍了",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "作价40亿美元推进新融资"
         },
         {
-            "title": "Building the materials foundation for AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infr"
+            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Git白学了？？？"
         },
         {
-            "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "构建个体专属AI助理"
+        },
+        {
+            "title": "Claude Code团队讲究啊，这都往外说",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "工程师的核心永远是Problem Solving。"
+        },
+        {
+            "title": "The Download: mice with part-human brains and climate tech innovators",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Meet the innovators under 35 shaping climate tech",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researc"
         },
         {
             "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
@@ -733,64 +741,34 @@ var siteData = {
             "snippet": "Action chunking is widely used for action generation and execution in Vision-Language-Action (VLA) policies, yet existin"
         },
         {
-            "title": "UN turns to Google to make its global data ready for AI agents",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statisti"
-        },
-        {
-            "title": "The fix for rogue AI agents could be more AI",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can"
-        },
-        {
-            "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+            "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highl"
+            "snippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
         },
         {
-            "title": "Is the AI safety debate about safety or control?",
+            "title": "Automattic names interim CFO after exec departures",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+            "snippet": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
         },
         {
-            "title": "PrismML hopes its tiny LLM will change how we all use AI",
+            "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "If AI lab PrismML isn't on your radar yet, it should be."
+            "snippet": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health in"
         },
         {
-            "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the cros"
-        },
-        {
-            "title": "The AI industry has taken a doomer turn. What now?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;si"
-        },
-        {
-            "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+            "title": "World model companies are keeping a lot of secrets",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "The round values the data center giant at $30.9 billion."
+            "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from t"
         },
         {
-            "title": "Google DeepMind launches institute to widen the AGI debate",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research commu"
-        },
-        {
-            "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+            "title": "Anthropic’s first embedded evaluator is … Accenture?",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up."
+            "snippet": "Accenture is about to take on its most high-risk consulting engagement ever."
         },
         {
             "title": "Roundtables: Could AI really kill us all?",
@@ -803,6 +781,18 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+        },
+        {
+            "title": "Anthropic is operating a lab that conducts biology experiments",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning "
         }
     ]
 }
