@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-19 02:06:43
+ * 生成时间: 2026-09-20 02:12:02
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "Manus重生第17天，估值居然就翻倍了",
-            "summary": "作价40亿美元推进新融资",
-            "source": "量子位",
+            "tag": "头条 · 大模型",
+            "title": "India forces caller-ID apps to feed spam reports to telcos",
+            "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/491764.html"
+            "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-            "summary": "Git白学了？？？",
-            "source": "量子位",
+            "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+            "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/491711.html"
+            "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-            "summary": "构建个体专属AI助理",
+            "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+            "summary": "协同布局AI基础设施",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/09/491649.html"
+            "url": "https://www.qbitai.com/2026/09/492426.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Claude Code团队讲究啊，这都往外说",
-            "summary": "工程师的核心永远是Problem Solving。",
+            "tag": "重磅 · 应用",
+            "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+            "summary": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/09/491596.html"
+            "url": "https://www.qbitai.com/2026/09/492421.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:06",
-            "text": "Manus重生第17天，估值居然就翻倍了",
+            "time": "02:12",
+            "text": "India forces caller-ID apps to feed spam reports to telcos",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/491764.html"
+            "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
         },
         {
-            "time": "02:06",
-            "text": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+            "time": "02:12",
+            "text": "Tilly Norwood’s press tour is going about as well as you’d e",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/491711.html"
+            "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
         },
         {
-            "time": "02:06",
-            "text": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+            "time": "02:12",
+            "text": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/491649.html"
+            "url": "https://www.qbitai.com/2026/09/492426.html"
         },
         {
-            "time": "02:06",
-            "text": "Claude Code团队讲究啊，这都往外说",
+            "time": "02:12",
+            "text": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/491596.html"
+            "url": "https://www.qbitai.com/2026/09/492421.html"
         },
         {
-            "time": "02:06",
-            "text": "The Download: mice with part-human brains and climate tech i",
+            "time": "02:12",
+            "text": "The Download: AI’s extinction risk and bioweapons threat",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+            "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
         },
         {
-            "time": "02:06",
-            "text": "Meet the innovators under 35 shaping climate tech",
+            "time": "02:12",
+            "text": "Could AI really kill us all? Your questions, answered.",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+            "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
         },
         {
-            "time": "02:06",
-            "text": "Coding Agents with an Obstacle-Aware Harness for Safe Robot ",
+            "time": "02:12",
+            "text": "The specter of AI-enabled bioweapons is a wake-up call for b",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.20822v1"
+            "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
         },
         {
-            "time": "02:06",
-            "text": "Embedding Models Measure in Peculiar Ways",
+            "time": "02:12",
+            "text": "The US Navy just told us what’s on its tech wish list for th",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.20821v1"
+            "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Manus重生第17天，估值居然就翻倍了",
-                    "source": "量子位",
+                    "title": "India forces caller-ID apps to feed spam reports to telcos",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/09/491764.html",
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "作价40亿美元推进新融资..."
+                    "desc": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operator..."
                 },
                 {
-                    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-                    "source": "量子位",
+                    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/491711.html"
+                    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
                 },
                 {
-                    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+                    "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/491649.html"
+                    "url": "https://www.qbitai.com/2026/09/492426.html"
                 },
                 {
-                    "title": "Claude Code团队讲究啊，这都往外说",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Google’s Gemini is the latest AI model to hack other companies",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/491596.html"
+                    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
                 },
                 {
-                    "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an A",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.20812v1"
+                    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20822v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20821v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20820v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20819v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20818v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2609.20817v1"
@@ -275,7 +275,7 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-                    "time": "10小时前",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/09/492421.html"
                 },
@@ -312,17 +312,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Manus重生第17天，估值居然就翻倍了",
-                    "time": "昨天",
+                    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcem",
+                    "time": "2天前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/491764.html"
+                    "url": "http://arxiv.org/abs/2609.20784v1"
                 },
                 {
                     "rank": 2,
-                    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcem",
-                    "time": "昨天",
+                    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+                    "time": "12小时前",
                     "emoji": "💰",
-                    "url": "http://arxiv.org/abs/2609.20784v1"
+                    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/"
                 }
             ]
         },
@@ -364,75 +364,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+481,445",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,747",
+                    "stars": "+455,786",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+390,059",
+                    "stars": "+390,102",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+367,638",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+321,578",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 6,
+                    "rank": 3,
                     "name": "awesome-selfhosted/awesome-selfhosted",
                     "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+320,194",
+                    "stars": "+320,412",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 7,
+                    "rank": 4,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+288,561",
+                    "stars": "+288,851",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
+                    "rank": 5,
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+262,992",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 6,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+249,553",
+                    "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+247,174",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
                     "rank": 8,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+265,291",
-                    "url": "https://github.com/mattpocock/skills"
+                    "name": "TheAlgorithms/Python",
+                    "desc": "All Algorithms implemented in Python",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+224,781",
+                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -441,72 +441,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Manus重生第17天，估值居然就翻倍了",
+            "title": "India forces caller-ID apps to feed spam reports t",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/491764.html"
+            "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+            "title": "Tilly Norwood’s press tour is going about as well ",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/491711.html"
+            "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+            "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/09/491649.html"
+            "url": "https://www.qbitai.com/2026/09/492426.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Claude Code团队讲究啊，这都往外说",
+            "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/491596.html"
+            "url": "https://www.qbitai.com/2026/09/492421.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The Download: mice with part-human brains and clim",
+            "title": "The Download: AI’s extinction risk and bioweapons ",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+            "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Meet the innovators under 35 shaping climate tech",
+            "title": "Could AI really kill us all? Your questions, answe",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/"
+            "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Coding Agents with an Obstacle-Aware Harness for S",
+            "title": "The specter of AI-enabled bioweapons is a wake-up ",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.20822v1"
+            "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Embedding Models Measure in Peculiar Ways",
+            "title": "The US Navy just told us what’s on its tech wish l",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.20821v1"
+            "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Workspace Models: Lightweight Robotic Memory via S",
+            "title": "Google’s Gemini is the latest AI model to hack oth",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.20820v1"
+            "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Can 4D Foundation Models Remember?",
+            "title": "Trump says it’s time to rebrand AI with a new name",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.20819v1"
+            "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
         }
     ],
     "aiTools": [
@@ -569,19 +569,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Coding",
+            "text": "Could",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "Could",
+            "text": "Coding",
             "size": "small"
         },
         {
             "text": "&#",
+            "size": "small"
+        },
+        {
+            "text": "Navy",
             "size": "small"
         },
         {
@@ -593,15 +593,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "World",
-            "size": "small"
-        },
-        {
             "text": "Action",
-            "size": "small"
-        },
-        {
-            "text": "CFO",
             "size": "small"
         },
         {
@@ -609,34 +601,114 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Claude",
+            "text": "Norwood",
+            "size": "small"
+        },
+        {
+            "text": "Your",
+            "size": "small"
+        },
+        {
+            "text": "MIT",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Manus重生第17天，估值居然就翻倍了",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "作价40亿美元推进新融资"
-        },
-        {
-            "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+            "title": "India forces caller-ID apps to feed spam reports to telcos",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Git白学了？？？"
+            "snippet": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operator"
         },
         {
-            "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+            "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "构建个体专属AI助理"
+            "snippet": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese."
         },
         {
-            "title": "Claude Code团队讲究啊，这都往外说",
+            "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "工程师的核心永远是Problem Solving。"
+            "snippet": "协同布局AI基础设施"
+        },
+        {
+            "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "成果中唯一聚焦算电协同全链路运营的AI技术产品"
+        },
+        {
+            "title": "The Download: AI’s extinction risk and bioweapons threat",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Could AI really kill us all? Your questions, answered.",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s a"
+        },
+        {
+            "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dange"
+        },
+        {
+            "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $"
+        },
+        {
+            "title": "Google’s Gemini is the latest AI model to hack other companies",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Google said Gemini had \"acted appropriately\" by ending each hack immediately."
+        },
+        {
+            "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+        },
+        {
+            "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+        },
+        {
+            "title": "Roundtables: Could AI really kill us all?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real poss"
+        },
+        {
+            "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Meet a mouse whose brain cortex is made up of human cells",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving"
+        },
+        {
+            "title": "Building the materials foundation for AI",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infr"
+        },
+        {
+            "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
             "title": "The Download: mice with part-human brains and climate tech innovators",
@@ -721,78 +793,6 @@ var siteData = {
             "category": "政策法规",
             "tag": "policy",
             "snippet": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet pre"
-        },
-        {
-            "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivate"
-        },
-        {
-            "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduce",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across m"
-        },
-        {
-            "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Action chunking is widely used for action generation and execution in Vision-Language-Action (VLA) policies, yet existin"
-        },
-        {
-            "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
-        },
-        {
-            "title": "Automattic names interim CFO after exec departures",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
-        },
-        {
-            "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health in"
-        },
-        {
-            "title": "World model companies are keeping a lot of secrets",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from t"
-        },
-        {
-            "title": "Anthropic’s first embedded evaluator is … Accenture?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Accenture is about to take on its most high-risk consulting engagement ever."
-        },
-        {
-            "title": "Roundtables: Could AI really kill us all?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real poss"
-        },
-        {
-            "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
-        },
-        {
-            "title": "Anthropic is operating a lab that conducts biology experiments",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning "
         }
     ]
 }
