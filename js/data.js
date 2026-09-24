@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-23 02:17:13
+ * 生成时间: 2026-09-24 02:04:04
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "行业 · 动态",
-            "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "tag": "独家 · 研究",
+            "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+            "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "How we made the first comprehensive map of deaths along the US border’s “virtual",
-            "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simpl",
+            "tag": "独家 · 研究",
+            "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than real",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-            "summary": "MIT Technology Review today published our investigation into how many people have died near the “vir",
+            "tag": "头条 · 大模型",
+            "title": "Don’t be fooled by this summer of AI hype",
+            "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claud",
             "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "The US spent billions on border surveillance. Why can’t it catch people before t",
-            "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before ",
-            "source": "MIT Tech Review",
-            "time": "昨天",
+            "tag": "重磅 · 应用",
+            "title": "Everything new coming to Meta’s AI agent Muse",
+            "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a ",
+            "source": "TechCrunch AI",
+            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+            "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:17",
-            "text": "The Download: investigating deaths at the US border’s “virtu",
+            "time": "02:04",
+            "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
         },
         {
-            "time": "02:17",
-            "text": "How we made the first comprehensive map of deaths along the ",
+            "time": "02:04",
+            "text": "The Download: why AI’s latest breakthroughs and fears may be",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
         },
         {
-            "time": "02:17",
-            "text": "4 ways to address the failures we found along the US border’",
+            "time": "02:04",
+            "text": "Don’t be fooled by this summer of AI hype",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
         },
         {
-            "time": "02:17",
-            "text": "The US spent billions on border surveillance. Why can’t it c",
+            "time": "02:04",
+            "text": "Everything new coming to Meta’s AI agent Muse",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+            "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
         },
         {
-            "time": "02:17",
-            "text": "She died at the San Diego border. A surveillance camera was ",
+            "time": "02:04",
+            "text": "A congressional representative just proposed killing America",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+            "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
         },
         {
-            "time": "02:17",
-            "text": "Anthropic releases Opus 5.5 with lower prices and Fable-leve",
+            "time": "02:04",
+            "text": "On the Diffusibility of High-Dimensional Latents",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+            "url": "http://arxiv.org/abs/2609.28473v1"
         },
         {
-            "time": "02:17",
-            "text": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and ",
+            "time": "02:04",
+            "text": "Contrastive Learning for Authorship Verification",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+            "url": "http://arxiv.org/abs/2609.28471v1"
         },
         {
-            "time": "02:17",
-            "text": "Waymo’s latest expansion strategy: teenagers",
+            "time": "02:04",
+            "text": "StudentBench: AI and human tutoring yield equivalent GRE lea",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/"
+            "url": "http://arxiv.org/abs/2609.28470v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+                    "title": "Don’t be fooled by this summer of AI hype",
                     "source": "MIT Tech Review",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "domestic",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+                    "category": "gpt",
+                    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o..."
+                    "desc": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better a..."
                 },
                 {
-                    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
+                    "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+                    "category": "gpt",
+                    "url": "http://arxiv.org/abs/2609.28449v1"
                 },
                 {
-                    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
+                    "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoni",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "domestic",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+                    "url": "http://arxiv.org/abs/2609.28442v1"
                 },
                 {
-                    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+                    "url": "http://arxiv.org/abs/2609.28416v1"
                 },
                 {
-                    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+                    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
                     "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+                    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion",
-                    "desc": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text ge...",
+                    "title": "【arXiv】On the Diffusibility of High-Dimensional Latents",
+                    "desc": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26796v1"
+                    "url": "http://arxiv.org/abs/2609.28473v1"
                 },
                 {
-                    "title": "【arXiv】φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
-                    "desc": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical...",
+                    "title": "【arXiv】Contrastive Learning for Authorship Verification",
+                    "desc": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identi...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26795v1"
+                    "url": "http://arxiv.org/abs/2609.28471v1"
                 },
                 {
-                    "title": "【arXiv】HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
-                    "desc": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatia...",
+                    "title": "【arXiv】StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+                    "desc": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advan...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26793v1"
+                    "url": "http://arxiv.org/abs/2609.28470v1"
                 },
                 {
-                    "title": "【arXiv】DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
-                    "desc": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene feat...",
+                    "title": "【arXiv】Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+                    "desc": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requi...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26792v1"
+                    "url": "http://arxiv.org/abs/2609.28467v1"
                 },
                 {
-                    "title": "【arXiv】Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-                    "desc": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent sys...",
+                    "title": "【arXiv】The Past Frames the Future: Memory for Autoregressive Video Generation",
+                    "desc": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environm...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26781v1"
+                    "url": "http://arxiv.org/abs/2609.28466v1"
                 },
                 {
-                    "title": "【arXiv】SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-                    "desc": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distingui...",
+                    "title": "【arXiv】Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+                    "desc": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing reposit...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.26780v1"
+                    "url": "http://arxiv.org/abs/2609.28449v1"
                 }
             ]
         },
@@ -274,31 +274,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference S",
-                    "time": "8小时前",
+                    "title": "Everything new coming to Meta’s AI agent Muse",
+                    "time": "刚刚",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2609.26777v1"
+                    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
                 },
                 {
                     "rank": 2,
-                    "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+                    "title": "Learning Holographic Reduced Representations with Clifford Variational",
                     "time": "8小时前",
                     "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2609.26761v1"
+                    "url": "http://arxiv.org/abs/2609.28409v1"
                 },
                 {
                     "rank": 3,
-                    "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a",
-                    "time": "7小时前",
+                    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+                    "time": "1小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/"
+                    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
                 },
                 {
                     "rank": 4,
-                    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-                    "time": "6小时前",
+                    "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+                    "time": "16小时前",
                     "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+                    "url": "https://www.qbitai.com/2026/09/496493.html"
                 },
                 {
                     "rank": 5,
@@ -318,31 +318,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-                    "time": "昨天",
+                    "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematic",
+                    "time": "8小时前",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+                    "url": "http://arxiv.org/abs/2609.28442v1"
                 },
                 {
                     "rank": 2,
-                    "title": "How we made the first comprehensive map of deaths along the US border’",
-                    "time": "昨天",
+                    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+                    "time": "5小时前",
                     "emoji": "💰",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+                    "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "4 ways to address the failures we found along the US border’s “virtual",
-                    "time": "昨天",
+                    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+                    "time": "2天前",
                     "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+                    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
                 },
                 {
                     "rank": 4,
-                    "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-",
-                    "time": "8小时前",
+                    "title": "How we made the first comprehensive map of deaths along the US border’",
+                    "time": "2天前",
                     "emoji": "🌏",
-                    "url": "http://arxiv.org/abs/2609.26792v1"
+                    "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+                },
+                {
+                    "rank": 5,
+                    "title": "4 ways to address the failures we found along the US border’s “virtual",
+                    "time": "2天前",
+                    "emoji": "📉",
+                    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+                },
+                {
+                    "rank": 6,
+                    "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+                    "time": "16小时前",
+                    "emoji": "🔄",
+                    "url": "https://www.qbitai.com/2026/09/496494.html"
                 }
             ]
         },
@@ -384,21 +398,21 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+482,577",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+455,984",
+                    "stars": "+456,050",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
-                },
-                {
-                    "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+397,466",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 3,
@@ -406,7 +420,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+390,266",
+                    "stars": "+390,348",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -415,7 +429,7 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+367,926",
+                    "stars": "+367,981",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -424,35 +438,35 @@ var siteData = {
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+322,361",
+                    "stars": "+322,591",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 6,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+290,234",
-                    "url": "https://github.com/obra/superpowers"
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+321,330",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
                     "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+265,490",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+249,939",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 8,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+250,658",
-                    "url": "https://github.com/react/react"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+248,423",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -461,72 +475,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "The Download: investigating deaths at the US borde",
+            "title": "Roundtables: The Deadly Failures of The Virtual Bo",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "How we made the first comprehensive map of deaths ",
+            "title": "The Download: why AI’s latest breakthroughs and fe",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "4 ways to address the failures we found along the ",
+            "title": "Don’t be fooled by this summer of AI hype",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+            "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "The US spent billions on border surveillance. Why ",
+            "title": "Everything new coming to Meta’s AI agent Muse",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+            "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "She died at the San Diego border. A surveillance c",
+            "title": "A congressional representative just proposed killi",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+            "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Anthropic releases Opus 5.5 with lower prices and ",
+            "title": "On the Diffusibility of High-Dimensional Latents",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+            "url": "http://arxiv.org/abs/2609.28473v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower",
+            "title": "Contrastive Learning for Authorship Verification",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+            "url": "http://arxiv.org/abs/2609.28471v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Waymo’s latest expansion strategy: teenagers",
+            "title": "StudentBench: AI and human tutoring yield equivale",
             "heat": "",
-            "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/"
+            "url": "http://arxiv.org/abs/2609.28470v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decod",
+            "title": "Where Should I Join? Robot Group Joining via Langu",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.26796v1"
+            "url": "http://arxiv.org/abs/2609.28467v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "φ-RIE: From Photorealistic Reconstruction to Inter",
+            "title": "The Past Frames the Future: Memory for Autoregress",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.26795v1"
+            "url": "http://arxiv.org/abs/2609.28466v1"
         }
     ],
     "aiTools": [
@@ -577,11 +591,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "AI",
             "size": "large"
         },
         {
-            "text": "Agents",
+            "text": "Meta",
             "size": "medium"
         },
         {
@@ -589,15 +603,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "Download",
             "size": "medium"
         },
         {
-            "text": "border",
+            "text": "Muse",
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "World",
+            "size": "small"
+        },
+        {
+            "text": "border",
             "size": "small"
         },
         {
@@ -605,7 +623,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "its",
+            "text": "Learning",
             "size": "small"
         },
         {
@@ -613,27 +631,191 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Large",
+            "text": "India",
             "size": "small"
         },
         {
-            "text": "Could",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "surveillance",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Mexico",
-            "size": "small"
-        },
-        {
-            "text": "MIT",
+            "text": "world",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 ye"
+        },
+        {
+            "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Don’t be fooled by this summer of AI hype",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better a"
+        },
+        {
+            "title": "Everything new coming to Meta’s AI agent Muse",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made on"
+        },
+        {
+            "title": "A congressional representative just proposed killing America’s border tower program",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to termin"
+        },
+        {
+            "title": "On the Diffusibility of High-Dimensional Latents",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoder"
+        },
+        {
+            "title": "Contrastive Learning for Authorship Verification",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under "
+        },
+        {
+            "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier "
+        },
+        {
+            "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whe"
+        },
+        {
+            "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling"
+        },
+        {
+            "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution rem"
+        },
+        {
+            "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model"
+        },
+        {
+            "title": "HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The adoption of CMOS sensors in mobile photography is frequently compromised by the rolling shutter (RS) effect, which i"
+        },
+        {
+            "title": "MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Online information is increasingly consumed in video format. Much of this comes in the form of *raw video*: continuous f"
+        },
+        {
+            "title": "Predicting the Progression of Adolescent Idiopathic Scoliosis",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Adolescent Idiopathic Scoliosis is defined as a lateral curvature of the spine that develops during adolescence, without"
+        },
+        {
+            "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Langu",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "This work addresses continuous depression-severity score prediction from clinical interview transcripts under data scarc"
+        },
+        {
+            "title": "The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Catalog skin recolouring has to change pigment and leave shading alone. The classical Reinhard map does not make that sp"
+        },
+        {
+            "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environm"
+        },
+        {
+            "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silentl"
+        },
+        {
+            "title": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Vector Symbolic Algebras project data structures into a hyperdimensional vector space through the application of their v"
+        },
+        {
+            "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve wei"
+        },
+        {
+            "title": "Modal Motors is trying to cut China out of electric motors entirely",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots."
+        },
+        {
+            "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The VC firm says that AI-native companies are growing faster than any technology, ever."
+        },
+        {
+            "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?"
+        },
+        {
+            "title": "Anthropic says its biology lab has already found something big",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far"
+        },
+        {
+            "title": "Meta is trying VR glasses (again), this time with more IMAX",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entert"
+        },
+        {
+            "title": "Meta introduces camera-free AI glasses",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+        },
+        {
+            "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\""
+        },
         {
             "title": "The Download: investigating deaths at the US border’s “virtual wall”",
             "category": "行业动态",
@@ -645,174 +827,6 @@ var siteData = {
             "category": "行业动态",
             "tag": "industry",
             "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did "
-        },
-        {
-            "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of survei"
-        },
-        {
-            "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, i"
-        },
-        {
-            "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, whe"
-        },
-        {
-            "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic called it \"the strongest-performing model we've tested to date.\""
-        },
-        {
-            "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-        },
-        {
-            "title": "Waymo’s latest expansion strategy: teenagers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors."
-        },
-        {
-            "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabl"
-        },
-        {
-            "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does "
-        },
-        {
-            "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides se"
-        },
-        {
-            "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realisti"
-        },
-        {
-            "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness fram"
-        },
-        {
-            "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term co"
-        },
-        {
-            "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across s"
-        },
-        {
-            "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inf"
-        },
-        {
-            "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image "
-        },
-        {
-            "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposi"
-        },
-        {
-            "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model"
-        },
-        {
-            "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bou",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generatin"
-        },
-        {
-            "title": "FleXray: Universal Clinical X-ray Segmentation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modal"
-        },
-        {
-            "title": "Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Large language models (LLMs) are increasingly applied to the automated repair of C/C++ security vulnerabilities, and com"
-        },
-        {
-            "title": "Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "The rapidly advancing capabilities of vision-language models (VLMs) present a systemic challenge to academic integrity. "
-        },
-        {
-            "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to so"
-        },
-        {
-            "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their famil"
-        },
-        {
-            "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellow"
-        },
-        {
-            "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-        },
-        {
-            "title": "Apple could take on Whoop with a new fitness tracker, report says",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
-        },
-        {
-            "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-        },
-        {
-            "title": "The Download: AI’s extinction risk and bioweapons threat",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         }
     ]
 }
