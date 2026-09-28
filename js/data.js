@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-09-27 02:21:34
+ * 生成时间: 2026-09-28 02:25:40
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "At Meta Connect, the company’s smart glasses were everywhere",
-            "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via",
+            "tag": "重磅 · 应用",
+            "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+            "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemb",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+            "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-            "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Cr",
+            "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in In",
+            "summary": "The limited test covers select products and users, with a broader rollout planned for later in Octob",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Automattic has a new board after failed attempt to put CEO on leave",
-            "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the c",
+            "tag": "重磅 · 应用",
+            "title": "Insurers claim AI is already increasing healthcare costs",
+            "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spendi",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-            "summary": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-            "source": "量子位",
+            "title": "TikTok agrees to pay at least $100M in Alabama settlement",
+            "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-for",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/09/497278.html"
+            "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:21",
-            "text": "At Meta Connect, the company’s smart glasses were everywhere",
+            "time": "02:25",
+            "text": "PNOE’s new face mask wants to make lab-grade breath testing ",
             "hot": true,
-            "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+            "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
         },
         {
-            "time": "02:21",
-            "text": "Crusoe abandons $1.25B plan to use Boom turbines at AI data ",
+            "time": "02:25",
+            "text": "Google tests buying from Walmart-owned Flipkart through Gemi",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
         },
         {
-            "time": "02:21",
-            "text": "Automattic has a new board after failed attempt to put CEO o",
+            "time": "02:25",
+            "text": "Insurers claim AI is already increasing healthcare costs",
             "hot": false,
-            "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
         },
         {
-            "time": "02:21",
-            "text": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+            "time": "02:25",
+            "text": "TikTok agrees to pay at least $100M in Alabama settlement",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/497278.html"
+            "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
         },
         {
-            "time": "02:21",
-            "text": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+            "time": "02:25",
+            "text": "Meta and YouTube say they will run ads for ‘Musk’ documentar",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/497177.html"
+            "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
         },
         {
-            "time": "02:21",
-            "text": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+            "time": "02:25",
+            "text": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/497108.html"
+            "url": "https://www.qbitai.com/2026/09/498478.html"
         },
         {
-            "time": "02:21",
-            "text": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+            "time": "02:25",
+            "text": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/497075.html"
+            "url": "https://www.qbitai.com/2026/09/498271.html"
         },
         {
-            "time": "02:21",
-            "text": "The Download: the Pentagon’s AI-powered lie detector and you",
+            "time": "02:25",
+            "text": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
+            "url": "https://www.qbitai.com/2026/09/497624.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "At Meta Connect, the company’s smart glasses were everywhere",
+                    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in In",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+                    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li..."
+                    "desc": "The limited test covers select products and users, with a broader rollout planned for later in October...."
                 },
                 {
-                    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+                    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+                    "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
                 },
                 {
-                    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+                    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+                    "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
                 },
                 {
-                    "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+                    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/497278.html"
+                    "url": "https://www.qbitai.com/2026/09/497624.html"
                 },
                 {
-                    "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+                    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/497177.html"
+                    "url": "https://www.qbitai.com/2026/09/497613.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】LLM Agents Can Easily Tamper With Their Own Traces",
-                    "desc": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses as...",
+                    "title": "【arXiv】OpenVAM: Open-World Visual Attention Modeling with VLMs",
+                    "desc": "Predicting human gaze is a core capability for applications ranging from web/UI design analysis to robotics and human-computer interaction. Yet, most ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30266v1"
+                    "url": "http://arxiv.org/abs/2609.31364v1"
                 },
                 {
-                    "title": "【arXiv】AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-                    "desc": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from...",
+                    "title": "【arXiv】Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+                    "desc": "Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human b...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30264v1"
+                    "url": "http://arxiv.org/abs/2609.31360v1"
                 },
                 {
-                    "title": "【arXiv】Agentic Detection of Online Conspiracies",
-                    "desc": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may expre...",
+                    "title": "【arXiv】A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+                    "desc": "The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external resources and tools. It allows la...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30250v1"
+                    "url": "http://arxiv.org/abs/2609.31358v1"
                 },
                 {
-                    "title": "【arXiv】RAPID: Robot Agentic Programming from Demonstrations",
-                    "desc": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work int...",
+                    "title": "【arXiv】Open Vocabulary Domain Unlearning",
+                    "desc": "Vision-Language Models (VLMs) exhibit remarkable zero-shot generalization, yet they often encode unwanted or hazardous stylistic domains such as ideal...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30249v1"
+                    "url": "http://arxiv.org/abs/2609.31356v1"
                 },
                 {
-                    "title": "【arXiv】Rolling-WAM: World Action Models with Rolling Imagination",
-                    "desc": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action...",
+                    "title": "【arXiv】Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State",
+                    "desc": "Contemporary large language model (LLM) chat systems treat conversation history as an immutable sequence of turns that defines the model's working con...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30247v1"
+                    "url": "http://arxiv.org/abs/2609.31354v1"
                 },
                 {
-                    "title": "【arXiv】Towards Practical Compression of 3D Gaussian Splatting",
-                    "desc": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on sp...",
+                    "title": "【arXiv】DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-St",
+                    "desc": "Large video diffusion models offer expressive priors for embodied prediction and learning, yet their many-step sampling remains costly for interactive...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.30245v1"
+                    "url": "http://arxiv.org/abs/2609.31349v1"
                 }
             ]
         },
@@ -275,42 +275,44 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-ser",
-                    "time": "刚刚",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
                 },
                 {
                     "rank": 2,
                     "title": "Insurers claim AI is already increasing healthcare costs",
-                    "time": "5小时前",
+                    "time": "昨天",
                     "emoji": "💡",
                     "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
                 },
                 {
                     "rank": 3,
-                    "title": "JevOut: Natural Context Can Flip Decision Models",
-                    "time": "2天前",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2609.30243v1"
-                },
-                {
-                    "rank": 4,
-                    "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconst",
-                    "time": "2天前",
-                    "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2609.30234v1"
-                },
-                {
-                    "rank": 5,
                     "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-                    "time": "14小时前",
-                    "emoji": "⚖️",
+                    "time": "昨天",
+                    "emoji": "🎬",
                     "url": "https://www.qbitai.com/2026/09/498478.html"
                 },
                 {
+                    "rank": 4,
+                    "title": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
+                    "time": "2天前",
+                    "emoji": "🔍",
+                    "url": "http://arxiv.org/abs/2609.31364v1"
+                },
+                {
+                    "rank": 5,
+                    "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+                    "time": "2天前",
+                    "emoji": "⚖️",
+                    "url": "http://arxiv.org/abs/2609.31358v1"
+                },
+                {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "AgentXploit: Autonomous Repository-to-Runtime Red-Teaming for AI Agent",
+                    "time": "2天前",
+                    "emoji": "🎵",
+                    "url": "http://arxiv.org/abs/2609.31318v1"
                 }
             ]
         },
@@ -321,7 +323,7 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "AI is dominating the conversation at Climate Week",
-                    "time": "2天前",
+                    "time": "3天前",
                     "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
                 }
@@ -369,7 +371,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+483,594",
+                    "stars": "+483,842",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -378,7 +380,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,288",
+                    "stars": "+456,374",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -387,17 +389,17 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+390,600",
+                    "stars": "+390,665",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+322,041",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+323,585",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 5,
@@ -405,35 +407,35 @@ var siteData = {
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+291,969",
+                    "stars": "+292,199",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 6,
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+268,453",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 7,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+250,786",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 8,
                     "name": "torvalds/linux",
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+250,305",
+                    "stars": "+250,386",
                     "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 7,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+249,253",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 8,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "All Algorithms implemented in Python",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+225,028",
-                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -442,72 +444,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "At Meta Connect, the company’s smart glasses were ",
+            "title": "PNOE’s new face mask wants to make lab-grade breat",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+            "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Crusoe abandons $1.25B plan to use Boom turbines a",
+            "title": "Google tests buying from Walmart-owned Flipkart th",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+            "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Automattic has a new board after failed attempt to",
+            "title": "Insurers claim AI is already increasing healthcare",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/"
+            "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
+            "title": "TikTok agrees to pay at least $100M in Alabama set",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/497278.html"
+            "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
+            "title": "Meta and YouTube say they will run ads for ‘Musk’ ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/497177.html"
+            "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+            "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/497108.html"
+            "url": "https://www.qbitai.com/2026/09/498478.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+            "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDo",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/497075.html"
+            "url": "https://www.qbitai.com/2026/09/498271.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The Download: the Pentagon’s AI-powered lie detect",
+            "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
+            "url": "https://www.qbitai.com/2026/09/497624.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "The Pentagon wants $30 million to build an AI-powe",
+            "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+            "url": "https://www.qbitai.com/2026/09/497613.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Young organs may not be a fountain of youth for re",
+            "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
+            "url": "https://www.qbitai.com/2026/09/497425.html"
         }
     ],
     "aiTools": [
@@ -554,11 +556,11 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "The",
+            "text": "AI",
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "The",
             "size": "large"
         },
         {
@@ -566,11 +568,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "US",
+            "text": "India",
             "size": "medium"
         },
         {
-            "text": "India",
+            "text": "US",
             "size": "medium"
         },
         {
@@ -578,11 +580,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "CEO",
+            "text": "However",
             "size": "small"
         },
         {
-            "text": "Pentagon",
+            "text": "Meta",
+            "size": "small"
+        },
+        {
+            "text": "模型",
+            "size": "small"
+        },
+        {
+            "text": "Anthropic",
             "size": "small"
         },
         {
@@ -594,87 +604,19 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Action",
+            "text": "Pentagon",
+            "size": "small"
+        },
+        {
+            "text": "Open",
             "size": "small"
         },
         {
             "text": "World",
             "size": "small"
-        },
-        {
-            "text": "Agentic",
-            "size": "small"
-        },
-        {
-            "text": "Existing",
-            "size": "small"
-        },
-        {
-            "text": "&#",
-            "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "At Meta Connect, the company’s smart glasses were everywhere",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li"
-        },
-        {
-            "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term pla"
-        },
-        {
-            "title": "Automattic has a new board after failed attempt to put CEO on leave",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new boa"
-        },
-        {
-            "title": "“AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。"
-        },
-        {
-            "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Agent的手越伸越长"
-        },
-        {
-            "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according t"
-        },
-        {
-            "title": "Young organs may not be a fountain of youth for recipients",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when "
-        },
         {
             "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
             "category": "AI应用",
@@ -688,18 +630,6 @@ var siteData = {
             "snippet": "The limited test covers select products and users, with a broader rollout planned for later in October."
         },
         {
-            "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour."
-        },
-        {
-            "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, foll"
-        },
-        {
             "title": "Insurers claim AI is already increasing healthcare costs",
             "category": "AI应用",
             "tag": "application",
@@ -710,6 +640,66 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform mis"
+        },
+        {
+            "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, foll"
+        },
+        {
+            "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。"
+        },
+        {
+            "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。"
+        },
+        {
+            "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？"
+        },
+        {
+            "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大伟哥：如果做不到，一年两年之后过来打我脸"
+        },
+        {
+            "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "vLLM人马创业公司团队出品"
+        },
+        {
+            "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "还把「密钥」叫战利品"
+        },
+        {
+            "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "\"AI is the devil and I its maker.\""
+        },
+        {
+            "title": "Can Muse overcome Meta’s trust issues?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+        },
+        {
+            "title": "Anthropic’s CEO is about to have dinner with President Trump",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
         },
         {
             "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
@@ -754,46 +744,58 @@ var siteData = {
             "snippet": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, "
         },
         {
-            "title": "LLM Agents Can Easily Tamper With Their Own Traces",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct wh"
+            "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must co"
+            "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according t"
         },
         {
-            "title": "Agentic Detection of Online Conspiracies",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The "
+            "title": "Young organs may not be a fountain of youth for recipients",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when "
         },
         {
-            "title": "RAPID: Robot Agentic Programming from Demonstrations",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential fo"
-        },
-        {
-            "title": "Rolling-WAM: World Action Models with Rolling Imagination",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, com"
-        },
-        {
-            "title": "Towards Practical Compression of 3D Gaussian Splatting",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compre"
-        },
-        {
-            "title": "JevOut: Natural Context Can Flip Decision Models",
+            "title": "OpenVAM: Open-World Visual Attention Modeling with VLMs",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowi"
+            "snippet": "Predicting human gaze is a core capability for applications ranging from web/UI design analysis to robotics and human-co"
+        },
+        {
+            "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how diffi"
+        },
+        {
+            "title": "A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The Model Context Protocol (MCP) provides a common interface through which AI applications discover and use external res"
+        },
+        {
+            "title": "Open Vocabulary Domain Unlearning",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Vision-Language Models (VLMs) exhibit remarkable zero-shot generalization, yet they often encode unwanted or hazardous s"
+        },
+        {
+            "title": "Mutable Transcripts: Mitigating Context Pollution through Editable Conversation State",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Contemporary large language model (LLM) chat systems treat conversation history as an immutable sequence of turns that d"
+        },
+        {
+            "title": "DyMD: Preserving Interaction Dynamics through Distribution Matching Distillation in Few-Step Video W",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Large video diffusion models offer expressive priors for embodied prediction and learning, yet their many-step sampling "
         }
     ]
 }
