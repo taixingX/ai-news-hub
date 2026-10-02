@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-01 02:57:31
+ * 生成时间: 2026-10-02 03:00:06
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-            "summary": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/499263.html"
+            "url": "https://www.qbitai.com/2026/09/499654.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-            "summary": "今年devday牙膏挤爆",
+            "title": "直播回顾：工业AI的下一个机会在哪？",
+            "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/499246.html"
+            "url": "https://www.qbitai.com/2026/09/499605.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-            "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+            "title": "Anthropic，你是来给智谱打广告的吧！",
+            "summary": "实测说GLM-5.3很强",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/09/499239.html"
+            "url": "https://www.qbitai.com/2026/09/499597.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+            "summary": "给Agent配上手机号，再拉个群",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
+            "url": "https://www.qbitai.com/2026/09/499592.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:57",
-            "text": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+            "time": "03:00",
+            "text": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/499263.html"
+            "url": "https://www.qbitai.com/2026/09/499654.html"
         },
         {
-            "time": "02:57",
-            "text": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+            "time": "03:00",
+            "text": "直播回顾：工业AI的下一个机会在哪？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499246.html"
+            "url": "https://www.qbitai.com/2026/09/499605.html"
         },
         {
-            "time": "02:57",
-            "text": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+            "time": "03:00",
+            "text": "Anthropic，你是来给智谱打广告的吧！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499239.html"
+            "url": "https://www.qbitai.com/2026/09/499597.html"
         },
         {
-            "time": "02:57",
-            "text": "The Download: climate tech companies to watch and AI’s disco",
+            "time": "03:00",
+            "text": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
+            "url": "https://www.qbitai.com/2026/09/499592.html"
         },
         {
-            "time": "02:57",
-            "text": "Coming soon: Our 2026 list of Climate Tech Companies to Watc",
+            "time": "03:00",
+            "text": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/"
+            "url": "https://www.qbitai.com/2026/09/499493.html"
         },
         {
-            "time": "02:57",
-            "text": "Making AI an asset, not an expense",
+            "time": "03:00",
+            "text": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+            "url": "https://www.qbitai.com/2026/09/499308.html"
         },
         {
-            "time": "02:57",
-            "text": "Turbo Harness: Instance-Adaptive Harness Optimization",
+            "time": "03:00",
+            "text": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.40330v1"
+            "url": "https://www.qbitai.com/2026/09/499280.html"
         },
         {
-            "time": "02:57",
-            "text": "WorldAuditBench: Interactive 3D World Auditing with Multimod",
+            "time": "03:00",
+            "text": "The Download: OpenAI’s chief research officer explains its h",
             "hot": false,
-            "url": "http://arxiv.org/abs/2609.40325v1"
+            "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+                    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499263.html",
+                    "url": "https://www.qbitai.com/2026/09/499654.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "..."
+                    "desc": "千禧年难题的突破，10000个Agent最多占了10%的功劳。..."
                 },
                 {
-                    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+                    "title": "直播回顾：工业AI的下一个机会在哪？",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499246.html"
+                    "url": "https://www.qbitai.com/2026/09/499605.html"
                 },
                 {
-                    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+                    "title": "Anthropic，你是来给智谱打广告的吧！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499239.html"
+                    "url": "https://www.qbitai.com/2026/09/499597.html"
                 },
                 {
-                    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/"
+                    "url": "https://www.qbitai.com/2026/09/499592.html"
                 },
                 {
-                    "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-                    "source": "arXiv",
-                    "time": "8小时前",
+                    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2609.40361v1"
+                    "url": "https://www.qbitai.com/2026/09/499493.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-                    "desc": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and ...",
+                    "title": "【arXiv】Moore, Escher, Penrose: A Conformal Golden Braid",
+                    "desc": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40362v1"
+                    "url": "http://arxiv.org/abs/2610.02210v1"
                 },
                 {
-                    "title": "【arXiv】Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-                    "desc": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based ob...",
+                    "title": "【arXiv】Sphere Encoder 2",
+                    "desc": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40361v1"
+                    "url": "http://arxiv.org/abs/2610.02208v1"
                 },
                 {
-                    "title": "【arXiv】Semifactual Credit-Augmented Policy Optimization",
-                    "desc": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions r...",
+                    "title": "【arXiv】One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+                    "desc": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bot...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40360v1"
+                    "url": "http://arxiv.org/abs/2610.02207v1"
                 },
                 {
-                    "title": "【arXiv】Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
-                    "desc": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physica...",
+                    "title": "【arXiv】KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-",
+                    "desc": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existi...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40358v1"
+                    "url": "http://arxiv.org/abs/2610.02206v1"
                 },
                 {
-                    "title": "【arXiv】ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
-                    "desc": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits tha...",
+                    "title": "【arXiv】ROWBench: Do Video Models Render What the Program Specifies?",
+                    "desc": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-generation game engines. Howev...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40356v1"
+                    "url": "http://arxiv.org/abs/2610.02205v1"
                 },
                 {
-                    "title": "【arXiv】AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
-                    "desc": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arrangements. Can pretrained gener...",
+                    "title": "【arXiv】Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+                    "desc": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integr...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2609.40353v1"
+                    "url": "http://arxiv.org/abs/2610.02204v1"
                 }
             ]
         },
@@ -274,38 +274,36 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M",
-                    "time": "5小时前",
+                    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+                    "url": "https://www.qbitai.com/2026/09/499308.html"
                 },
                 {
                     "rank": 2,
-                    "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the ",
-                    "time": "3小时前",
+                    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space",
+                    "time": "7小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+                    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
                 },
                 {
                     "rank": 3,
-                    "title": "The Download: rogue agent liability and the AI Hype Index",
-                    "time": "2天前",
+                    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from ",
+                    "time": "16小时前",
                     "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
+                    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
                 },
                 {
                     "rank": 4,
-                    "title": "Who’s liable when AI agents go rogue?",
-                    "time": "2天前",
+                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+                    "time": "14小时前",
                     "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
                 },
                 {
                     "rank": 5,
-                    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-                    "time": "21小时前",
-                    "emoji": "⚖️",
-                    "url": "https://www.qbitai.com/2026/09/499308.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -357,75 +355,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+485,274",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,580",
+                    "stars": "+456,620",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,004",
+                    "stars": "+391,174",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+368,613",
+                    "stars": "+368,678",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+323,246",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 6,
                     "name": "affaan-m/ECC",
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+270,245",
+                    "stars": "+270,744",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 5,
+                    "rank": 7,
                     "name": "react/react",
                     "desc": "The library for web and native user interfaces.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+250,849",
+                    "stars": "+250,868",
                     "url": "https://github.com/react/react"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "torvalds/linux",
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+250,694",
+                    "stars": "+250,792",
                     "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 7,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+250,372",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 8,
-                    "name": "TheAlgorithms/Python",
-                    "desc": "All Algorithms implemented in Python",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+225,168",
-                    "url": "https://github.com/TheAlgorithms/Python"
                 }
             ]
         }
@@ -434,72 +432,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/499263.html"
+            "url": "https://www.qbitai.com/2026/09/499654.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+            "title": "直播回顾：工业AI的下一个机会在哪？",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/499246.html"
+            "url": "https://www.qbitai.com/2026/09/499605.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+            "title": "Anthropic，你是来给智谱打广告的吧！",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/09/499239.html"
+            "url": "https://www.qbitai.com/2026/09/499597.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "The Download: climate tech companies to watch and ",
+            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
+            "url": "https://www.qbitai.com/2026/09/499592.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Coming soon: Our 2026 list of Climate Tech Compani",
+            "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/"
+            "url": "https://www.qbitai.com/2026/09/499493.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Making AI an asset, not an expense",
+            "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+            "url": "https://www.qbitai.com/2026/09/499308.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Turbo Harness: Instance-Adaptive Harness Optimizat",
+            "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.40330v1"
+            "url": "https://www.qbitai.com/2026/09/499280.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "WorldAuditBench: Interactive 3D World Auditing wit",
+            "title": "The Download: OpenAI’s chief research officer expl",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.40325v1"
+            "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Cogentic: Multi-Agent Orchestration for Automated ",
+            "title": "“We’re not going to shoot ourselves in the foot” o",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.40324v1"
+            "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "MatLoom: Layered Text-to-Material Generation in a ",
+            "title": "Opus 5.5 loves to tell you ‘this matters’ (and oth",
             "heat": "",
-            "url": "http://arxiv.org/abs/2609.40322v1"
+            "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
         }
     ],
     "aiTools": [
@@ -546,7 +544,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
+            "text": "OpenAI",
             "size": "large"
         },
         {
@@ -554,39 +552,31 @@ var siteData = {
             "size": "large"
         },
         {
+            "text": "Download",
+            "size": "medium"
+        },
+        {
             "text": "The",
             "size": "medium"
         },
         {
+            "text": "Generation",
+            "size": "medium"
+        },
+        {
+            "text": "We",
+            "size": "small"
+        },
+        {
+            "text": "However",
+            "size": "small"
+        },
+        {
             "text": "Video",
-            "size": "medium"
-        },
-        {
-            "text": "OpenAI",
-            "size": "medium"
-        },
-        {
-            "text": "Multimodal",
             "size": "small"
         },
         {
-            "text": "Flow",
-            "size": "small"
-        },
-        {
-            "text": "Self",
-            "size": "small"
-        },
-        {
-            "text": "&#",
-            "size": "small"
-        },
-        {
-            "text": "Optimization",
-            "size": "small"
-        },
-        {
-            "text": "Existing",
+            "text": "Distillation",
             "size": "small"
         },
         {
@@ -594,198 +584,206 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Pentagon",
-            "size": "small"
-        },
-        {
             "text": "DeepSeek",
             "size": "small"
         },
         {
-            "text": "world",
+            "text": "Opus",
+            "size": "small"
+        },
+        {
+            "text": "Anthropic",
+            "size": "small"
+        },
+        {
+            "text": "DSec",
+            "size": "small"
+        },
+        {
+            "text": "&#",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
         },
         {
-            "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+            "title": "直播回顾：工业AI的下一个机会在哪？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "今年devday牙膏挤爆"
+            "snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
         },
         {
-            "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+            "title": "Anthropic，你是来给智谱打广告的吧！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景"
+            "snippet": "实测说GLM-5.3很强"
         },
         {
-            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squ"
-        },
-        {
-            "title": "Making AI an asset, not an expense",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest"
-        },
-        {
-            "title": "Turbo Harness: Instance-Adaptive Harness Optimization",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. E"
-        },
-        {
-            "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient "
-        },
-        {
-            "title": "Cogentic: Multi-Agent Orchestration for Automated Proof Discovery",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier langu"
-        },
-        {
-            "title": "MatLoom: Layered Text-to-Material Generation in a Compact Program Space",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Material generation should produce not only an appearance, but also the rules that construct it. We introduce MatLoom, a"
-        },
-        {
-            "title": "Atomizer-IO: Beyond Pixels, Patches and Grids",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Most vision architectures assume that observations lie on a regular grid, an effective abstraction for natural images bu"
-        },
-        {
-            "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+            "snippet": "给Agent配上手机号，再拉个群"
         },
         {
-            "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models e"
-        },
-        {
-            "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+            "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain"
+            "snippet": "让GPT把机器人技能当工具调用"
         },
         {
-            "title": "Semifactual Credit-Augmented Policy Optimization",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models ("
-        },
-        {
-            "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible vid"
-        },
-        {
-            "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particular"
-        },
-        {
-            "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "The task of 3D assembly requires translating an understanding of parts and their relationships into precise spatial arra"
-        },
-        {
-            "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation l"
-        },
-        {
-            "title": "Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Egocentric human data provides a scalable source of experience for robot learning, but varies substantially in human-rob"
-        },
-        {
-            "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lack"
-        },
-        {
-            "title": "I Have a Stream: Making Self-Supervised Learning Work on Continuous Video",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Self-supervised learning draws inspiration from infant visual development, yet standard training pipelines bear little r"
-        },
-        {
-            "title": "Hackers stole millions of US military personnel records during months-long data breach",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Department of Defense notified millions of current and former U.S. military personnel that their personal informatio"
-        },
-        {
-            "title": "DoorDash’s drone strategy started on the ground",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash For"
-        },
-        {
-            "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing."
-        },
-        {
-            "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-        },
-        {
-            "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition"
-        },
-        {
-            "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not "
-        },
-        {
-            "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+            "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and boar"
+            "snippet": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
         },
         {
-            "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+            "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "机器人上市，风向有变"
+        },
+        {
+            "title": "The Download: OpenAI’s chief research officer explains its hacking response",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research off",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computer"
+        },
+        {
+            "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+        },
+        {
+            "title": "Embedding Prediction Helps Image Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every de"
+        },
+        {
+            "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahe"
+        },
+        {
+            "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active s"
+        },
+        {
+            "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their poten"
+        },
+        {
+            "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action g"
+        },
+        {
+            "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose wor"
+        },
+        {
+            "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by re"
+        },
+        {
+            "title": "Hierarchical Continuous Diffusion Language Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidir"
+        },
+        {
+            "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated targ"
+        },
+        {
+            "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even"
+        },
+        {
+            "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive com"
+        },
+        {
+            "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with in"
+        },
+        {
+            "title": "Sphere Encoder 2",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. "
+        },
+        {
+            "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural "
+        },
+        {
+            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into too"
+        },
+        {
+            "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-"
+        },
+        {
+            "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skil"
+        },
+        {
+            "title": "ChatGPT can now virtually try on clothes for you",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using t"
+        },
+        {
+            "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+        },
+        {
+            "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when t"
         }
     ]
 }
