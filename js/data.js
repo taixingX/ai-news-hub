@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-02 03:00:06
+ * 生成时间: 2026-10-03 02:45:56
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-            "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+            "summary": "用ImageNet训练encoder",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/09/499654.html"
+            "url": "https://www.qbitai.com/2026/10/499812.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "直播回顾：工业AI的下一个机会在哪？",
-            "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+            "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+            "summary": "价格只有Astra一半",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/09/499605.html"
+            "url": "https://www.qbitai.com/2026/10/499663.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Anthropic，你是来给智谱打广告的吧！",
-            "summary": "实测说GLM-5.3很强",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/09/499597.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-            "summary": "给Agent配上手机号，再拉个群",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain sc",
+            "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/09/499592.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
         }
     ],
     "quickNews": [
         {
-            "time": "03:00",
-            "text": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "time": "02:45",
+            "text": "何恺明团队新作：看猫片就能学会ARC挑战",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/09/499654.html"
+            "url": "https://www.qbitai.com/2026/10/499812.html"
         },
         {
-            "time": "03:00",
-            "text": "直播回顾：工业AI的下一个机会在哪？",
+            "time": "02:45",
+            "text": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499605.html"
+            "url": "https://www.qbitai.com/2026/10/499663.html"
         },
         {
-            "time": "03:00",
-            "text": "Anthropic，你是来给智谱打广告的吧！",
+            "time": "02:45",
+            "text": "The Download: AI “mind-reading” and creative uses for small ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499597.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
         },
         {
-            "time": "03:00",
-            "text": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+            "time": "02:45",
+            "text": "An AI “mind-reading” tool can reconstruct what you’re lookin",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499592.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
         },
         {
-            "time": "03:00",
-            "text": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+            "time": "02:45",
+            "text": "How smaller, distributed batteries could help the grid",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499493.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
         },
         {
-            "time": "03:00",
-            "text": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+            "time": "02:45",
+            "text": "Moore, Escher, Penrose: A Conformal Golden Braid",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499308.html"
+            "url": "http://arxiv.org/abs/2610.02210v1"
         },
         {
-            "time": "03:00",
-            "text": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+            "time": "02:45",
+            "text": "Sphere Encoder 2",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/09/499280.html"
+            "url": "http://arxiv.org/abs/2610.02208v1"
         },
         {
-            "time": "03:00",
-            "text": "The Download: OpenAI’s chief research officer explains its h",
+            "time": "02:45",
+            "text": "One Basis to Animate Them All: Gaussian Blendshape Distillat",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+            "url": "http://arxiv.org/abs/2610.02207v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+                    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499654.html",
+                    "url": "https://www.qbitai.com/2026/10/499812.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "千禧年难题的突破，10000个Agent最多占了10%的功劳。..."
+                    "desc": "用ImageNet训练encoder..."
                 },
                 {
-                    "title": "直播回顾：工业AI的下一个机会在哪？",
+                    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499605.html"
+                    "url": "https://www.qbitai.com/2026/10/499663.html"
                 },
                 {
-                    "title": "Anthropic，你是来给智谱打广告的吧！",
-                    "source": "量子位",
+                    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux wit",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499597.html"
+                    "url": "http://arxiv.org/abs/2610.02206v1"
                 },
                 {
-                    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499592.html"
+                    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
                 },
                 {
-                    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/09/499493.html"
+                    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02210v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02208v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02207v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02206v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02205v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "8小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02204v1"
@@ -274,31 +274,29 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/09/499308.html"
+                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
                 },
                 {
                     "rank": 2,
-                    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space",
-                    "time": "7小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/"
-                },
-                {
-                    "rank": 3,
                     "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from ",
-                    "time": "16小时前",
-                    "emoji": "🎬",
+                    "time": "昨天",
+                    "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
                 },
                 {
+                    "rank": 3,
+                    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to ne",
+                    "time": "8小时前",
+                    "emoji": "🎬",
+                    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+                },
+                {
                     "rank": 4,
-                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-                    "time": "14小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
@@ -359,7 +357,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+485,274",
+                    "stars": "+485,584",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -368,62 +366,62 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,620",
+                    "stars": "+456,654",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+398,343",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,174",
+                    "stars": "+391,196",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+368,678",
+                    "stars": "+368,738",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+324,767",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 7,
                     "name": "awesome-selfhosted/awesome-selfhosted",
                     "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+323,246",
+                    "stars": "+323,461",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 6,
+                    "rank": 8,
                     "name": "affaan-m/ECC",
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+270,744",
+                    "stars": "+271,405",
                     "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 7,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+250,868",
-                    "url": "https://github.com/react/react"
-                },
-                {
-                    "rank": 8,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+250,792",
-                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -432,72 +430,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/09/499654.html"
+            "url": "https://www.qbitai.com/2026/10/499812.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "直播回顾：工业AI的下一个机会在哪？",
+            "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/09/499605.html"
+            "url": "https://www.qbitai.com/2026/10/499663.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Anthropic，你是来给智谱打广告的吧！",
+            "title": "The Download: AI “mind-reading” and creative uses ",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/09/499597.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+            "title": "An AI “mind-reading” tool can reconstruct what you",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/499592.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+            "title": "How smaller, distributed batteries could help the ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/499493.html"
+            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+            "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/499308.html"
+            "url": "http://arxiv.org/abs/2610.02210v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+            "title": "Sphere Encoder 2",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/09/499280.html"
+            "url": "http://arxiv.org/abs/2610.02208v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The Download: OpenAI’s chief research officer expl",
+            "title": "One Basis to Animate Them All: Gaussian Blendshape",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+            "url": "http://arxiv.org/abs/2610.02207v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "“We’re not going to shoot ourselves in the foot” o",
+            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecur",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+            "url": "http://arxiv.org/abs/2610.02206v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Opus 5.5 loves to tell you ‘this matters’ (and oth",
+            "title": "ROWBench: Do Video Models Render What the Program ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+            "url": "http://arxiv.org/abs/2610.02205v1"
         }
     ],
     "aiTools": [
@@ -544,7 +542,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "OpenAI",
+            "text": "Download",
             "size": "large"
         },
         {
@@ -552,11 +550,7 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Download",
-            "size": "medium"
-        },
-        {
-            "text": "The",
+            "text": "&#",
             "size": "medium"
         },
         {
@@ -564,7 +558,23 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "The",
+            "size": "medium"
+        },
+        {
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
             "text": "We",
+            "size": "small"
+        },
+        {
+            "text": "Distillation",
+            "size": "small"
+        },
+        {
+            "text": "LLMs",
             "size": "small"
         },
         {
@@ -576,94 +586,88 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Distillation",
+            "text": "TechCrunch",
             "size": "small"
         },
         {
-            "text": "its",
+            "text": "Disrupt",
             "size": "small"
         },
         {
-            "text": "DeepSeek",
+            "text": "your",
             "size": "small"
         },
         {
-            "text": "Opus",
-            "size": "small"
-        },
-        {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "DSec",
-            "size": "small"
-        },
-        {
-            "text": "&#",
+            "text": "GPT",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+            "snippet": "用ImageNet训练encoder"
         },
         {
-            "title": "直播回顾：工业AI的下一个机会在哪？",
+            "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
+            "snippet": "价格只有Astra一半"
         },
         {
-            "title": "Anthropic，你是来给智谱打广告的吧！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "实测说GLM-5.3很强"
-        },
-        {
-            "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "给Agent配上手机号，再拉个群"
-        },
-        {
-            "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让GPT把机器人技能当工具调用"
-        },
-        {
-            "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+            "title": "The Download: AI “mind-reading” and creative uses for small batteries",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）"
-        },
-        {
-            "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "机器人上市，风向有变"
-        },
-        {
-            "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-            "category": "AI研究",
-            "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research off",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computer"
+            "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkab"
         },
         {
-            "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+            "title": "How smaller, distributed batteries could help the grid",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations"
+        },
+        {
+            "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with in"
+        },
+        {
+            "title": "Sphere Encoder 2",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. "
+        },
+        {
+            "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural "
+        },
+        {
+            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples."
+            "snippet": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into too"
+        },
+        {
+            "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-"
+        },
+        {
+            "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skil"
         },
         {
             "title": "Embedding Prediction Helps Image Generation",
@@ -720,70 +724,64 @@ var siteData = {
             "snippet": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated targ"
         },
         {
-            "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+            "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even"
+            "snippet": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for yo"
         },
         {
-            "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive com"
-        },
-        {
-            "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "I don't think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with in"
-        },
-        {
-            "title": "Sphere Encoder 2",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. "
-        },
-        {
-            "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural "
-        },
-        {
-            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verif",
+            "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into too"
+            "snippet": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psy"
         },
         {
-            "title": "ROWBench: Do Video Models Render What the Program Specifies?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Programmable world models separate executable dynamics from visual generation, offering a promising foundation for next-"
-        },
-        {
-            "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skil"
-        },
-        {
-            "title": "ChatGPT can now virtually try on clothes for you",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using t"
-        },
-        {
-            "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the grou",
+            "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+            "snippet": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI age"
         },
         {
-            "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when t"
+            "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropi"
+        },
+        {
+            "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualify"
+        },
+        {
+            "title": "Sean Parker is rebuilding Stability AI around music",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' ble"
+        },
+        {
+            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Sanders introduces bill to ban the federal government from using Flock",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The proposed legislation would extend to all automotica license plate readers."
+        },
+        {
+            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+        },
+        {
+            "title": "直播回顾：工业AI的下一个机会在哪？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
         }
     ]
 }
