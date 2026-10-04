@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-03 02:45:56
+ * 生成时间: 2026-10-04 03:17:00
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-            "summary": "用ImageNet训练encoder",
-            "source": "量子位",
+            "title": "Meta wants your next gadget to be Muse-infused",
+            "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/499812.html"
+            "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-            "summary": "价格只有Astra一半",
-            "source": "量子位",
+            "title": "Sanders introduces bill to ban the federal government from using Flock",
+            "summary": "The proposed legislation would extend to all automotica license plate readers.",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/499663.html"
+            "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "Sean Parker is rebuilding Stability AI around music",
+            "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back ",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+            "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain sc",
-            "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+            "summary": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+            "url": "https://www.qbitai.com/2026/10/500148.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:45",
-            "text": "何恺明团队新作：看猫片就能学会ARC挑战",
+            "time": "03:16",
+            "text": "Meta wants your next gadget to be Muse-infused",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/499812.html"
+            "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
         },
         {
-            "time": "02:45",
-            "text": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+            "time": "03:16",
+            "text": "Sanders introduces bill to ban the federal government from u",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/499663.html"
+            "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
         },
         {
-            "time": "02:45",
-            "text": "The Download: AI “mind-reading” and creative uses for small ",
+            "time": "03:16",
+            "text": "Sean Parker is rebuilding Stability AI around music",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+            "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
         },
         {
-            "time": "02:45",
-            "text": "An AI “mind-reading” tool can reconstruct what you’re lookin",
+            "time": "03:16",
+            "text": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+            "url": "https://www.qbitai.com/2026/10/500148.html"
         },
         {
-            "time": "02:45",
-            "text": "How smaller, distributed batteries could help the grid",
+            "time": "03:16",
+            "text": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
+            "url": "https://www.qbitai.com/2026/10/500098.html"
         },
         {
-            "time": "02:45",
-            "text": "Moore, Escher, Penrose: A Conformal Golden Braid",
+            "time": "03:16",
+            "text": "丘成桐新论文致谢了GPT和Claude",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.02210v1"
+            "url": "https://www.qbitai.com/2026/10/499991.html"
         },
         {
-            "time": "02:45",
-            "text": "Sphere Encoder 2",
+            "time": "03:16",
+            "text": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.02208v1"
+            "url": "https://www.qbitai.com/2026/10/499958.html"
         },
         {
-            "time": "02:45",
-            "text": "One Basis to Animate Them All: Gaussian Blendshape Distillat",
+            "time": "03:16",
+            "text": "Redefining enterprise intelligence with autonomous AI",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.02207v1"
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-                    "source": "量子位",
+                    "title": "Meta wants your next gadget to be Muse-infused",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/499812.html",
+                    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "用ImageNet训练encoder..."
+                    "desc": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free...."
                 },
                 {
-                    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-                    "source": "量子位",
+                    "title": "Sanders introduces bill to ban the federal government from using Flock",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/499663.html"
+                    "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
                 },
                 {
-                    "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux wit",
-                    "source": "arXiv",
+                    "title": "Sean Parker is rebuilding Stability AI around music",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.02206v1"
+                    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
                 },
                 {
-                    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
+                    "url": "https://www.qbitai.com/2026/10/500148.html"
                 },
                 {
-                    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/"
+                    "url": "https://www.qbitai.com/2026/10/500098.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02210v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02208v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02207v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02206v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02205v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.02204v1"
@@ -275,23 +275,23 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-                    "time": "昨天",
+                    "time": "2天前",
                     "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
                 },
                 {
                     "rank": 2,
                     "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from ",
-                    "time": "昨天",
+                    "time": "2天前",
                     "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
                 },
                 {
                     "rank": 3,
-                    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to ne",
-                    "time": "8小时前",
+                    "title": "All the AI agents that can live in your text messages",
+                    "time": "13小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+                    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
                 },
                 {
                     "rank": 4,
@@ -313,7 +313,15 @@ var siteData = {
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": []
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "Spotify billionaire’s body scan startup has come to America",
+                    "time": "13小时前",
+                    "emoji": "🔥",
+                    "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/"
+                }
+            ]
         },
         "policy": {
             "title": "政策法规",
@@ -357,7 +365,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+485,584",
+                    "stars": "+485,881",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -366,62 +374,62 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,654",
+                    "stars": "+456,710",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+398,343",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,196",
+                    "stars": "+391,250",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
+                    "rank": 4,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+251,001",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
                     "rank": 5,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+368,738",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+250,982",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 6,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+324,767",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "name": "deepseek-ai/deepseek-harness",
+                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+242,934",
+                    "url": "https://github.com/deepseek-ai/deepseek-harness"
                 },
                 {
                     "rank": 7,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
+                    "name": "TheAlgorithms/Python",
+                    "desc": "All Algorithms implemented in Python",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+323,461",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+225,224",
+                    "url": "https://github.com/TheAlgorithms/Python"
                 },
                 {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+271,405",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "anomalyco/opencode",
+                    "desc": "The open source coding agent.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+211,643",
+                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -430,72 +438,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+            "title": "Meta wants your next gadget to be Muse-infused",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/499812.html"
+            "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+            "title": "Sanders introduces bill to ban the federal governm",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/499663.html"
+            "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "The Download: AI “mind-reading” and creative uses ",
+            "title": "Sean Parker is rebuilding Stability AI around musi",
             "heat": "100.6万热度",
-            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+            "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "An AI “mind-reading” tool can reconstruct what you",
+            "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+            "url": "https://www.qbitai.com/2026/10/500148.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "How smaller, distributed batteries could help the ",
+            "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/"
+            "url": "https://www.qbitai.com/2026/10/500098.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+            "title": "丘成桐新论文致谢了GPT和Claude",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.02210v1"
+            "url": "https://www.qbitai.com/2026/10/499991.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Sphere Encoder 2",
+            "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.02208v1"
+            "url": "https://www.qbitai.com/2026/10/499958.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "One Basis to Animate Them All: Gaussian Blendshape",
+            "title": "Redefining enterprise intelligence with autonomous",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.02207v1"
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "KaliBench: A Fine-Grained Benchmark for Cybersecur",
+            "title": "The Download: a biological de-aging contest and wh",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.02206v1"
+            "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "ROWBench: Do Video Models Render What the Program ",
+            "title": "A new contest pits competitors against each other ",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.02205v1"
+            "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
         }
     ],
     "aiTools": [
@@ -546,11 +554,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "OpenAI",
             "size": "large"
         },
         {
-            "text": "&#",
+            "text": "AI",
             "size": "medium"
         },
         {
@@ -562,19 +570,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
             "text": "We",
             "size": "small"
         },
         {
-            "text": "Distillation",
+            "text": "Flock",
             "size": "small"
         },
         {
             "text": "LLMs",
+            "size": "small"
+        },
+        {
+            "text": "Distillation",
             "size": "small"
         },
         {
@@ -586,23 +594,131 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "TechCrunch",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Disrupt",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "your",
+            "text": "Meta",
             "size": "small"
         },
         {
-            "text": "GPT",
+            "text": "Muse",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "Meta wants your next gadget to be Muse-infused",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free."
+        },
+        {
+            "title": "Sanders introduces bill to ban the federal government from using Flock",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The proposed legislation would extend to all automotica license plate readers."
+        },
+        {
+            "title": "Sean Parker is rebuilding Stability AI around music",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' ble"
+        },
+        {
+            "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
+        },
+        {
+            "title": "丘成桐新论文致谢了GPT和Claude",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "44年前被亲自列入问题清单"
+        },
+        {
+            "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "换区也没用"
+        },
+        {
+            "title": "Redefining enterprise intelligence with autonomous AI",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster "
+        },
+        {
+            "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "A new contest pits competitors against each other in a race to biological youth",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recent"
+        },
+        {
+            "title": "Don’t be fooled—LLMs don’t reason",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board i"
+        },
+        {
+            "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+        },
+        {
+            "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for "
+        },
+        {
+            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
+        },
+        {
+            "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research off",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computer"
+        },
+        {
+            "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "专业3D模型反而更稀缺了"
+        },
         {
             "title": "何恺明团队新作：看猫片就能学会ARC挑战",
             "category": "大模型动态",
@@ -674,114 +790,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every de"
-        },
-        {
-            "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahe"
-        },
-        {
-            "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active s"
-        },
-        {
-            "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their poten"
-        },
-        {
-            "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action g"
-        },
-        {
-            "title": "HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Video generation models have achieved remarkable visual fidelity and have strong potential to become general-purpose wor"
-        },
-        {
-            "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We study test-time evolution for humanoid loco-manipulation: solving tasks that a controller was never trained for by re"
-        },
-        {
-            "title": "Hierarchical Continuous Diffusion Language Models",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidir"
-        },
-        {
-            "title": "DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Distribution Matching Distillation (DMD) trains a few-step student from the difference between separately estimated targ"
-        },
-        {
-            "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for yo"
-        },
-        {
-            "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psy"
-        },
-        {
-            "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI age"
-        },
-        {
-            "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropi"
-        },
-        {
-            "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualify"
-        },
-        {
-            "title": "Sean Parker is rebuilding Stability AI around music",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' ble"
-        },
-        {
-            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Sanders introduces bill to ban the federal government from using Flock",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The proposed legislation would extend to all automotica license plate readers."
-        },
-        {
-            "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。"
-        },
-        {
-            "title": "直播回顾：工业AI的下一个机会在哪？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？"
         }
     ]
 }
