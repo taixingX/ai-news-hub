@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-05 02:52:49
+ * 生成时间: 2026-10-06 03:43:46
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-            "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using ",
-            "source": "TechCrunch AI",
+            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+            "summary": "有改进就体验，没改进就重置，横竖不亏。",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+            "url": "https://www.qbitai.com/2026/10/501700.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-            "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-            "source": "TechCrunch AI",
+            "title": "AI算力硬合作，马斯克还是更相信中国制造",
+            "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+            "url": "https://www.qbitai.com/2026/10/501605.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-            "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company",
-            "source": "TechCrunch AI",
+            "title": "最火AI岗位FDE：月薪5万，都干这些…",
+            "summary": "什么是FDE？它会一直存在吗？",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+            "url": "https://www.qbitai.com/2026/10/501506.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-            "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "tag": "重磅 · 应用",
+            "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+            "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users disc",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:52",
-            "text": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+            "time": "03:43",
+            "text": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+            "url": "https://www.qbitai.com/2026/10/501700.html"
         },
         {
-            "time": "02:52",
-            "text": "Amazon responds to data center backlash, says it no longer u",
+            "time": "03:43",
+            "text": "AI算力硬合作，马斯克还是更相信中国制造",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+            "url": "https://www.qbitai.com/2026/10/501605.html"
         },
         {
-            "time": "02:52",
-            "text": "OpenAI safety employee resigns, claiming the company’s ‘cult",
+            "time": "03:43",
+            "text": "最火AI岗位FDE：月薪5万，都干这些…",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+            "url": "https://www.qbitai.com/2026/10/501506.html"
         },
         {
-            "time": "02:52",
-            "text": "Jack Dorsey’s Bitchat disappears from app stores in India af",
+            "time": "03:43",
+            "text": "TikTok rolls out an AI shopping assistant and one-click chec",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
         },
         {
-            "time": "02:52",
-            "text": "Vessev built an electric ferry that almost flies",
+            "time": "03:43",
+            "text": "At 19, founder raises $11M for Ghost, maker of a $3,499 comp",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"
+            "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
         },
         {
-            "time": "02:52",
-            "text": "All the AI agents that can live in your text messages",
+            "time": "03:43",
+            "text": "One Figure, Every Canvas: Editable Flowchart Relayout via Ag",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            "url": "http://arxiv.org/abs/2610.06852v1"
         },
         {
-            "time": "02:52",
-            "text": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+            "time": "03:43",
+            "text": "Base Models Can Reason By Taking a Cue From Training Data",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/501451.html"
+            "url": "http://arxiv.org/abs/2610.06851v1"
         },
         {
-            "time": "02:52",
-            "text": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+            "time": "03:43",
+            "text": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Se",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/501381.html"
+            "url": "http://arxiv.org/abs/2610.06850v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-                    "source": "TechCrunch AI",
+                    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+                    "url": "https://www.qbitai.com/2026/10/501700.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for ..."
+                    "desc": "有改进就体验，没改进就重置，横竖不亏。..."
                 },
                 {
-                    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-                    "source": "TechCrunch AI",
+                    "title": "AI算力硬合作，马斯克还是更相信中国制造",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+                    "url": "https://www.qbitai.com/2026/10/501605.html"
                 },
                 {
-                    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-                    "source": "TechCrunch AI",
+                    "title": "最火AI岗位FDE：月薪5万，都干这些…",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+                    "url": "https://www.qbitai.com/2026/10/501506.html"
                 },
                 {
-                    "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "Recursive Video In-Context Learning for Agentic Robot",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+                    "url": "http://arxiv.org/abs/2610.06843v1"
                 },
                 {
-                    "title": "Vessev built an electric ferry that almost flies",
-                    "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"
+                    "url": "http://arxiv.org/abs/2610.06830v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-                    "desc": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene struct...",
+                    "title": "【arXiv】One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+                    "desc": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:1...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03717v1"
+                    "url": "http://arxiv.org/abs/2610.06852v1"
                 },
                 {
-                    "title": "【arXiv】MoSE3: Learning World-Space SE(3) at Every Pixel",
-                    "desc": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per p...",
+                    "title": "【arXiv】Base Models Can Reason By Taking a Cue From Training Data",
+                    "desc": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior t...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03716v1"
+                    "url": "http://arxiv.org/abs/2610.06851v1"
                 },
                 {
-                    "title": "【arXiv】4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-                    "desc": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as execut...",
+                    "title": "【arXiv】InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+                    "desc": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly execu...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03715v1"
+                    "url": "http://arxiv.org/abs/2610.06850v1"
                 },
                 {
-                    "title": "【arXiv】What Should World Models Forget? Stratified Retention for Continual Adaptation",
-                    "desc": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary predictio...",
+                    "title": "【arXiv】S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generatio",
+                    "desc": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03713v1"
+                    "url": "http://arxiv.org/abs/2610.06847v1"
                 },
                 {
-                    "title": "【arXiv】EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
-                    "desc": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. Ey...",
+                    "title": "【arXiv】BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+                    "desc": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We intr...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03710v1"
+                    "url": "http://arxiv.org/abs/2610.06846v1"
                 },
                 {
-                    "title": "【arXiv】Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformer",
-                    "desc": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorl...",
+                    "title": "【arXiv】Learning to Read the Contextual Tokens in Diffusion Transformers",
+                    "desc": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update t...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.03698v1"
+                    "url": "http://arxiv.org/abs/2610.06844v1"
                 }
             ]
         },
@@ -274,46 +274,74 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "All the AI agents that can live in your text messages",
-                    "time": "昨天",
+                    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+                    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
                 },
                 {
                     "rank": 2,
-                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-                    "time": "3天前",
+                    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for p",
+                    "time": "9小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+                    "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
                 },
                 {
                     "rank": 3,
-                    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from ",
-                    "time": "3天前",
+                    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spuriou",
+                    "time": "9小时前",
                     "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
+                    "url": "http://arxiv.org/abs/2610.06846v1"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese model",
+                    "time": "8小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Instinct brings its AI agent to group chats, even for friends without ",
+                    "time": "8小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
                 },
                 {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+                    "time": "5小时前",
+                    "emoji": "🎵",
+                    "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/"
+                },
+                {
+                    "rank": 7,
+                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+                    "time": "4天前",
+                    "emoji": "📝",
+                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+                },
+                {
+                    "rank": 8,
+                    "title": "Connecting AI agents to enterprise knowledge",
+                    "time": "11小时前",
+                    "emoji": "🤖",
+                    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
                 }
             ]
         },
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": []
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+                    "time": "7小时前",
+                    "emoji": "🔥",
+                    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+                }
+            ]
         },
         "policy": {
             "title": "政策法规",
@@ -357,7 +385,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+486,105",
+                    "stars": "+486,351",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -366,7 +394,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,756",
+                    "stars": "+456,813",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -375,7 +403,7 @@ var siteData = {
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+398,486",
+                    "stars": "+398,557",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -384,44 +412,44 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,328",
+                    "stars": "+391,458",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+323,920",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+368,976",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+285,961",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 7,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+276,260",
+                    "stars": "+277,179",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
-                    "rank": 7,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+251,257",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
                     "rank": 8,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+251,113",
-                    "url": "https://github.com/torvalds/linux"
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+273,713",
+                    "url": "https://github.com/affaan-m/ECC"
                 }
             ]
         }
@@ -430,72 +458,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Federal judge calls Flock ‘indiscriminate mass sur",
+            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+            "url": "https://www.qbitai.com/2026/10/501700.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Amazon responds to data center backlash, says it n",
+            "title": "AI算力硬合作，马斯克还是更相信中国制造",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/"
+            "url": "https://www.qbitai.com/2026/10/501605.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "OpenAI safety employee resigns, claiming the compa",
+            "title": "最火AI岗位FDE：月薪5万，都干这些…",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+            "url": "https://www.qbitai.com/2026/10/501506.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Jack Dorsey’s Bitchat disappears from app stores i",
+            "title": "TikTok rolls out an AI shopping assistant and one-",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/"
+            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Vessev built an electric ferry that almost flies",
+            "title": "At 19, founder raises $11M for Ghost, maker of a $",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/"
+            "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "All the AI agents that can live in your text messa",
+            "title": "One Figure, Every Canvas: Editable Flowchart Relay",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
+            "url": "http://arxiv.org/abs/2610.06852v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+            "title": "Base Models Can Reason By Taking a Cue From Traini",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/501451.html"
+            "url": "http://arxiv.org/abs/2610.06851v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+            "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/501381.html"
+            "url": "http://arxiv.org/abs/2610.06850v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+            "title": "S2PD: Serial-to-Parallel Diffusion for Physically ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/501368.html"
+            "url": "http://arxiv.org/abs/2610.06847v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Google froze its open source bug bounty program du",
+            "title": "BiasFlow: Geometric Monitoring and Backbone Regula",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+            "url": "http://arxiv.org/abs/2610.06846v1"
         }
     ],
     "aiTools": [
@@ -542,19 +570,19 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
-            "size": "large"
-        },
-        {
             "text": "AI",
             "size": "large"
         },
         {
-            "text": "OpenAI",
+            "text": "Download",
+            "size": "large"
+        },
+        {
+            "text": "LLM",
             "size": "medium"
         },
         {
-            "text": "Models",
+            "text": "its",
             "size": "medium"
         },
         {
@@ -562,7 +590,7 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Trump",
+            "text": "Diffusion",
             "size": "small"
         },
         {
@@ -570,11 +598,23 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "We",
+            "text": "Multimodal",
             "size": "small"
         },
         {
-            "text": "This",
+            "text": "Paradee",
+            "size": "small"
+        },
+        {
+            "text": "Kokoro",
+            "size": "small"
+        },
+        {
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "models",
             "size": "small"
         },
         {
@@ -582,134 +622,176 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Flock",
+            "text": "TikTok",
             "size": "small"
         },
         {
-            "text": "Amazon",
-            "size": "small"
-        },
-        {
-            "text": "their",
-            "size": "small"
-        },
-        {
-            "text": "Bitchat",
-            "size": "small"
-        },
-        {
-            "text": "India",
+            "text": "agent",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for "
+            "snippet": "有改进就体验，没改进就重置，横竖不亏。"
         },
         {
-            "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+            "title": "AI算力硬合作，马斯克还是更相信中国制造",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+            "snippet": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
         },
         {
-            "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+            "title": "最火AI岗位FDE：月薪5万，都干这些…",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire w"
+            "snippet": "什么是FDE？它会一直存在吗？"
         },
         {
-            "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Bitchat has become largely unavailable in India as a result of the restrictions."
-        },
-        {
-            "title": "Vessev built an electric ferry that almost flies",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats."
-        },
-        {
-            "title": "All the AI agents that can live in your text messages",
+            "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d"
+            "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase pr"
         },
         {
-            "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "专业3D模型反而更稀缺了"
+            "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person"
         },
         {
-            "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "岗位JD甩了篇技术报告"
+            "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait po"
         },
         {
-            "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "又咋啦。。。"
+            "title": "Base Models Can Reason By Taking a Cue From Training Data",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In this paper, we study how training data creates associations between the tokens at the start of a base model's respons"
         },
         {
-            "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI slop seems to be overwhelming bug bounty programs."
-        },
-        {
-            "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+            "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+            "snippet": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterog"
         },
         {
-            "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-dis"
         },
         {
-            "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when "
         },
         {
-            "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research off",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computer"
+            "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. Th"
         },
         {
-            "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+            "title": "Recursive Video In-Context Learning for Agentic Robot",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "用ImageNet训练encoder"
+            "snippet": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, wh"
+        },
+        {
+            "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, curre"
+        },
+        {
+            "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slid"
+        },
+        {
+            "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. H"
+        },
+        {
+            "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement le"
+        },
+        {
+            "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making acc"
+        },
+        {
+            "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research ta"
+        },
+        {
+            "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac I",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of "
+        },
+        {
+            "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model th"
+        },
+        {
+            "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
+        },
+        {
+            "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” "
+        },
+        {
+            "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing c"
+        },
+        {
+            "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks h"
+        },
+        {
+            "title": "Etched fields funding offers at $40B+ valuation, sources say",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at d"
+        },
+        {
+            "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
         },
         {
             "title": "The Download: AI “mind-reading” and creative uses for small batteries",
             "category": "AI应用",
             "tag": "application",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkab"
-        },
-        {
-            "title": "How smaller, distributed batteries could help the grid",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations"
         },
         {
             "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
@@ -724,64 +806,10 @@ var siteData = {
             "snippet": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
         },
         {
-            "title": "丘成桐新论文致谢了GPT和Claude",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "44年前被亲自列入问题清单"
-        },
-        {
-            "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "换区也没用"
-        },
-        {
             "title": "Redefining enterprise intelligence with autonomous AI",
             "category": "AI研究",
             "tag": "research",
             "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster "
-        },
-        {
-            "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "A new contest pits competitors against each other in a race to biological youth",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recent"
-        },
-        {
-            "title": "Don’t be fooled—LLMs don’t reason",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board i"
-        },
-        {
-            "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS shoul"
-        },
-        {
-            "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a"
-        },
-        {
-            "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynam"
-        },
-        {
-            "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settin"
         }
     ]
 }
