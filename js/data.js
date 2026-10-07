@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-06 03:43:46
+ * 生成时间: 2026-10-07 03:10:19
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-            "summary": "有改进就体验，没改进就重置，横竖不亏。",
+            "title": "刚刚，诺贝尔奖颁给光遗传学！",
+            "summary": "从绿藻里的光开关，到控制神经元",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/501700.html"
+            "url": "https://www.qbitai.com/2026/10/501720.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "AI算力硬合作，马斯克还是更相信中国制造",
-            "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+            "tag": "独家 · 研究",
+            "title": "刚刚，Hinton发了首篇RSI论文",
+            "summary": "AI已经开始真正进入「造下一代AI」的流水线",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/501605.html"
+            "url": "https://www.qbitai.com/2026/10/501705.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "最火AI岗位FDE：月薪5万，都干这些…",
-            "summary": "什么是FDE？它会一直存在吗？",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+            "summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/501506.html"
+            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-            "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users disc",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 突破",
+            "title": "World Models' Last Exam in Physics",
+            "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising co",
+            "source": "arXiv",
             "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+            "url": "http://arxiv.org/abs/2610.08791v1"
         }
     ],
     "quickNews": [
         {
-            "time": "03:43",
-            "text": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+            "time": "03:10",
+            "text": "刚刚，诺贝尔奖颁给光遗传学！",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/501700.html"
+            "url": "https://www.qbitai.com/2026/10/501720.html"
         },
         {
-            "time": "03:43",
-            "text": "AI算力硬合作，马斯克还是更相信中国制造",
+            "time": "03:10",
+            "text": "刚刚，Hinton发了首篇RSI论文",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/501605.html"
+            "url": "https://www.qbitai.com/2026/10/501705.html"
         },
         {
-            "time": "03:43",
-            "text": "最火AI岗位FDE：月薪5万，都干这些…",
+            "time": "03:10",
+            "text": "India’s JioHotstar takes partnership route for Middle East e",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/501506.html"
+            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
         },
         {
-            "time": "03:43",
-            "text": "TikTok rolls out an AI shopping assistant and one-click chec",
+            "time": "03:10",
+            "text": "World Models' Last Exam in Physics",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+            "url": "http://arxiv.org/abs/2610.08791v1"
         },
         {
-            "time": "03:43",
-            "text": "At 19, founder raises $11M for Ghost, maker of a $3,499 comp",
+            "time": "03:10",
+            "text": "Building Rome from a Single Image",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+            "url": "http://arxiv.org/abs/2610.08790v1"
         },
         {
-            "time": "03:43",
-            "text": "One Figure, Every Canvas: Editable Flowchart Relayout via Ag",
+            "time": "03:10",
+            "text": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Intera",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.06852v1"
+            "url": "http://arxiv.org/abs/2610.08782v1"
         },
         {
-            "time": "03:43",
-            "text": "Base Models Can Reason By Taking a Cue From Training Data",
+            "time": "03:10",
+            "text": "IdeaAnchor: Teaching LLMs to Turn Literature into Research I",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.06851v1"
+            "url": "http://arxiv.org/abs/2610.08781v1"
         },
         {
-            "time": "03:43",
-            "text": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Se",
+            "time": "03:10",
+            "text": "DepthWorld: 3D World Model for Robot Manipulation",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.06850v1"
+            "url": "http://arxiv.org/abs/2610.08780v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+                    "title": "刚刚，诺贝尔奖颁给光遗传学！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/501700.html",
+                    "url": "https://www.qbitai.com/2026/10/501720.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "有改进就体验，没改进就重置，横竖不亏。..."
+                    "desc": "从绿藻里的光开关，到控制神经元..."
                 },
                 {
-                    "title": "AI算力硬合作，马斯克还是更相信中国制造",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/501605.html"
+                    "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
                 },
                 {
-                    "title": "最火AI岗位FDE：月薪5万，都干这些…",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/501506.html"
+                    "url": "http://arxiv.org/abs/2610.08781v1"
                 },
                 {
-                    "title": "Recursive Video In-Context Learning for Agentic Robot",
+                    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
                     "source": "arXiv",
                     "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.06843v1"
+                    "url": "http://arxiv.org/abs/2610.08778v1"
                 },
                 {
-                    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+                    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable A",
                     "source": "arXiv",
                     "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.06830v1"
+                    "url": "http://arxiv.org/abs/2610.08775v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-                    "desc": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:1...",
+                    "title": "【arXiv】World Models' Last Exam in Physics",
+                    "desc": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06852v1"
+                    "url": "http://arxiv.org/abs/2610.08791v1"
                 },
                 {
-                    "title": "【arXiv】Base Models Can Reason By Taking a Cue From Training Data",
-                    "desc": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior t...",
+                    "title": "【arXiv】Building Rome from a Single Image",
+                    "desc": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretr...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06851v1"
+                    "url": "http://arxiv.org/abs/2610.08790v1"
                 },
                 {
-                    "title": "【arXiv】InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-                    "desc": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly execu...",
+                    "title": "【arXiv】4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+                    "desc": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize in...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06850v1"
+                    "url": "http://arxiv.org/abs/2610.08782v1"
                 },
                 {
-                    "title": "【arXiv】S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generatio",
-                    "desc": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural...",
+                    "title": "【arXiv】IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+                    "desc": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training l...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06847v1"
+                    "url": "http://arxiv.org/abs/2610.08781v1"
                 },
                 {
-                    "title": "【arXiv】BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-                    "desc": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We intr...",
+                    "title": "【arXiv】DepthWorld: 3D World Model for Robot Manipulation",
+                    "desc": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and pl...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06846v1"
+                    "url": "http://arxiv.org/abs/2610.08780v1"
                 },
                 {
-                    "title": "【arXiv】Learning to Read the Contextual Tokens in Diffusion Transformers",
-                    "desc": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update t...",
+                    "title": "【arXiv】ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+                    "desc": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introd...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.06844v1"
+                    "url": "http://arxiv.org/abs/2610.08779v1"
                 }
             ]
         },
@@ -274,59 +274,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+                    "title": "DepthWorld: 3D World Model for Robot Manipulation",
                     "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+                    "url": "http://arxiv.org/abs/2610.08780v1"
                 },
                 {
                     "rank": 2,
-                    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for p",
-                    "time": "9小时前",
+                    "title": "The next hurdle for AI agents: getting websites to let them in",
+                    "time": "7小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+                    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
                 },
                 {
                     "rank": 3,
-                    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spuriou",
-                    "time": "9小时前",
+                    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Ins",
+                    "time": "6小时前",
                     "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2610.06846v1"
+                    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
                 },
                 {
                     "rank": 4,
-                    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese model",
-                    "time": "8小时前",
+                    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermos",
+                    "time": "4小时前",
                     "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+                    "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
                 },
                 {
                     "rank": 5,
-                    "title": "Instinct brings its AI agent to group chats, even for friends without ",
-                    "time": "8小时前",
+                    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their",
+                    "time": "4小时前",
                     "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/"
+                    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
                 },
                 {
                     "rank": 6,
-                    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-                    "time": "5小时前",
+                    "title": "WaveSave and its portable rubber dam",
+                    "time": "16小时前",
                     "emoji": "🎵",
-                    "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/"
-                },
-                {
-                    "rank": 7,
-                    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-                    "time": "4天前",
-                    "emoji": "📝",
-                    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
-                },
-                {
-                    "rank": 8,
-                    "title": "Connecting AI agents to enterprise knowledge",
-                    "time": "11小时前",
-                    "emoji": "🤖",
-                    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+                    "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/"
                 }
             ]
         },
@@ -336,10 +322,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Etched fields funding offers at $40B+ valuation, sources say",
+                    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
                     "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/"
+                    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+                },
+                {
+                    "rank": 2,
+                    "title": "How AI decision models could change content moderation",
+                    "time": "6小时前",
+                    "emoji": "💰",
+                    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
                 }
             ]
         },
@@ -381,75 +374,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+486,351",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,813",
+                    "stars": "+456,867",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+398,557",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 4,
+                    "rank": 2,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,458",
+                    "stars": "+391,526",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+368,976",
+                    "stars": "+369,040",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+285,961",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "stars": "+324,424",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
+                    "name": "obra/superpowers",
+                    "desc": "An agentic skills framework & software development methodology that works.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+296,048",
+                    "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 6,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+277,179",
+                    "stars": "+278,245",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+251,725",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+273,713",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+251,301",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -458,72 +451,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+            "title": "刚刚，诺贝尔奖颁给光遗传学！",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/501700.html"
+            "url": "https://www.qbitai.com/2026/10/501720.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "AI算力硬合作，马斯克还是更相信中国制造",
+            "title": "刚刚，Hinton发了首篇RSI论文",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/501605.html"
+            "url": "https://www.qbitai.com/2026/10/501705.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "最火AI岗位FDE：月薪5万，都干这些…",
+            "title": "India’s JioHotstar takes partnership route for Mid",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/501506.html"
+            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "TikTok rolls out an AI shopping assistant and one-",
+            "title": "World Models' Last Exam in Physics",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+            "url": "http://arxiv.org/abs/2610.08791v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "At 19, founder raises $11M for Ghost, maker of a $",
+            "title": "Building Rome from a Single Image",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+            "url": "http://arxiv.org/abs/2610.08790v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "One Figure, Every Canvas: Editable Flowchart Relay",
+            "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.06852v1"
+            "url": "http://arxiv.org/abs/2610.08782v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Base Models Can Reason By Taking a Cue From Traini",
+            "title": "IdeaAnchor: Teaching LLMs to Turn Literature into ",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.06851v1"
+            "url": "http://arxiv.org/abs/2610.08781v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation ",
+            "title": "DepthWorld: 3D World Model for Robot Manipulation",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.06850v1"
+            "url": "http://arxiv.org/abs/2610.08780v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "S2PD: Serial-to-Parallel Diffusion for Physically ",
+            "title": "ALIVE: Interaction-Aligned Object Insertion for Fi",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.06847v1"
+            "url": "http://arxiv.org/abs/2610.08779v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "BiasFlow: Geometric Monitoring and Backbone Regula",
+            "title": "Sherpa: Teaching LLMs to Teach Adaptively",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.06846v1"
+            "url": "http://arxiv.org/abs/2610.08778v1"
         }
     ],
     "aiTools": [
@@ -570,47 +563,31 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "Energy",
+            "size": "large"
+        },
+        {
+            "text": "World",
+            "size": "large"
+        },
+        {
+            "text": "LLMs",
+            "size": "medium"
+        },
+        {
             "text": "AI",
-            "size": "large"
-        },
-        {
-            "text": "Download",
-            "size": "large"
-        },
-        {
-            "text": "LLM",
             "size": "medium"
         },
         {
-            "text": "its",
+            "text": "Gaussian",
             "size": "medium"
         },
         {
-            "text": "The",
-            "size": "medium"
-        },
-        {
-            "text": "Diffusion",
+            "text": "Video",
             "size": "small"
         },
         {
-            "text": "Learning",
-            "size": "small"
-        },
-        {
-            "text": "Multimodal",
-            "size": "small"
-        },
-        {
-            "text": "Paradee",
-            "size": "small"
-        },
-        {
-            "text": "Kokoro",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
+            "text": "Existing",
             "size": "small"
         },
         {
@@ -618,19 +595,203 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "However",
             "size": "small"
         },
         {
-            "text": "TikTok",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "agent",
+            "text": "Web",
+            "size": "small"
+        },
+        {
+            "text": "The",
+            "size": "small"
+        },
+        {
+            "text": "its",
+            "size": "small"
+        },
+        {
+            "text": "world",
+            "size": "small"
+        },
+        {
+            "text": "batteries",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "刚刚，诺贝尔奖颁给光遗传学！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "从绿藻里的光开关，到控制神经元"
+        },
+        {
+            "title": "刚刚，Hinton发了首篇RSI论文",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "AI已经开始真正进入「造下一代AI」的流水线"
+        },
+        {
+            "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service."
+        },
+        {
+            "title": "World Models' Last Exam in Physics",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their r"
+        },
+        {
+            "title": "Building Rome from a Single Image",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camer"
+        },
+        {
+            "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative appr"
+        },
+        {
+            "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new d"
+        },
+        {
+            "title": "DepthWorld: 3D World Model for Robot Manipulation",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy e"
+        },
+        {
+            "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picke"
+        },
+        {
+            "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not "
+        },
+        {
+            "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user control"
+        },
+        {
+            "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances"
+        },
+        {
+            "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on "
+        },
+        {
+            "title": "Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Diffusion Transformers (DiTs) have achieved strong performance in image and video generation, but the quadratic complexi"
+        },
+        {
+            "title": "Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Ov",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Patch-based learning improves hyperspectral image (HSI) classification by exploiting local spectral-spatial information,"
+        },
+        {
+            "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. Howe"
+        },
+        {
+            "title": "WorldSonus: Bringing Sound to Worlds",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environme"
+        },
+        {
+            "title": "Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Represent",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "The same Gaussian of a 3D Gaussian Splatting model is seen from many views, and these views do not always agree on the c"
+        },
+        {
+            "title": "Hark releases an AI personal assistant with a focus on privacy",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct"
+        },
+        {
+            "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led"
+        },
+        {
+            "title": "The next hurdle for AI agents: getting websites to let them in",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defe"
+        },
+        {
+            "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully pri"
+        },
+        {
+            "title": "How AI decision models could change content moderation",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released w"
+        },
+        {
+            "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,"
+        },
+        {
+            "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+        },
+        {
+            "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate t"
+        },
+        {
+            "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "专业3D模型反而更稀缺了"
+        },
+        {
+            "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "三位菲尔兹奖得主：不代表认可"
+        },
         {
             "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
             "category": "大模型动态",
@@ -642,174 +803,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
-        },
-        {
-            "title": "最火AI岗位FDE：月薪5万，都干这些…",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "什么是FDE？它会一直存在吗？"
-        },
-        {
-            "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase pr"
-        },
-        {
-            "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person"
-        },
-        {
-            "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait po"
-        },
-        {
-            "title": "Base Models Can Reason By Taking a Cue From Training Data",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In this paper, we study how training data creates associations between the tokens at the start of a base model's respons"
-        },
-        {
-            "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterog"
-        },
-        {
-            "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-dis"
-        },
-        {
-            "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when "
-        },
-        {
-            "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. Th"
-        },
-        {
-            "title": "Recursive Video In-Context Learning for Agentic Robot",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, wh"
-        },
-        {
-            "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, curre"
-        },
-        {
-            "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slid"
-        },
-        {
-            "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. H"
-        },
-        {
-            "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement le"
-        },
-        {
-            "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making acc"
-        },
-        {
-            "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research ta"
-        },
-        {
-            "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac I",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of "
-        },
-        {
-            "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model th"
-        },
-        {
-            "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post."
-        },
-        {
-            "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” "
-        },
-        {
-            "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing c"
-        },
-        {
-            "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks h"
-        },
-        {
-            "title": "Etched fields funding offers at $40B+ valuation, sources say",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at d"
-        },
-        {
-            "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs."
-        },
-        {
-            "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择"
-        },
-        {
-            "title": "Redefining enterprise intelligence with autonomous AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster "
         }
     ]
 }
