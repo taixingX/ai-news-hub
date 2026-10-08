@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-07 03:10:19
+ * 生成时间: 2026-10-08 03:26:07
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "刚刚，诺贝尔奖颁给光遗传学！",
-            "summary": "从绿藻里的光开关，到控制神经元",
+            "tag": "独家 · 研究",
+            "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+            "summary": "三位菲尔兹奖得主：不代表认可",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/501720.html"
+            "url": "https://www.qbitai.com/2026/10/501749.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "刚刚，Hinton发了首篇RSI论文",
-            "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+            "tag": "头条 · 大模型",
+            "title": "刚刚，诺贝尔物理奖一人独揽！",
+            "summary": "南极洲甚至有一座高地以他名字命名",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/501705.html"
+            "url": "https://www.qbitai.com/2026/10/501746.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-            "summary": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+            "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the ye",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
+            "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "World Models' Last Exam in Physics",
-            "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising co",
-            "source": "arXiv",
-            "time": "9小时前",
+            "tag": "独家 · 研究",
+            "title": "The Download: 10 climate tech companies to watch",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2610.08791v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
         }
     ],
     "quickNews": [
         {
-            "time": "03:10",
-            "text": "刚刚，诺贝尔奖颁给光遗传学！",
+            "time": "03:26",
+            "text": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/501720.html"
+            "url": "https://www.qbitai.com/2026/10/501749.html"
         },
         {
-            "time": "03:10",
-            "text": "刚刚，Hinton发了首篇RSI论文",
+            "time": "03:26",
+            "text": "刚刚，诺贝尔物理奖一人独揽！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/501705.html"
+            "url": "https://www.qbitai.com/2026/10/501746.html"
         },
         {
-            "time": "03:10",
-            "text": "India’s JioHotstar takes partnership route for Middle East e",
+            "time": "03:26",
+            "text": "Weight-loss drugs show signs of slowing biological aging, sa",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
+            "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
         },
         {
-            "time": "03:10",
-            "text": "World Models' Last Exam in Physics",
+            "time": "03:26",
+            "text": "The Download: 10 climate tech companies to watch",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.08791v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
         },
         {
-            "time": "03:10",
-            "text": "Building Rome from a Single Image",
+            "time": "03:26",
+            "text": "2026 Climate Tech Companies to Watch",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.08790v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
         },
         {
-            "time": "03:10",
-            "text": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Intera",
+            "time": "03:26",
+            "text": "Here’s how our climate team picked 10 promising companies to",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.08782v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
         },
         {
-            "time": "03:10",
-            "text": "IdeaAnchor: Teaching LLMs to Turn Literature into Research I",
+            "time": "03:26",
+            "text": "WeLion New Energy and its semi-solid-state batteries",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.08781v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
         },
         {
-            "time": "03:10",
-            "text": "DepthWorld: 3D World Model for Robot Manipulation",
+            "time": "03:26",
+            "text": "Form Energy and its iron batteries",
             "hot": false,
-            "url": "http://arxiv.org/abs/2610.08780v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "刚刚，诺贝尔奖颁给光遗传学！",
+                    "title": "刚刚，诺贝尔物理奖一人独揽！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/501720.html",
+                    "url": "https://www.qbitai.com/2026/10/501746.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "从绿藻里的光开关，到控制神经元..."
+                    "desc": "南极洲甚至有一座高地以他名字命名..."
                 },
                 {
-                    "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+                    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
                     "source": "TechCrunch AI",
                     "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
+                    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/"
                 },
                 {
-                    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-                    "source": "arXiv",
+                    "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+                    "source": "TechCrunch AI",
                     "time": "9小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.08781v1"
+                    "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/"
                 },
                 {
-                    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
-                    "source": "arXiv",
+                    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+                    "source": "TechCrunch AI",
                     "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.08778v1"
+                    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
                 },
                 {
-                    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable A",
-                    "source": "arXiv",
+                    "title": "Greenairy is building smart plant towers to clean the air in your office",
+                    "source": "TechCrunch AI",
                     "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.08775v1"
+                    "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】World Models' Last Exam in Physics",
-                    "desc": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and ...",
+                    "title": "【arXiv】Tetris3D: 3D Scene Generation With Objects That Fit Together",
+                    "desc": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically cohe...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08791v1"
+                    "url": "http://arxiv.org/abs/2610.10539v1"
                 },
                 {
-                    "title": "【arXiv】Building Rome from a Single Image",
-                    "desc": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretr...",
+                    "title": "【arXiv】Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+                    "desc": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08790v1"
+                    "url": "http://arxiv.org/abs/2610.10538v1"
                 },
                 {
-                    "title": "【arXiv】4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-                    "desc": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize in...",
+                    "title": "【arXiv】Decoupling Exploration from Optimization in RLVR",
+                    "desc": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is t...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08782v1"
+                    "url": "http://arxiv.org/abs/2610.10536v1"
                 },
                 {
-                    "title": "【arXiv】IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-                    "desc": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training l...",
+                    "title": "【arXiv】EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+                    "desc": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language mod...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08781v1"
+                    "url": "http://arxiv.org/abs/2610.10533v1"
                 },
                 {
-                    "title": "【arXiv】DepthWorld: 3D World Model for Robot Manipulation",
-                    "desc": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and pl...",
+                    "title": "【arXiv】Long-WAM: Scaling the Context of World-Action Models",
+                    "desc": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08780v1"
+                    "url": "http://arxiv.org/abs/2610.10528v1"
                 },
                 {
-                    "title": "【arXiv】ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-                    "desc": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introd...",
+                    "title": "【arXiv】Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Lang",
+                    "desc": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-languag...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.08779v1"
+                    "url": "http://arxiv.org/abs/2610.10526v1"
                 }
             ]
         },
@@ -274,45 +274,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+                    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
                     "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2610.08780v1"
+                    "url": "http://arxiv.org/abs/2610.10513v1"
                 },
                 {
                     "rank": 2,
-                    "title": "The next hurdle for AI agents: getting websites to let them in",
-                    "time": "7小时前",
+                    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+                    "time": "8小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+                    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
                 },
                 {
                     "rank": 3,
-                    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Ins",
+                    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for ",
                     "time": "6小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/"
+                    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
                 },
                 {
                     "rank": 4,
-                    "title": "Apple is reportedly partnering with LG to launch a smart lock, thermos",
-                    "time": "4小时前",
+                    "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+                    "time": "20小时前",
                     "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/"
+                    "url": "https://www.qbitai.com/2026/10/501791.html"
                 },
                 {
                     "rank": 5,
-                    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their",
-                    "time": "4小时前",
-                    "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "WaveSave and its portable rubber dam",
-                    "time": "16小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -322,17 +318,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-                    "time": "7小时前",
+                    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
-                },
-                {
-                    "rank": 2,
-                    "title": "How AI decision models could change content moderation",
-                    "time": "6小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+                    "url": "http://arxiv.org/abs/2610.10506v1"
                 }
             ]
         },
@@ -378,7 +367,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,867",
+                    "stars": "+456,914",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -387,7 +376,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,526",
+                    "stars": "+391,611",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -396,17 +385,17 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+369,040",
+                    "stars": "+369,123",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 4,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+324,424",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "stars": "+325,936",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 5,
@@ -414,7 +403,7 @@ var siteData = {
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+296,048",
+                    "stars": "+296,430",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
@@ -423,7 +412,7 @@ var siteData = {
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+278,245",
+                    "stars": "+279,814",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
@@ -432,7 +421,7 @@ var siteData = {
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+251,725",
+                    "stars": "+251,983",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
@@ -441,7 +430,7 @@ var siteData = {
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+251,301",
+                    "stars": "+251,426",
                     "url": "https://github.com/torvalds/linux"
                 }
             ]
@@ -451,72 +440,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "刚刚，诺贝尔奖颁给光遗传学！",
+            "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/501720.html"
+            "url": "https://www.qbitai.com/2026/10/501749.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "刚刚，Hinton发了首篇RSI论文",
+            "title": "刚刚，诺贝尔物理奖一人独揽！",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/501705.html"
+            "url": "https://www.qbitai.com/2026/10/501746.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "India’s JioHotstar takes partnership route for Mid",
+            "title": "Weight-loss drugs show signs of slowing biological",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/"
+            "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "World Models' Last Exam in Physics",
+            "title": "The Download: 10 climate tech companies to watch",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08791v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Building Rome from a Single Image",
+            "title": "2026 Climate Tech Companies to Watch",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08790v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward",
+            "title": "Here’s how our climate team picked 10 promising co",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08782v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "IdeaAnchor: Teaching LLMs to Turn Literature into ",
+            "title": "WeLion New Energy and its semi-solid-state batteri",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08781v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "DepthWorld: 3D World Model for Robot Manipulation",
+            "title": "Form Energy and its iron batteries",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08780v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "ALIVE: Interaction-Aligned Object Insertion for Fi",
+            "title": "X-energy and its helium-cooled nuclear reactors",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08779v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+            "title": "Energy Dome and its carbon dioxide batteries",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.08778v1"
+            "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/"
         }
     ],
     "aiTools": [
@@ -567,11 +556,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "World",
+            "text": "Models",
             "size": "large"
         },
         {
-            "text": "LLMs",
+            "text": "ChatGPT",
             "size": "medium"
         },
         {
@@ -579,15 +568,19 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Gaussian",
+            "text": "Download",
             "size": "medium"
         },
         {
-            "text": "Video",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "Existing",
+            "text": "Generation",
+            "size": "small"
+        },
+        {
+            "text": "Language",
             "size": "small"
         },
         {
@@ -595,27 +588,23 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "However",
+            "text": "Climate",
             "size": "small"
         },
         {
-            "text": "LLM",
+            "text": "RLVR",
             "size": "small"
         },
         {
-            "text": "Web",
+            "text": "Robot",
+            "size": "small"
+        },
+        {
+            "text": "OpenAI",
             "size": "small"
         },
         {
             "text": "The",
-            "size": "small"
-        },
-        {
-            "text": "its",
-            "size": "small"
-        },
-        {
-            "text": "world",
             "size": "small"
         },
         {
@@ -625,184 +614,184 @@ var siteData = {
     ],
     "searchData": [
         {
-            "title": "刚刚，诺贝尔奖颁给光遗传学！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "从绿藻里的光开关，到控制神经元"
-        },
-        {
-            "title": "刚刚，Hinton发了首篇RSI论文",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "AI已经开始真正进入「造下一代AI」的流水线"
-        },
-        {
-            "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service."
-        },
-        {
-            "title": "World Models' Last Exam in Physics",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their r"
-        },
-        {
-            "title": "Building Rome from a Single Image",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camer"
-        },
-        {
-            "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative appr"
-        },
-        {
-            "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new d"
-        },
-        {
-            "title": "DepthWorld: 3D World Model for Robot Manipulation",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy e"
-        },
-        {
-            "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picke"
-        },
-        {
-            "title": "Sherpa: Teaching LLMs to Teach Adaptively",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not "
-        },
-        {
-            "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user control"
-        },
-        {
-            "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances"
-        },
-        {
-            "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on "
-        },
-        {
-            "title": "Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Diffusion Transformers (DiTs) have achieved strong performance in image and video generation, but the quadratic complexi"
-        },
-        {
-            "title": "Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Ov",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Patch-based learning improves hyperspectral image (HSI) classification by exploiting local spectral-spatial information,"
-        },
-        {
-            "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. Howe"
-        },
-        {
-            "title": "WorldSonus: Bringing Sound to Worlds",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environme"
-        },
-        {
-            "title": "Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Represent",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "The same Gaussian of a 3D Gaussian Splatting model is seen from many views, and these views do not always agree on the c"
-        },
-        {
-            "title": "Hark releases an AI personal assistant with a focus on privacy",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct"
-        },
-        {
-            "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led"
-        },
-        {
-            "title": "The next hurdle for AI agents: getting websites to let them in",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defe"
-        },
-        {
-            "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully pri"
-        },
-        {
-            "title": "How AI decision models could change content moderation",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released w"
-        },
-        {
-            "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,"
-        },
-        {
-            "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
-        },
-        {
-            "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate t"
-        },
-        {
-            "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "专业3D模型反而更稀缺了"
-        },
-        {
             "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
             "category": "AI研究",
             "tag": "research",
             "snippet": "三位菲尔兹奖得主：不代表认可"
         },
         {
-            "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+            "title": "刚刚，诺贝尔物理奖一人独揽！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "有改进就体验，没改进就重置，横竖不亏。"
+            "snippet": "南极洲甚至有一座高地以他名字命名"
         },
         {
-            "title": "AI算力硬合作，马斯克还是更相信中国制造",
+            "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli"
+        },
+        {
+            "title": "The Download: 10 climate tech companies to watch",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "2026 Climate Tech Companies to Watch",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": ""
+        },
+        {
+            "title": "Here’s how our climate team picked 10 promising companies to watch",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate T"
+        },
+        {
+            "title": "WeLion New Energy and its semi-solid-state batteries",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safe"
+        },
+        {
+            "title": "Form Energy and its iron batteries",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply a"
+        },
+        {
+            "title": "X-energy and its helium-cooled nuclear reactors",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufa"
+        },
+        {
+            "title": "Energy Dome and its carbon dioxide batteries",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Do"
+        },
+        {
+            "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produc"
+        },
+        {
+            "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。"
+            "snippet": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging"
+        },
+        {
+            "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other pro"
+        },
+        {
+            "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT."
+        },
+        {
+            "title": "Greenairy is building smart plant towers to clean the air in your office",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery."
+        },
+        {
+            "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are phy"
+        },
+        {
+            "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We "
+        },
+        {
+            "title": "Decoupling Exploration from Optimization in RLVR",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoin"
+        },
+        {
+            "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the "
+        },
+        {
+            "title": "Long-WAM: Scaling the Context of World-Action Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can"
+        },
+        {
+            "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Actio",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language ro"
+        },
+        {
+            "title": "GRACE: Generation-aware latent compression for efficient video generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Trans"
+        },
+        {
+            "title": "RoboJEPA: Scaling Robotic Latent World Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice,"
+        },
+        {
+            "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually "
+        },
+        {
+            "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual obser"
+        },
+        {
+            "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrie"
+        },
+        {
+            "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventiona"
+        },
+        {
+            "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Mo",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, "
+        },
+        {
+            "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or ta"
+        },
+        {
+            "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditi"
         }
     ]
 }
