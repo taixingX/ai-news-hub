@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-09 03:31:38
+ * 生成时间: 2026-10-10 03:11:38
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,23 +9,13 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "独家 · 研究",
-            "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
-            "time": "昨天",
-            "views": "100.0K",
-            "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
-        },
-        {
             "tag": "头条 · 大模型",
             "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
             "summary": "江淮再度跌停",
             "source": "量子位",
-            "time": "刚刚",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "time": "昨天",
+            "views": "100.0K",
+            "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
             "url": "https://www.qbitai.com/2026/10/502114.html"
         },
         {
@@ -33,70 +23,80 @@ var siteData = {
             "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
             "summary": "多Agent协同还能自我进化",
             "source": "量子位",
-            "time": "刚刚",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
             "url": "https://www.qbitai.com/2026/10/502106.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-            "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+            "summary": "让AI反复试错的“练兵场”来了",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://www.qbitai.com/2026/10/502096.html"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+            "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samu",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
         }
     ],
     "quickNews": [
         {
-            "time": "03:31",
-            "text": "The Download: weight-loss drugs slowing aging and carbon dio",
-            "hot": true,
-            "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
-        },
-        {
-            "time": "03:31",
+            "time": "03:11",
             "text": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-            "hot": false,
+            "hot": true,
             "url": "https://www.qbitai.com/2026/10/502114.html"
         },
         {
-            "time": "03:31",
+            "time": "03:11",
             "text": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
             "hot": false,
             "url": "https://www.qbitai.com/2026/10/502106.html"
         },
         {
-            "time": "03:31",
-            "text": "Watch the trailer for ‘The Altruists,’ Netflix’s show about ",
+            "time": "03:11",
+            "text": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
+            "url": "https://www.qbitai.com/2026/10/502096.html"
         },
         {
-            "time": "03:31",
-            "text": "Ben Affleck is an AI nerd, and the internet is impressed",
+            "time": "03:11",
+            "text": "Roundtables: A Conversation With the Creator of AI-Designed ",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
         },
         {
-            "time": "03:31",
-            "text": "Popular AI leaderboard Arena nearly doubles valuation to $3.",
+            "time": "03:11",
+            "text": "The Download: AI roadblocks for humanoids and portable rubbe",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
         },
         {
-            "time": "03:31",
-            "text": "OpenAI’s revenue is reportedly $20 billion less than previou",
+            "time": "03:11",
+            "text": "Why we’re watching these climate tech companies",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+            "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
         },
         {
-            "time": "03:31",
-            "text": "Google brings agentic AI to Gemini, starting with businesses",
+            "time": "03:11",
+            "text": "AI breakthroughs in robotics won’t change your life any time",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+            "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+        },
+        {
+            "time": "03:11",
+            "text": "Building a safer path to autonomous industrial AI",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
         }
     ],
     "sections": {
@@ -129,7 +129,7 @@ var siteData = {
                 {
                     "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
                     "source": "量子位",
-                    "time": "刚刚",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
@@ -140,44 +140,44 @@ var siteData = {
                     "desc": "江淮再度跌停..."
                 },
                 {
-                    "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
+                    "url": "https://www.qbitai.com/2026/10/502096.html"
                 },
                 {
-                    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 m",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visu",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+                    "url": "http://arxiv.org/abs/2610.12458v1"
                 },
                 {
-                    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Dec",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+                    "url": "http://arxiv.org/abs/2610.12445v1"
                 },
                 {
-                    "title": "Google brings agentic AI to Gemini, starting with businesses",
+                    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+                    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12470v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12469v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12468v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12466v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12463v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12464v1"
@@ -275,55 +275,51 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-                    "time": "刚刚",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/10/502106.html"
                 },
                 {
                     "rank": 2,
-                    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI,",
-                    "time": "9小时前",
-                    "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2610.12463v1"
-                },
-                {
-                    "rank": 3,
                     "title": "Building a safer path to autonomous industrial AI",
-                    "time": "19小时前",
-                    "emoji": "🎬",
+                    "time": "昨天",
+                    "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
                 },
                 {
+                    "rank": 3,
+                    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI,",
+                    "time": "昨天",
+                    "emoji": "🎬",
+                    "url": "http://arxiv.org/abs/2610.12463v1"
+                },
+                {
                     "rank": 4,
-                    "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
-                    "time": "14小时前",
+                    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch dela",
+                    "time": "刚刚",
                     "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/10/502035.html"
+                    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Long live the mechanical keyboard",
+                    "time": "5小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
                 },
                 {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its i",
+                    "time": "2小时前",
+                    "emoji": "🎵",
+                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
                 }
             ]
         },
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "浪子回头！Manus重启北京办公室大举招聘",
-                    "time": "18小时前",
-                    "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/502009.html"
-                }
-            ]
+            "items": []
         },
         "policy": {
             "title": "政策法规",
@@ -367,71 +363,71 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,733",
+                    "stars": "+456,782",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+398,584",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,489",
+                    "stars": "+391,545",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+368,982",
+                    "stars": "+369,055",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+326,186",
+                    "url": "https://github.com/vinta/awesome-python"
+                },
+                {
+                    "rank": 6,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+325,018",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 7,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+296,606",
+                    "stars": "+296,928",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
-                    "rank": 5,
+                    "rank": 8,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+281,285",
+                    "stars": "+282,895",
                     "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 6,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+252,072",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 7,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+251,285",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 8,
-                    "name": "anomalyco/opencode",
-                    "desc": "The open source coding agent.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+212,225",
-                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -440,72 +436,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "The Download: weight-loss drugs slowing aging and ",
+            "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
+            "url": "https://www.qbitai.com/2026/10/502114.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+            "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/502114.html"
+            "url": "https://www.qbitai.com/2026/10/502106.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/502106.html"
+            "url": "https://www.qbitai.com/2026/10/502096.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Watch the trailer for ‘The Altruists,’ Netflix’s s",
+            "title": "Roundtables: A Conversation With the Creator of AI",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Ben Affleck is an AI nerd, and the internet is imp",
+            "title": "The Download: AI roadblocks for humanoids and port",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Popular AI leaderboard Arena nearly doubles valuat",
+            "title": "Why we’re watching these climate tech companies",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+            "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "OpenAI’s revenue is reportedly $20 billion less th",
+            "title": "AI breakthroughs in robotics won’t change your lif",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+            "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Google brings agentic AI to Gemini, starting with ",
+            "title": "Building a safer path to autonomous industrial AI",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Anthropic changes usage policy to ban model abuse ",
+            "title": "Dex-One2Many: Learning Dexterous Manipulation from",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
+            "url": "http://arxiv.org/abs/2610.12470v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "OpenAI’s math solutions aren’t meeting the field’s",
+            "title": "Rubric-CEPR: Self-Evolving Image Editing via Rewar",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/"
+            "url": "http://arxiv.org/abs/2610.12469v1"
         }
     ],
     "aiTools": [
@@ -556,11 +552,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "OpenAI",
+            "text": "Download",
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "Anthropic",
             "size": "medium"
         },
         {
@@ -568,7 +564,7 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Watch",
+            "text": "World",
             "size": "medium"
         },
         {
@@ -576,27 +572,15 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Anthropic",
-            "size": "small"
-        },
-        {
-            "text": "World",
-            "size": "small"
-        },
-        {
             "text": "Video",
             "size": "small"
         },
         {
-            "text": "Tech",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "MIT",
-            "size": "small"
-        },
-        {
-            "text": "models",
+            "text": "OpenAI",
             "size": "small"
         },
         {
@@ -604,21 +588,27 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Climate",
+            "text": "models",
             "size": "small"
         },
         {
-            "text": "Companies",
+            "text": "model",
+            "size": "small"
+        },
+        {
+            "text": "We",
+            "size": "small"
+        },
+        {
+            "text": "world",
+            "size": "small"
+        },
+        {
+            "text": "MIT",
             "size": "small"
         }
     ],
     "searchData": [
-        {
-            "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
         {
             "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
             "category": "大模型动态",
@@ -632,46 +622,40 @@ var siteData = {
             "snippet": "多Agent协同还能自我进化"
         },
         {
-            "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19."
+            "snippet": "让AI反复试错的“练兵场”来了"
         },
         {
-            "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The acto"
-        },
-        {
-            "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now meas"
-        },
-        {
-            "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's "
-        },
-        {
-            "title": "Google brings agentic AI to Gemini, starting with businesses",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The a"
-        },
-        {
-            "title": "Anthropic changes usage policy to ban model abuse and election interference",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordi"
-        },
-        {
-            "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the fronti"
+            "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with"
+        },
+        {
+            "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Why we’re watching these climate tech companies",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT"
+        },
+        {
+            "title": "AI breakthroughs in robotics won’t change your life any time soon",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates a"
+        },
+        {
+            "title": "Building a safer path to autonomous industrial AI",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advance"
         },
         {
             "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
@@ -764,34 +748,46 @@ var siteData = {
             "snippet": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We s"
         },
         {
-            "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open lette"
+            "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition."
         },
         {
-            "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+            "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engin"
+            "snippet": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
         },
         {
-            "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+            "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing ",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
+            "snippet": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Re"
         },
         {
-            "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+            "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "新的“缝合怪”已经出现，怎么能够停滞不前"
+            "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
         },
         {
-            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with"
+            "title": "Long live the mechanical keyboard",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a"
+        },
+        {
+            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us"
+        },
+        {
+            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live in",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
         }
     ]
 }
