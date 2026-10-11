@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-10 03:11:38
+ * 生成时间: 2026-10-11 02:44:09
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-            "summary": "江淮再度跌停",
-            "source": "量子位",
+            "tag": "重磅 · 应用",
+            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal ev",
+            "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/502114.html"
+            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-            "summary": "多Agent协同还能自我进化",
-            "source": "量子位",
+            "title": "Long live the mechanical keyboard",
+            "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/502106.html"
+            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-            "summary": "让AI反复试错的“练兵场”来了",
-            "source": "量子位",
+            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+            "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works signifi",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/502096.html"
+            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-            "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samu",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "TRAE终于把Code和Work合并了",
+            "summary": "大写的方便",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+            "url": "https://www.qbitai.com/2026/10/502426.html"
         }
     ],
     "quickNews": [
         {
-            "time": "03:11",
-            "text": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+            "time": "02:44",
+            "text": "Anthropic can’t reliably control its AI agents. It’s cutting",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/502114.html"
+            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
         },
         {
-            "time": "03:11",
-            "text": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+            "time": "02:44",
+            "text": "Long live the mechanical keyboard",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502106.html"
+            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
         },
         {
-            "time": "03:11",
-            "text": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+            "time": "02:44",
+            "text": "The maker of non-text AI model Jev valued at $7.5B just week",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502096.html"
+            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
         },
         {
-            "time": "03:11",
-            "text": "Roundtables: A Conversation With the Creator of AI-Designed ",
+            "time": "02:44",
+            "text": "TRAE终于把Code和Work合并了",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+            "url": "https://www.qbitai.com/2026/10/502426.html"
         },
         {
-            "time": "03:11",
-            "text": "The Download: AI roadblocks for humanoids and portable rubbe",
+            "time": "02:44",
+            "text": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
+            "url": "https://www.qbitai.com/2026/10/502422.html"
         },
         {
-            "time": "03:11",
-            "text": "Why we’re watching these climate tech companies",
+            "time": "02:44",
+            "text": "0.2秒急停、秒级重规划！因果智能走进真实世界",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
+            "url": "https://www.qbitai.com/2026/10/502411.html"
         },
         {
-            "time": "03:11",
-            "text": "AI breakthroughs in robotics won’t change your life any time",
+            "time": "02:44",
+            "text": "字节找到了DeepSeek时强时弱的原因",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+            "url": "https://www.qbitai.com/2026/10/502364.html"
         },
         {
-            "time": "03:11",
-            "text": "Building a safer path to autonomous industrial AI",
+            "time": "02:44",
+            "text": "《柳叶刀》研究表明：AI 有望改善医患关系",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+            "url": "https://www.qbitai.com/2026/10/502359.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-                    "source": "量子位",
+                    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502114.html",
+                    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "江淮再度跌停..."
+                    "desc": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us..."
                 },
                 {
-                    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+                    "title": "TRAE终于把Code和Work合并了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502096.html"
+                    "url": "https://www.qbitai.com/2026/10/502426.html"
                 },
                 {
-                    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visu",
-                    "source": "arXiv",
+                    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.12458v1"
+                    "url": "https://www.qbitai.com/2026/10/502422.html"
                 },
                 {
-                    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Dec",
-                    "source": "arXiv",
+                    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.12445v1"
+                    "url": "https://www.qbitai.com/2026/10/502411.html"
                 },
                 {
-                    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "字节找到了DeepSeek时强时弱的原因",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/"
+                    "url": "https://www.qbitai.com/2026/10/502364.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12470v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12469v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12468v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12466v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12463v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.12464v1"
@@ -274,45 +274,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+                    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its i",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/502106.html"
+                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
                 },
                 {
                     "rank": 2,
-                    "title": "Building a safer path to autonomous industrial AI",
+                    "title": "Long live the mechanical keyboard",
                     "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
-                },
-                {
-                    "rank": 3,
-                    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI,",
-                    "time": "昨天",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2610.12463v1"
-                },
-                {
-                    "rank": 4,
-                    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch dela",
-                    "time": "刚刚",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
-                },
-                {
-                    "rank": 5,
-                    "title": "Long live the mechanical keyboard",
-                    "time": "5小时前",
-                    "emoji": "⚖️",
                     "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
                 },
                 {
+                    "rank": 3,
+                    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+                    "time": "2天前",
+                    "emoji": "🎬",
+                    "url": "https://www.qbitai.com/2026/10/502106.html"
+                },
+                {
+                    "rank": 4,
+                    "title": "Building a safer path to autonomous industrial AI",
+                    "time": "2天前",
+                    "emoji": "🔍",
+                    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+                },
+                {
+                    "rank": 5,
+                    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI,",
+                    "time": "2天前",
+                    "emoji": "⚖️",
+                    "url": "http://arxiv.org/abs/2610.12463v1"
+                },
+                {
                     "rank": 6,
-                    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its i",
-                    "time": "2小时前",
+                    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch dela",
+                    "time": "23小时前",
                     "emoji": "🎵",
-                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+                    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
+                },
+                {
+                    "rank": 7,
+                    "title": "Here are the top AI agents that can live in your text messages",
+                    "time": "12小时前",
+                    "emoji": "📝",
+                    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
                 }
             ]
         },
@@ -359,75 +366,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "freeCodeCamp/freeCodeCamp",
-                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+456,782",
-                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+487,302",
+                    "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+398,584",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,545",
+                    "stars": "+391,632",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+369,055",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
+                    "rank": 3,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+326,186",
+                    "stars": "+326,419",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 6,
+                    "rank": 4,
                     "name": "awesome-selfhosted/awesome-selfhosted",
                     "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+325,018",
+                    "stars": "+325,369",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 7,
+                    "rank": 5,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+296,928",
+                    "stars": "+297,266",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
+                    "rank": 6,
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+276,574",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+252,566",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
                     "rank": 8,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+282,895",
-                    "url": "https://github.com/mattpocock/skills"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+251,470",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -436,72 +443,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+            "title": "Anthropic can’t reliably control its AI agents. It",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/502114.html"
+            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+            "title": "Long live the mechanical keyboard",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/502106.html"
+            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+            "title": "The maker of non-text AI model Jev valued at $7.5B",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/502096.html"
+            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Roundtables: A Conversation With the Creator of AI",
+            "title": "TRAE终于把Code和Work合并了",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+            "url": "https://www.qbitai.com/2026/10/502426.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The Download: AI roadblocks for humanoids and port",
+            "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
+            "url": "https://www.qbitai.com/2026/10/502422.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Why we’re watching these climate tech companies",
+            "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/"
+            "url": "https://www.qbitai.com/2026/10/502411.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "AI breakthroughs in robotics won’t change your lif",
+            "title": "字节找到了DeepSeek时强时弱的原因",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+            "url": "https://www.qbitai.com/2026/10/502364.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Building a safer path to autonomous industrial AI",
+            "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+            "url": "https://www.qbitai.com/2026/10/502359.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Dex-One2Many: Learning Dexterous Manipulation from",
+            "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.12470v1"
+            "url": "https://www.qbitai.com/2026/10/502330.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Rubric-CEPR: Self-Evolving Image Editing via Rewar",
+            "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
             "heat": "",
-            "url": "http://arxiv.org/abs/2610.12469v1"
+            "url": "https://www.qbitai.com/2026/10/502125.html"
         }
     ],
     "aiTools": [
@@ -568,15 +575,15 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Google",
-            "size": "small"
-        },
-        {
             "text": "Video",
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "Google",
+            "size": "small"
+        },
+        {
+            "text": "models",
             "size": "small"
         },
         {
@@ -588,10 +595,6 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "models",
-            "size": "small"
-        },
-        {
             "text": "model",
             "size": "small"
         },
@@ -600,15 +603,79 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "world",
+            "text": "agents",
             "size": "small"
         },
         {
-            "text": "MIT",
+            "text": "time",
+            "size": "small"
+        },
+        {
+            "text": "Jev",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live in",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+        },
+        {
+            "title": "Long live the mechanical keyboard",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a"
+        },
+        {
+            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us"
+        },
+        {
+            "title": "TRAE终于把Code和Work合并了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大写的方便"
+        },
+        {
+            "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
+        },
+        {
+            "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
+        },
+        {
+            "title": "字节找到了DeepSeek时强时弱的原因",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "答不答得对，得看Token站位"
+        },
+        {
+            "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Google 研究成果首次登上《柳叶刀》主刊"
+        },
+        {
+            "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
+        },
+        {
+            "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
+        },
         {
             "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
             "category": "大模型动态",
@@ -616,16 +683,58 @@ var siteData = {
             "snippet": "江淮再度跌停"
         },
         {
+            "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "We’re putting too much faith in AI’s ability to say no",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been "
+        },
+        {
+            "title": "Job titles of the future: Delivery drone air traffic controller",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind "
+        },
+        {
+            "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research pres"
+        },
+        {
+            "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get en"
+        },
+        {
+            "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Is Apple hoping to get into the AI-generated podcast business?"
+        },
+        {
+            "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        },
+        {
+            "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
             "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
             "category": "AI应用",
             "tag": "application",
             "snippet": "多Agent协同还能自我进化"
-        },
-        {
-            "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让AI反复试错的“练兵场”来了"
         },
         {
             "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -686,108 +795,6 @@ var siteData = {
             "category": "AI应用",
             "tag": "application",
             "snippet": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their aut"
-        },
-        {
-            "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask"
-        },
-        {
-            "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free f"
-        },
-        {
-            "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural "
-        },
-        {
-            "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urg"
-        },
-        {
-            "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterwa"
-        },
-        {
-            "title": "BrickBench: Evaluating Agentic Brick Design",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with"
-        },
-        {
-            "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on"
-        },
-        {
-            "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth visio"
-        },
-        {
-            "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain"
-        },
-        {
-            "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We s"
-        },
-        {
-            "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition."
-        },
-        {
-            "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
-        },
-        {
-            "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing ",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Re"
-        },
-        {
-            "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip."
-        },
-        {
-            "title": "Long live the mechanical keyboard",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a"
-        },
-        {
-            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us"
-        },
-        {
-            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live in",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
         }
     ]
 }
