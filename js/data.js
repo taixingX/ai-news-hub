@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-11 02:44:09
+ * 生成时间: 2026-10-12 03:07:43
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal ev",
-            "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further",
-            "source": "TechCrunch AI",
+            "tag": "头条 · 大模型",
+            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+            "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+            "url": "https://www.qbitai.com/2026/10/502541.html"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "Long live the mechanical keyboard",
-            "summary": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K",
-            "source": "TechCrunch AI",
+            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+            "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
+            "url": "https://www.qbitai.com/2026/10/502496.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-            "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works signifi",
-            "source": "TechCrunch AI",
+            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "summary": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+            "url": "https://www.qbitai.com/2026/10/502492.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "TRAE终于把Code和Work合并了",
-            "summary": "大写的方便",
+            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+            "summary": "Nano Banana终于2.1了！4K直出，中文进步太明显",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/502426.html"
+            "url": "https://www.qbitai.com/2026/10/502484.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:44",
-            "text": "Anthropic can’t reliably control its AI agents. It’s cutting",
+            "time": "03:07",
+            "text": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+            "url": "https://www.qbitai.com/2026/10/502541.html"
         },
         {
-            "time": "02:44",
-            "text": "Long live the mechanical keyboard",
+            "time": "03:07",
+            "text": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
+            "url": "https://www.qbitai.com/2026/10/502496.html"
         },
         {
-            "time": "02:44",
-            "text": "The maker of non-text AI model Jev valued at $7.5B just week",
+            "time": "03:07",
+            "text": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+            "url": "https://www.qbitai.com/2026/10/502492.html"
         },
         {
-            "time": "02:44",
-            "text": "TRAE终于把Code和Work合并了",
+            "time": "03:07",
+            "text": "Nano Banana终于2.1了！4K直出，中文进步太明显",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502426.html"
+            "url": "https://www.qbitai.com/2026/10/502484.html"
         },
         {
-            "time": "02:44",
-            "text": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+            "time": "03:07",
+            "text": "特斯拉FSD，在欧洲被打回原形",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502422.html"
+            "url": "https://www.qbitai.com/2026/10/502467.html"
         },
         {
-            "time": "02:44",
-            "text": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+            "time": "03:07",
+            "text": "The investor’s guide to TechCrunch Disrupt 2026: Everything ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502411.html"
+            "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
         },
         {
-            "time": "02:44",
-            "text": "字节找到了DeepSeek时强时弱的原因",
+            "time": "03:07",
+            "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502364.html"
+            "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
         },
         {
-            "time": "02:44",
-            "text": "《柳叶刀》研究表明：AI 有望改善医患关系",
+            "time": "03:07",
+            "text": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502359.html"
+            "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-                    "source": "TechCrunch AI",
+                    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+                    "url": "https://www.qbitai.com/2026/10/502541.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us..."
+                    "desc": "西门子将以更集中、更场景化的方式，展示其工业全栈能力..."
                 },
                 {
-                    "title": "TRAE终于把Code和Work合并了",
+                    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502426.html"
+                    "url": "https://www.qbitai.com/2026/10/502492.html"
                 },
                 {
-                    "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+                    "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502422.html"
+                    "url": "https://www.qbitai.com/2026/10/502484.html"
                 },
                 {
-                    "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+                    "title": "特斯拉FSD，在欧洲被打回原形",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502411.html"
+                    "url": "https://www.qbitai.com/2026/10/502467.html"
                 },
                 {
-                    "title": "字节找到了DeepSeek时强时弱的原因",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502364.html"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-                    "desc": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods pre...",
+                    "title": "【arXiv】Can Language Models Play the Wikipedia Game?",
+                    "desc": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it re...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12470v1"
+                    "url": "http://arxiv.org/abs/2610.13948v1"
                 },
                 {
-                    "title": "【arXiv】Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-                    "desc": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external rewar...",
+                    "title": "【arXiv】Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+                    "desc": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12469v1"
+                    "url": "http://arxiv.org/abs/2610.13947v1"
                 },
                 {
-                    "title": "【arXiv】DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
-                    "desc": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a ...",
+                    "title": "【arXiv】Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+                    "desc": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and table...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12468v1"
+                    "url": "http://arxiv.org/abs/2610.13945v1"
                 },
                 {
-                    "title": "【arXiv】On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-                    "desc": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be ...",
+                    "title": "【arXiv】InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+                    "desc": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasin...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12466v1"
+                    "url": "http://arxiv.org/abs/2610.13944v1"
                 },
                 {
-                    "title": "【arXiv】From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Goog",
-                    "desc": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths ...",
+                    "title": "【arXiv】Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+                    "desc": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representat...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12463v1"
+                    "url": "http://arxiv.org/abs/2610.13941v1"
                 },
                 {
-                    "title": "【arXiv】What 30,000 Hours of Ego-centric Video Does Not Teach",
-                    "desc": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric h...",
+                    "title": "【arXiv】Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+                    "desc": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods in...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.12464v1"
+                    "url": "http://arxiv.org/abs/2610.13935v1"
                 }
             ]
         },
@@ -274,59 +274,54 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its i",
+                    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+                    "url": "https://www.qbitai.com/2026/10/502496.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Long live the mechanical keyboard",
-                    "time": "昨天",
+                    "title": "Will the HomeView be Apple’s first smart home success?",
+                    "time": "5小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
+                    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
                 },
                 {
                     "rank": 3,
-                    "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-                    "time": "2天前",
-                    "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/10/502106.html"
-                },
-                {
-                    "rank": 4,
                     "title": "Building a safer path to autonomous industrial AI",
-                    "time": "2天前",
-                    "emoji": "🔍",
+                    "time": "3天前",
+                    "emoji": "🎬",
                     "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
                 },
                 {
+                    "rank": 4,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
                     "rank": 5,
-                    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI,",
-                    "time": "2天前",
-                    "emoji": "⚖️",
-                    "url": "http://arxiv.org/abs/2610.12463v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "Elon Musk intensifies attack on Ambani over Starlink India launch dela",
-                    "time": "23小时前",
-                    "emoji": "🎵",
-                    "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/"
-                },
-                {
-                    "rank": 7,
-                    "title": "Here are the top AI agents that can live in your text messages",
-                    "time": "12小时前",
-                    "emoji": "📝",
-                    "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": []
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need t",
+                    "time": "9小时前",
+                    "emoji": "🔥",
+                    "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+                }
+            ]
         },
         "policy": {
             "title": "政策法规",
@@ -370,71 +365,71 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+487,302",
+                    "stars": "+487,639",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+456,900",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                },
+                {
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,632",
+                    "stars": "+391,707",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+326,419",
+                    "stars": "+326,674",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 4,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+325,369",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-                },
-                {
                     "rank": 5,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+297,266",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 6,
                     "name": "affaan-m/ECC",
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+276,574",
+                    "stars": "+277,306",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+252,566",
+                    "stars": "+252,845",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 8,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+251,470",
+                    "stars": "+251,569",
                     "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 8,
+                    "name": "anomalyco/opencode",
+                    "desc": "The open source coding agent.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+212,762",
+                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -443,72 +438,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Anthropic can’t reliably control its AI agents. It",
+            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+            "url": "https://www.qbitai.com/2026/10/502541.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Long live the mechanical keyboard",
+            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/"
+            "url": "https://www.qbitai.com/2026/10/502496.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "The maker of non-text AI model Jev valued at $7.5B",
+            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+            "url": "https://www.qbitai.com/2026/10/502492.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "TRAE终于把Code和Work合并了",
+            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502426.html"
+            "url": "https://www.qbitai.com/2026/10/502484.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+            "title": "特斯拉FSD，在欧洲被打回原形",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502422.html"
+            "url": "https://www.qbitai.com/2026/10/502467.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+            "title": "The investor’s guide to TechCrunch Disrupt 2026: E",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502411.html"
+            "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "字节找到了DeepSeek时强时弱的原因",
+            "title": "48 hours to TechCrunch Disrupt 2026 — hear directl",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502364.html"
+            "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+            "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502359.html"
+            "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+            "title": "Will the HomeView be Apple’s first smart home succ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502330.html"
+            "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+            "title": "The Download: weight-loss drugs slowing aging and ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502125.html"
+            "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
         }
     ],
     "aiTools": [
@@ -555,31 +550,35 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "TechCrunch",
+            "size": "large"
+        },
+        {
             "text": "AI",
             "size": "large"
         },
         {
+            "text": "Disrupt",
+            "size": "medium"
+        },
+        {
             "text": "Download",
-            "size": "large"
-        },
-        {
-            "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "The",
+            "text": "Language",
             "size": "medium"
         },
         {
-            "text": "World",
-            "size": "medium"
-        },
-        {
-            "text": "Video",
+            "text": "Models",
             "size": "small"
         },
         {
-            "text": "Google",
+            "text": "The",
+            "size": "small"
+        },
+        {
+            "text": "This",
             "size": "small"
         },
         {
@@ -587,154 +586,90 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "Self",
             "size": "small"
         },
         {
-            "text": "Generative",
+            "text": "Everything",
             "size": "small"
         },
         {
-            "text": "model",
+            "text": "Apple",
             "size": "small"
         },
         {
-            "text": "We",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "agents",
+            "text": "Companies",
             "size": "small"
         },
         {
-            "text": "time",
-            "size": "small"
-        },
-        {
-            "text": "Jev",
+            "text": "MIT",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live in",
+            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
+        },
+        {
+            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+            "snippet": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
         },
         {
-            "title": "Long live the mechanical keyboard",
+            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "特斯拉FSD，在欧洲被打回原形",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "马斯克反而发文道谢？"
+        },
+        {
+            "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need"
+        },
+        {
+            "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before "
+        },
+        {
+            "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "What does this mean for a fall full of movies starring villainous tech CEOs?"
+        },
+        {
+            "title": "Will the HomeView be Apple’s first smart home success?",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a"
-        },
-        {
-            "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and us"
-        },
-        {
-            "title": "TRAE终于把Code和Work合并了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大写的方便"
-        },
-        {
-            "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名"
-        },
-        {
-            "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间"
-        },
-        {
-            "title": "字节找到了DeepSeek时强时弱的原因",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "答不答得对，得看Token站位"
-        },
-        {
-            "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Google 研究成果首次登上《柳叶刀》主刊"
-        },
-        {
-            "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "机器人摆脱展会、舞台Demo，产生真实商业价值，究竟需要哪些东西？"
-        },
-        {
-            "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "星动纪元选择将视频预测与动作学习分阶段训练，重点不是「视频、动作一锅炖」，而是把两者「解耦」，重新「排序」。"
-        },
-        {
-            "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "江淮再度跌停"
-        },
-        {
-            "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "We’re putting too much faith in AI’s ability to say no",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been "
-        },
-        {
-            "title": "Job titles of the future: Delivery drone air traffic controller",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind "
-        },
-        {
-            "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research pres"
-        },
-        {
-            "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get en"
-        },
-        {
-            "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Is Apple hoping to get into the AI-generated podcast business?"
-        },
-        {
-            "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+            "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now i"
         },
         {
             "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "多Agent协同还能自我进化"
         },
         {
             "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -767,34 +702,94 @@ var siteData = {
             "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advance"
         },
         {
-            "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstra"
+            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin"
         },
         {
-            "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited tr"
+            "title": "TRAE终于把Code和Work合并了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "大写的方便"
         },
         {
-            "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+            "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "We’re putting too much faith in AI’s ability to say no",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been "
+        },
+        {
+            "title": "Job titles of the future: Delivery drone air traffic controller",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind "
+        },
+        {
+            "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research pres"
+        },
+        {
+            "title": "Can Language Models Play the Wikipedia Game?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Language models increasingly support or automate information retrieval from document collections too large to index. Thi"
+        },
+        {
+            "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objec"
+        },
+        {
+            "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible vide"
+            "snippet": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from thei"
         },
         {
-            "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+            "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of mo"
+        },
+        {
+            "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, a"
+            "snippet": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through join"
         },
         {
-            "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent S",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their aut"
+            "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concep"
+        },
+        {
+            "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time imp"
+        },
+        {
+            "title": "Can machines reason non-verbally?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems tha"
+        },
+        {
+            "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However,"
         }
     ]
 }
