@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-12 03:07:43
+ * 生成时间: 2026-10-13 04:23:32
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-            "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-            "source": "量子位",
+            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+            "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/502541.html"
+            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-            "summary": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会",
+            "tag": "头条 · 大模型",
+            "title": "智谱新模型，490 tokens/s！",
+            "summary": "GLM「速度仙人」来了？",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/502496.html"
+            "url": "https://www.qbitai.com/2026/10/502649.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
-            "summary": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "tag": "独家 · 研究",
+            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+            "summary": "一套生成论文初稿的多智能体工作流",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/502492.html"
+            "url": "https://www.qbitai.com/2026/10/502644.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-            "summary": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+            "tag": "重磅 · 应用",
+            "title": "何恺明团队发布多模态Harness框架",
+            "summary": "多模态模型的视觉原生Harness，来了！",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/502484.html"
+            "url": "https://www.qbitai.com/2026/10/502628.html"
         }
     ],
     "quickNews": [
         {
-            "time": "03:07",
-            "text": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+            "time": "04:23",
+            "text": "The founder’s guide to TechCrunch Disrupt 2026: Everything y",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/502541.html"
+            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
         },
         {
-            "time": "03:07",
-            "text": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+            "time": "04:23",
+            "text": "智谱新模型，490 tokens/s！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502496.html"
+            "url": "https://www.qbitai.com/2026/10/502649.html"
         },
         {
-            "time": "03:07",
-            "text": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "time": "04:23",
+            "text": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502492.html"
+            "url": "https://www.qbitai.com/2026/10/502644.html"
         },
         {
-            "time": "03:07",
-            "text": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+            "time": "04:23",
+            "text": "何恺明团队发布多模态Harness框架",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502484.html"
+            "url": "https://www.qbitai.com/2026/10/502628.html"
         },
         {
-            "time": "03:07",
-            "text": "特斯拉FSD，在欧洲被打回原形",
+            "time": "04:23",
+            "text": "陶哲轩：数学2.0时代已至！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502467.html"
+            "url": "https://www.qbitai.com/2026/10/502594.html"
         },
         {
-            "time": "03:07",
-            "text": "The investor’s guide to TechCrunch Disrupt 2026: Everything ",
+            "time": "04:23",
+            "text": "王的猜想，刚刚扩展到四维",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+            "url": "https://www.qbitai.com/2026/10/502584.html"
         },
         {
-            "time": "03:07",
-            "text": "48 hours to TechCrunch Disrupt 2026 — hear directly from the",
+            "time": "04:23",
+            "text": "硅谷AI现状：谁有算力谁是爹",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+            "url": "https://www.qbitai.com/2026/10/502585.html"
         },
         {
-            "time": "03:07",
-            "text": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+            "time": "04:23",
+            "text": "下架8个月，GPT-4o的拯救行动居然还在继续",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
+            "url": "https://www.qbitai.com/2026/10/502550.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-                    "source": "量子位",
+                    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502541.html",
+                    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "西门子将以更集中、更场景化的方式，展示其工业全栈能力..."
+                    "desc": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin..."
                 },
                 {
-                    "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+                    "title": "智谱新模型，490 tokens/s！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502492.html"
+                    "url": "https://www.qbitai.com/2026/10/502649.html"
                 },
                 {
-                    "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+                    "title": "陶哲轩：数学2.0时代已至！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502484.html"
+                    "url": "https://www.qbitai.com/2026/10/502594.html"
                 },
                 {
-                    "title": "特斯拉FSD，在欧洲被打回原形",
+                    "title": "王的猜想，刚刚扩展到四维",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502467.html"
+                    "url": "https://www.qbitai.com/2026/10/502584.html"
                 },
                 {
-                    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "硅谷AI现状：谁有算力谁是爹",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/10/502585.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13948v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13947v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13945v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13944v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13941v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.13935v1"
@@ -274,24 +274,22 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+                    "title": "何恺明团队发布多模态Harness框架",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/502496.html"
+                    "url": "https://www.qbitai.com/2026/10/502628.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Will the HomeView be Apple’s first smart home success?",
-                    "time": "5小时前",
+                    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+                    "time": "12小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+                    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
                 },
                 {
                     "rank": 3,
-                    "title": "Building a safer path to autonomous industrial AI",
-                    "time": "3天前",
-                    "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
@@ -316,10 +314,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need t",
-                    "time": "9小时前",
+                    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure u",
+                    "time": "14小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+                    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
                 }
             ]
         },
@@ -361,21 +359,21 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+487,639",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,900",
+                    "stars": "+456,957",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                },
+                {
+                    "rank": 2,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+398,887",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 3,
@@ -383,7 +381,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,707",
+                    "stars": "+391,818",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -392,44 +390,44 @@ var siteData = {
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+326,674",
+                    "stars": "+326,966",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 5,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+325,947",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 6,
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+288,211",
+                    "url": "https://github.com/mattpocock/skills"
+                },
+                {
+                    "rank": 7,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+286,540",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 8,
                     "name": "affaan-m/ECC",
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+277,306",
+                    "stars": "+278,019",
                     "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 6,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+252,845",
-                    "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 7,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+251,569",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 8,
-                    "name": "anomalyco/opencode",
-                    "desc": "The open source coding agent.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+212,762",
-                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -438,72 +436,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+            "title": "The founder’s guide to TechCrunch Disrupt 2026: Ev",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/502541.html"
+            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
+            "title": "智谱新模型，490 tokens/s！",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/502496.html"
+            "url": "https://www.qbitai.com/2026/10/502649.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/502492.html"
+            "url": "https://www.qbitai.com/2026/10/502644.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
+            "title": "何恺明团队发布多模态Harness框架",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502484.html"
+            "url": "https://www.qbitai.com/2026/10/502628.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "特斯拉FSD，在欧洲被打回原形",
+            "title": "陶哲轩：数学2.0时代已至！",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502467.html"
+            "url": "https://www.qbitai.com/2026/10/502594.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "The investor’s guide to TechCrunch Disrupt 2026: E",
+            "title": "王的猜想，刚刚扩展到四维",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+            "url": "https://www.qbitai.com/2026/10/502584.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "48 hours to TechCrunch Disrupt 2026 — hear directl",
+            "title": "硅谷AI现状：谁有算力谁是爹",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+            "url": "https://www.qbitai.com/2026/10/502585.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak",
+            "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/"
+            "url": "https://www.qbitai.com/2026/10/502550.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Will the HomeView be Apple’s first smart home succ",
+            "title": "Roundtables: A Conversation With the Creator of AI",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "The Download: weight-loss drugs slowing aging and ",
+            "title": "The Download: AI roadblocks for humanoids and port",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
+            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
         }
     ],
     "aiTools": [
@@ -550,19 +548,19 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "TechCrunch",
-            "size": "large"
-        },
-        {
             "text": "AI",
             "size": "large"
         },
         {
-            "text": "Disrupt",
+            "text": "Download",
+            "size": "large"
+        },
+        {
+            "text": "TechCrunch",
             "size": "medium"
         },
         {
-            "text": "Download",
+            "text": "Disrupt",
             "size": "medium"
         },
         {
@@ -590,86 +588,74 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Everything",
+            "text": "Fitbit",
             "size": "small"
         },
         {
-            "text": "Apple",
+            "text": "Air",
+            "size": "small"
+        },
+        {
+            "text": "model",
+            "size": "small"
+        },
+        {
+            "text": "RSI",
             "size": "small"
         },
         {
             "text": "&#",
             "size": "small"
-        },
-        {
-            "text": "Companies",
-            "size": "small"
-        },
-        {
-            "text": "MIT",
-            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "西门子将以更集中、更场景化的方式，展示其工业全栈能力"
+            "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin"
         },
         {
-            "title": "超清双2亿，掌中电影机，荣耀Magic9 系列正式发布，售价4499元起",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "2026年9月28日，荣耀（HONOR）在北京举办荣耀Magic盛典暨荣耀Magic9 系列新品发布会"
-        },
-        {
-            "title": "24天！Jev估值翻至75亿美元，年度硅谷最爽逆袭了吧",
+            "title": "智谱新模型，490 tokens/s！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "GLM「速度仙人」来了？"
         },
         {
-            "title": "Nano Banana终于2.1了！4K直出，中文进步太明显",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "特斯拉FSD，在欧洲被打回原形",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "马斯克反而发文道谢？"
-        },
-        {
-            "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need"
-        },
-        {
-            "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before "
-        },
-        {
-            "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "What does this mean for a fall full of movies starring villainous tech CEOs?"
-        },
-        {
-            "title": "Will the HomeView be Apple’s first smart home success?",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now i"
-        },
-        {
-            "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "一套生成论文初稿的多智能体工作流"
+        },
+        {
+            "title": "何恺明团队发布多模态Harness框架",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "多模态模型的视觉原生Harness，来了！"
+        },
+        {
+            "title": "陶哲轩：数学2.0时代已至！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "王的猜想，刚刚扩展到四维",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "硅谷AI现状：谁有算力谁是爹",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "马斯克连横A社，硅谷VC开始囤GPU"
+        },
+        {
+            "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "初代4o的API快照进入停用倒计时"
         },
         {
             "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -688,30 +674,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT"
-        },
-        {
-            "title": "AI breakthroughs in robotics won’t change your life any time soon",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates a"
-        },
-        {
-            "title": "Building a safer path to autonomous industrial AI",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advance"
-        },
-        {
-            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin"
-        },
-        {
-            "title": "TRAE终于把Code和Work合并了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "大写的方便"
         },
         {
             "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
@@ -790,6 +752,42 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However,"
+        },
+        {
+            "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external fee"
+        },
+        {
+            "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their interna"
+        },
+        {
+            "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "While deep learning models for tabular data have recently received significant research attention, the choice of objecti"
+        },
+        {
+            "title": "Structural Automata for Neural Semantic Parsing",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scop"
+        },
+        {
+            "title": "Task Context Shapes Component Roles in Language Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain w"
+        },
+        {
+            "title": "Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object D",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Light Detection and Ranging (LiDAR) is critical for autonomous perception, yet its performance is known to degrade in ad"
         }
     ]
 }
