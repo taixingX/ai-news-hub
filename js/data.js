@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-13 04:23:32
+ * 生成时间: 2026-10-14 02:34:07
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-            "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI",
-            "source": "TechCrunch AI",
+            "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+            "summary": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
-        },
-        {
-            "tag": "头条 · 大模型",
-            "title": "智谱新模型，490 tokens/s！",
-            "summary": "GLM「速度仙人」来了？",
-            "source": "量子位",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/502649.html"
+            "url": "https://www.qbitai.com/2026/10/502770.html"
         },
         {
             "tag": "独家 · 研究",
-            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-            "summary": "一套生成论文初稿的多智能体工作流",
-            "source": "量子位",
+            "title": "The Download: moon city problems and drone traffic controllers",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "What it would take to build a city on the moon",
+            "summary": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was th",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/502644.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "何恺明团队发布多模态Harness框架",
-            "summary": "多模态模型的视觉原生Harness，来了！",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "The ecologist revealing the invisible networks that revive rainforests",
+            "summary": "In a research station in central Panama, you can walk through a century of forest time, watching scr",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/502628.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
         }
     ],
     "quickNews": [
         {
-            "time": "04:23",
-            "text": "The founder’s guide to TechCrunch Disrupt 2026: Everything y",
+            "time": "02:34",
+            "text": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+            "url": "https://www.qbitai.com/2026/10/502770.html"
         },
         {
-            "time": "04:23",
-            "text": "智谱新模型，490 tokens/s！",
+            "time": "02:34",
+            "text": "The Download: moon city problems and drone traffic controlle",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502649.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
         },
         {
-            "time": "04:23",
-            "text": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+            "time": "02:34",
+            "text": "What it would take to build a city on the moon",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502644.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
         },
         {
-            "time": "04:23",
-            "text": "何恺明团队发布多模态Harness框架",
+            "time": "02:34",
+            "text": "The ecologist revealing the invisible networks that revive r",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502628.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
         },
         {
-            "time": "04:23",
-            "text": "陶哲轩：数学2.0时代已至！",
+            "time": "02:34",
+            "text": "Seg2Click: Learning Pixel-Level Action Masks for GUI Visual ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502594.html"
+            "url": "http://arxiv.org/abs/2610.16234v1"
         },
         {
-            "time": "04:23",
-            "text": "王的猜想，刚刚扩展到四维",
+            "time": "02:34",
+            "text": "AutoNovo: Agentic Program Search Discovers Transferable Nucl",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502584.html"
+            "url": "http://arxiv.org/abs/2610.16232v1"
         },
         {
-            "time": "04:23",
-            "text": "硅谷AI现状：谁有算力谁是爹",
+            "time": "02:34",
+            "text": "Learning to GUIDE the Group: Self-Learning LLM Facilitation ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502585.html"
+            "url": "http://arxiv.org/abs/2610.16231v1"
         },
         {
-            "time": "04:23",
-            "text": "下架8个月，GPT-4o的拯救行动居然还在继续",
+            "time": "02:34",
+            "text": "Look Back to Move Forward: Learning to Revisit for Agentic C",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/502550.html"
+            "url": "http://arxiv.org/abs/2610.16224v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-                    "source": "TechCrunch AI",
+                    "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+                    "url": "https://www.qbitai.com/2026/10/502770.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin..."
+                    "desc": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名..."
                 },
                 {
-                    "title": "智谱新模型，490 tokens/s！",
-                    "source": "量子位",
+                    "title": "Learning to GUIDE the Group: Self-Learning LLM Facilitation Across Multi-Party T",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502649.html"
+                    "url": "http://arxiv.org/abs/2610.16231v1"
                 },
                 {
-                    "title": "陶哲轩：数学2.0时代已至！",
-                    "source": "量子位",
+                    "title": "Label-Centric Knowledge Retrieval for Zero-Shot Text Classification",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502594.html"
+                    "url": "http://arxiv.org/abs/2610.16182v1"
                 },
                 {
-                    "title": "王的猜想，刚刚扩展到四维",
-                    "source": "量子位",
+                    "title": "EventLens: Event-Structure Reinforcement Learning for Video Understanding",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502584.html"
+                    "url": "http://arxiv.org/abs/2610.16172v1"
                 },
                 {
-                    "title": "硅谷AI现状：谁有算力谁是爹",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/502585.html"
+                    "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Can Language Models Play the Wikipedia Game?",
-                    "desc": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it re...",
+                    "title": "【arXiv】Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding",
+                    "desc": "Visual grounding is a central challenge for GUI agents, requiring an instruction to be mapped to a target within a crowded screenshot. Coordinate gene...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13948v1"
+                    "url": "http://arxiv.org/abs/2610.16234v1"
                 },
                 {
-                    "title": "【arXiv】Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
-                    "desc": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they ...",
+                    "title": "【arXiv】AutoNovo: Agentic Program Search Discovers Transferable Nucleic Acid Design Algorithms",
+                    "desc": "In-silico optimization of nucleic acids relies on predictive oracles that imperfectly capture biological function, so sequences optimized against one ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13947v1"
+                    "url": "http://arxiv.org/abs/2610.16232v1"
                 },
                 {
-                    "title": "【arXiv】Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
-                    "desc": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and table...",
+                    "title": "【arXiv】Learning to GUIDE the Group: Self-Learning LLM Facilitation Across Multi-Party Tasks",
+                    "desc": "As large language models are increasingly adopted as multi-party communication facilitators, there is a growing demand for agents capable of balancing...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13945v1"
+                    "url": "http://arxiv.org/abs/2610.16231v1"
                 },
                 {
-                    "title": "【arXiv】InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-                    "desc": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasin...",
+                    "title": "【arXiv】Look Back to Move Forward: Learning to Revisit for Agentic Compositional Image Generation",
+                    "desc": "Text-to-image models have made remarkable progress in visual fidelity and instruction following, yet complex compositional generation remains challeng...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13944v1"
+                    "url": "http://arxiv.org/abs/2610.16224v1"
                 },
                 {
-                    "title": "【arXiv】Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
-                    "desc": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representat...",
+                    "title": "【arXiv】OneShot: Label-Efficient Detector Weighting for Time Series Anomaly Detection",
+                    "desc": "Time series (TS) anomaly detection (AD) lacks a universal detector, with the best choice determined by the series rather than by the algorithm. Existi...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13941v1"
+                    "url": "http://arxiv.org/abs/2610.16219v1"
                 },
                 {
-                    "title": "【arXiv】Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-                    "desc": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods in...",
+                    "title": "【arXiv】SafeDSE: Joint Exploration of Safety Architecture Patterns, Mapping, and Scheduling for Da",
+                    "desc": "Embedded platforms increasingly host safety-related streaming functions next to less critical ones. Whether a safety architecture pattern, such as a d...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "3天前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.13935v1"
+                    "url": "http://arxiv.org/abs/2610.16213v1"
                 }
             ]
         },
@@ -274,17 +274,15 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "何恺明团队发布多模态Harness框架",
+                    "title": "SafeDSE: Joint Exploration of Safety Architecture Patterns, Mapping, a",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/502628.html"
+                    "url": "http://arxiv.org/abs/2610.16213v1"
                 },
                 {
                     "rank": 2,
-                    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-                    "time": "12小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
@@ -314,10 +312,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure u",
-                    "time": "14小时前",
+                    "title": "9大赛道，23份企业真实考卷！上海具身智能大考，邀千队共解题",
+                    "time": "22小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/"
+                    "url": "https://www.qbitai.com/2026/10/502784.html"
+                },
+                {
+                    "rank": 2,
+                    "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+                    "time": "22小时前",
+                    "emoji": "💰",
+                    "url": "https://www.qbitai.com/2026/10/502767.html"
                 }
             ]
         },
@@ -359,21 +364,21 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+488,470",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+456,957",
+                    "stars": "+457,008",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
-                },
-                {
-                    "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+398,887",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 3,
@@ -381,53 +386,53 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+391,818",
+                    "stars": "+391,919",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+326,966",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+369,323",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+325,947",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-                },
-                {
-                    "rank": 6,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+288,211",
+                    "stars": "+289,820",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
-                    "rank": 7,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
+                    "rank": 6,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+286,540",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "stars": "+253,519",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 7,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+251,890",
+                    "url": "https://github.com/torvalds/linux"
                 },
                 {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+278,019",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "stars": "+251,105",
+                    "url": "https://github.com/react/react"
                 }
             ]
         }
@@ -436,72 +441,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "The founder’s guide to TechCrunch Disrupt 2026: Ev",
+            "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/"
+            "url": "https://www.qbitai.com/2026/10/502770.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "智谱新模型，490 tokens/s！",
+            "title": "The Download: moon city problems and drone traffic",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/502649.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+            "title": "What it would take to build a city on the moon",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/502644.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "何恺明团队发布多模态Harness框架",
+            "title": "The ecologist revealing the invisible networks tha",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502628.html"
+            "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "陶哲轩：数学2.0时代已至！",
+            "title": "Seg2Click: Learning Pixel-Level Action Masks for G",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502594.html"
+            "url": "http://arxiv.org/abs/2610.16234v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "王的猜想，刚刚扩展到四维",
+            "title": "AutoNovo: Agentic Program Search Discovers Transfe",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502584.html"
+            "url": "http://arxiv.org/abs/2610.16232v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "硅谷AI现状：谁有算力谁是爹",
+            "title": "Learning to GUIDE the Group: Self-Learning LLM Fac",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502585.html"
+            "url": "http://arxiv.org/abs/2610.16231v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+            "title": "Look Back to Move Forward: Learning to Revisit for",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/502550.html"
+            "url": "http://arxiv.org/abs/2610.16224v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Roundtables: A Conversation With the Creator of AI",
+            "title": "OneShot: Label-Efficient Detector Weighting for Ti",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+            "url": "http://arxiv.org/abs/2610.16219v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "The Download: AI roadblocks for humanoids and port",
+            "title": "SafeDSE: Joint Exploration of Safety Architecture ",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
+            "url": "http://arxiv.org/abs/2610.16213v1"
         }
     ],
     "aiTools": [
@@ -548,27 +553,27 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
-            "size": "large"
-        },
-        {
             "text": "Download",
             "size": "large"
         },
         {
-            "text": "TechCrunch",
+            "text": "Learning",
+            "size": "large"
+        },
+        {
+            "text": "CEO",
             "size": "medium"
         },
         {
-            "text": "Disrupt",
+            "text": "Open",
             "size": "medium"
         },
         {
-            "text": "Language",
+            "text": "AI",
             "size": "medium"
         },
         {
-            "text": "Models",
+            "text": "Cerebras",
             "size": "small"
         },
         {
@@ -576,31 +581,31 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "This",
-            "size": "small"
-        },
-        {
             "text": "models",
             "size": "small"
         },
         {
-            "text": "Self",
+            "text": "Existing",
             "size": "small"
         },
         {
-            "text": "Fitbit",
+            "text": "Gaussian",
             "size": "small"
         },
         {
-            "text": "Air",
+            "text": "TechCrunch",
             "size": "small"
         },
         {
-            "text": "model",
+            "text": "Disrupt",
             "size": "small"
         },
         {
-            "text": "RSI",
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "Apple",
             "size": "small"
         },
         {
@@ -610,70 +615,148 @@ var siteData = {
     ],
     "searchData": [
         {
-            "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+            "title": "优必选上榜 2026 年《财富》全球未来成长 120 强，位列全球第 11、中国企业第一",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programmin"
+            "snippet": "优必选以总分 115 拿下2026 Fortune Future 120全球第 11 名"
         },
         {
-            "title": "智谱新模型，490 tokens/s！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "GLM「速度仙人」来了？"
-        },
-        {
-            "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "一套生成论文初稿的多智能体工作流"
-        },
-        {
-            "title": "何恺明团队发布多模态Harness框架",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "多模态模型的视觉原生Harness，来了！"
-        },
-        {
-            "title": "陶哲轩：数学2.0时代已至！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "王的猜想，刚刚扩展到四维",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "硅谷AI现状：谁有算力谁是爹",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "马斯克连横A社，硅谷VC开始囤GPU"
-        },
-        {
-            "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "初代4o的API快照进入停用倒计时"
-        },
-        {
-            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with"
-        },
-        {
-            "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+            "title": "The Download: moon city problems and drone traffic controllers",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Why we’re watching these climate tech companies",
+            "title": "What it would take to build a city on the moon",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT"
+            "snippet": "Welcome to the second space race. You can be forgiven for experiencing déjà vu. Last time, it was the Soviet Union and t"
+        },
+        {
+            "title": "The ecologist revealing the invisible networks that revive rainforests",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adoles"
+        },
+        {
+            "title": "Seg2Click: Learning Pixel-Level Action Masks for GUI Visual Grounding",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Visual grounding is a central challenge for GUI agents, requiring an instruction to be mapped to a target within a crowd"
+        },
+        {
+            "title": "AutoNovo: Agentic Program Search Discovers Transferable Nucleic Acid Design Algorithms",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "In-silico optimization of nucleic acids relies on predictive oracles that imperfectly capture biological function, so se"
+        },
+        {
+            "title": "Learning to GUIDE the Group: Self-Learning LLM Facilitation Across Multi-Party Tasks",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "As large language models are increasingly adopted as multi-party communication facilitators, there is a growing demand f"
+        },
+        {
+            "title": "Look Back to Move Forward: Learning to Revisit for Agentic Compositional Image Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Text-to-image models have made remarkable progress in visual fidelity and instruction following, yet complex composition"
+        },
+        {
+            "title": "OneShot: Label-Efficient Detector Weighting for Time Series Anomaly Detection",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Time series (TS) anomaly detection (AD) lacks a universal detector, with the best choice determined by the series rather"
+        },
+        {
+            "title": "SafeDSE: Joint Exploration of Safety Architecture Patterns, Mapping, and Scheduling for Dataflow App",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Embedded platforms increasingly host safety-related streaming functions next to less critical ones. Whether a safety arc"
+        },
+        {
+            "title": "MP-MNCA: Morphology-Prior Masked Neighbor Cross-Attention for Efficient Spatial Domain Identificatio",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Spatial transcriptomics jointly captures molecular state, tissue morphology, and spatial organization, yet spatial-domai"
+        },
+        {
+            "title": "VGGA: Geometry-Grounded Autoencoder for Video Generation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Autoencoders are the core component of latent video generative models, compressing high-dimensional videos into compact "
+        },
+        {
+            "title": "Lüshi-1840: Building and Probing a Knowledge Cutoff for a Classical Chinese Language Model",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Language models trained only on text from before a given year are useful for studying hindsight and historical language,"
+        },
+        {
+            "title": "Correct Choices, Failed Sequences: Choice2Seq Benchmarks Correctness Retention Across Output Interfa",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A model may select the correct answer yet fail to construct it through a sequence of local decisions. We introduce Choic"
+        },
+        {
+            "title": "Label-Centric Knowledge Retrieval for Zero-Shot Text Classification",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Flagship large language models (LLMs) offer rich general knowledge and strong reasoning capabilities, but their high inf"
+        },
+        {
+            "title": "DIGS: Distribution-Informed Gaussian Splatting for Training-Free Open-Vocabulary 3D Segmentation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Open-vocabulary 3D Gaussian segmentation typically binds semantic features to the per-Gaussian state via per-scene gradi"
+        },
+        {
+            "title": "EgoAlign: Situated 3D Understanding without Situation Descriptions",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Situated 3D Question Answering requires models to interpret a 3D scene relative to an agent's pose. Existing methods com"
+        },
+        {
+            "title": "ProCARE: Real-World Study Automation via Profile-Grounded Evidence Contracts",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Real-world studies (RWS) analyze routinely collected healthcare data, such as electronic health records and insurance cl"
+        },
+        {
+            "title": "EventLens: Event-Structure Reinforcement Learning for Video Understanding",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Recent multimodal large language models (MLLMs) achieve strong results on video question answering, yet often fail to re"
+        },
+        {
+            "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave"
+        },
+        {
+            "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier."
+        },
+        {
+            "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions"
+        },
+        {
+            "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was t"
+        },
+        {
+            "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as pr"
         },
         {
             "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
@@ -700,94 +783,16 @@ var siteData = {
             "snippet": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research pres"
         },
         {
-            "title": "Can Language Models Play the Wikipedia Game?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Language models increasingly support or automate information retrieval from document collections too large to index. Thi"
+            "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's w"
         },
         {
-            "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objec"
-        },
-        {
-            "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from thei"
-        },
-        {
-            "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of mo"
-        },
-        {
-            "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through join"
-        },
-        {
-            "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concep"
-        },
-        {
-            "title": "Chronos Policy: Learning Robot Policies on Physical Time",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time imp"
-        },
-        {
-            "title": "Can machines reason non-verbally?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems tha"
-        },
-        {
-            "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However,"
-        },
-        {
-            "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external fee"
-        },
-        {
-            "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their interna"
-        },
-        {
-            "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "While deep learning models for tabular data have recently received significant research attention, the choice of objecti"
-        },
-        {
-            "title": "Structural Automata for Neural Semantic Parsing",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scop"
-        },
-        {
-            "title": "Task Context Shapes Component Roles in Language Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain w"
-        },
-        {
-            "title": "Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object D",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Light Detection and Ranging (LiDAR) is critical for autonomous perception, yet its performance is known to degrade in ad"
+            "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances"
         }
     ]
 }
