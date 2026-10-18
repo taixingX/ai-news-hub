@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-17 01:59:52
+ * 生成时间: 2026-10-18 01:58:59
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-            "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-            "source": "量子位",
+            "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+            "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour b",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/503645.html"
-        },
-        {
-            "tag": "头条 · 大模型",
-            "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-            "summary": "Siri AI这次不包括在内",
-            "source": "量子位",
-            "time": "昨天",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/503640.html"
+            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-            "summary": "Agent究竟该如何深入业务毛细血管？",
-            "source": "量子位",
+            "title": "India becomes the latest country to report rogue AI agent activity",
+            "summary": "The agents got in through credentials and connection settings left exposed in app configurations, pu",
+            "source": "TechCrunch AI",
             "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/503614.html"
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-            "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-            "source": "量子位",
+            "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+            "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, ",
+            "source": "TechCrunch AI",
+            "time": "昨天",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "Waymo’s robotaxis are headed to Canada",
+            "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/503611.html"
+            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:59",
-            "text": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+            "time": "01:58",
+            "text": "Porsche’s electric Macan Turbo is an automotive existential ",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/503645.html"
+            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
         },
         {
-            "time": "01:59",
-            "text": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+            "time": "01:58",
+            "text": "India becomes the latest country to report rogue AI agent ac",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503640.html"
+            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
         },
         {
-            "time": "01:59",
-            "text": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+            "time": "01:58",
+            "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its C",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503614.html"
+            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
         },
         {
-            "time": "01:59",
-            "text": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+            "time": "01:58",
+            "text": "Waymo’s robotaxis are headed to Canada",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503611.html"
+            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
         },
         {
-            "time": "01:59",
-            "text": "这个双十一，百灵新模型干起活来不烧心",
+            "time": "01:58",
+            "text": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503532.html"
+            "url": "https://www.qbitai.com/2026/10/503880.html"
         },
         {
-            "time": "01:59",
-            "text": "AI时代，商学院这样培养未来商业领袖",
+            "time": "01:58",
+            "text": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503504.html"
+            "url": "https://www.qbitai.com/2026/10/503865.html"
         },
         {
-            "time": "01:59",
-            "text": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+            "time": "01:58",
+            "text": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503501.html"
+            "url": "https://www.qbitai.com/2026/10/503861.html"
         },
         {
-            "time": "01:59",
-            "text": "苹果AI国内上线，阿里百度浮出水面",
+            "time": "01:58",
+            "text": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503497.html"
+            "url": "https://www.qbitai.com/2026/10/503843.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-                    "source": "量子位",
+                    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503645.html",
+                    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。..."
+                    "desc": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery...."
                 },
                 {
-                    "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-                    "source": "量子位",
+                    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503640.html"
+                    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
                 },
                 {
-                    "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-                    "source": "量子位",
+                    "title": "Waymo’s robotaxis are headed to Canada",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503611.html"
+                    "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
                 },
                 {
-                    "title": "这个双十一，百灵新模型干起活来不烧心",
+                    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503532.html"
+                    "url": "https://www.qbitai.com/2026/10/503880.html"
                 },
                 {
-                    "title": "AI时代，商学院这样培养未来商业领袖",
+                    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503504.html"
+                    "url": "https://www.qbitai.com/2026/10/503865.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22372v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22371v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22370v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22369v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22367v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.22364v1"
@@ -274,24 +274,20 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+                    "title": "India becomes the latest country to report rogue AI agent activity",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/503614.html"
+                    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
                 },
                 {
                     "rank": 2,
-                    "title": "Tressfecta wants to make hair braiding a less arduous task for hairsty",
-                    "time": "9小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
-                    "title": "India becomes the latest country to report rogue AI agent activity",
-                    "time": "8小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
@@ -313,7 +309,15 @@ var siteData = {
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": []
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+                    "time": "昨天",
+                    "emoji": "🔥",
+                    "url": "https://www.qbitai.com/2026/10/503782.html"
+                }
+            ]
         },
         "policy": {
             "title": "政策法规",
@@ -353,75 +357,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily",
-                    "desc": "",
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+2000",
-                    "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Ftrending%3Fsince%3Ddaily"
+                    "stars": "+489,802",
+                    "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
-                    "name": "anthropics/claude-plugins-official",
-                    "desc": "",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+1800",
-                    "url": "https://github.com/anthropics/claude-plugins-official"
+                    "name": "freeCodeCamp/freeCodeCamp",
+                    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+457,328",
+                    "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
-                    "name": "K-Dense-AI/scientific-agent-skills",
-                    "desc": "",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+1600",
-                    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+399,363",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 4,
-                    "name": "affaan-m/ECC",
-                    "desc": "",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+1400",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "openclaw/openclaw",
+                    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+392,290",
+                    "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 5,
-                    "name": "HKUDS/CLI-Anything",
-                    "desc": "",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+1200",
-                    "url": "https://github.com/HKUDS/CLI-Anything"
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+328,233",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 6,
-                    "name": "mksglu/context-mode",
-                    "desc": "",
+                    "name": "morluto/rea",
+                    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+1000",
-                    "url": "https://github.com/mksglu/context-mode"
+                    "stars": "+308,331",
+                    "url": "https://github.com/morluto/rea"
                 },
                 {
                     "rank": 7,
-                    "name": "ruvnet/ruflo",
-                    "desc": "",
-                    "lang": "Kotlin",
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+800",
-                    "url": "https://github.com/ruvnet/ruflo"
+                    "stars": "+254,703",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
                     "rank": 8,
-                    "name": "android/skills",
-                    "desc": "",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+600",
-                    "url": "https://github.com/android/skills"
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+252,292",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -430,72 +434,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+            "title": "Porsche’s electric Macan Turbo is an automotive ex",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/503645.html"
+            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+            "title": "India becomes the latest country to report rogue A",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/503640.html"
+            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+            "title": "An Nvidia insider-turned-VC on why robotics hasn’t",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/503614.html"
+            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+            "title": "Waymo’s robotaxis are headed to Canada",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503611.html"
+            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "这个双十一，百灵新模型干起活来不烧心",
+            "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503532.html"
+            "url": "https://www.qbitai.com/2026/10/503880.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "AI时代，商学院这样培养未来商业领袖",
+            "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503504.html"
+            "url": "https://www.qbitai.com/2026/10/503865.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+            "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503501.html"
+            "url": "https://www.qbitai.com/2026/10/503861.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "苹果AI国内上线，阿里百度浮出水面",
+            "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503497.html"
+            "url": "https://www.qbitai.com/2026/10/503843.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+            "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503446.html"
+            "url": "https://www.qbitai.com/2026/10/503829.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "刚刚，苹果正式迈入5万亿美元时代",
+            "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503434.html"
+            "url": "https://www.qbitai.com/2026/10/503815.html"
         }
     ],
     "aiTools": [
@@ -542,24 +546,32 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "AI",
-            "size": "large"
-        },
-        {
-            "text": "The",
-            "size": "large"
-        },
-        {
             "text": "Download",
-            "size": "medium"
+            "size": "large"
+        },
+        {
+            "text": "Anthropic",
+            "size": "large"
         },
         {
             "text": "Generative",
             "size": "medium"
         },
         {
-            "text": "Pig",
+            "text": "The",
             "size": "medium"
+        },
+        {
+            "text": "AI",
+            "size": "medium"
+        },
+        {
+            "text": "Meta",
+            "size": "small"
+        },
+        {
+            "text": "Pig",
+            "size": "small"
         },
         {
             "text": "Diffusion",
@@ -574,94 +586,170 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Token",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "world",
+            "text": "模型",
             "size": "small"
         },
         {
-            "text": "Robotic",
+            "text": "Porsche",
             "size": "small"
         },
         {
-            "text": "Manipulation",
+            "text": "Macan",
             "size": "small"
         },
         {
-            "text": "Gen4P",
-            "size": "small"
-        },
-        {
-            "text": "Video",
-            "size": "small"
-        },
-        {
-            "text": "Efficient",
+            "text": "Turbo",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+            "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。"
+            "snippet": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
         },
         {
-            "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Siri AI这次不包括在内"
-        },
-        {
-            "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+            "title": "India becomes the latest country to report rogue AI agent activity",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Agent究竟该如何深入业务毛细血管？"
+            "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositori"
         },
         {
-            "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+            "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。"
+            "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur"
         },
         {
-            "title": "这个双十一，百灵新模型干起活来不烧心",
+            "title": "Waymo’s robotaxis are headed to Canada",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "大模型好不好用，百灵拿成品说话"
+            "snippet": "The company will start off by testing its self-driving vehicles on Toronto's streets."
         },
         {
-            "title": "AI时代，商学院这样培养未来商业领袖",
+            "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "未来十年共创1000个AI课题"
+            "snippet": "从搭载物理建模能力的世界模型切入"
         },
         {
-            "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
+            "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。"
+            "snippet": "VLA解决“能干”，世界模型解决“想清楚再干”"
         },
         {
-            "title": "苹果AI国内上线，阿里百度浮出水面",
+            "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。"
+            "snippet": "网易首个AI原生语音Agent「网易叭哥说」上线 “用户荣誉联创计划”，投入 10 万元征集产品建议"
         },
         {
-            "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
+            "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "优必选 Thinker-WM在三大公认具身世界模型基准评测中全部拿下第一名"
         },
         {
-            "title": "刚刚，苹果正式迈入5万亿美元时代",
+            "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "曝国行12月上线"
+            "snippet": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
+        },
+        {
+            "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "经验没有压缩算法"
+        },
+        {
+            "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "9.8万元起售，冲刺万台量产"
+        },
+        {
+            "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "10月15日，百度官方公众号发文公布百度世界2026五大亮点"
+        },
+        {
+            "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "背后是一套通用物理运动平台"
+        },
+        {
+            "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谷歌就是季节性气候模型公司"
+        },
+        {
+            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King "
+        },
+        {
+            "title": "The Download: failed social media bans, and extending pets’ lives",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "This implant can restore sight for patients with macular degeneration",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geogr"
+        },
+        {
+            "title": "Love is infrastructure",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time th"
+        },
+        {
+            "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purr"
+        },
+        {
+            "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—ba"
+        },
+        {
+            "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still b"
+        },
+        {
+            "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+        },
+        {
+            "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        },
+        {
+            "title": "Meta removes language that raised scraping and AI training concerns",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
         },
         {
             "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
@@ -698,90 +786,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretr"
-        },
-        {
-            "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant"
-        },
-        {
-            "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pas"
-        },
-        {
-            "title": "Discovering state-of-the-art quantum circuits with large language models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors"
-        },
-        {
-            "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmenta"
-        },
-        {
-            "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, "
-        },
-        {
-            "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily"
-        },
-        {
-            "title": "Grounding Generative Verification in 3D Content",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthes"
-        },
-        {
-            "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as th"
-        },
-        {
-            "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visua"
-        },
-        {
-            "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures"
-        },
-        {
-            "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visu"
-        },
-        {
-            "title": "FDE-Gym: The Last Mile of AI Delivery",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or"
-        },
-        {
-            "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoisi"
-        },
-        {
-            "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur"
         }
     ]
 }
