@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-18 01:58:59
+ * 生成时间: 2026-10-19 02:16:03
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-            "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour b",
+            "title": "Meta removes language that raised scraping and AI training concerns",
+            "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls ",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+            "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "India becomes the latest country to report rogue AI agent activity",
-            "summary": "The agents got in through credentials and connection settings left exposed in app configurations, pu",
+            "tag": "头条 · 大模型",
+            "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+            "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+            "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-            "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, ",
+            "title": "Anthropic says its workforce has become less junior and is spending more time in",
+            "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantl",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+            "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Waymo’s robotaxis are headed to Canada",
-            "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+            "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+            "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+            "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         }
     ],
     "quickNews": [
         {
-            "time": "01:58",
-            "text": "Porsche’s electric Macan Turbo is an automotive existential ",
+            "time": "02:16",
+            "text": "Meta removes language that raised scraping and AI training c",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+            "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
         },
         {
-            "time": "01:58",
-            "text": "India becomes the latest country to report rogue AI agent ac",
+            "time": "02:16",
+            "text": "TikTok permanently bans ‘Musk’ documentary advertising accou",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+            "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
         },
         {
-            "time": "01:58",
-            "text": "An Nvidia insider-turned-VC on why robotics hasn’t hit its C",
+            "time": "02:16",
+            "text": "Anthropic says its workforce has become less junior and is s",
             "hot": false,
-            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+            "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
         },
         {
-            "time": "01:58",
-            "text": "Waymo’s robotaxis are headed to Canada",
+            "time": "02:16",
+            "text": "Replit makes OpenAI its default over Anthropic, CEO says",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+            "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
-            "time": "01:58",
-            "text": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+            "time": "02:16",
+            "text": "Ember’s new temperature-controlled mug makes my nightly tea ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503880.html"
+            "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
         },
         {
-            "time": "01:58",
-            "text": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+            "time": "02:16",
+            "text": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503865.html"
+            "url": "https://www.qbitai.com/2026/10/504067.html"
         },
         {
-            "time": "01:58",
-            "text": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+            "time": "02:16",
+            "text": "智谱新模型，懂法方面全球第一了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503861.html"
+            "url": "https://www.qbitai.com/2026/10/503965.html"
         },
         {
-            "time": "01:58",
-            "text": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+            "time": "02:16",
+            "text": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/503843.html"
+            "url": "https://www.qbitai.com/2026/10/503935.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+                    "title": "Meta removes language that raised scraping and AI training concerns",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+                    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery...."
+                    "desc": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web...."
                 },
                 {
-                    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+                    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+                    "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
                 },
                 {
-                    "title": "Waymo’s robotaxis are headed to Canada",
+                    "title": "Anthropic says its workforce has become less junior and is spending more time in",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+                    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
                 },
                 {
-                    "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-                    "source": "量子位",
+                    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503880.html"
+                    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
                 },
                 {
-                    "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-                    "source": "量子位",
+                    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/503865.html"
+                    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-                    "desc": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic...",
+                    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenz",
+                    "desc": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22372v1"
+                    "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/"
                 },
                 {
-                    "title": "【arXiv】Gen4P: Video Generators are 4D Perceivers",
-                    "desc": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be r...",
+                    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+                    "desc": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary ans...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
+                    "source": "MIT Tech Review",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22371v1"
+                    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
                 },
                 {
-                    "title": "【arXiv】Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
-                    "desc": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minim...",
+                    "title": "The Download: failed social media bans, and extending pets’ lives",
+                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
+                    "source": "MIT Tech Review",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22370v1"
+                    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
                 },
                 {
-                    "title": "【arXiv】SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
-                    "desc": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. T...",
+                    "title": "This implant can restore sight for patients with macular degeneration",
+                    "desc": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells ...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
+                    "source": "MIT Tech Review",
                     "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22369v1"
-                },
-                {
-                    "title": "【arXiv】Discovering state-of-the-art quantum circuits with large language models",
-                    "desc": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22367v1"
-                },
-                {
-                    "title": "【arXiv】T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
-                    "desc": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither dir...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.22364v1"
+                    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
                 }
             ]
         },
@@ -274,10 +252,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "India becomes the latest country to report rogue AI agent activity",
+                    "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+                    "url": "https://www.qbitai.com/2026/10/504067.html"
                 },
                 {
                     "rank": 2,
@@ -309,15 +287,7 @@ var siteData = {
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-                    "time": "昨天",
-                    "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/503782.html"
-                }
-            ]
+            "items": []
         },
         "policy": {
             "title": "政策法规",
@@ -357,75 +327,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+489,802",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,328",
+                    "stars": "+457,447",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+399,363",
+                    "stars": "+399,491",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+392,290",
+                    "stars": "+392,402",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
+                    "rank": 4,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+328,233",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "stars": "+328,062",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+308,331",
+                    "stars": "+323,310",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+254,703",
+                    "stars": "+254,968",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 8,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+252,292",
+                    "stars": "+252,432",
                     "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 8,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+251,275",
+                    "url": "https://github.com/react/react"
                 }
             ]
         }
@@ -434,72 +404,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Porsche’s electric Macan Turbo is an automotive ex",
+            "title": "Meta removes language that raised scraping and AI ",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/"
+            "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "India becomes the latest country to report rogue A",
+            "title": "TikTok permanently bans ‘Musk’ documentary adverti",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+            "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "An Nvidia insider-turned-VC on why robotics hasn’t",
+            "title": "Anthropic says its workforce has become less junio",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+            "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Waymo’s robotaxis are headed to Canada",
+            "title": "Replit makes OpenAI its default over Anthropic, CE",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/"
+            "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+            "title": "Ember’s new temperature-controlled mug makes my ni",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503880.html"
+            "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+            "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503865.html"
+            "url": "https://www.qbitai.com/2026/10/504067.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+            "title": "智谱新模型，懂法方面全球第一了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503861.html"
+            "url": "https://www.qbitai.com/2026/10/503965.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+            "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503843.html"
+            "url": "https://www.qbitai.com/2026/10/503935.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+            "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503829.html"
+            "url": "https://www.qbitai.com/2026/10/503910.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+            "title": "科技企业出海，为啥我推荐你去迪拜？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/503815.html"
+            "url": "https://www.qbitai.com/2026/10/503893.html"
         }
     ],
     "aiTools": [
@@ -546,43 +516,27 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
-            "size": "large"
-        },
-        {
             "text": "Anthropic",
             "size": "large"
         },
         {
-            "text": "Generative",
-            "size": "medium"
-        },
-        {
-            "text": "The",
-            "size": "medium"
-        },
-        {
             "text": "AI",
+            "size": "large"
+        },
+        {
+            "text": "Download",
             "size": "medium"
         },
         {
             "text": "Meta",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "Pig",
-            "size": "small"
+            "size": "medium"
         },
         {
-            "text": "Diffusion",
-            "size": "small"
-        },
-        {
-            "text": "Generation",
-            "size": "small"
-        },
-        {
-            "text": "World",
+            "text": "模型",
             "size": "small"
         },
         {
@@ -590,46 +544,146 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "模型",
+            "text": "The",
             "size": "small"
         },
         {
-            "text": "Porsche",
+            "text": "Musk",
             "size": "small"
         },
         {
-            "text": "Macan",
+            "text": "media",
             "size": "small"
         },
         {
-            "text": "Turbo",
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "Over",
+            "size": "small"
+        },
+        {
+            "text": "Ember",
+            "size": "small"
+        },
+        {
+            "text": "Disney",
+            "size": "small"
+        },
+        {
+            "text": "Character",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+            "title": "Meta removes language that raised scraping and AI training concerns",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
+            "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
         },
         {
-            "title": "India becomes the latest country to report rogue AI agent activity",
+            "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+        },
+        {
+            "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        },
+        {
+            "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still b"
+        },
+        {
+            "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
+        },
+        {
+            "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositori"
+            "snippet": "新版本V4.1-Flash-1017，还开放了自研搜索API"
         },
         {
-            "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+            "title": "智谱新模型，懂法方面全球第一了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur"
+            "snippet": "AI的风还是刮到了法律圈"
         },
         {
-            "title": "Waymo’s robotaxis are headed to Canada",
+            "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The company will start off by testing its self-driving vehicles on Toronto's streets."
+            "snippet": "整套系统原生支持MCP"
+        },
+        {
+            "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "谜底指向时间"
+        },
+        {
+            "title": "科技企业出海，为啥我推荐你去迪拜？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "通往全球市场的超级跳板"
+        },
+        {
+            "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. H"
+        },
+        {
+            "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film."
+        },
+        {
+            "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends"
+        },
+        {
+            "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Anthropic said that it will commit 5% of its shares to the fund."
+        },
+        {
+            "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "How much more can nuclear power plants give?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant "
+        },
+        {
+            "title": "Six wild ideas for perpetuating your mind",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ be"
+        },
+        {
+            "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to "
         },
         {
             "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
@@ -660,36 +714,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。"
-        },
-        {
-            "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "经验没有压缩算法"
-        },
-        {
-            "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "9.8万元起售，冲刺万台量产"
-        },
-        {
-            "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月15日，百度官方公众号发文公布百度世界2026五大亮点"
-        },
-        {
-            "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "背后是一套通用物理运动平台"
-        },
-        {
-            "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "谷歌就是季节性气候模型公司"
         },
         {
             "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -728,64 +752,10 @@ var siteData = {
             "snippet": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—ba"
         },
         {
-            "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still b"
-        },
-        {
-            "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
-        },
-        {
-            "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-        },
-        {
-            "title": "Meta removes language that raised scraping and AI training concerns",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-        },
-        {
-            "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "How much more can nuclear power plants give?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant "
-        },
-        {
-            "title": "Six wild ideas for perpetuating your mind",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ be"
-        },
-        {
-            "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to "
-        },
-        {
-            "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Personalization is essential for general-purpose robots to transition into household environments and achieve true pract"
-        },
-        {
-            "title": "Gen4P: Video Generators are 4D Perceivers",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretr"
+            "title": "TechCrunch Mobility: Rivian’s next act",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is p"
         }
     ]
 }
