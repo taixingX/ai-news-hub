@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-21 02:24:16
+ * 生成时间: 2026-10-22 02:19:39
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-            "summary": "OpenAI只掏出一个6.1 Terra…",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+            "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very diff",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/504314.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-            "summary": "同步搭建千比特规模量子算力云平台",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "Here’s the tea",
+            "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest lab",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/504277.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "通研院孵化的团队，也盯上了RSI",
-            "summary": "当AI越来越懂你，如何让智能真正属于你？",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+            "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large la",
+            "source": "arXiv",
+            "time": "8小时前",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/504294.html"
+            "url": "http://arxiv.org/abs/2610.30132v1"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-            "summary": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行",
-            "source": "量子位",
-            "time": "昨天",
+            "tag": "政策 · 法规",
+            "title": "Rethinking Video Autoencoders for Interactive World Models",
+            "summary": "Video world models predict future frames from past frames and actions. They serve as simulators in w",
+            "source": "arXiv",
+            "time": "8小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/504266.html"
+            "url": "http://arxiv.org/abs/2610.30129v1"
         }
     ],
     "quickNews": [
         {
-            "time": "02:24",
-            "text": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+            "time": "02:19",
+            "text": "It’s a bird, it’s a plane … it’s a robo-puffin?",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/504314.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
         },
         {
-            "time": "02:24",
-            "text": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+            "time": "02:19",
+            "text": "Here’s the tea",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504277.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
         },
         {
-            "time": "02:24",
-            "text": "通研院孵化的团队，也盯上了RSI",
+            "time": "02:19",
+            "text": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504294.html"
+            "url": "http://arxiv.org/abs/2610.30132v1"
         },
         {
-            "time": "02:24",
-            "text": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+            "time": "02:19",
+            "text": "Rethinking Video Autoencoders for Interactive World Models",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504266.html"
+            "url": "http://arxiv.org/abs/2610.30129v1"
         },
         {
-            "time": "02:24",
-            "text": "全栈自研！国产高端互连芯片，稳了!",
+            "time": "02:19",
+            "text": "Think Harder Where It Matters: Item-Level Adaptive Recursion",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504225.html"
+            "url": "http://arxiv.org/abs/2610.30128v1"
         },
         {
-            "time": "02:24",
-            "text": "AI 开始挑战最复杂的系统：生命",
+            "time": "02:19",
+            "text": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504242.html"
+            "url": "http://arxiv.org/abs/2610.30127v1"
         },
         {
-            "time": "02:24",
-            "text": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+            "time": "02:19",
+            "text": "PhysiCalWorld: In-Context Physics Calibration for World Mode",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504238.html"
+            "url": "http://arxiv.org/abs/2610.30125v1"
         },
         {
-            "time": "02:24",
-            "text": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+            "time": "02:19",
+            "text": "ALPS: Visual State Encoders for World Models",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504199.html"
+            "url": "http://arxiv.org/abs/2610.30120v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504314.html",
+                    "url": "http://arxiv.org/abs/2610.30132v1",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "OpenAI只掏出一个6.1 Terra…..."
+                    "desc": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs)..."
                 },
                 {
-                    "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504277.html"
+                    "url": "http://arxiv.org/abs/2610.30116v1"
                 },
                 {
-                    "title": "通研院孵化的团队，也盯上了RSI",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504294.html"
+                    "url": "http://arxiv.org/abs/2610.30113v1"
                 },
                 {
-                    "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Pr",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504266.html"
+                    "url": "http://arxiv.org/abs/2610.30103v1"
                 },
                 {
-                    "title": "全栈自研！国产高端互连芯片，稳了!",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Automattic begins layoffs following board upheaval and executive departures",
+                    "source": "TechCrunch AI",
+                    "time": "6小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504225.html"
+                    "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
-                    "desc": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D a...",
+                    "title": "【arXiv】LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+                    "desc": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data t...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28632v1"
+                    "url": "http://arxiv.org/abs/2610.30132v1"
                 },
                 {
-                    "title": "【arXiv】AEON: Unifying Video and 3D World Models",
-                    "desc": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate re...",
+                    "title": "【arXiv】Rethinking Video Autoencoders for Interactive World Models",
+                    "desc": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28631v1"
+                    "url": "http://arxiv.org/abs/2610.30129v1"
                 },
                 {
-                    "title": "【arXiv】SolarRenderer: Few-Step Generative Reference Rendering",
-                    "desc": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires ...",
+                    "title": "【arXiv】Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+                    "desc": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28630v1"
+                    "url": "http://arxiv.org/abs/2610.30128v1"
                 },
                 {
-                    "title": "【arXiv】GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic disc",
-                    "desc": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending ...",
+                    "title": "【arXiv】VoxProg: 3D Spatial Reasoning through Voxel Programming",
+                    "desc": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructio...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28629v1"
+                    "url": "http://arxiv.org/abs/2610.30127v1"
                 },
                 {
-                    "title": "【arXiv】Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-                    "desc": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-...",
+                    "title": "【arXiv】PhysiCalWorld: In-Context Physics Calibration for World Models",
+                    "desc": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal t...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28628v1"
+                    "url": "http://arxiv.org/abs/2610.30125v1"
                 },
                 {
-                    "title": "【arXiv】UniWALM: Unified World Action Language Model for Embodied Robot Control",
-                    "desc": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language ...",
+                    "title": "【arXiv】ALPS: Visual State Encoders for World Models",
+                    "desc": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.28626v1"
+                    "url": "http://arxiv.org/abs/2610.30120v1"
                 }
             ]
         },
@@ -274,31 +274,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "AI 开始挑战最复杂的系统：生命",
-                    "time": "昨天",
+                    "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective f",
+                    "time": "8小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/504242.html"
+                    "url": "http://arxiv.org/abs/2610.30108v1"
                 },
                 {
                     "rank": 2,
-                    "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-                    "time": "昨天",
+                    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+                    "time": "5小时前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/10/504199.html"
+                    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
                 },
                 {
                     "rank": 3,
-                    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app ",
-                    "time": "7小时前",
+                    "title": "Tesla starts Optimus robot production in California as profit falls 43",
+                    "time": "5小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
+                    "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/"
                 },
                 {
                     "rank": 4,
-                    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+                    "title": "Recursive launches Flint, a laptop coding model it says was largely bu",
                     "time": "5小时前",
                     "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+                    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
                 },
                 {
                     "rank": 5,
@@ -318,10 +318,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Anthropic’s cloud partnerships are getting messy",
-                    "time": "4小时前",
+                    "title": "Meta wants to pay for its broad AI buildout with a newly created class",
+                    "time": "3小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+                    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+                },
+                {
+                    "rank": 2,
+                    "title": "Tesla says it will start selling Cybercabs by end of year",
+                    "time": "2小时前",
+                    "emoji": "💰",
+                    "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/"
                 }
             ]
         },
@@ -363,21 +370,21 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+491,140",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,592",
+                    "stars": "+457,652",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
-                },
-                {
-                    "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+399,686",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 3,
@@ -385,53 +392,53 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+392,689",
+                    "stars": "+392,706",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+369,992",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+348,745",
+                    "stars": "+358,372",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+329,038",
+                    "stars": "+329,284",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+302,638",
+                    "stars": "+303,189",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
+                    "rank": 7,
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+299,941",
+                    "url": "https://github.com/mattpocock/skills"
+                },
+                {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+284,942",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+255,981",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -440,72 +447,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+            "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/504314.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+            "title": "Here’s the tea",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/504277.html"
+            "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "通研院孵化的团队，也盯上了RSI",
+            "title": "LongZero: Enhancing Long-Context Reasoning in LLMs",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/504294.html"
+            "url": "http://arxiv.org/abs/2610.30132v1"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+            "title": "Rethinking Video Autoencoders for Interactive Worl",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504266.html"
+            "url": "http://arxiv.org/abs/2610.30129v1"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "全栈自研！国产高端互连芯片，稳了!",
+            "title": "Think Harder Where It Matters: Item-Level Adaptive",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504225.html"
+            "url": "http://arxiv.org/abs/2610.30128v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "AI 开始挑战最复杂的系统：生命",
+            "title": "VoxProg: 3D Spatial Reasoning through Voxel Progra",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504242.html"
+            "url": "http://arxiv.org/abs/2610.30127v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
+            "title": "PhysiCalWorld: In-Context Physics Calibration for ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504238.html"
+            "url": "http://arxiv.org/abs/2610.30125v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
+            "title": "ALPS: Visual State Encoders for World Models",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504199.html"
+            "url": "http://arxiv.org/abs/2610.30120v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
+            "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504188.html"
+            "url": "http://arxiv.org/abs/2610.30116v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "谷歌开源RSI新成果！华人浓度爆表",
+            "title": "The End of Consensus Research?",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504184.html"
+            "url": "http://arxiv.org/abs/2610.30114v1"
         }
     ],
     "aiTools": [
@@ -556,47 +563,51 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Google",
+            "text": "LLMs",
             "size": "large"
         },
         {
-            "text": "MIT",
+            "text": "Reinforcement",
             "size": "medium"
         },
         {
-            "text": "OpenAI",
+            "text": "World",
             "size": "medium"
         },
         {
-            "text": "Video",
+            "text": "Models",
             "size": "medium"
+        },
+        {
+            "text": "Tesla",
+            "size": "small"
         },
         {
             "text": "its",
             "size": "small"
         },
         {
-            "text": "Dexterous",
+            "text": "Context",
             "size": "small"
         },
         {
-            "text": "Multi",
+            "text": "Existing",
             "size": "small"
         },
         {
-            "text": "Arabic",
+            "text": "Learning",
             "size": "small"
         },
         {
-            "text": "SpaceX",
+            "text": "Meta",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "models",
             "size": "small"
         },
         {
-            "text": "Action",
+            "text": "The",
             "size": "small"
         },
         {
@@ -604,194 +615,190 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "World",
-            "size": "small"
-        },
-        {
-            "text": "Current",
+            "text": "Long",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+            "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or s"
+        },
+        {
+            "title": "Here’s the tea",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old "
+        },
+        {
+            "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "OpenAI只掏出一个6.1 Terra…"
+            "snippet": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs)"
         },
         {
-            "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "同步搭建千比特规模量子算力云平台"
-        },
-        {
-            "title": "通研院孵化的团队，也盯上了RSI",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "当AI越来越懂你，如何让智能真正属于你？"
-        },
-        {
-            "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "2026年10月19日下午，医疗健康世界模型分会场在南京国际博览中心钟山厅举行"
-        },
-        {
-            "title": "全栈自研！国产高端互连芯片，稳了!",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "六年蛰伏出货80万颗"
-        },
-        {
-            "title": "AI 开始挑战最复杂的系统：生命",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "10 月 17 日，哲源科技发布 WHIRLPO 计算医学平台。"
-        },
-        {
-            "title": "达摩院玄铁出席RISC-V中国峰会，首发车规产品路线图",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月19日，RISC-V中国峰会在深圳举行。"
-        },
-        {
-            "title": "赛场交卷 未来已来——首届全球具身智能应用创新挑战赛暨2026中国机器人大赛闭幕",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "10月18日下午，首届全球具身智能应用创新挑战赛暨2026中国机器人大赛落下帷幕。"
-        },
-        {
-            "title": "日均6万亿Token服务背后，商汤大装置如何提升推理效能？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "AI基础设施竞争转向高质量Token产能"
-        },
-        {
-            "title": "谷歌开源RSI新成果！华人浓度爆表",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Harness层的RSI"
-        },
-        {
-            "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+            "title": "Rethinking Video Autoencoders for Interactive World Models",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixe"
+            "snippet": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, p"
         },
         {
-            "title": "AEON: Unifying Video and 3D World Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models ("
-        },
-        {
-            "title": "SolarRenderer: Few-Step Generative Reference Rendering",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure "
-        },
-        {
-            "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discov"
-        },
-        {
-            "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dy"
-        },
-        {
-            "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+            "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a "
+            "snippet": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction his"
         },
         {
-            "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We int"
-        },
-        {
-            "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+            "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semant"
+            "snippet": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Ye"
         },
         {
-            "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet l"
-        },
-        {
-            "title": "Adaptive Multi-Token Prediction: How far should we go?",
+            "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a s"
+            "snippet": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these"
         },
         {
-            "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not"
+            "title": "ALPS: Visual State Encoders for World Models",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "World models turn visual representations into predictions and actions. We argue that their visual foundation should comb"
         },
         {
-            "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Deploying a trained 3D Gaussian Splatting scene under shrinking compute budgets requires one primitive set to remain eff"
-        },
-        {
-            "title": "Semantic Observability for Autonomous Systems Diagnostics",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs a"
-        },
-        {
-            "title": "Benchmarking Arabic Dialects for Math Problems",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap,"
-        },
-        {
-            "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debat",
+            "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of gene"
+            "snippet": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier "
         },
         {
-            "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+            "title": "The End of Consensus Research?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite "
+        },
+        {
+            "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable si"
+        },
+        {
+            "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidi"
+            "snippet": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-us"
         },
         {
-            "title": "ChatGPT now lets you lock your chats",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a"
+            "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Sequential decision-making under partial observability is difficult because agents must explore to infer hidden, task-re"
         },
         {
-            "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from"
+            "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JU",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imagi"
         },
         {
-            "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+            "title": "Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by A",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electr"
+            "snippet": "Many NP-complete (NPC) problems have a polynomial-time (P) twin that differs in a single structural detail, such as 3- v"
         },
         {
-            "title": "SpaceX’s AI business is beating expectations",
+            "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with "
+        },
+        {
+            "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often "
+        },
+        {
+            "title": "Automattic begins layoffs following board upheaval and executive departures",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+            "snippet": "Sources say more cuts could follow as the company looks to improve its finances."
+        },
+        {
+            "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with "
+        },
+        {
+            "title": "Meta says Muse has over 10M users, with shopping a top activity",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI"
+        },
+        {
+            "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its missi"
+        },
+        {
+            "title": "Tesla starts Optimus robot production in California as profit falls 43%",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and auton"
+        },
+        {
+            "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as "
+        },
+        {
+            "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do"
+        },
+        {
+            "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+        },
+        {
+            "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
+        },
+        {
+            "title": "Tesla says it will start selling Cybercabs by end of year",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators "
+        },
+        {
+            "title": "We can do impossible things",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s y"
+        },
+        {
+            "title": "Nuclear-powered spaceships",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to bu"
+        },
+        {
+            "title": "Exercise in a pill",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By dec"
         }
     ]
 }
