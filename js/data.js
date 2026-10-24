@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-23 02:25:21
+ * 生成时间: 2026-10-24 02:22:44
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-            "summary": "医疗AI质变时刻",
+            "tag": "重磅 · 应用",
+            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+            "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/504734.html"
+            "url": "https://www.qbitai.com/2026/10/504879.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-            "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+            "summary": "FSD一年增长70万付费用户",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/504730.html"
+            "url": "https://www.qbitai.com/2026/10/504841.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-            "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
+            "tag": "重磅 · 应用",
+            "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+            "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/504653.html"
+            "url": "https://www.qbitai.com/2026/10/504832.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-            "summary": "百万台搭载打底，智驾普及与安全并重",
+            "title": "谁在给OpenAI供应具身数据？",
+            "summary": "挤进全球Physical AI核心供应链",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/504638.html"
+            "url": "https://www.qbitai.com/2026/10/504800.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:25",
-            "text": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+            "time": "02:22",
+            "text": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/504734.html"
+            "url": "https://www.qbitai.com/2026/10/504879.html"
         },
         {
-            "time": "02:25",
-            "text": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+            "time": "02:22",
+            "text": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504730.html"
+            "url": "https://www.qbitai.com/2026/10/504841.html"
         },
         {
-            "time": "02:25",
-            "text": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+            "time": "02:22",
+            "text": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504653.html"
+            "url": "https://www.qbitai.com/2026/10/504832.html"
         },
         {
-            "time": "02:25",
-            "text": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+            "time": "02:22",
+            "text": "谁在给OpenAI供应具身数据？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504638.html"
+            "url": "https://www.qbitai.com/2026/10/504800.html"
         },
         {
-            "time": "02:25",
-            "text": "实探宁德时代总部：“去宁化”是喊太大声了",
+            "time": "02:22",
+            "text": "Designing an AI serving harness built to last",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504618.html"
+            "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
         },
         {
-            "time": "02:25",
-            "text": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+            "time": "02:22",
+            "text": "The Foundations of Scalable AI",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504608.html"
+            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
         },
         {
-            "time": "02:25",
-            "text": "The Download: introducing the Impossible issue",
+            "time": "02:22",
+            "text": "The Download: computing’s next leap and permafrost’s climate",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+            "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
         },
         {
-            "time": "02:25",
-            "text": "We can do impossible things",
+            "time": "02:22",
+            "text": "Making the case for context-aware AI",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
+            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+                    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504734.html",
+                    "url": "https://www.qbitai.com/2026/10/504841.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "医疗AI质变时刻..."
+                    "desc": "FSD一年增长70万付费用户..."
                 },
                 {
-                    "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+                    "title": "谁在给OpenAI供应具身数据？",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504730.html"
+                    "url": "https://www.qbitai.com/2026/10/504800.html"
                 },
                 {
-                    "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-                    "source": "量子位",
+                    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504638.html"
+                    "category": "domestic",
+                    "url": "http://arxiv.org/abs/2610.31670v1"
                 },
                 {
-                    "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-                    "source": "量子位",
+                    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504618.html"
+                    "url": "http://arxiv.org/abs/2610.31657v1"
                 },
                 {
-                    "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-                    "source": "量子位",
+                    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missin",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504608.html"
+                    "url": "http://arxiv.org/abs/2610.31650v1"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-                    "desc": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。...",
+                    "title": "【arXiv】A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+                    "desc": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "量子位",
+                    "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://www.qbitai.com/2026/10/504653.html"
+                    "url": "http://arxiv.org/abs/2610.31671v1"
                 },
                 {
-                    "title": "Designing an AI serving harness built to last",
-                    "desc": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shi...",
+                    "title": "【arXiv】Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+                    "desc": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "5小时前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+                    "url": "http://arxiv.org/abs/2610.31670v1"
                 },
                 {
-                    "title": "The Foundations of Scalable AI",
-                    "desc": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This s...",
+                    "title": "【arXiv】Reading, Writing, Sharing, and Interacting with the World through Video",
+                    "desc": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlyin...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "7小时前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+                    "url": "http://arxiv.org/abs/2610.31668v1"
                 },
                 {
-                    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
+                    "title": "【arXiv】Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-",
+                    "desc": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the h...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "14小时前",
+                    "source": "arXiv",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+                    "url": "http://arxiv.org/abs/2610.31667v1"
+                },
+                {
+                    "title": "【arXiv】SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+                    "desc": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual ...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2610.31659v1"
+                },
+                {
+                    "title": "【arXiv】Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+                    "desc": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional rea...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "昨天",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2610.31657v1"
                 }
             ]
         },
@@ -252,31 +274,29 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "1Password launches a way for AI agents to log in on your behalf withou",
-                    "time": "7小时前",
+                    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+                    "url": "https://www.qbitai.com/2026/10/504879.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionai",
-                    "time": "2小时前",
+                    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+                    "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/"
+                    "url": "https://www.qbitai.com/2026/10/504832.html"
                 },
                 {
                     "rank": 3,
-                    "title": "Left alone with nothing to do, AI agents started playing",
-                    "time": "1小时前",
+                    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+                    "time": "5小时前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+                    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
                 },
                 {
                     "rank": 4,
-                    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-                    "time": "19小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/10/504832.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
@@ -296,17 +316,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-                    "time": "4小时前",
+                    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-                },
-                {
-                    "rank": 2,
-                    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a1",
-                    "time": "3小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/"
+                    "url": "http://arxiv.org/abs/2610.31670v1"
                 }
             ]
         },
@@ -352,26 +365,26 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,726",
+                    "stars": "+457,796",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 2,
-                    "name": "EbookFoundation/free-programming-books",
-                    "desc": ":books: Freely available programming books",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+399,860",
-                    "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+392,795",
+                    "stars": "+392,887",
                     "url": "https://github.com/openclaw/openclaw"
+                },
+                {
+                    "rank": 3,
+                    "name": "morluto/rea",
+                    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+373,496",
+                    "url": "https://github.com/morluto/rea"
                 },
                 {
                     "rank": 4,
@@ -379,44 +392,44 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+370,166",
+                    "stars": "+370,240",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 5,
-                    "name": "morluto/rea",
-                    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+366,758",
-                    "url": "https://github.com/morluto/rea"
-                },
-                {
-                    "rank": 6,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+329,517",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 7,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+329,369",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
-                },
-                {
-                    "rank": 8,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+303,774",
+                    "stars": "+304,262",
                     "url": "https://github.com/obra/superpowers"
+                },
+                {
+                    "rank": 6,
+                    "name": "deepseek-ai/deepseek-harness",
+                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+259,514",
+                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                },
+                {
+                    "rank": 7,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+256,545",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 8,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+253,307",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -425,72 +438,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/504734.html"
+            "url": "https://www.qbitai.com/2026/10/504879.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/504730.html"
+            "url": "https://www.qbitai.com/2026/10/504841.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+            "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/504653.html"
+            "url": "https://www.qbitai.com/2026/10/504832.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+            "title": "谁在给OpenAI供应具身数据？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504638.html"
+            "url": "https://www.qbitai.com/2026/10/504800.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+            "title": "Designing an AI serving harness built to last",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504618.html"
+            "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+            "title": "The Foundations of Scalable AI",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504608.html"
+            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "The Download: introducing the Impossible issue",
+            "title": "The Download: computing’s next leap and permafrost",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
+            "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "We can do impossible things",
+            "title": "Making the case for context-aware AI",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/"
+            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Nuclear-powered spaceships",
+            "title": "Three things you should know about permafrost",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/"
+            "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Exercise in a pill",
+            "title": "AI’s hidden storage bill: What inference leaves be",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/"
+            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
         }
     ],
     "aiTools": [
@@ -545,196 +558,64 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "The",
+            "text": "Video",
             "size": "medium"
+        },
+        {
+            "text": "TechCrunch",
+            "size": "medium"
+        },
+        {
+            "text": "models",
+            "size": "medium"
+        },
+        {
+            "text": "The",
+            "size": "small"
+        },
+        {
+            "text": "world",
+            "size": "small"
+        },
+        {
+            "text": "Test",
+            "size": "small"
+        },
+        {
+            "text": "Founder",
+            "size": "small"
+        },
+        {
+            "text": "Summit",
+            "size": "small"
+        },
+        {
+            "text": "模型",
+            "size": "small"
+        },
+        {
+            "text": "&#",
+            "size": "small"
         },
         {
             "text": "OpenAI",
-            "size": "medium"
+            "size": "small"
         },
         {
-            "text": "Impossible",
-            "size": "medium"
-        },
-        {
-            "text": "Canva",
+            "text": "model",
             "size": "small"
         },
         {
             "text": "Data",
             "size": "small"
-        },
-        {
-            "text": "MIT",
-            "size": "small"
-        },
-        {
-            "text": "Arc",
-            "size": "small"
-        },
-        {
-            "text": "December",
-            "size": "small"
-        },
-        {
-            "text": "Ben",
-            "size": "small"
-        },
-        {
-            "text": "Rivian",
-            "size": "small"
-        },
-        {
-            "text": "Warhound",
-            "size": "small"
-        },
-        {
-            "text": "Mark",
-            "size": "small"
-        },
-        {
-            "text": "Zuckerberg",
-            "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "医疗AI质变时刻"
-        },
-        {
-            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
-        },
-        {
-            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
-        },
-        {
-            "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "百万台搭载打底，智驾普及与安全并重"
-        },
-        {
-            "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "电池开发，分工远比想象复杂"
-        },
-        {
-            "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "先看真实问题解决力"
-        },
-        {
-            "title": "The Download: introducing the Impossible issue",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "We can do impossible things",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s y"
-        },
-        {
-            "title": "Nuclear-powered spaceships",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to bu"
-        },
-        {
-            "title": "Exercise in a pill",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By dec"
-        },
-        {
-            "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials "
-        },
-        {
-            "title": "Canva releases its first image generation model",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower cos"
-        },
-        {
-            "title": "The Foundations of Scalable AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must c"
-        },
-        {
-            "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternati"
-        },
-        {
-            "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders"
-        },
-        {
-            "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could "
-        },
-        {
-            "title": "Designing an AI serving harness built to last",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build arou"
-        },
-        {
-            "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued pr"
-        },
-        {
-            "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military a"
-        },
-        {
-            "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
-        },
-        {
-            "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control ",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the"
-        },
-        {
-            "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "电池、电驱、超充一把梭，冬天多跑30公里"
-        },
-        {
-            "title": "Left alone with nothing to do, AI agents started playing",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, ev"
+            "snippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
         },
         {
             "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
@@ -755,10 +636,22 @@ var siteData = {
             "snippet": "挤进全球Physical AI核心供应链"
         },
         {
-            "title": "AI’s hidden storage bill: What inference leaves behind",
+            "title": "Designing an AI serving harness built to last",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—"
+            "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build arou"
+        },
+        {
+            "title": "The Foundations of Scalable AI",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must c"
+        },
+        {
+            "title": "The Download: computing’s next leap and permafrost’s climate threat",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
             "title": "Making the case for context-aware AI",
@@ -773,10 +666,130 @@ var siteData = {
             "snippet": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that"
         },
         {
-            "title": "The Download: computing’s next leap and permafrost’s climate threat",
+            "title": "AI’s hidden storage bill: What inference leaves behind",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—"
+        },
+        {
+            "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to acco"
+        },
+        {
+            "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline pro"
+        },
+        {
+            "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models"
+        },
+        {
+            "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reaso",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number o"
+        },
+        {
+            "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can a"
+        },
+        {
+            "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an"
+        },
+        {
+            "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this r"
+        },
+        {
+            "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building obj"
+        },
+        {
+            "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool respo"
+        },
+        {
+            "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images w"
+        },
+        {
+            "title": "Low-Bit N-Gram Embeddings for Language Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned r"
+        },
+        {
+            "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce disto"
+        },
+        {
+            "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resoluti",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neu"
+        },
+        {
+            "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video stat"
+        },
+        {
+            "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering"
+        },
+        {
+            "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Str"
+        },
+        {
+            "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to e"
+        },
+        {
+            "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right n",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, an"
+        },
+        {
+            "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender"
+        },
+        {
+            "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's "
         }
     ]
 }
