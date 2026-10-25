@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-24 02:22:44
+ * 生成时间: 2026-10-25 02:10:10
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-            "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+            "tag": "头条 · 大模型",
+            "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+            "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/504879.html"
+            "url": "https://www.qbitai.com/2026/10/504901.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-            "summary": "FSD一年增长70万付费用户",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "The Download: testing six tech promises and biotech’s blind spots",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/504841.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-            "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "In the biotech world, you can’t see everything",
+            "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/504832.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "谁在给OpenAI供应具身数据？",
-            "summary": "挤进全球Physical AI核心供应链",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+            "summary": "Instacart might sell itself to a larger competitor.",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/504800.html"
+            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:22",
-            "text": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+            "time": "02:10",
+            "text": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/504879.html"
+            "url": "https://www.qbitai.com/2026/10/504901.html"
         },
         {
-            "time": "02:22",
-            "text": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+            "time": "02:10",
+            "text": "The Download: testing six tech promises and biotech’s blind ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504841.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
         },
         {
-            "time": "02:22",
-            "text": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+            "time": "02:10",
+            "text": "In the biotech world, you can’t see everything",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504832.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
         },
         {
-            "time": "02:22",
-            "text": "谁在给OpenAI供应具身数据？",
+            "time": "02:10",
+            "text": "Instacart reportedly discussed selling itself with DoorDash ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/504800.html"
+            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
         },
         {
-            "time": "02:22",
-            "text": "Designing an AI serving harness built to last",
+            "time": "02:10",
+            "text": "The AI graveyard: a running list of projects and startups th",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         },
         {
-            "time": "02:22",
-            "text": "The Foundations of Scalable AI",
+            "time": "02:10",
+            "text": "Starlink seems to be working normally again in Ukraine",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
         },
         {
-            "time": "02:22",
-            "text": "The Download: computing’s next leap and permafrost’s climate",
+            "time": "02:10",
+            "text": "Will AI expose the rickety infrastructure of the internet?",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
         },
         {
-            "time": "02:22",
-            "text": "Making the case for context-aware AI",
+            "time": "02:10",
+            "text": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+            "url": "https://www.qbitai.com/2026/10/504734.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+                    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504841.html",
+                    "url": "https://www.qbitai.com/2026/10/504901.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "FSD一年增长70万付费用户..."
+                    "desc": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。..."
                 },
                 {
-                    "title": "谁在给OpenAI供应具身数据？",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/504800.html"
+                    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
                 },
                 {
-                    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Starlink seems to be working normally again in Ukraine",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "http://arxiv.org/abs/2610.31670v1"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
                 },
                 {
-                    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Will AI expose the rickety infrastructure of the internet?",
+                    "source": "TechCrunch AI",
+                    "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.31657v1"
+                    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
                 },
                 {
-                    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missin",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+                    "source": "量子位",
+                    "time": "3天前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2610.31650v1"
+                    "url": "https://www.qbitai.com/2026/10/504734.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31671v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31670v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31668v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31667v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31659v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2610.31657v1"
@@ -274,29 +274,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-                    "time": "昨天",
+                    "title": "The AI graveyard: a running list of projects and startups that didn’t ",
+                    "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/504879.html"
+                    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
                 },
                 {
                     "rank": 2,
-                    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-                    "time": "昨天",
+                    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+                    "time": "2天前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/10/504832.html"
+                    "url": "https://www.qbitai.com/2026/10/504879.html"
                 },
                 {
                     "rank": 3,
-                    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-                    "time": "5小时前",
+                    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+                    "time": "2天前",
                     "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/"
+                    "url": "https://www.qbitai.com/2026/10/504832.html"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Here are the top AI agents that can live in your text messages",
+                    "time": "12小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
                 },
                 {
                     "rank": 5,
@@ -317,7 +319,7 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-                    "time": "昨天",
+                    "time": "2天前",
                     "emoji": "🔥",
                     "url": "http://arxiv.org/abs/2610.31670v1"
                 }
@@ -361,75 +363,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+491,897",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,796",
+                    "stars": "+457,861",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+400,025",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
+                },
+                {
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+392,887",
+                    "stars": "+392,965",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 3,
+                    "rank": 5,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+373,496",
+                    "stars": "+379,015",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 4,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+370,240",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 5,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+304,262",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
                     "rank": 6,
-                    "name": "deepseek-ai/deepseek-harness",
-                    "desc": "DeepSeek Harness: Everything is a Plugin.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+259,514",
-                    "url": "https://github.com/deepseek-ai/deepseek-harness"
-                },
-                {
-                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+256,545",
+                    "stars": "+256,829",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
-                    "rank": 8,
+                    "rank": 7,
                     "name": "torvalds/linux",
                     "desc": "Linux kernel source tree",
                     "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+253,307",
+                    "stars": "+253,372",
                     "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 8,
+                    "name": "anomalyco/opencode",
+                    "desc": "The open source coding agent.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+221,105",
+                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -438,72 +440,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+            "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/504879.html"
+            "url": "https://www.qbitai.com/2026/10/504901.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+            "title": "The Download: testing six tech promises and biotec",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/504841.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+            "title": "In the biotech world, you can’t see everything",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/504832.html"
+            "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "谁在给OpenAI供应具身数据？",
+            "title": "Instacart reportedly discussed selling itself with",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504800.html"
+            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Designing an AI serving harness built to last",
+            "title": "The AI graveyard: a running list of projects and s",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "The Foundations of Scalable AI",
+            "title": "Starlink seems to be working normally again in Ukr",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "The Download: computing’s next leap and permafrost",
+            "title": "Will AI expose the rickety infrastructure of the i",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Making the case for context-aware AI",
+            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+            "url": "https://www.qbitai.com/2026/10/504734.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Three things you should know about permafrost",
+            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/"
+            "url": "https://www.qbitai.com/2026/10/504730.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "AI’s hidden storage bill: What inference leaves be",
+            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+            "url": "https://www.qbitai.com/2026/10/504653.html"
         }
     ],
     "aiTools": [
@@ -562,15 +564,15 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "TechCrunch",
+            "text": "The",
+            "size": "medium"
+        },
+        {
+            "text": "OpenAI",
             "size": "medium"
         },
         {
             "text": "models",
-            "size": "medium"
-        },
-        {
-            "text": "The",
             "size": "small"
         },
         {
@@ -578,19 +580,15 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "model",
+            "size": "small"
+        },
+        {
             "text": "Test",
             "size": "small"
         },
         {
-            "text": "Founder",
-            "size": "small"
-        },
-        {
-            "text": "Summit",
-            "size": "small"
-        },
-        {
-            "text": "模型",
+            "text": "These",
             "size": "small"
         },
         {
@@ -598,19 +596,107 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "模型",
             "size": "small"
         },
         {
-            "text": "model",
+            "text": "Instacart",
             "size": "small"
         },
         {
-            "text": "Data",
+            "text": "Apple",
+            "size": "small"
+        },
+        {
+            "text": "Starlink",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。"
+        },
+        {
+            "title": "The Download: testing six tech promises and biotech’s blind spots",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "In the biotech world, you can’t see everything",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced forme"
+        },
+        {
+            "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Instacart might sell itself to a larger competitor."
+        },
+        {
+            "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut"
+        },
+        {
+            "title": "Starlink seems to be working normally again in Ukraine",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+        },
+        {
+            "title": "Will AI expose the rickety infrastructure of the internet?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The moment you realize the internet is \"held together by glue and dreams.\""
+        },
+        {
+            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "医疗AI质变时刻"
+        },
+        {
+            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
+        },
+        {
+            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
+        },
+        {
+            "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "百万台搭载打底，智驾普及与安全并重"
+        },
+        {
+            "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "电池开发，分工远比想象复杂"
+        },
+        {
+            "title": "The Download: introducing the Impossible issue",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "We can do impossible things",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s y"
+        },
         {
             "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
             "category": "AI应用",
@@ -706,90 +792,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an"
-        },
-        {
-            "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this r"
-        },
-        {
-            "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building obj"
-        },
-        {
-            "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool respo"
-        },
-        {
-            "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images w"
-        },
-        {
-            "title": "Low-Bit N-Gram Embeddings for Language Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned r"
-        },
-        {
-            "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce disto"
-        },
-        {
-            "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resoluti",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neu"
-        },
-        {
-            "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video stat"
-        },
-        {
-            "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering"
-        },
-        {
-            "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Str"
-        },
-        {
-            "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to e"
-        },
-        {
-            "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right n",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, an"
-        },
-        {
-            "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender"
-        },
-        {
-            "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's "
         }
     ]
 }
