@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-26 02:10:50
+ * 生成时间: 2026-10-27 02:47:22
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "Starlink seems to be working normally again in Ukraine",
-            "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+            "tag": "重磅 · 应用",
+            "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+            "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with s",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "刚刚",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Will AI expose the rickety infrastructure of the internet?",
-            "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+            "tag": "行业 · 动态",
+            "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+            "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavat",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
-        },
-        {
-            "tag": "重磅 · 应用",
-            "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-            "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the A",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-            "summary": "Instacart might sell itself to a larger competitor.",
+            "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo",
+            "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+        },
+        {
+            "tag": "独家 · 研究",
+            "title": "Will the real Anthropic please stand up",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+            "source": "MIT Tech Review",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
         }
     ],
     "quickNews": [
         {
-            "time": "02:10",
-            "text": "Starlink seems to be working normally again in Ukraine",
+            "time": "02:47",
+            "text": "How OpenAI turned its coding tools into dots, an always-on p",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
         },
         {
-            "time": "02:10",
-            "text": "Will AI expose the rickety infrastructure of the internet?",
+            "time": "02:47",
+            "text": "This startup’s self-driving excavators help dig up $600M in ",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
         },
         {
-            "time": "02:10",
-            "text": "The AI graveyard: a running list of projects and startups th",
+            "time": "02:47",
+            "text": "Anthropic’s IPO filing reveals its strategy for keeping ente",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
         },
         {
-            "time": "02:10",
-            "text": "Instacart reportedly discussed selling itself with DoorDash ",
+            "time": "02:47",
+            "text": "Will the real Anthropic please stand up",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
         },
         {
-            "time": "02:10",
-            "text": "The best apps for tracking your reading and discovering new ",
+            "time": "02:47",
+            "text": "Uh-oh, it sounds like the iPhone Duo keeps cracking and user",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+            "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
         },
         {
-            "time": "02:10",
-            "text": "AI delivers ‘zero financial payoff’ to most companies, Apoll",
+            "time": "02:47",
+            "text": "Fusion startups are giving the government shares in exchange",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+            "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
         },
         {
-            "time": "02:10",
-            "text": "‘Cyberselfish’ author takes aim at techno-libertarianism as ",
+            "time": "02:47",
+            "text": "Watch out, YouTube — Instagram goes from short-form to 90-mi",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+            "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
         },
         {
-            "time": "02:10",
-            "text": "Grok releases the first seven minutes of its AI-generated ‘O",
+            "time": "02:47",
+            "text": "Databricks co-founder shares his secrets for winning big ent",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+            "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Starlink seems to be working normally again in Ukraine",
+                    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access...."
+                    "desc": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because..."
                 },
                 {
-                    "title": "Will AI expose the rickety infrastructure of the internet?",
+                    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+                    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
                 },
                 {
-                    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+                    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "7小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+                    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
                 },
                 {
-                    "title": "The best apps for tracking your reading and discovering new books",
+                    "title": "Fusion startups are giving the government shares in exchange for awards. Is it w",
                     "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
                 },
                 {
-                    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+                    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "5小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
                 }
             ]
         },
@@ -201,70 +201,48 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】The Language of Instruction: Genre and Generative AI",
-                    "desc": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-co...",
+                    "title": "Will the real Anthropic please stand up",
+                    "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "MIT Tech Review",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32982v1"
+                    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
                 },
                 {
-                    "title": "【arXiv】SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for E",
-                    "desc": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic ...",
+                    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "MIT Tech Review",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32978v1"
+                    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
                 },
                 {
-                    "title": "【arXiv】UniAction: Unified Action Conditioning for World Models",
-                    "desc": "Actions that condition world models are highly heterogeneous, and thus existing action-conditioned world models are typically built for individual act...",
+                    "title": "The Download: testing six tech promises and biotech’s blind spots",
+                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "MIT Tech Review",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32977v1"
+                    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
                 },
                 {
-                    "title": "【arXiv】FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
-                    "desc": "To estimate correspondences across images, existing approaches match either sparse interest points, which is highly efficient but limited by repeatabi...",
+                    "title": "In the biotech world, you can’t see everything",
+                    "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "arXiv",
-                    "time": "2天前",
+                    "source": "MIT Tech Review",
+                    "time": "3天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32976v1"
-                },
-                {
-                    "title": "【arXiv】RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-                    "desc": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Exist...",
-                    "tag": "论文解读",
-                    "tagClass": "tag-purple",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32971v1"
-                },
-                {
-                    "title": "【arXiv】DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-                    "desc": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot action...",
-                    "tag": "学术会议",
-                    "tagClass": "tag-orange",
-                    "source": "arXiv",
-                    "time": "2天前",
-                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-                    "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.32969v1"
+                    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
                 }
             ]
         },
@@ -274,29 +252,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The AI graveyard: a running list of projects and startups that didn’t ",
-                    "time": "昨天",
+                    "title": "How OpenAI turned its coding tools into dots, an always-on personal as",
+                    "time": "刚刚",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+                    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
                 },
                 {
                     "rank": 2,
                     "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-                    "time": "3天前",
+                    "time": "4天前",
                     "emoji": "💡",
                     "url": "https://www.qbitai.com/2026/10/504879.html"
                 },
                 {
                     "rank": 3,
-                    "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+                    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
                     "time": "3天前",
                     "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/10/504832.html"
+                    "url": "https://www.qbitai.com/2026/10/504915.html"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+                    "time": "3天前",
+                    "emoji": "🔍",
+                    "url": "https://www.qbitai.com/2026/10/504905.html"
                 },
                 {
                     "rank": 5,
@@ -316,10 +296,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economis",
+                    "title": "This startup’s self-driving excavators help dig up $600M in new fundin",
                     "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+                    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+                },
+                {
+                    "rank": 2,
+                    "title": "Fusion startups are giving the government shares in exchange for award",
+                    "time": "7小时前",
+                    "emoji": "💰",
+                    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+                },
+                {
+                    "rank": 3,
+                    "title": "The focus on AI safety disasters ignores everyday harms",
+                    "time": "17小时前",
+                    "emoji": "🏭",
+                    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
                 }
             ]
         },
@@ -365,7 +359,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,921",
+                    "stars": "+457,992",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -374,7 +368,7 @@ var siteData = {
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+400,114",
+                    "stars": "+400,210",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -383,7 +377,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+393,055",
+                    "stars": "+393,159",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -392,7 +386,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+385,045",
+                    "stars": "+392,203",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -401,7 +395,7 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+370,417",
+                    "stars": "+370,496",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -410,7 +404,7 @@ var siteData = {
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+330,278",
+                    "stars": "+330,499",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
@@ -419,17 +413,17 @@ var siteData = {
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+288,901",
+                    "stars": "+289,928",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+257,077",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+288,126",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 }
             ]
         }
@@ -438,72 +432,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Starlink seems to be working normally again in Ukr",
+            "title": "How OpenAI turned its coding tools into dots, an a",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Will AI expose the rickety infrastructure of the i",
+            "title": "This startup’s self-driving excavators help dig up",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "The AI graveyard: a running list of projects and s",
+            "title": "Anthropic’s IPO filing reveals its strategy for ke",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Instacart reportedly discussed selling itself with",
+            "title": "Will the real Anthropic please stand up",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/"
+            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The best apps for tracking your reading and discov",
+            "title": "Uh-oh, it sounds like the iPhone Duo keeps crackin",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/"
+            "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "AI delivers ‘zero financial payoff’ to most compan",
+            "title": "Fusion startups are giving the government shares i",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+            "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "‘Cyberselfish’ author takes aim at techno-libertar",
+            "title": "Watch out, YouTube — Instagram goes from short-for",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/"
+            "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Grok releases the first seven minutes of its AI-ge",
+            "title": "Databricks co-founder shares his secrets for winni",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+            "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504734.html"
+            "url": "https://www.qbitai.com/2026/10/504879.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504730.html"
+            "url": "https://www.qbitai.com/2026/10/504841.html"
         }
     ],
     "aiTools": [
@@ -562,144 +556,102 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Language",
+            "text": "Anthropic",
             "size": "medium"
-        },
-        {
-            "text": "world",
-            "size": "medium"
-        },
-        {
-            "text": "Data",
-            "size": "small"
-        },
-        {
-            "text": "Generative",
-            "size": "small"
-        },
-        {
-            "text": "Learning",
-            "size": "small"
-        },
-        {
-            "text": "Models",
-            "size": "small"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "STROKE",
-            "size": "small"
         },
         {
             "text": "模型",
-            "size": "small"
+            "size": "medium"
         },
         {
             "text": "&#",
             "size": "small"
         },
         {
-            "text": "Starlink",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "Ukraine",
+            "text": "OpenAI",
+            "size": "small"
+        },
+        {
+            "text": "This",
+            "size": "small"
+        },
+        {
+            "text": "After",
+            "size": "small"
+        },
+        {
+            "text": "Fusion",
+            "size": "small"
+        },
+        {
+            "text": "Instagram",
+            "size": "small"
+        },
+        {
+            "text": "Beijing",
+            "size": "small"
+        },
+        {
+            "text": "SpaceX",
+            "size": "small"
+        },
+        {
+            "text": "Microsoft",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Starlink seems to be working normally again in Ukraine",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
-        },
-        {
-            "title": "Will AI expose the rickety infrastructure of the internet?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The moment you realize the internet is \"held together by glue and dreams.\""
-        },
-        {
-            "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+            "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut"
+            "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI age"
         },
         {
-            "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Instacart might sell itself to a larger competitor."
-        },
-        {
-            "title": "The best apps for tracking your reading and discovering new books",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to"
-        },
-        {
-            "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+            "title": "This startup’s self-driving excavators help dig up $600M in new funding",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero finan"
+            "snippet": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because"
         },
         {
-            "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+            "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "\"That's a 12-year-old view of the world.\""
+            "snippet": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party a"
         },
         {
-            "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
-        },
-        {
-            "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "医疗AI质变时刻"
-        },
-        {
-            "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播"
-        },
-        {
-            "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
+            "title": "Will the real Anthropic please stand up",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。"
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
+            "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "百万台搭载打底，智驾普及与安全并重"
+            "snippet": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
         },
         {
-            "title": "实探宁德时代总部：“去宁化”是喊太大声了",
+            "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for fundin"
+        },
+        {
+            "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "电池开发，分工远比想象复杂"
+            "snippet": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shi"
         },
         {
-            "title": "The Download: introducing the Impossible issue",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "We can do impossible things",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s y"
+            "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales t"
         },
         {
             "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
@@ -712,18 +664,6 @@ var siteData = {
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "FSD一年增长70万付费用户"
-        },
-        {
-            "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent"
-        },
-        {
-            "title": "谁在给OpenAI供应具身数据？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "挤进全球Physical AI核心供应链"
         },
         {
             "title": "Designing an AI serving harness built to last",
@@ -756,10 +696,46 @@ var siteData = {
             "snippet": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that"
         },
         {
-            "title": "AI’s hidden storage bill: What inference leaves behind",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—"
+            "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕"
+        },
+        {
+            "title": "企业AI需要两个世界模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "特赞想让企业Agent真正懂业务"
+        },
+        {
+            "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "房间秒变草原，抬手就能下雪"
+        },
+        {
+            "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "让AI真正走进真实世界"
+        },
+        {
+            "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "10月23日，iRTE2026实时智能大会在北京举行。"
+        },
+        {
+            "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0"
         },
         {
             "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
@@ -780,16 +756,34 @@ var siteData = {
             "snippet": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced forme"
         },
         {
-            "title": "The Language of Instruction: Genre and Generative AI",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is pr"
+            "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while resear"
         },
         {
-            "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Le",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-gu"
+            "title": "The focus on AI safety disasters ignores everyday harms",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicid"
+        },
+        {
+            "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional "
+        },
+        {
+            "title": "Microsoft offers buyouts to around 60,000 employees",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
         }
     ]
 }
