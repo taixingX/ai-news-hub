@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-27 02:47:22
+ * 生成时间: 2026-10-28 02:55:50
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-            "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with s",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "行业 · 动态",
+            "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+            "summary": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+            "source": "量子位",
+            "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
-        },
-        {
-            "tag": "行业 · 动态",
-            "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-            "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavat",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
-            "views": "85.3K",
-            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+            "url": "https://www.qbitai.com/2026/10/505551.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo",
-            "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+            "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+            "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "85.3K",
+            "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "url": "https://www.qbitai.com/2026/10/505539.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "Will the real Anthropic please stand up",
-            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
-            "source": "MIT Tech Review",
-            "time": "9小时前",
+            "tag": "头条 · 大模型",
+            "title": "OpenAI开始断网训练最强模型：“安全起见”",
+            "summary": "模型开始利用GPU缓存聊天？",
+            "source": "量子位",
+            "time": "昨天",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://www.qbitai.com/2026/10/505529.html"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "A社联创演讲：AI奇点已来",
+            "summary": "所谓奇点，或许是AI跃过人类的那个点。",
+            "source": "量子位",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+            "url": "https://www.qbitai.com/2026/10/505521.html"
         }
     ],
     "quickNews": [
         {
-            "time": "02:47",
-            "text": "How OpenAI turned its coding tools into dots, an always-on p",
+            "time": "02:55",
+            "text": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
             "hot": true,
-            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+            "url": "https://www.qbitai.com/2026/10/505551.html"
         },
         {
-            "time": "02:47",
-            "text": "This startup’s self-driving excavators help dig up $600M in ",
+            "time": "02:55",
+            "text": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+            "url": "https://www.qbitai.com/2026/10/505539.html"
         },
         {
-            "time": "02:47",
-            "text": "Anthropic’s IPO filing reveals its strategy for keeping ente",
+            "time": "02:55",
+            "text": "OpenAI开始断网训练最强模型：“安全起见”",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+            "url": "https://www.qbitai.com/2026/10/505529.html"
         },
         {
-            "time": "02:47",
-            "text": "Will the real Anthropic please stand up",
+            "time": "02:55",
+            "text": "A社联创演讲：AI奇点已来",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+            "url": "https://www.qbitai.com/2026/10/505521.html"
         },
         {
-            "time": "02:47",
-            "text": "Uh-oh, it sounds like the iPhone Duo keeps cracking and user",
+            "time": "02:55",
+            "text": "NeoLab第一个商业模式：转售GPU",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+            "url": "https://www.qbitai.com/2026/10/505478.html"
         },
         {
-            "time": "02:47",
-            "text": "Fusion startups are giving the government shares in exchange",
+            "time": "02:55",
+            "text": "中国近50%的新云生意，竟被这家公司包揽！",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+            "url": "https://www.qbitai.com/2026/10/505454.html"
         },
         {
-            "time": "02:47",
-            "text": "Watch out, YouTube — Instagram goes from short-form to 90-mi",
+            "time": "02:55",
+            "text": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+            "url": "https://www.qbitai.com/2026/10/505443.html"
         },
         {
-            "time": "02:47",
-            "text": "Databricks co-founder shares his secrets for winning big ent",
+            "time": "02:55",
+            "text": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
             "hot": false,
-            "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+            "url": "https://www.qbitai.com/2026/10/505436.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+                    "url": "https://www.qbitai.com/2026/10/505551.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because..."
+                    "desc": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权..."
                 },
                 {
-                    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+                    "url": "https://www.qbitai.com/2026/10/505539.html"
                 },
                 {
-                    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+                    "url": "https://www.qbitai.com/2026/10/505529.html"
                 },
                 {
-                    "title": "Fusion startups are giving the government shares in exchange for awards. Is it w",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "title": "A社联创演讲：AI奇点已来",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/10/505521.html"
                 },
                 {
-                    "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-                    "source": "TechCrunch AI",
-                    "time": "5小时前",
+                    "title": "NeoLab第一个商业模式：转售GPU",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+                    "url": "https://www.qbitai.com/2026/10/505478.html"
                 }
             ]
         },
@@ -201,48 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "Will the real Anthropic please stand up",
-                    "desc": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks ...",
+                    "title": "【arXiv】Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstr",
+                    "desc": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
-                    "source": "MIT Tech Review",
-                    "time": "9小时前",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+                    "url": "http://arxiv.org/abs/2610.37668v1"
                 },
                 {
-                    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
+                    "title": "【arXiv】ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+                    "desc": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the divers...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
-                    "source": "MIT Tech Review",
-                    "time": "14小时前",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
+                    "url": "http://arxiv.org/abs/2610.37666v1"
                 },
                 {
-                    "title": "The Download: testing six tech promises and biotech’s blind spots",
-                    "desc": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. ...",
+                    "title": "【arXiv】Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+                    "desc": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared n...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
-                    "source": "MIT Tech Review",
-                    "time": "3天前",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
+                    "url": "http://arxiv.org/abs/2610.37662v1"
                 },
                 {
-                    "title": "In the biotech world, you can’t see everything",
-                    "desc": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes...",
+                    "title": "【arXiv】Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+                    "desc": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attenti...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
-                    "source": "MIT Tech Review",
-                    "time": "3天前",
+                    "source": "arXiv",
+                    "time": "8小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/"
+                    "url": "http://arxiv.org/abs/2610.37657v1"
+                },
+                {
+                    "title": "【arXiv】Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+                    "desc": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order mat...",
+                    "tag": "论文解读",
+                    "tagClass": "tag-purple",
+                    "source": "arXiv",
+                    "time": "8小时前",
+                    "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2610.37656v1"
+                },
+                {
+                    "title": "【arXiv】KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+                    "desc": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C cod...",
+                    "tag": "学术会议",
+                    "tagClass": "tag-orange",
+                    "source": "arXiv",
+                    "time": "8小时前",
+                    "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+                    "category": "paper",
+                    "url": "http://arxiv.org/abs/2610.37655v1"
                 }
             ]
         },
@@ -252,31 +274,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "How OpenAI turned its coding tools into dots, an always-on personal as",
-                    "time": "刚刚",
+                    "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+                    "url": "https://www.qbitai.com/2026/10/505436.html"
                 },
                 {
                     "rank": 2,
-                    "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-                    "time": "4天前",
+                    "title": "Bank of America kindly asks that you don’t share your banking password",
+                    "time": "5小时前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/10/504879.html"
+                    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
                 },
                 {
                     "rank": 3,
-                    "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-                    "time": "3天前",
+                    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+                    "time": "4小时前",
                     "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/10/504915.html"
+                    "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/"
                 },
                 {
                     "rank": 4,
-                    "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
-                    "time": "3天前",
+                    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+                    "time": "23小时前",
                     "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/10/504905.html"
+                    "url": "https://www.qbitai.com/2026/10/505580.html"
                 },
                 {
                     "rank": 5,
@@ -296,24 +318,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "This startup’s self-driving excavators help dig up $600M in new fundin",
-                    "time": "9小时前",
+                    "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+                    "url": "https://www.qbitai.com/2026/10/505551.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Fusion startups are giving the government shares in exchange for award",
-                    "time": "7小时前",
+                    "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+                    "time": "昨天",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+                    "url": "https://www.qbitai.com/2026/10/505429.html"
                 },
                 {
                     "rank": 3,
                     "title": "The focus on AI safety disasters ignores everyday harms",
-                    "time": "17小时前",
+                    "time": "昨天",
                     "emoji": "🏭",
                     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+                },
+                {
+                    "rank": 4,
+                    "title": "Who’s really in charge at Anthropic after the IPO?",
+                    "time": "5小时前",
+                    "emoji": "🌏",
+                    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/"
+                },
+                {
+                    "rank": 5,
+                    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make m",
+                    "time": "1小时前",
+                    "emoji": "📉",
+                    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+                },
+                {
+                    "rank": 6,
+                    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+                    "time": "14小时前",
+                    "emoji": "🔄",
+                    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
                 }
             ]
         },
@@ -355,30 +398,30 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+492,750",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+457,992",
+                    "stars": "+458,058",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+400,210",
+                    "stars": "+400,313",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
-                },
-                {
-                    "rank": 3,
-                    "name": "openclaw/openclaw",
-                    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+393,159",
-                    "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
@@ -386,44 +429,44 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+392,203",
+                    "stars": "+397,848",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
                     "rank": 5,
+                    "name": "openclaw/openclaw",
+                    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+393,230",
+                    "url": "https://github.com/openclaw/openclaw"
+                },
+                {
+                    "rank": 6,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+370,496",
+                    "stars": "+370,581",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
+                    "rank": 7,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+331,138",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 8,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+330,499",
+                    "stars": "+330,726",
                     "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+289,928",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 8,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+288,126",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 }
             ]
         }
@@ -432,72 +475,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "How OpenAI turned its coding tools into dots, an a",
+            "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
+            "url": "https://www.qbitai.com/2026/10/505551.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "This startup’s self-driving excavators help dig up",
+            "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+            "url": "https://www.qbitai.com/2026/10/505539.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Anthropic’s IPO filing reveals its strategy for ke",
+            "title": "OpenAI开始断网训练最强模型：“安全起见”",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
+            "url": "https://www.qbitai.com/2026/10/505529.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Will the real Anthropic please stand up",
+            "title": "A社联创演讲：AI奇点已来",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+            "url": "https://www.qbitai.com/2026/10/505521.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Uh-oh, it sounds like the iPhone Duo keeps crackin",
+            "title": "NeoLab第一个商业模式：转售GPU",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+            "url": "https://www.qbitai.com/2026/10/505478.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Fusion startups are giving the government shares i",
+            "title": "中国近50%的新云生意，竟被这家公司包揽！",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/"
+            "url": "https://www.qbitai.com/2026/10/505454.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Watch out, YouTube — Instagram goes from short-for",
+            "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/"
+            "url": "https://www.qbitai.com/2026/10/505443.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Databricks co-founder shares his secrets for winni",
+            "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
             "heat": "",
-            "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/"
+            "url": "https://www.qbitai.com/2026/10/505436.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+            "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504879.html"
+            "url": "https://www.qbitai.com/2026/10/505429.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+            "title": "Will the real Anthropic please stand up",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/504841.html"
+            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
         }
     ],
     "aiTools": [
@@ -548,27 +591,51 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "Anthropic",
             "size": "large"
+        },
+        {
+            "text": "Download",
+            "size": "medium"
         },
         {
             "text": "The",
             "size": "medium"
         },
         {
-            "text": "Anthropic",
+            "text": "Language",
             "size": "medium"
         },
         {
-            "text": "模型",
-            "size": "medium"
+            "text": "Attention",
+            "size": "small"
+        },
+        {
+            "text": "LLMs",
+            "size": "small"
+        },
+        {
+            "text": "IPO",
+            "size": "small"
         },
         {
             "text": "&#",
             "size": "small"
         },
         {
-            "text": "its",
+            "text": "Diffusion",
+            "size": "small"
+        },
+        {
+            "text": "However",
+            "size": "small"
+        },
+        {
+            "text": "Models",
+            "size": "small"
+        },
+        {
+            "text": "Visual",
             "size": "small"
         },
         {
@@ -576,52 +643,64 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "This",
-            "size": "small"
-        },
-        {
-            "text": "After",
-            "size": "small"
-        },
-        {
-            "text": "Fusion",
-            "size": "small"
-        },
-        {
-            "text": "Instagram",
-            "size": "small"
-        },
-        {
-            "text": "Beijing",
-            "size": "small"
-        },
-        {
-            "text": "SpaceX",
-            "size": "small"
-        },
-        {
-            "text": "Microsoft",
+            "text": "大会",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI age"
-        },
-        {
-            "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+            "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because"
+            "snippet": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权"
         },
         {
-            "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+            "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party a"
+            "snippet": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。"
+        },
+        {
+            "title": "OpenAI开始断网训练最强模型：“安全起见”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "模型开始利用GPU缓存聊天？"
+        },
+        {
+            "title": "A社联创演讲：AI奇点已来",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "所谓奇点，或许是AI跃过人类的那个点。"
+        },
+        {
+            "title": "NeoLab第一个商业模式：转售GPU",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "从冲刺AGI到转售GPU。"
+        },
+        {
+            "title": "中国近50%的新云生意，竟被这家公司包揽！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "有点意外，但也不意外"
+        },
+        {
+            "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "人工智能正在从人机“言传身教”走向自学“触类旁通”。"
+        },
+        {
+            "title": "长安汽车赵非：汽车将成为端侧物理AI规模最大的应用载体 | 2026世界智能网联汽车大会",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "10月21日，2026世界智能网联汽车大会在北京召开"
+        },
+        {
+            "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "高品质 AI Token 成为行业新风向"
         },
         {
             "title": "Will the real Anthropic please stand up",
@@ -630,136 +709,10 @@ var siteData = {
             "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
-        },
-        {
-            "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for fundin"
-        },
-        {
-            "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shi"
-        },
-        {
-            "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales t"
-        },
-        {
-            "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
-        },
-        {
-            "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "FSD一年增长70万付费用户"
-        },
-        {
-            "title": "Designing an AI serving harness built to last",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build arou"
-        },
-        {
-            "title": "The Foundations of Scalable AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must c"
-        },
-        {
-            "title": "The Download: computing’s next leap and permafrost’s climate threat",
+            "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Making the case for context-aware AI",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an"
-        },
-        {
-            "title": "Three things you should know about permafrost",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that"
-        },
-        {
-            "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕"
-        },
-        {
-            "title": "企业AI需要两个世界模型",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "特赞想让企业Agent真正懂业务"
-        },
-        {
-            "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "房间秒变草原，抬手就能下雪"
-        },
-        {
-            "title": "国产5B生图模型海外突然爆火，4天超百万下载",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "让AI真正走进真实世界"
-        },
-        {
-            "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月23日，iRTE2026实时智能大会在北京举行。"
-        },
-        {
-            "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0"
-        },
-        {
-            "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。"
-        },
-        {
-            "title": "The Download: testing six tech promises and biotech’s blind spots",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "In the biotech world, you can’t see everything",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced forme"
-        },
-        {
-            "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while resear"
         },
         {
             "title": "The focus on AI safety disasters ignores everyday harms",
@@ -768,22 +721,112 @@ var siteData = {
             "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicid"
         },
         {
-            "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficie"
         },
         {
-            "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional "
+            "title": "Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Cross-view object correspondence identifies the same object across views. However, existing methods often rely on frame-"
         },
         {
-            "title": "Microsoft offers buyouts to around 60,000 employees",
+            "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Language models pretrained on web corpora collected over multiple years learn both general and domain-specific knowledge"
+        },
+        {
+            "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning para"
+        },
+        {
+            "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+            "snippet": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep"
+        },
+        {
+            "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory an"
+        },
+        {
+            "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization rem"
+        },
+        {
+            "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multim"
+        },
+        {
+            "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small s"
+        },
+        {
+            "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's g"
+        },
+        {
+            "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which genera"
+        },
+        {
+            "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction wi"
+        },
+        {
+            "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with a"
+        },
+        {
+            "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a uni"
+        },
+        {
+            "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the sc"
+        },
+        {
+            "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\""
+        },
+        {
+            "title": "GM is embracing hybrids now",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs."
+        },
+        {
+            "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
         }
     ]
 }
