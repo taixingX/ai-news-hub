@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-10-30 03:22:46
+ * 生成时间: 2026-10-31 03:07:12
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-            "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+            "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
+            "summary": "Momenta世界模型上车",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/10/506273.html"
+            "url": "https://www.qbitai.com/2026/10/506569.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-            "summary": "用扩散模型怎么做做Agent？",
+            "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
+            "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/10/505934.html"
+            "url": "https://www.qbitai.com/2026/10/506554.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-            "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
+            "tag": "头条 · 大模型",
+            "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+            "summary": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/10/506246.html"
+            "url": "https://www.qbitai.com/2026/10/506550.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-            "summary": "能连肝数日修Bug，免疫提示词注入",
+            "tag": "重磅 · 应用",
+            "title": "AI安全是AI规模化应用“加速器”",
+            "summary": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/10/506227.html"
+            "url": "https://www.qbitai.com/2026/10/506544.html"
         }
     ],
     "quickNews": [
         {
-            "time": "03:22",
-            "text": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+            "time": "03:07",
+            "text": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/10/506273.html"
+            "url": "https://www.qbitai.com/2026/10/506569.html"
         },
         {
-            "time": "03:22",
-            "text": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+            "time": "03:07",
+            "text": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/505934.html"
+            "url": "https://www.qbitai.com/2026/10/506554.html"
         },
         {
-            "time": "03:22",
-            "text": "24万开卖！理想重造i6，李想：目标全球畅销",
+            "time": "03:07",
+            "text": "中国MaaS市场TOP2，商汤大装置再度蝉联",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506246.html"
+            "url": "https://www.qbitai.com/2026/10/506550.html"
         },
         {
-            "time": "03:22",
-            "text": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+            "time": "03:07",
+            "text": "AI安全是AI规模化应用“加速器”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506227.html"
+            "url": "https://www.qbitai.com/2026/10/506544.html"
         },
         {
-            "time": "03:22",
-            "text": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+            "time": "03:07",
+            "text": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506194.html"
+            "url": "https://www.qbitai.com/2026/10/506478.html"
         },
         {
-            "time": "03:22",
-            "text": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+            "time": "03:07",
+            "text": "The Download: AI agent tracking and climate feedback loops",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506098.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
         },
         {
-            "time": "03:22",
-            "text": "威卡：用数据集链接具身智能和工程机械",
+            "time": "03:07",
+            "text": "We urgently need to monitor AI agents’ actions in real time",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506063.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
         },
         {
-            "time": "03:22",
-            "text": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+            "time": "03:07",
+            "text": "Our climate models have a big, dangerous blind spot",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/10/506055.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+                    "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/506273.html",
+                    "url": "https://www.qbitai.com/2026/10/506569.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。..."
+                    "desc": "Momenta世界模型上车..."
                 },
                 {
-                    "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+                    "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/505934.html"
+                    "url": "https://www.qbitai.com/2026/10/506554.html"
                 },
                 {
-                    "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+                    "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/506227.html"
+                    "url": "https://www.qbitai.com/2026/10/506550.html"
                 },
                 {
-                    "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+                    "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/506098.html"
+                    "url": "https://www.qbitai.com/2026/10/506478.html"
                 },
                 {
-                    "title": "威卡：用数据集链接具身智能和工程机械",
-                    "source": "量子位",
+                    "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Ra",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/10/506063.html"
+                    "url": "http://arxiv.org/abs/2610.40613v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Does Federated Training Degrade Explainability? A Comparative Analysis of Grad-CAM Faithfu",
-                    "desc": "Automated detection has become the essential safeguard against realistic synthetic media, but deploying it at scale requires training on sensitive dat...",
+                    "title": "【arXiv】Elucidating the Design Space of LM Data Attribution",
+                    "desc": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations v...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39483v1"
+                    "url": "http://arxiv.org/abs/2610.40655v1"
                 },
                 {
-                    "title": "【arXiv】Regional Anchor Routing for Multi-Object Motion Transfer",
-                    "desc": "Compositional motion transfer requires a model to extract motions from multiple reference videos, and apply each motion to a user-specified object in ...",
+                    "title": "【arXiv】Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+                    "desc": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timin...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39478v1"
+                    "url": "http://arxiv.org/abs/2610.40653v1"
                 },
                 {
-                    "title": "【arXiv】Soei: Structured Observability of Evidence and Intent for Multi-Agent AI Software Engineer",
-                    "desc": "AI coding agents now do long, multi-step and multi-session software work with little supervision. When a developer comes back to that work, the useful...",
+                    "title": "【arXiv】Rethinking Neural Thickets Without Weight Perturbations",
+                    "desc": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which rando...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39468v1"
+                    "url": "http://arxiv.org/abs/2610.40649v1"
                 },
                 {
-                    "title": "【arXiv】Calibrating Attention-Based Token Pruning for Efficient Multi-Image Synthesis in UMMs",
-                    "desc": "Unified Multimodal Models (UMMs) enable powerful multi-image synthesis but incur substantial computation from long visual contexts. While token prunin...",
+                    "title": "【arXiv】Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+                    "desc": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39467v1"
+                    "url": "http://arxiv.org/abs/2610.40647v1"
                 },
                 {
-                    "title": "【arXiv】Integrating Heterogeneous Echocardiography AI Outputs in Language Space: Learnable Late Fu",
-                    "desc": "View- and target-specific echocardiography AI models capture useful but complementary information and may not achieve sufficient predictive performanc...",
+                    "title": "【arXiv】Luggage re-identification: A study of strategies towards a real-world application",
+                    "desc": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggag...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39464v1"
+                    "url": "http://arxiv.org/abs/2610.40643v1"
                 },
                 {
-                    "title": "【arXiv】Sparse Fine-Tuning for Parameter-Efficient Adversarial Training",
-                    "desc": "Deep neural networks achieve strong performance across many tasks but remain vulnerable to adversarial perturbations. Adversarial training (AT) is one...",
+                    "title": "【arXiv】From extreme weather to agricultural consequences with agentic AI",
+                    "desc": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not wh...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2610.39455v1"
+                    "url": "http://arxiv.org/abs/2610.40641v1"
                 }
             ]
         },
@@ -274,43 +274,59 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+                    "title": "AI安全是AI规模化应用“加速器”",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/10/506246.html"
+                    "url": "https://www.qbitai.com/2026/10/506544.html"
                 },
                 {
                     "rank": 2,
-                    "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+                    "title": "The Download: AI agent tracking and climate feedback loops",
                     "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/10/506194.html"
-                },
-                {
-                    "rank": 3,
-                    "title": "Creating AI value with enterprise context",
-                    "time": "昨天",
-                    "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-                },
-                {
-                    "rank": 4,
-                    "title": "We urgently need to monitor AI agents’ actions in real time",
-                    "time": "17小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
-                },
-                {
-                    "rank": 5,
-                    "title": "The Download: AI agent tracking and climate feedback loops",
-                    "time": "15小时前",
-                    "emoji": "⚖️",
                     "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
                 },
                 {
+                    "rank": 3,
+                    "title": "We urgently need to monitor AI agents’ actions in real time",
+                    "time": "昨天",
+                    "emoji": "🎬",
+                    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+                },
+                {
+                    "rank": 4,
+                    "title": "Luggage re-identification: A study of strategies towards a real-world ",
+                    "time": "昨天",
+                    "emoji": "🔍",
+                    "url": "http://arxiv.org/abs/2610.40643v1"
+                },
+                {
+                    "rank": 5,
+                    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Te",
+                    "time": "昨天",
+                    "emoji": "⚖️",
+                    "url": "http://arxiv.org/abs/2610.40619v1"
+                },
+                {
                     "rank": 6,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Last-minute Halloween costumes for tech nerds",
+                    "time": "5小时前",
+                    "emoji": "🎵",
+                    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+                },
+                {
+                    "rank": 7,
+                    "title": "Creating AI value with enterprise context",
+                    "time": "2天前",
+                    "emoji": "📝",
+                    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+                },
+                {
+                    "rank": 8,
+                    "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+                    "time": "19小时前",
+                    "emoji": "🤖",
+                    "url": "https://www.qbitai.com/2026/10/506743.html"
                 }
             ]
         },
@@ -320,17 +336,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-                    "time": "2天前",
+                    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies ",
+                    "time": "5小时前",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+                    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
                 },
                 {
                     "rank": 2,
-                    "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-                    "time": "23小时前",
+                    "title": "Cracks are emerging in the AI spending boom",
+                    "time": "5小时前",
                     "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/10/506281.html"
+                    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
+                },
+                {
+                    "rank": 3,
+                    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+                    "time": "3天前",
+                    "emoji": "🏭",
+                    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/"
+                },
+                {
+                    "rank": 4,
+                    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West",
+                    "time": "1小时前",
+                    "emoji": "🌏",
+                    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
                 }
             ]
         },
@@ -376,7 +406,7 @@ var siteData = {
                     "desc": "A collective list of free APIs",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+493,298",
+                    "stars": "+493,573",
                     "url": "https://github.com/public-apis/public-apis"
                 },
                 {
@@ -385,7 +415,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,202",
+                    "stars": "+458,255",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -394,7 +424,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+408,384",
+                    "stars": "+412,629",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -403,44 +433,44 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+393,387",
+                    "stars": "+393,494",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 5,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+331,854",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+370,831",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+331,224",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 7,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+308,684",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
-                    "rank": 8,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+306,703",
+                    "stars": "+307,549",
                     "url": "https://github.com/mattpocock/skills"
+                },
+                {
+                    "rank": 7,
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+293,452",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
+                    "rank": 8,
+                    "name": "deepseek-ai/deepseek-harness",
+                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+266,780",
+                    "url": "https://github.com/deepseek-ai/deepseek-harness"
                 }
             ]
         }
@@ -449,72 +479,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+            "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/10/506273.html"
+            "url": "https://www.qbitai.com/2026/10/506569.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+            "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/10/505934.html"
+            "url": "https://www.qbitai.com/2026/10/506554.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+            "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/10/506246.html"
+            "url": "https://www.qbitai.com/2026/10/506550.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+            "title": "AI安全是AI规模化应用“加速器”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506227.html"
+            "url": "https://www.qbitai.com/2026/10/506544.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Eng",
+            "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506194.html"
+            "url": "https://www.qbitai.com/2026/10/506478.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+            "title": "The Download: AI agent tracking and climate feedba",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506098.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "威卡：用数据集链接具身智能和工程机械",
+            "title": "We urgently need to monitor AI agents’ actions in ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506063.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+            "title": "Our climate models have a big, dangerous blind spo",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506055.html"
+            "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+            "title": "Elucidating the Design Space of LM Data Attributio",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/10/506042.html"
+            "url": "http://arxiv.org/abs/2610.40655v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Creating AI value with enterprise context",
+            "title": "Micro-Edits: Computational Support for Fine-Scale ",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+            "url": "http://arxiv.org/abs/2610.40653v1"
         }
     ],
     "aiTools": [
@@ -569,238 +599,238 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "The",
-            "size": "medium"
-        },
-        {
             "text": "Anthropic",
             "size": "medium"
         },
         {
-            "text": "Multi",
+            "text": "GLP",
             "size": "medium"
         },
         {
-            "text": "its",
-            "size": "small"
-        },
-        {
-            "text": "Amazon",
-            "size": "small"
-        },
-        {
-            "text": "Learning",
-            "size": "small"
-        },
-        {
-            "text": "LLM",
-            "size": "small"
-        },
-        {
-            "text": "Supervised",
-            "size": "small"
-        },
-        {
-            "text": "Multimodal",
-            "size": "small"
-        },
-        {
-            "text": "Agent",
-            "size": "small"
+            "text": "The",
+            "size": "medium"
         },
         {
             "text": "&#",
             "size": "small"
         },
         {
-            "text": "Reddit",
+            "text": "Models",
             "size": "small"
         },
         {
-            "text": "up",
+            "text": "world",
+            "size": "small"
+        },
+        {
+            "text": "models",
+            "size": "small"
+        },
+        {
+            "text": "STEPX",
+            "size": "small"
+        },
+        {
+            "text": "Neo",
+            "size": "small"
+        },
+        {
+            "text": "This",
+            "size": "small"
+        },
+        {
+            "text": "Hugging",
+            "size": "small"
+        },
+        {
+            "text": "Face",
+            "size": "small"
+        },
+        {
+            "text": "Space",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+            "title": "买车送终身AI？智己LS8纯电版25万起！全系线控底盘宁德时代标配",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
+            "snippet": "Momenta世界模型上车"
         },
         {
-            "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+            "title": "STEPX Neo 发布两周即迎首次升级，智能体能力持续释放",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "用扩散模型怎么做做Agent？"
+            "snippet": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后即迎来首次升级"
         },
         {
-            "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+            "title": "中国MaaS市场TOP2，商汤大装置再度蝉联",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "在大模型私有化市场，商汤大装置以9.4%的市场份额，再次稳居第二位"
+        },
+        {
+            "title": "AI安全是AI规模化应用“加速器”",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "理想今年最后一场发布会，自研电池芯片全部上车"
+            "snippet": "AI安全不是AI发展的“刹车片”，而是AI高质量发展的“加速器”。"
         },
         {
-            "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+            "title": "奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "能连肝数日修Bug，免疫提示词注入"
+            "snippet": "All in one、任何人都能用"
         },
         {
-            "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+            "title": "The Download: AI agent tracking and climate feedback loops",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "让基建作为常驻buff"
-        },
-        {
-            "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让基建作为常驻buff"
-        },
-        {
-            "title": "威卡：用数据集链接具身智能和工程机械",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径"
-        },
-        {
-            "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计"
-        },
-        {
-            "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱"
-        },
-        {
-            "title": "Creating AI value with enterprise context",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered "
-        },
-        {
-            "title": "The Download: dead startups fueling AI and interspecies communication",
-            "category": "AI研究",
-            "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Pairing industrial AI autonomy and human control",
+            "title": "We urgently need to monitor AI agents’ actions in real time",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment "
+        },
+        {
+            "title": "Our climate models have a big, dangerous blind spot",
             "category": "AI研究",
             "tag": "research",
-            "snippet": ""
+            "snippet": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up g"
         },
         {
-            "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and"
-        },
-        {
-            "title": "Rivian expands joint venture with VW to include AI assistant",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
-        },
-        {
-            "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
-        },
-        {
-            "title": "GM reaches $220M settlement over selling drivers’ private data",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location "
-        },
-        {
-            "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnere"
-        },
-        {
-            "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+            "title": "Elucidating the Design Space of LM Data Attribution",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
+            "snippet": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. H"
         },
         {
-            "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a "
-        },
-        {
-            "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says."
-        },
-        {
-            "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it w"
-        },
-        {
-            "title": "Will the real Anthropic please stand up",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workpla"
-        },
-        {
-            "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experie"
-        },
-        {
-            "title": "How solid-state transformers could help power the AI boom",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long di"
-        },
-        {
-            "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
-        },
-        {
-            "title": "PathCowork: Learning from real-world pathology practice to build AI copilots",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Medical AI learns from the answers doctors record, but rarely from how they interpret the evidence to reach them. Here w"
-        },
-        {
-            "title": "Timbre: Reliability-aware harmonic consensus for label-free multimodal test-time rexinforcement lear",
+            "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Label-free test-time reinforcement learning adapts vision--language models using rewards derived from their own predicti"
+            "snippet": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small l"
         },
         {
-            "title": "ATLAS-Bench: An Agentic Tool-Use Benchmark for Local Area Search",
+            "title": "Rethinking Neural Thickets Without Weight Perturbations",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific expert"
+        },
+        {
+            "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tok"
+        },
+        {
+            "title": "Luggage re-identification: A study of strategies towards a real-world application",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management ("
+        },
+        {
+            "title": "From extreme weather to agricultural consequences with agentic AI",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says whe"
+        },
+        {
+            "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of g"
+        },
+        {
+            "title": "Probing Spatial State Representations in Visual Foundation Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial p"
+        },
+        {
+            "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actio"
+        },
+        {
+            "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request di"
+        },
+        {
+            "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow anothe"
+        },
+        {
+            "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inf"
+        },
+        {
+            "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over l"
+        },
+        {
+            "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Reliable local search is essential for LLM agents to support everyday decisions and longer plans by finding places that "
+            "snippet": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative deco"
+        },
+        {
+            "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact ",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to sugge"
+        },
+        {
+            "title": "Satlyt takes another step toward turning satellites into space data centers",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtua"
+        },
+        {
+            "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has"
+        },
+        {
+            "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+        },
+        {
+            "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier "
+        },
+        {
+            "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to "
+        },
+        {
+            "title": "Last-minute Halloween costumes for tech nerds",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+        },
+        {
+            "title": "Cracks are emerging in the AI spending boom",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skeptic"
         }
     ]
 }
