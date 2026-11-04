@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-03 04:28:35
+ * 生成时间: 2026-11-04 03:46:53
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realiz",
-            "summary": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment w",
-            "source": "arXiv",
+            "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+            "summary": "单季狂揽1130亿人民币，但...",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "http://arxiv.org/abs/2611.02002v1"
+            "url": "https://www.qbitai.com/2026/11/507382.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
-            "summary": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and ra",
-            "source": "arXiv",
+            "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+            "summary": "GPU迭代一百次的事，它一步做完",
+            "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "http://arxiv.org/abs/2611.02001v1"
+            "url": "https://www.qbitai.com/2026/11/507367.html"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Ro",
-            "summary": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative auton",
-            "source": "arXiv",
+            "tag": "独家 · 研究",
+            "title": "Raising the quality of insights in agentic analytics",
+            "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making a",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "http://arxiv.org/abs/2611.01996v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Cross-Dataset Generalization of Glaucoma Detection CNNs: Effects of Operating Th",
-            "summary": "Deep learning models for glaucoma detection are usually tested on images from the same dataset used ",
-            "source": "arXiv",
+            "tag": "重磅 · 应用",
+            "title": "Stop counting tokens, start counting what ships",
+            "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, ge",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2611.01992v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
         }
     ],
     "quickNews": [
         {
-            "time": "04:28",
-            "text": "To Align Long, Plan Short: Simulating Diverse Profile-Aligne",
+            "time": "03:46",
+            "text": "A社紧急修改招股书！RSI我们快要控制不住了",
             "hot": true,
-            "url": "http://arxiv.org/abs/2611.02002v1"
+            "url": "https://www.qbitai.com/2026/11/507382.html"
         },
         {
-            "time": "04:28",
-            "text": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financia",
+            "time": "03:46",
+            "text": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.02001v1"
+            "url": "https://www.qbitai.com/2026/11/507367.html"
         },
         {
-            "time": "04:28",
-            "text": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynami",
+            "time": "03:46",
+            "text": "Raising the quality of insights in agentic analytics",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01996v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
         },
         {
-            "time": "04:28",
-            "text": "Cross-Dataset Generalization of Glaucoma Detection CNNs: Eff",
+            "time": "03:46",
+            "text": "Stop counting tokens, start counting what ships",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01992v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
         },
         {
-            "time": "04:28",
-            "text": "Synthetic Realities: Evaluating Human Ability to Distinguish",
+            "time": "03:46",
+            "text": "The Download: the agentic web arrives and the drive for safe",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01990v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
         },
         {
-            "time": "04:28",
-            "text": "RubricWorld: World Model-Guided Rubric Optimization for LLM ",
+            "time": "03:46",
+            "text": "The agentic web is here",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01986v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
         },
         {
-            "time": "04:28",
-            "text": "SurgStream: A Workflow-Anchored Proactive Streaming Framewor",
+            "time": "03:46",
+            "text": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01982v1"
+            "url": "https://www.qbitai.com/2026/11/507533.html"
         },
         {
-            "time": "04:28",
-            "text": "Opening the Black Box of Neural Auction Mechanisms",
+            "time": "03:46",
+            "text": "Researchers warned of North Korean hacking tactics years bef",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.01981v1"
+            "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realiz",
-                    "source": "arXiv",
+                    "title": "A社紧急修改招股书！RSI我们快要控制不住了",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.02002v1",
+                    "url": "https://www.qbitai.com/2026/11/507382.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students an..."
+                    "desc": "单季狂揽1130亿人民币，但......"
                 },
                 {
-                    "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
-                    "source": "arXiv",
+                    "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.02001v1"
+                    "url": "https://www.qbitai.com/2026/11/507367.html"
                 },
                 {
-                    "title": "RubricWorld: World Model-Guided Rubric Optimization for LLM Graders",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+                    "source": "量子位",
+                    "time": "刚刚",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.01986v1"
+                    "url": "https://www.qbitai.com/2026/11/507533.html"
                 },
                 {
-                    "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.01976v1"
+                    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
                 },
                 {
-                    "title": "Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillati",
-                    "source": "arXiv",
-                    "time": "昨天",
+                    "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+                    "source": "TechCrunch AI",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "http://arxiv.org/abs/2611.01967v1"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-",
-                    "desc": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students and to augment scarce data for s...",
+                    "title": "【arXiv】Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional S",
+                    "desc": "Reinforcement learning objectives that maximize expected return can concentrate probability mass on a small subset of high-reward outcomes, limiting d...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.02002v1"
+                    "url": "http://arxiv.org/abs/2611.04792v1"
                 },
                 {
-                    "title": "【arXiv】TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
-                    "desc": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so remembering reduces largely to fin...",
+                    "title": "【arXiv】ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement",
+                    "desc": "Reinforcement learning with verifiable rewards (RLVR) has become an effective approach for improving mathematical reasoning in large language models. ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.02001v1"
+                    "url": "http://arxiv.org/abs/2611.04787v1"
                 },
                 {
-                    "title": "【arXiv】Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud C",
-                    "desc": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fuses perception data from multi...",
+                    "title": "【arXiv】Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in",
+                    "desc": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accur...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.01996v1"
+                    "url": "http://arxiv.org/abs/2611.04785v1"
                 },
                 {
-                    "title": "【arXiv】Cross-Dataset Generalization of Glaucoma Detection CNNs: Effects of Operating Threshold, M",
-                    "desc": "Deep learning models for glaucoma detection are usually tested on images from the same dataset used for training. That says little about how they will...",
+                    "title": "【arXiv】Reducing Logprob Without Causal Verification: Diagnosing SAE-Based PII Suppression in LLMs",
+                    "desc": "SAE-based feature-level interventions to suppress PII leakage in LLMs are primarily evaluated by log-probability reduction. We show that this criterio...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.01992v1"
+                    "url": "http://arxiv.org/abs/2611.04782v1"
                 },
                 {
-                    "title": "【arXiv】Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real ",
-                    "desc": "Recent advances in generative AI have enabled multiple pathways for high-fidelity video synthesis: text-to-video, image-to-video animation, and video ...",
+                    "title": "【arXiv】LIPS-PC: Learning Illumination Patterns for Single-Pixel Classification",
+                    "desc": "In single-pixel (ghost) imaging, known illumination patterns probe an object and a detector with no spatial resolution returns one number per pattern....",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.01990v1"
+                    "url": "http://arxiv.org/abs/2611.04780v1"
                 },
                 {
-                    "title": "【arXiv】RubricWorld: World Model-Guided Rubric Optimization for LLM Graders",
-                    "desc": "Rubric optimization improves LLM grading by revising scoring instructions while keeping the grader's parameters fixed. Existing optimizers often judge...",
+                    "title": "【arXiv】Replica-Aware Split Inference for Edge IoT Systems",
+                    "desc": "Split Inference (SI) addresses the hardware resource limitations of Internet of Things (IoT) devices by distributing tiny Machine Learning (TinyML) mo...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "15小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.01986v1"
+                    "url": "http://arxiv.org/abs/2611.04779v1"
                 }
             ]
         },
@@ -274,52 +274,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will imp",
-                    "time": "5小时前",
+                    "title": "Stop counting tokens, start counting what ships",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
+                    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
                 },
                 {
                     "rank": 2,
-                    "title": "Creating AI value with enterprise context",
+                    "title": "The Download: AI agent tracking and climate feedback loops",
                     "time": "5天前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-                },
-                {
-                    "rank": 3,
-                    "title": "The Download: AI agent tracking and climate feedback loops",
-                    "time": "4天前",
-                    "emoji": "🎬",
                     "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
                 },
                 {
+                    "rank": 3,
+                    "title": "How “reverse game theory” could keep AI agents in check",
+                    "time": "17小时前",
+                    "emoji": "🎬",
+                    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+                },
+                {
                     "rank": 4,
-                    "title": "We urgently need to monitor AI agents’ actions in real time",
-                    "time": "4天前",
+                    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty t",
+                    "time": "14小时前",
                     "emoji": "🔍",
-                    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+                    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
                 },
                 {
                     "rank": 5,
-                    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K",
-                    "time": "3小时前",
-                    "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
-                    "title": "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-                    "time": "20小时前",
-                    "emoji": "🎵",
-                    "url": "https://www.qbitai.com/2026/11/507260.html"
-                },
-                {
-                    "rank": 7,
-                    "title": "Stop counting tokens, start counting what ships",
-                    "time": "15小时前",
-                    "emoji": "📝",
-                    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -329,10 +318,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy ",
-                    "time": "昨天",
+                    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-dri",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2611.01967v1"
+                    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/"
+                },
+                {
+                    "rank": 2,
+                    "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation o",
+                    "time": "15小时前",
+                    "emoji": "💰",
+                    "url": "http://arxiv.org/abs/2611.04785v1"
                 }
             ]
         },
@@ -378,7 +374,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,460",
+                    "stars": "+458,509",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -387,7 +383,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+423,600",
+                    "stars": "+427,605",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -396,53 +392,53 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+393,760",
+                    "stars": "+393,868",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
                     "rank": 4,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+333,189",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "nilbuild/developer-roadmap",
+                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+371,189",
+                    "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 5,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+332,060",
-                    "url": "https://github.com/vinta/awesome-python"
-                },
-                {
-                    "rank": 6,
                     "name": "obra/superpowers",
                     "desc": "An agentic skills framework & software development methodology that works.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+311,337",
+                    "stars": "+311,948",
                     "url": "https://github.com/obra/superpowers"
                 },
                 {
+                    "rank": 6,
+                    "name": "deepseek-ai/deepseek-harness",
+                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+271,339",
+                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                },
+                {
                     "rank": 7,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+295,777",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+260,287",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 },
                 {
                     "rank": 8,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
                     "langClass": "lang-python",
-                    "stars": "+288,830",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "stars": "+254,302",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -451,72 +447,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "To Align Long, Plan Short: Simulating Diverse Prof",
+            "title": "A社紧急修改招股书！RSI我们快要控制不住了",
             "heat": "120.0万热度",
-            "url": "http://arxiv.org/abs/2611.02002v1"
+            "url": "https://www.qbitai.com/2026/11/507382.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizo",
+            "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
             "heat": "110.3万热度",
-            "url": "http://arxiv.org/abs/2611.02001v1"
+            "url": "https://www.qbitai.com/2026/11/507367.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Safety4DM: A Vision-Language Framework for Risk-Aw",
+            "title": "Raising the quality of insights in agentic analyti",
             "heat": "100.6万热度",
-            "url": "http://arxiv.org/abs/2611.01996v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Cross-Dataset Generalization of Glaucoma Detection",
+            "title": "Stop counting tokens, start counting what ships",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01992v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Synthetic Realities: Evaluating Human Ability to D",
+            "title": "The Download: the agentic web arrives and the driv",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01990v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "RubricWorld: World Model-Guided Rubric Optimizatio",
+            "title": "The agentic web is here",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01986v1"
+            "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "SurgStream: A Workflow-Anchored Proactive Streamin",
+            "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01982v1"
+            "url": "https://www.qbitai.com/2026/11/507533.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Opening the Black Box of Neural Auction Mechanisms",
+            "title": "Researchers warned of North Korean hacking tactics",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01981v1"
+            "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Multimodal BVP and Respiration for Automated Pain ",
+            "title": "AI inference startup Fal doubles its valuation to ",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01978v1"
+            "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Beyond Prompt Injection: The Tool Update Gap in LL",
+            "title": "Reddit tests ads in search results as traffic decl",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.01976v1"
+            "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/"
         }
     ],
     "aiTools": [
@@ -563,19 +559,15 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "Download",
+            "size": "large"
+        },
+        {
             "text": "AI",
             "size": "large"
         },
         {
-            "text": "Apple",
-            "size": "large"
-        },
-        {
-            "text": "Download",
-            "size": "medium"
-        },
-        {
-            "text": "LLM",
+            "text": "The",
             "size": "medium"
         },
         {
@@ -583,214 +575,158 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "The",
+            "text": "LLMs",
+            "size": "medium"
+        },
+        {
+            "text": "Learning",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "Video",
             "size": "small"
         },
         {
-            "text": "Long",
+            "text": "Reinforcement",
             "size": "small"
         },
         {
-            "text": "Existing",
+            "text": "IoT",
             "size": "small"
         },
         {
-            "text": "KL",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "RSI",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Russian",
+            "text": "models",
             "size": "small"
         },
         {
-            "text": "agents",
+            "text": "Wide",
             "size": "small"
         },
         {
-            "text": "video",
+            "text": "North",
             "size": "small"
         },
         {
-            "text": "Short",
+            "text": "Cybersecurity",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans",
+            "title": "A社紧急修改招股书！RSI我们快要控制不住了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students an"
+            "snippet": "单季狂揽1130亿人民币，但..."
         },
         {
-            "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
+            "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so reme"
+            "snippet": "GPU迭代一百次的事，它一步做完"
         },
         {
-            "title": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborati",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fu"
-        },
-        {
-            "title": "Cross-Dataset Generalization of Glaucoma Detection CNNs: Effects of Operating Threshold, Multi-Sourc",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Deep learning models for glaucoma detection are usually tested on images from the same dataset used for training. That s"
-        },
-        {
-            "title": "Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Recent advances in generative AI have enabled multiple pathways for high-fidelity video synthesis: text-to-video, image-"
-        },
-        {
-            "title": "RubricWorld: World Model-Guided Rubric Optimization for LLM Graders",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Rubric optimization improves LLM grading by revising scoring instructions while keeping the grader's parameters fixed. E"
-        },
-        {
-            "title": "SurgStream: A Workflow-Anchored Proactive Streaming Framework and Benchmark for Real-Time Surgical V",
+            "title": "Raising the quality of insights in agentic analytics",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Surgical video understanding is essential for intraoperative assistance such as workflow monitoring, instrument preparat"
+            "snippet": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible "
         },
         {
-            "title": "Opening the Black Box of Neural Auction Mechanisms",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Neural auction design has emerged as a powerful paradigm within automated mechanism design for modern Web platforms. Bec"
+            "title": "Stop counting tokens, start counting what ships",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs t"
         },
         {
-            "title": "Multimodal BVP and Respiration for Automated Pain Recognition with Hankel-FCN",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Automated pain recognition is a fundamental challenge for the advancement of clinical care and empathetic human-computer"
+            "title": "The Download: the agentic web arrives and the drive for safer roads",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Beyond Prompt Injection: The Tool Update Gap in LLM Agent Security",
+            "title": "The agentic web is here",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two coll"
+        },
+        {
+            "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Large language model based agents increasingly rely on external tools to invoke services and interact with web resources"
+            "snippet": "长视频记忆精度飙升，问答时延最高降97%"
         },
         {
-            "title": "MUPA${}^2$S: Multimodal Unified Perception with Asymmetric Attention for Stress Assessment",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Stress is a leading contributor to long-term physical and mental health decline. The automatic assessment of stress is a"
+            "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The w"
         },
         {
-            "title": "Knowledge-Guided Floodwater Level Reasoning for Cloud-Edge Collaborative Monitoring",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Frequent urban floodwater poses a serious threat to the safety and efficiency of intelligent transportation systems. Exi"
+            "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
         },
         {
-            "title": "Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation",
+            "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how peopl"
+        },
+        {
+            "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare t"
+        },
+        {
+            "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, accordi"
+        },
+        {
+            "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "On-policy distillation (OPD) can improve answer accuracy while weakening responsiveness to supporting evidence. We inves"
+            "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 milli"
         },
         {
-            "title": "Launder-Bench: Can Repository-Level Agentic Code Laundering Be Detected?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Coding agents can now rewrite repository-scale codebases while preserving tested behavior, creating a new challenge for "
-        },
-        {
-            "title": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Reverse and forward Kullback--Leibler (KL) divergences provide complementary supervision in on-policy distillation: reve"
-        },
-        {
-            "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+            "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+            "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
         },
         {
-            "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+            "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones ma"
+            "snippet": "An in-space construction first could be an enabler for the space data centers of the future."
         },
         {
-            "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+            "title": "Anthropic is working on a system to prove AI models’ identity",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities."
+            "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from"
         },
         {
-            "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping"
-        },
-        {
-            "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+            "title": "Data centers are turning to old jet engines as the wait for power grows",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The one-year-old startup is now valued at $300 million."
-        },
-        {
-            "title": "Apple’s inventory surges 154% as memory chip costs climb",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its in"
-        },
-        {
-            "title": "Creating AI value with enterprise context",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered "
-        },
-        {
-            "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan."
+            "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-"
         },
         {
             "title": "The Download: AI agent tracking and climate feedback loops",
             "category": "AI应用",
             "tag": "application",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "We urgently need to monitor AI agents’ actions in real time",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment "
-        },
-        {
-            "title": "Our climate models have a big, dangerous blind spot",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up g"
-        },
-        {
-            "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though R"
-        },
-        {
-            "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes becau"
         },
         {
             "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -803,6 +739,66 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologi"
+        },
+        {
+            "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
+        },
+        {
+            "title": "小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "11月3日，小米方面披露，小米集团获得2026世界互联网大会“杰出贡献奖”创新突破类奖项"
+        },
+        {
+            "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "TeleAI智慧看护助手"
+        },
+        {
+            "title": "AI数据平台OceanBase获世界互联网大会杰出贡献奖",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "11月3日上午，2026世界互联网大会在浙江乌镇开幕。"
+        },
+        {
+            "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "终于，有了一个可以触摸的起点"
+        },
+        {
+            "title": "How “reverse game theory” could keep AI agents in check",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize t"
+        },
+        {
+            "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "AI的下一程是生产力系统之争"
+        },
+        {
+            "title": "SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Video Large Language Models (Video-LLMs) have achieved strong performance on many video understanding tasks, yet remain "
+        },
+        {
+            "title": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Reinforcement learning objectives that maximize expected return can concentrate probability mass on a small subset of hi"
+        },
+        {
+            "title": "ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Reinforcement learning with verifiable rewards (RLVR) has become an effective approach for improving mathematical reason"
         }
     ]
 }
