@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-06 04:02:08
+ * 生成时间: 2026-11-07 03:38:22
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
-            "summary": "Data + AI 技术实践巡展 · 上海站",
+            "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+            "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/507696.html"
+            "url": "https://www.qbitai.com/2026/11/507988.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
-            "summary": "最快6秒出图",
+            "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+            "summary": "Seedance 2.5 单秒低至0.15元",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/507707.html"
+            "url": "https://www.qbitai.com/2026/11/507972.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
-            "summary": "被轰成筛子了…",
+            "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+            "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/507697.html"
+            "url": "https://www.qbitai.com/2026/11/507967.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
-            "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
+            "tag": "头条 · 大模型",
+            "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+            "summary": "基础规划免费！",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/507688.html"
+            "url": "https://www.qbitai.com/2026/11/507919.html"
         }
     ],
     "quickNews": [
         {
-            "time": "04:02",
-            "text": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+            "time": "03:38",
+            "text": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/507696.html"
+            "url": "https://www.qbitai.com/2026/11/507988.html"
         },
         {
-            "time": "04:02",
-            "text": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+            "time": "03:38",
+            "text": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/507707.html"
+            "url": "https://www.qbitai.com/2026/11/507972.html"
         },
         {
-            "time": "04:02",
-            "text": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+            "time": "03:38",
+            "text": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/507697.html"
+            "url": "https://www.qbitai.com/2026/11/507967.html"
         },
         {
-            "time": "04:02",
-            "text": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+            "time": "03:38",
+            "text": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/507688.html"
+            "url": "https://www.qbitai.com/2026/11/507919.html"
         },
         {
-            "time": "04:02",
-            "text": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+            "time": "03:38",
+            "text": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/507675.html"
+            "url": "https://www.qbitai.com/2026/11/507834.html"
         },
         {
-            "time": "04:02",
-            "text": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+            "time": "03:38",
+            "text": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/507647.html"
+            "url": "https://www.qbitai.com/2026/11/507823.html"
         },
         {
-            "time": "04:02",
-            "text": "Texas was the new epicenter of the AI data center buildout. ",
+            "time": "03:38",
+            "text": "The Download: Texas’s fragile AI boom and energy policy shif",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
         },
         {
-            "time": "04:02",
-            "text": "Roundtables: Inside the Quest for Cognitive Immortality",
+            "time": "03:38",
+            "text": "A new bill could change how the US builds energy infrastruct",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+            "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+                    "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/507696.html",
+                    "url": "https://www.qbitai.com/2026/11/507988.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Data + AI 技术实践巡展 · 上海站..."
+                    "desc": "香港金融科技周 x StartmeupHK 2026踏入第11届..."
                 },
                 {
-                    "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+                    "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/507707.html"
+                    "url": "https://www.qbitai.com/2026/11/507972.html"
                 },
                 {
-                    "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+                    "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/507697.html"
+                    "url": "https://www.qbitai.com/2026/11/507967.html"
                 },
                 {
-                    "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+                    "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/507675.html"
+                    "url": "https://www.qbitai.com/2026/11/507919.html"
                 },
                 {
-                    "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+                    "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/507647.html"
+                    "url": "https://www.qbitai.com/2026/11/507834.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Automatic keyphrase extraction and annotation: modern theoretical approaches and practical",
-                    "desc": "The exponential growth of textual and audiovisual information has made the task of automatic keyphrase extraction (KE) increasingly significant. This ...",
+                    "title": "【arXiv】Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures ",
+                    "desc": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to reali...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.08006v1"
+                    "url": "http://arxiv.org/abs/2611.08486v1"
                 },
                 {
-                    "title": "【arXiv】Deformable Contact-Aware 3D Object Placement",
-                    "desc": "Current language-guided 3D object placement typically predicts a rigid 6-DoF pose, ignoring the physical reality that indoor placements are dictated b...",
+                    "title": "【arXiv】Where and Why is Grounded Reasoning Useful?",
+                    "desc": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving compl...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.08005v1"
+                    "url": "http://arxiv.org/abs/2611.08485v1"
                 },
                 {
-                    "title": "【arXiv】When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observa",
-                    "desc": "Geospatial foundation models are a widely adopted starting point for remote sensing tasks. Most are pretrained on Sentinel-1/2 and Landsat imagery at ...",
+                    "title": "【arXiv】SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+                    "desc": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and co...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.08003v1"
+                    "url": "http://arxiv.org/abs/2611.08483v1"
                 },
                 {
-                    "title": "【arXiv】Reviving the Discarded High-Resolution Feature for Transformer-Based Tiny Object Detection",
-                    "desc": "Tiny object detection remains challenging because tiny instances occupy only a few pixels, and their fine-grained details are easily lost during featu...",
+                    "title": "【arXiv】Scientist World: Grow a Research World for AI-Scientists",
+                    "desc": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ide...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.07994v1"
+                    "url": "http://arxiv.org/abs/2611.08478v1"
                 },
                 {
-                    "title": "【arXiv】Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation ",
-                    "desc": "Model compression can facilitate the deployment of large language models in resource-constrained legal settings, but its effects on domain-specific pe...",
+                    "title": "【arXiv】EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+                    "desc": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapt...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.07988v1"
+                    "url": "http://arxiv.org/abs/2611.08477v1"
                 },
                 {
-                    "title": "【arXiv】Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies",
-                    "desc": "Language-generating AI systems are no longer only objects of linguistic interaction: their outputs increasingly re-enter the communicative and institu...",
+                    "title": "【arXiv】XStack: A Benchmark for ML Repo Migration",
+                    "desc": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on N...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.07984v1"
+                    "url": "http://arxiv.org/abs/2611.08472v1"
                 }
             ]
         },
@@ -274,59 +274,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+                    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/507688.html"
+                    "url": "http://arxiv.org/abs/2611.08452v1"
                 },
                 {
                     "rank": 2,
-                    "title": "Securing the agentic enterprise with data lineage",
-                    "time": "昨天",
+                    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+                    "time": "8小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+                    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
                 },
                 {
                     "rank": 3,
-                    "title": "Meta says US users can now video chat with their Muse AI avatar",
-                    "time": "8小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-                },
-                {
-                    "rank": 4,
-                    "title": "Serve Robotics launches new business to become the AWS for robots",
-                    "time": "6小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/"
-                },
-                {
-                    "rank": 5,
-                    "title": "Airbnb says it’s launching an AI travel agent in the first half of 202",
-                    "time": "5小时前",
-                    "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-                },
-                {
-                    "rank": 6,
                     "title": "The Download: controlling AI agents and “Super Intelligence” loyalty t",
-                    "time": "2天前",
-                    "emoji": "🎵",
+                    "time": "3天前",
+                    "emoji": "🎬",
                     "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
                 },
                 {
-                    "rank": 7,
-                    "title": "How “reverse game theory” could keep AI agents in check",
+                    "rank": 4,
+                    "title": "Securing the agentic enterprise with data lineage",
                     "time": "2天前",
-                    "emoji": "📝",
-                    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+                    "emoji": "🔍",
+                    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
                 },
                 {
-                    "rank": 8,
-                    "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-                    "time": "22小时前",
-                    "emoji": "🤖",
-                    "url": "https://www.qbitai.com/2026/11/507767.html"
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 6,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -336,38 +318,45 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "What’s next for US energy policy after the midterm elections?",
+                    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+                    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
                 },
                 {
                     "rank": 2,
-                    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-                    "time": "9小时前",
+                    "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+                    "time": "昨天",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/"
+                    "url": "http://arxiv.org/abs/2611.08453v1"
                 },
                 {
                     "rank": 3,
-                    "title": "Meta warns that election backlash against data centers could make AI e",
-                    "time": "8小时前",
+                    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion",
+                    "time": "4小时前",
                     "emoji": "🏭",
-                    "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/"
+                    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
                 },
                 {
                     "rank": 4,
-                    "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
-                    "time": "15小时前",
+                    "title": "What’s next for US energy policy after the midterm elections?",
+                    "time": "2天前",
                     "emoji": "🌏",
-                    "url": "http://arxiv.org/abs/2611.07959v1"
+                    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
                 },
                 {
                     "rank": 5,
-                    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-                    "time": "14小时前",
+                    "title": "Fox completes its $22B acquisition of Roku",
+                    "time": "11小时前",
                     "emoji": "📉",
-                    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+                    "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+                },
+                {
+                    "rank": 6,
+                    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+                    "time": "11小时前",
+                    "emoji": "🔄",
+                    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
                 }
             ]
         },
@@ -409,75 +398,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+496,453",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,615",
+                    "stars": "+458,677",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+434,921",
+                    "stars": "+438,365",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+393,996",
+                    "stars": "+394,086",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+371,353",
+                    "stars": "+371,427",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
+                    "rank": 5,
+                    "name": "jwasham/coding-interview-university",
+                    "desc": "A complete computer science study plan to become a software engineer.",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+364,052",
+                    "url": "https://github.com/jwasham/coding-interview-university"
+                },
+                {
                     "rank": 6,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+334,563",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 7,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+332,797",
+                    "stars": "+333,032",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
-                    "rank": 7,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+315,495",
-                    "url": "https://github.com/mattpocock/skills"
-                },
-                {
                     "rank": 8,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+260,926",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+298,640",
+                    "url": "https://github.com/affaan-m/ECC"
                 }
             ]
         }
@@ -486,72 +475,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+            "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/507696.html"
+            "url": "https://www.qbitai.com/2026/11/507988.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+            "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/507707.html"
+            "url": "https://www.qbitai.com/2026/11/507972.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+            "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/507697.html"
+            "url": "https://www.qbitai.com/2026/11/507967.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+            "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/507688.html"
+            "url": "https://www.qbitai.com/2026/11/507919.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+            "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/507675.html"
+            "url": "https://www.qbitai.com/2026/11/507834.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+            "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/507647.html"
+            "url": "https://www.qbitai.com/2026/11/507823.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Texas was the new epicenter of the AI data center ",
+            "title": "The Download: Texas’s fragile AI boom and energy p",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+            "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Roundtables: Inside the Quest for Cognitive Immort",
+            "title": "A new bill could change how the US builds energy i",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+            "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "What’s next for US energy policy after the midterm",
+            "title": "Do You Miss the Nights We Spent Crafting Figures? ",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+            "url": "http://arxiv.org/abs/2611.08486v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "The Download: blended meat, restored sight, and th",
+            "title": "Where and Why is Grounded Reasoning Useful?",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/"
+            "url": "http://arxiv.org/abs/2611.08485v1"
         }
     ],
     "aiTools": [
@@ -602,51 +591,23 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "US",
+            "text": "Download",
             "size": "large"
         },
         {
-            "text": "Download",
+            "text": "US",
             "size": "medium"
         },
         {
-            "text": "Meta",
-            "size": "medium"
-        },
-        {
-            "text": "LLMs",
+            "text": "The",
             "size": "medium"
         },
         {
             "text": "Texas",
-            "size": "small"
+            "size": "medium"
         },
         {
-            "text": "The",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
-            "text": "Intelligence",
-            "size": "small"
-        },
-        {
-            "text": "Frontier",
-            "size": "small"
-        },
-        {
-            "text": "Object",
-            "size": "small"
-        },
-        {
-            "text": "Arabic",
-            "size": "small"
-        },
-        {
-            "text": "data",
+            "text": "Agent",
             "size": "small"
         },
         {
@@ -654,46 +615,206 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "agent",
+            "text": "data",
+            "size": "small"
+        },
+        {
+            "text": "ML",
+            "size": "small"
+        },
+        {
+            "text": "Muse",
+            "size": "small"
+        },
+        {
+            "text": "StartmeupHK",
+            "size": "small"
+        },
+        {
+            "text": "Hy4",
+            "size": "small"
+        },
+        {
+            "text": "going",
+            "size": "small"
+        },
+        {
+            "text": "Figures",
+            "size": "small"
+        },
+        {
+            "text": "Generative",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+            "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Data + AI 技术实践巡展 · 上海站"
+            "snippet": "香港金融科技周 x StartmeupHK 2026踏入第11届"
         },
         {
-            "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+            "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "最快6秒出图"
+            "snippet": "Seedance 2.5 单秒低至0.15元"
         },
         {
-            "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+            "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "被轰成筛子了…"
+            "snippet": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容"
         },
         {
-            "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+            "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "基础规划免费！"
+        },
+        {
+            "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "走向“智能体化世界模型”。"
+        },
+        {
+            "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "拼多多把农创赛搬出了PPT。"
+        },
+        {
+            "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "A new bill could change how the US builds energy infrastructure",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. W"
+        },
+        {
+            "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generati"
+        },
+        {
+            "title": "Where and Why is Grounded Reasoning Useful?",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a com"
+        },
+        {
+            "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iterati"
+        },
+        {
+            "title": "Scientist World: Grow a Research World for AI-Scientists",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries o"
+        },
+        {
+            "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We pres"
+        },
+        {
+            "title": "XStack: A Benchmark for ML Repo Migration",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives i"
+        },
+        {
+            "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: "
+        },
+        {
+            "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But whe"
+        },
+        {
+            "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does t"
+        },
+        {
+            "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。"
+            "snippet": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, re"
         },
         {
-            "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "薪资+期权不限！实习生也能训核心模型"
+            "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use "
         },
         {
-            "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+            "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to m"
+        },
+        {
+            "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviati",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording"
+        },
+        {
+            "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more c"
+        },
+        {
+            "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While exis"
+        },
+        {
+            "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allow"
+        },
+        {
+            "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the A"
+        },
+        {
+            "title": "The Duo apps are coming, says Apple",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "连路人都有自己的想法"
+            "snippet": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
+        },
+        {
+            "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected"
+        },
+        {
+            "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
             "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -706,138 +827,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are "
-        },
-        {
-            "title": "What’s next for US energy policy after the midterm elections?",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it did"
-        },
-        {
-            "title": "The Download: blended meat, restored sight, and the agentic web",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Securing the agentic enterprise with data lineage",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted"
-        },
-        {
-            "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military free",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after"
-        },
-        {
-            "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining gr"
-        },
-        {
-            "title": "Meta says US users can now video chat with their Muse AI avatar",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable "
-        },
-        {
-            "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push b"
-        },
-        {
-            "title": "OpenAI released a new cybersecurity model. Is that enough?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
-        },
-        {
-            "title": "Serve Robotics launches new business to become the AWS for robots",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical A"
-        },
-        {
-            "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance t"
-        },
-        {
-            "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years."
-        },
-        {
-            "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "If it goes into effect next year, this California law would restrict social media access for children under 16."
-        },
-        {
-            "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "How “reverse game theory” could keep AI agents in check",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize t"
-        },
-        {
-            "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "像雇人一样雇机器人"
-        },
-        {
-            "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base"
-        },
-        {
-            "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "spaCy作者长文炮轰"
-        },
-        {
-            "title": "A new bill could change how the US builds energy infrastructure",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. W"
-        },
-        {
-            "title": "TCSExam: Evaluating Frontier LLMs on the Full Range of TCS Research",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Can large language models (LLMs) advance theoretical computer science and resolve its long-standing open conjectures? To"
-        },
-        {
-            "title": "Bri3D: Bridging the Object-Scene Gap in Single-Image 3D Generation via Scene-Anchor",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Generating compositional 3D scenes from a single image requires recovering detailed object geometry and coherent spatial"
-        },
-        {
-            "title": "CoRD: Coupled Rollouts Fill the Blind Spot of On-Policy Distillation",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "On-policy distillation trains a student on its own rollouts, so states the teacher would reach but the student does not "
         }
     ]
 }
