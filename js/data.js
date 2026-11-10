@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-09 03:31:26
+ * 生成时间: 2026-11-10 05:04:36
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-            "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-            "source": "TechCrunch AI",
+            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+            "summary": "“让人放心，把人放大。”",
+            "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+            "url": "https://www.qbitai.com/2026/11/508586.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-            "summary": "AI写代码太快，基础设施跟不上了",
+            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+            "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/508449.html"
+            "url": "https://www.qbitai.com/2026/11/508566.html"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-            "summary": "融资缩水，硅谷投资人也谨慎了",
+            "tag": "头条 · 大模型",
+            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+            "summary": "英伟达暗盘跌2%",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/508344.html"
+            "url": "https://www.qbitai.com/2026/11/508498.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "为了去AI味，人类开始主动写烂文章了……",
-            "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+            "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+            "source": "TechCrunch AI",
+            "time": "刚刚",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/508330.html"
+            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
         }
     ],
     "quickNews": [
         {
-            "time": "03:31",
-            "text": "After the midterms, things are looking rocky for Elon Musk a",
+            "time": "05:04",
+            "text": "当AI在加速狂奔，什么反而应该“慢”下来？",
             "hot": true,
-            "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+            "url": "https://www.qbitai.com/2026/11/508586.html"
         },
         {
-            "time": "03:31",
-            "text": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+            "time": "05:04",
+            "text": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508449.html"
+            "url": "https://www.qbitai.com/2026/11/508566.html"
         },
         {
-            "time": "03:31",
-            "text": "OpenAI新融资到账110亿美元，不及原计划一半",
+            "time": "05:04",
+            "text": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508344.html"
+            "url": "https://www.qbitai.com/2026/11/508498.html"
         },
         {
-            "time": "03:31",
-            "text": "为了去AI味，人类开始主动写烂文章了……",
+            "time": "05:04",
+            "text": "Jensen Huang’s alleged honeypot scandal has inspired some to",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508330.html"
+            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
         },
         {
-            "time": "03:31",
-            "text": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+            "time": "05:04",
+            "text": "YouTube streaming data returns to Billboard charts, ending m",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508264.html"
+            "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
         },
         {
-            "time": "03:31",
-            "text": "AGENTS.MD，危险危险危险！！！",
+            "time": "05:04",
+            "text": "Anthropic releases new Mythos and Fable models amid RSI conc",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508244.html"
+            "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
         },
         {
-            "time": "03:31",
-            "text": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+            "time": "05:04",
+            "text": "The backlash about data centers might really just be about e",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508236.html"
+            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         },
         {
-            "time": "03:31",
-            "text": "SNL has a new impression of Elon Musk, ‘the worst thing Sout",
+            "time": "05:04",
+            "text": "Fervo now has $12B in orders for its geothermal power tech",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+            "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-                    "source": "TechCrunch AI",
+                    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+                    "url": "https://www.qbitai.com/2026/11/508586.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "On Equity, we unpacked what the midterms mean for the tech industry...."
+                    "desc": "“让人放心，把人放大。”..."
                 },
                 {
-                    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+                    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508449.html"
+                    "url": "https://www.qbitai.com/2026/11/508566.html"
                 },
                 {
-                    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+                    "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/11/508344.html"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/508498.html"
                 },
                 {
-                    "title": "为了去AI味，人类开始主动写烂文章了……",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+                    "source": "TechCrunch AI",
+                    "time": "刚刚",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508330.html"
+                    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
                 },
                 {
-                    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508264.html"
+                    "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal ",
-                    "desc": "Large language models have expanded beyond text to vision, audio, and other modalities, but understanding raw electromagnetic (EM) signals remains cha...",
+                    "title": "【arXiv】Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of ",
+                    "desc": "Background: Diagnostic I-131 whole-body planar imaging in differentiated thyroid cancer (DTC) is count-limited by low administered activity, and quali...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09476v1"
+                    "url": "http://arxiv.org/abs/2611.12044v1"
                 },
                 {
-                    "title": "【arXiv】ENGRAM: From Agent Experience to Weights through Verified Consolidation",
-                    "desc": "Language-model agents use experience through external retrieval and parameter learning. Consolidating stored experience into model weights requires de...",
+                    "title": "【arXiv】Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularizatio",
+                    "desc": "Generating text-bearing images requires coherent scenes and accurate characters. Large text-to-image models improve both capabilities through repeated...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09472v1"
+                    "url": "http://arxiv.org/abs/2611.12042v1"
                 },
                 {
-                    "title": "【arXiv】Left-Right-Consistent Iterative Stereo Matching via Cross-Injection",
-                    "desc": "State-of-the-art stereo matching models predominantly predict the disparity of only the left (reference) view. However, applications such as per-eye A...",
+                    "title": "【arXiv】SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks",
+                    "desc": "Large language model agents increasingly rely on reusable natural-language skills, yet growing skill collections remain accumulations of isolated text...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09458v1"
+                    "url": "http://arxiv.org/abs/2611.12041v1"
                 },
                 {
-                    "title": "【arXiv】Definitions, Label Names, or Demonstrations? Auditing What Governs LLM Annotation",
-                    "desc": "Large language models (LLMs) are increasingly used to annotate social-science texts, but high accuracy does not establish that they apply researcher-s...",
+                    "title": "【arXiv】Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal P",
+                    "desc": "In this paper, we propose CM3AE 2.0, a unified RGB Frame and Event-Voxel/-Frame pre-training framework. By jointly learning multimodal spatiotemporal ...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09457v1"
+                    "url": "http://arxiv.org/abs/2611.12040v1"
                 },
                 {
-                    "title": "【arXiv】Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint detection, privacy ",
-                    "desc": "The 2026 ImageCLEFmedical GANs Task Exploring Fingerprint Detection, Privacy Leakage, and Synthetic Medical Image Generation continues to investigate ...",
+                    "title": "【arXiv】DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dyna",
+                    "desc": "This paper presents DPGS-SLAM (Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM) for dense mapping in environments containing dy...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09455v1"
+                    "url": "http://arxiv.org/abs/2611.12038v1"
                 },
                 {
-                    "title": "【arXiv】From LoRA to Language: Recovering Skill Documents from Adapters",
-                    "desc": "Agent skills are short documents that teach a language model how to handle a class of tasks. To save context, these documents are increasingly compile...",
+                    "title": "【arXiv】SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction",
+                    "desc": "Single-view 3D hair reconstruction has progressed rapidly, but many methods optimize for visual plausibility rather than producing strand assets that ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "20小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.09454v1"
+                    "url": "http://arxiv.org/abs/2611.12037v1"
                 }
             ]
         },
@@ -274,31 +274,31 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Apps to distract you from the endless cycle of doomscrolling",
-                    "time": "5小时前",
+                    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+                    "time": "23小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
+                    "url": "https://www.qbitai.com/2026/11/508603.html"
                 },
                 {
                     "rank": 2,
-                    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty t",
-                    "time": "5天前",
+                    "title": "Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Com",
+                    "time": "21小时前",
                     "emoji": "💡",
-                    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+                    "url": "http://arxiv.org/abs/2611.12019v1"
                 },
                 {
                     "rank": 3,
-                    "title": "Securing the agentic enterprise with data lineage",
-                    "time": "4天前",
+                    "title": "Speculative Self-Distillation enables Efficient Knowledge Internalizat",
+                    "time": "21小时前",
                     "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+                    "url": "http://arxiv.org/abs/2611.12016v1"
                 },
                 {
                     "rank": 4,
-                    "title": "Left-Right-Consistent Iterative Stereo Matching via Cross-Injection",
-                    "time": "2天前",
+                    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+                    "time": "20小时前",
                     "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2611.09458v1"
+                    "url": "https://www.qbitai.com/2026/11/508694.html"
                 },
                 {
                     "rank": 5,
@@ -318,45 +318,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-                    "time": "昨天",
+                    "title": "The race is on to sue Nvidia",
+                    "time": "6小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/508344.html"
+                    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
                 },
                 {
                     "rank": 2,
-                    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible ",
-                    "time": "6小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-                },
-                {
-                    "rank": 3,
-                    "title": "What’s next for US energy policy after the midterm elections?",
-                    "time": "4天前",
-                    "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
-                },
-                {
-                    "rank": 4,
                     "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-                    "time": "3天前",
-                    "emoji": "🌏",
+                    "time": "4天前",
+                    "emoji": "💰",
                     "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
                 },
                 {
+                    "rank": 3,
+                    "title": "Anthropic reportedly plans to move forward with IPO plans",
+                    "time": "3小时前",
+                    "emoji": "🏭",
+                    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+                },
+                {
+                    "rank": 4,
+                    "title": "Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of",
+                    "time": "21小时前",
+                    "emoji": "🌏",
+                    "url": "http://arxiv.org/abs/2611.12017v1"
+                },
+                {
                     "rank": 5,
-                    "title": "Overview of the ImageCLEFmedical 2026 GANs task: Exploring fingerprint",
-                    "time": "2天前",
+                    "title": "Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillat",
+                    "time": "21小时前",
                     "emoji": "📉",
-                    "url": "http://arxiv.org/abs/2611.09455v1"
+                    "url": "http://arxiv.org/abs/2611.12012v1"
                 },
                 {
                     "rank": 6,
-                    "title": "Not All Entropy Is Equal: Reward-Conditioned Entropy Allocation in Rei",
-                    "time": "2天前",
+                    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+                    "time": "20小时前",
                     "emoji": "🔄",
-                    "url": "http://arxiv.org/abs/2611.09448v1"
+                    "url": "https://www.qbitai.com/2026/11/508690.html"
+                },
+                {
+                    "rank": 7,
+                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "time": "15小时前",
+                    "emoji": "🚀",
+                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
                 }
             ]
         },
@@ -398,75 +405,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "codecrafters-io/build-your-own-x",
-                    "desc": "Master programming by recreating your favorite technologies from scratch.",
-                    "lang": "Markdown",
-                    "langClass": "lang-python",
-                    "stars": "+561,113",
-                    "url": "https://github.com/codecrafters-io/build-your-own-x"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,776",
+                    "stars": "+458,826",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+444,173",
+                    "stars": "+447,534",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,209",
+                    "stars": "+394,264",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+371,574",
+                    "stars": "+371,690",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
+                    "rank": 5,
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+319,931",
+                    "url": "https://github.com/mattpocock/skills"
+                },
+                {
                     "rank": 6,
-                    "name": "vinta/awesome-python",
-                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+333,465",
-                    "url": "https://github.com/vinta/awesome-python"
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+300,321",
+                    "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 7,
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+289,439",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                },
+                {
+                    "rank": 8,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+261,807",
+                    "stars": "+262,139",
                     "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 8,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+254,908",
-                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -475,72 +482,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "After the midterms, things are looking rocky for E",
+            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+            "url": "https://www.qbitai.com/2026/11/508586.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/508449.html"
+            "url": "https://www.qbitai.com/2026/11/508566.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/508344.html"
+            "url": "https://www.qbitai.com/2026/11/508498.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "为了去AI味，人类开始主动写烂文章了……",
+            "title": "Jensen Huang’s alleged honeypot scandal has inspir",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508330.html"
+            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+            "title": "YouTube streaming data returns to Billboard charts",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508264.html"
+            "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "AGENTS.MD，危险危险危险！！！",
+            "title": "Anthropic releases new Mythos and Fable models ami",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508244.html"
+            "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+            "title": "The backlash about data centers might really just ",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508236.html"
+            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "SNL has a new impression of Elon Musk, ‘the worst ",
+            "title": "Fervo now has $12B in orders for its geothermal po",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+            "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Coordinated disturbances haunt grids worldwide. He",
+            "title": "Jensen Huang pulls out of ElevenLabs Summit amid N",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/"
+            "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Sequoia partners reportedly blindsided when Roelof",
+            "title": "Hotel giant Wyndham exposed customer data after ap",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+            "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
         }
     ],
     "aiTools": [
@@ -587,23 +594,23 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
+            "text": "Huang",
             "size": "large"
         },
         {
-            "text": "Large",
+            "text": "Nvidia",
             "size": "large"
-        },
-        {
-            "text": "Language",
-            "size": "medium"
-        },
-        {
-            "text": "Agent",
-            "size": "medium"
         },
         {
             "text": "AI",
+            "size": "medium"
+        },
+        {
+            "text": "Jensen",
+            "size": "medium"
+        },
+        {
+            "text": "Download",
             "size": "medium"
         },
         {
@@ -611,7 +618,7 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Texas",
+            "text": "Anthropic",
             "size": "small"
         },
         {
@@ -619,15 +626,11 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "LLMs",
+            "text": "Texas",
             "size": "small"
         },
         {
-            "text": "Models",
-            "size": "small"
-        },
-        {
-            "text": "Agentic",
+            "text": "SLAM",
             "size": "small"
         },
         {
@@ -635,132 +638,106 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "Chinese",
             "size": "small"
         },
         {
-            "text": "Data",
+            "text": "Single",
             "size": "small"
         },
         {
-            "text": "going",
+            "text": "Image",
+            "size": "small"
+        },
+        {
+            "text": "Distillation",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "On Equity, we unpacked what the midterms mean for the tech industry."
+            "snippet": "“让人放心，把人放大。”"
         },
         {
-            "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "AI写代码太快，基础设施跟不上了"
+            "snippet": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动"
         },
         {
-            "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "融资缩水，硅谷投资人也谨慎了"
-        },
-        {
-            "title": "为了去AI味，人类开始主动写烂文章了……",
+            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
+            "snippet": "英伟达暗盘跌2%"
         },
         {
-            "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+            "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "苦单Session久矣，两大Agent玩家不谋而合。"
+            "snippet": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal."
         },
         {
-            "title": "AGENTS.MD，危险危险危险！！！",
+            "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "全新的电脑病毒"
+            "snippet": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to"
         },
         {
-            "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+            "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "中国版cosmos再交卷"
+            "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicati"
         },
         {
-            "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "SNL seems to have its knives out for tech executives."
-        },
-        {
-            "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+            "title": "The backlash about data centers might really just be about electricity",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany fo"
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+            "title": "Fervo now has $12B in orders for its geothermal power tech",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+            "snippet": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in "
         },
         {
-            "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+            "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+        },
+        {
+            "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel g"
+        },
+        {
+            "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close r"
+        },
+        {
+            "title": "The race is on to sue Nvidia",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "In a memo to the company, Huang admitted that he had an affair."
+            "snippet": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspect"
         },
         {
-            "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used",
+            "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a ye",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with "
-        },
-        {
-            "title": "Apps to distract you from the endless cycle of doomscrolling",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content"
-        },
-        {
-            "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings w"
         },
         {
             "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
             "category": "AI研究",
             "tag": "research",
             "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But"
-        },
-        {
-            "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are "
-        },
-        {
-            "title": "What’s next for US energy policy after the midterm elections?",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it did"
-        },
-        {
-            "title": "The Download: blended meat, restored sight, and the agentic web",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Securing the agentic enterprise with data lineage",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted"
         },
         {
             "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
@@ -775,22 +752,10 @@ var siteData = {
             "snippet": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. W"
         },
         {
-            "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "RSI不可能无限快"
-        },
-        {
-            "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Dario刚喊减速…"
-        },
-        {
-            "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+            "title": "Anthropic reportedly plans to move forward with IPO plans",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
         },
         {
             "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -805,28 +770,70 @@ var siteData = {
             "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podc"
         },
         {
-            "title": "LEMMO: A Large Electromagnetic Model leveraging Pretrained LLMs for Million-Sample Signal Understand",
+            "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Large language models have expanded beyond text to vision, audio, and other modalities, but understanding raw electromag"
+            "snippet": "Worker不够了主管Agent还能自己招！"
         },
         {
-            "title": "ENGRAM: From Agent Experience to Weights through Verified Consolidation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Language-model agents use experience through external retrieval and parameter learning. Consolidating stored experience "
-        },
-        {
-            "title": "Left-Right-Consistent Iterative Stereo Matching via Cross-Injection",
+            "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "State-of-the-art stereo matching models predominantly predict the disparity of only the left (reference) view. However, "
+            "snippet": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
         },
         {
-            "title": "Definitions, Label Names, or Demonstrations? Auditing What Governs LLM Annotation",
+            "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Large language models (LLMs) are increasingly used to annotate social-science texts, but high accuracy does not establis"
+            "snippet": "最早量产的亲自泼冷水"
+        },
+        {
+            "title": "Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Enhancing image quality through super-resolution is crucial in image and video processing. While contemporary deep learn"
+        },
+        {
+            "title": "TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Recent anomaly detection studies have shown that residual features, which model the discrepancy between normal and abnor"
+        },
+        {
+            "title": "A generalized transition framework for identifying reduction domains in non-binary constituency pars",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Direct non-binary constituency parsing must identify an ordered sequence of children at each phrase-level reduction. We "
+        },
+        {
+            "title": "Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Software developers spend significant time reading and understanding code, increasingly supplemented by generative AI. W"
+        },
+        {
+            "title": "Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of Climbing Holds",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Dexterous grasping in robotics relies on distinct hand configurations depending on object geometry. We introduce BetaGra"
+        },
+        {
+            "title": "Speculative Self-Distillation enables Efficient Knowledge Internalization",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Many real-world applications require language models to internalize knowledge that was absent from pretraining, to incor"
+        },
+        {
+            "title": "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Large language models and the multi-agent systems built around them could accelerate materials discovery by connecting s"
+        },
+        {
+            "title": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering t"
         }
     ]
 }
