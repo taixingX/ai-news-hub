@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-10 05:04:36
+ * 生成时间: 2026-11-11 03:38:51
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-            "summary": "“让人放心，把人放大。”",
+            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+            "summary": "速度提了，API价格降了",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/508586.html"
+            "url": "https://www.qbitai.com/2026/11/508828.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-            "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
+            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+            "summary": "办公AI结束单机模式",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/508566.html"
+            "url": "https://www.qbitai.com/2026/11/508798.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-            "summary": "英伟达暗盘跌2%",
+            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+            "summary": "投毒 → 耗尽预算 → 诱导误判",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/508498.html"
+            "url": "https://www.qbitai.com/2026/11/508787.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-            "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
-            "source": "TechCrunch AI",
-            "time": "刚刚",
+            "tag": "独家 · 研究",
+            "title": "The backlash about data centers might really just be about electricity",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
+            "source": "MIT Tech Review",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
+            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         }
     ],
     "quickNews": [
         {
-            "time": "05:04",
-            "text": "当AI在加速狂奔，什么反而应该“慢”下来？",
+            "time": "03:38",
+            "text": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/508586.html"
+            "url": "https://www.qbitai.com/2026/11/508828.html"
         },
         {
-            "time": "05:04",
-            "text": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+            "time": "03:38",
+            "text": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508566.html"
+            "url": "https://www.qbitai.com/2026/11/508798.html"
         },
         {
-            "time": "05:04",
-            "text": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+            "time": "03:38",
+            "text": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508498.html"
+            "url": "https://www.qbitai.com/2026/11/508787.html"
         },
         {
-            "time": "05:04",
-            "text": "Jensen Huang’s alleged honeypot scandal has inspired some to",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
-        },
-        {
-            "time": "05:04",
-            "text": "YouTube streaming data returns to Billboard charts, ending m",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
-        },
-        {
-            "time": "05:04",
-            "text": "Anthropic releases new Mythos and Fable models amid RSI conc",
-            "hot": false,
-            "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-        },
-        {
-            "time": "05:04",
+            "time": "03:38",
             "text": "The backlash about data centers might really just be about e",
             "hot": false,
             "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         },
         {
-            "time": "05:04",
-            "text": "Fervo now has $12B in orders for its geothermal power tech",
+            "time": "03:38",
+            "text": "Nancy Pelosi’s replacement is ready to regulate AI",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+        },
+        {
+            "time": "03:38",
+            "text": "The Download: empty AI climate claims, and an Nvidia investi",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+        },
+        {
+            "time": "03:38",
+            "text": "Innovating with AI in the special chemicals industry",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+        },
+        {
+            "time": "03:38",
+            "text": "The climate case for AI has not been made",
+            "hot": false,
+            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+                    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508586.html",
+                    "url": "https://www.qbitai.com/2026/11/508828.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "“让人放心，把人放大。”..."
+                    "desc": "速度提了，API价格降了..."
                 },
                 {
-                    "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+                    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508566.html"
+                    "url": "https://www.qbitai.com/2026/11/508798.html"
                 },
                 {
-                    "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+                    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508498.html"
+                    "url": "https://www.qbitai.com/2026/11/508787.html"
                 },
                 {
-                    "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-                    "source": "TechCrunch AI",
-                    "time": "刚刚",
+                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
                 },
                 {
-                    "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+                    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
                     "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "time": "8小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Leveraging High-Activity Post-Therapeutic I-131 Scans for Deep Learning Reconstruction of ",
-                    "desc": "Background: Diagnostic I-131 whole-body planar imaging in differentiated thyroid cancer (DTC) is count-limited by low administered activity, and quali...",
+                    "title": "【arXiv】Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2",
+                    "desc": "A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position co...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12044v1"
+                    "url": "http://arxiv.org/abs/2611.14060v1"
                 },
                 {
-                    "title": "【arXiv】Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularizatio",
-                    "desc": "Generating text-bearing images requires coherent scenes and accurate characters. Large text-to-image models improve both capabilities through repeated...",
+                    "title": "【arXiv】HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response ",
+                    "desc": "Emergencies can occur where there is no phone signal and no ambulance nearby. A small language model on a phone can be helpful in such situations, but...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12042v1"
+                    "url": "http://arxiv.org/abs/2611.14059v1"
                 },
                 {
-                    "title": "【arXiv】SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks",
-                    "desc": "Large language model agents increasingly rely on reusable natural-language skills, yet growing skill collections remain accumulations of isolated text...",
+                    "title": "【arXiv】CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution o",
+                    "desc": "Objective: To improve the spatial and temporal resolution of aortic 4D flow MRI through a unified deep learning framework for post-acquisition super-r...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12041v1"
+                    "url": "http://arxiv.org/abs/2611.14058v1"
                 },
                 {
-                    "title": "【arXiv】Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal P",
-                    "desc": "In this paper, we propose CM3AE 2.0, a unified RGB Frame and Event-Voxel/-Frame pre-training framework. By jointly learning multimodal spatiotemporal ...",
+                    "title": "【arXiv】Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study",
+                    "desc": "Reusing key--value (KV) caches across language model updates could avoid repeated computation of shared context, but changes in model weights raise a ...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12040v1"
+                    "url": "http://arxiv.org/abs/2611.14051v1"
                 },
                 {
-                    "title": "【arXiv】DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dyna",
-                    "desc": "This paper presents DPGS-SLAM (Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM) for dense mapping in environments containing dy...",
+                    "title": "【arXiv】Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
+                    "desc": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model'...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12038v1"
+                    "url": "http://arxiv.org/abs/2611.14046v1"
                 },
                 {
-                    "title": "【arXiv】SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction",
-                    "desc": "Single-view 3D hair reconstruction has progressed rapidly, but many methods optimize for visual plausibility rather than producing strand assets that ...",
+                    "title": "【arXiv】Thermodynamics of words",
+                    "desc": "We introduce the word thermalization hypothesis according to which in a literary work there are effective interactions between words that drive them t...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "14小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.12037v1"
+                    "url": "http://arxiv.org/abs/2611.14039v1"
                 }
             ]
         },
@@ -274,31 +274,25 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-                    "time": "23小时前",
+                    "title": "X launches its own clipping feature to spur influencer engagement",
+                    "time": "2小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/508603.html"
+                    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
                 },
                 {
                     "rank": 2,
-                    "title": "Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Com",
-                    "time": "21小时前",
-                    "emoji": "💡",
-                    "url": "http://arxiv.org/abs/2611.12019v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 3,
-                    "title": "Speculative Self-Distillation enables Efficient Knowledge Internalizat",
-                    "time": "21小时前",
-                    "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2611.12016v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-                    "time": "20小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/11/508694.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
@@ -318,52 +312,52 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The race is on to sue Nvidia",
-                    "time": "6小时前",
+                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
                 },
                 {
                     "rank": 2,
-                    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-                    "time": "4天前",
+                    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625",
+                    "time": "8小时前",
                     "emoji": "💰",
-                    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+                    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
                 },
                 {
                     "rank": 3,
-                    "title": "Anthropic reportedly plans to move forward with IPO plans",
-                    "time": "3小时前",
+                    "title": "Proximal Ventures raises debut fund to back startups bringing AI to dr",
+                    "time": "6小时前",
                     "emoji": "🏭",
-                    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+                    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
                 },
                 {
                     "rank": 4,
-                    "title": "Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of",
-                    "time": "21小时前",
+                    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+                    "time": "5天前",
                     "emoji": "🌏",
-                    "url": "http://arxiv.org/abs/2611.12017v1"
+                    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
                 },
                 {
                     "rank": 5,
-                    "title": "Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillat",
-                    "time": "21小时前",
+                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+                    "time": "19小时前",
                     "emoji": "📉",
-                    "url": "http://arxiv.org/abs/2611.12012v1"
+                    "url": "https://www.qbitai.com/2026/11/509017.html"
                 },
                 {
                     "rank": 6,
-                    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-                    "time": "20小时前",
+                    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+                    "time": "19小时前",
                     "emoji": "🔄",
-                    "url": "https://www.qbitai.com/2026/11/508690.html"
+                    "url": "https://www.qbitai.com/2026/11/508991.html"
                 },
                 {
                     "rank": 7,
-                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-                    "time": "15小时前",
+                    "title": "Personalized Memory Rubrics: Learning What to Remember per User via Ru",
+                    "time": "14小时前",
                     "emoji": "🚀",
-                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+                    "url": "http://arxiv.org/abs/2611.14017v1"
                 }
             ]
         },
@@ -409,7 +403,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,826",
+                    "stars": "+458,958",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -418,7 +412,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+447,534",
+                    "stars": "+450,369",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -427,7 +421,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,264",
+                    "stars": "+394,308",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -436,44 +430,44 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+371,690",
+                    "stars": "+371,765",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 5,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+319,931",
-                    "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 6,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+300,321",
-                    "url": "https://github.com/affaan-m/ECC"
-                },
-                {
-                    "rank": 7,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+289,439",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
-                },
-                {
-                    "rank": 8,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+262,139",
+                    "stars": "+262,491",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 6,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+255,208",
+                    "url": "https://github.com/torvalds/linux"
+                },
+                {
+                    "rank": 7,
+                    "name": "react/react",
+                    "desc": "The library for web and native user interfaces.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+252,502",
+                    "url": "https://github.com/react/react"
+                },
+                {
+                    "rank": 8,
+                    "name": "anomalyco/opencode",
+                    "desc": "The open source coding agent.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+225,929",
+                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -482,72 +476,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/508586.html"
+            "url": "https://www.qbitai.com/2026/11/508828.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/508566.html"
+            "url": "https://www.qbitai.com/2026/11/508798.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/508498.html"
+            "url": "https://www.qbitai.com/2026/11/508787.html"
         },
         {
             "rank": 4,
-            "top3": false,
-            "title": "Jensen Huang’s alleged honeypot scandal has inspir",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
-        },
-        {
-            "rank": 5,
-            "top3": false,
-            "title": "YouTube streaming data returns to Billboard charts",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/"
-        },
-        {
-            "rank": 6,
-            "top3": false,
-            "title": "Anthropic releases new Mythos and Fable models ami",
-            "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
-        },
-        {
-            "rank": 7,
             "top3": false,
             "title": "The backlash about data centers might really just ",
             "heat": "",
             "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         },
         {
+            "rank": 5,
+            "top3": false,
+            "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+        },
+        {
+            "rank": 6,
+            "top3": false,
+            "title": "The Download: empty AI climate claims, and an Nvid",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+        },
+        {
+            "rank": 7,
+            "top3": false,
+            "title": "Innovating with AI in the special chemicals indust",
+            "heat": "",
+            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+        },
+        {
             "rank": 8,
             "top3": false,
-            "title": "Fervo now has $12B in orders for its geothermal po",
+            "title": "The climate case for AI has not been made",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/"
+            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Jensen Huang pulls out of ElevenLabs Summit amid N",
+            "title": "Oura to acquire AI-native primary care startup Cou",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+            "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Hotel giant Wyndham exposed customer data after ap",
+            "title": "PSI is trying to make a business out of AI-driven ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/"
+            "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
         }
     ],
     "aiTools": [
@@ -594,27 +588,27 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Huang",
-            "size": "large"
-        },
-        {
-            "text": "Nvidia",
+            "text": "Download",
             "size": "large"
         },
         {
             "text": "AI",
-            "size": "medium"
+            "size": "large"
         },
         {
-            "text": "Jensen",
-            "size": "medium"
-        },
-        {
-            "text": "Download",
+            "text": "OpenAI",
             "size": "medium"
         },
         {
             "text": "The",
+            "size": "medium"
+        },
+        {
+            "text": "Pelosi",
+            "size": "medium"
+        },
+        {
+            "text": "IPO",
             "size": "small"
         },
         {
@@ -622,7 +616,15 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "US",
+            "text": "model",
+            "size": "small"
+        },
+        {
+            "text": "Nancy",
+            "size": "small"
+        },
+        {
+            "text": "Google",
             "size": "small"
         },
         {
@@ -630,66 +632,40 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "SLAM",
+            "text": "Brazilian",
             "size": "small"
         },
         {
-            "text": "data",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Chinese",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "Single",
-            "size": "small"
-        },
-        {
-            "text": "Image",
-            "size": "small"
-        },
-        {
-            "text": "Distillation",
+            "text": "Agent",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "“让人放心，把人放大。”"
+            "snippet": "速度提了，API价格降了"
         },
         {
-            "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
+            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动"
+            "snippet": "办公AI结束单机模式"
         },
         {
-            "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
+            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "英伟达暗盘跌2%"
-        },
-        {
-            "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal."
-        },
-        {
-            "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to"
-        },
-        {
-            "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicati"
+            "snippet": "投毒 → 耗尽预算 → 诱导误判"
         },
         {
             "title": "The backlash about data centers might really just be about electricity",
@@ -698,64 +674,88 @@ var siteData = {
             "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "Fervo now has $12B in orders for its geothermal power tech",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in "
-        },
-        {
-            "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Nvidia CEO also pulled out of an Anthropic event earlier."
-        },
-        {
-            "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel g"
-        },
-        {
-            "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+            "title": "Nancy Pelosi’s replacement is ready to regulate AI",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close r"
+            "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after w"
         },
         {
-            "title": "The race is on to sue Nvidia",
+            "title": "The Download: empty AI climate claims, and an Nvidia investigation",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspect"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a ye",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings w"
-        },
-        {
-            "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+            "title": "Innovating with AI in the special chemicals industry",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But"
+            "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the pri"
+        },
+        {
+            "title": "The climate case for AI has not been made",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate "
+        },
+        {
+            "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO "
+        },
+        {
+            "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pur"
+        },
+        {
+            "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower bu"
+        },
+        {
+            "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
+        },
+        {
+            "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them"
+        },
+        {
+            "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known"
+        },
+        {
+            "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to reg"
+        },
+        {
+            "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+        },
+        {
+            "title": "X-energy gets green light to build its first small modular nuclear reactors",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
         },
         {
             "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
             "category": "行业动态",
             "tag": "industry",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "A new bill could change how the US builds energy infrastructure",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. W"
-        },
-        {
-            "title": "Anthropic reportedly plans to move forward with IPO plans",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
         },
         {
             "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -770,70 +770,64 @@ var siteData = {
             "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podc"
         },
         {
-            "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Worker不够了主管Agent还能自己招！"
-        },
-        {
-            "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+            "title": "X launches its own clipping feature to spur influencer engagement",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
+            "snippet": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
         },
         {
-            "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "最早量产的亲自泼冷水"
+            "snippet": "加速东部城市型智算中心向E-AIDC演进"
         },
         {
-            "title": "Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Enhancing image quality through super-resolution is crucial in image and video processing. While contemporary deep learn"
+            "title": "Token卷到触觉了！机器人终于有了通用手感",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "蚂蚁灵波开源LingBot-Touch"
         },
         {
-            "title": "TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Recent anomaly detection studies have shown that residual features, which model the discrepancy between normal and abnor"
+            "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "作曲、拍片、3D建模一条龙全包圆"
         },
         {
-            "title": "A generalized transition framework for identifying reduction domains in non-binary constituency pars",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Direct non-binary constituency parsing must identify an ordered sequence of children at each phrase-level reduction. We "
-        },
-        {
-            "title": "Feeling Easier, Working Harder: Cognitive Load in AI-Assisted Code Comprehension",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Software developers spend significant time reading and understanding code, increasingly supplemented by generative AI. W"
-        },
-        {
-            "title": "Grasp-Taxonomy Conditioning as a Mode Switch for Dexterous Grasping of Climbing Holds",
+            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "Dexterous grasping in robotics relies on distinct hand configurations depending on object geometry. We introduce BetaGra"
+            "snippet": "近亿元融资刚刚落袋"
         },
         {
-            "title": "Speculative Self-Distillation enables Efficient Knowledge Internalization",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Many real-world applications require language models to internalize knowledge that was absent from pretraining, to incor"
+            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
         },
         {
-            "title": "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories",
+            "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "让每一次任务，都成为下一次进步的起点"
+        },
+        {
+            "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
+        },
+        {
+            "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Large language models and the multi-agent systems built around them could accelerate materials discovery by connecting s"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+            "title": "Evolving metal extraction processes",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering t"
+            "snippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc "
         }
     ]
 }
