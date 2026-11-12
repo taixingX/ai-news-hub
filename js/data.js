@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-11 03:38:51
+ * 生成时间: 2026-11-12 04:46:53
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
-            "summary": "速度提了，API价格降了",
+            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+            "summary": "L4无人化作业走向规模交付",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/508828.html"
+            "url": "https://www.qbitai.com/2026/11/509052.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
-            "summary": "办公AI结束单机模式",
+            "tag": "重磅 · 应用",
+            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+            "summary": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/508798.html"
+            "url": "https://www.qbitai.com/2026/11/509032.html"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
-            "summary": "投毒 → 耗尽预算 → 诱导误判",
+            "tag": "行业 · 动态",
+            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+            "summary": "近亿元融资刚刚落袋",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/508787.html"
+            "url": "https://www.qbitai.com/2026/11/509017.html"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "The backlash about data centers might really just be about electricity",
-            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like th",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+            "url": "https://www.qbitai.com/2026/11/508996.html"
         }
     ],
     "quickNews": [
         {
-            "time": "03:38",
-            "text": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+            "time": "04:46",
+            "text": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/508828.html"
+            "url": "https://www.qbitai.com/2026/11/509052.html"
         },
         {
-            "time": "03:38",
-            "text": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+            "time": "04:46",
+            "text": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508798.html"
+            "url": "https://www.qbitai.com/2026/11/509032.html"
         },
         {
-            "time": "03:38",
-            "text": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+            "time": "04:46",
+            "text": "从芯片到千比特整机，超导量子计算还有一场硬仗",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508787.html"
+            "url": "https://www.qbitai.com/2026/11/509017.html"
         },
         {
-            "time": "03:38",
-            "text": "The backlash about data centers might really just be about e",
+            "time": "04:46",
+            "text": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+            "url": "https://www.qbitai.com/2026/11/508996.html"
         },
         {
-            "time": "03:38",
-            "text": "Nancy Pelosi’s replacement is ready to regulate AI",
+            "time": "04:46",
+            "text": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+            "url": "https://www.qbitai.com/2026/11/508998.html"
         },
         {
-            "time": "03:38",
-            "text": "The Download: empty AI climate claims, and an Nvidia investi",
+            "time": "04:46",
+            "text": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+            "url": "https://www.qbitai.com/2026/11/508991.html"
         },
         {
-            "time": "03:38",
-            "text": "Innovating with AI in the special chemicals industry",
+            "time": "04:46",
+            "text": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+            "url": "https://www.qbitai.com/2026/11/508985.html"
         },
         {
-            "time": "03:38",
-            "text": "The climate case for AI has not been made",
+            "time": "04:46",
+            "text": "The Download: Pelosi’s successor targets AI and data centers",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+                    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508828.html",
+                    "url": "https://www.qbitai.com/2026/11/509052.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "速度提了，API价格降了..."
+                    "desc": "L4无人化作业走向规模交付..."
                 },
                 {
-                    "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508798.html"
+                    "category": "domestic",
+                    "url": "https://www.qbitai.com/2026/11/509017.html"
                 },
                 {
-                    "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+                    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508787.html"
+                    "url": "https://www.qbitai.com/2026/11/508996.html"
                 },
                 {
-                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-                    "source": "MIT Tech Review",
+                    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/508998.html"
                 },
                 {
-                    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+                    "url": "https://www.qbitai.com/2026/11/508991.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2",
-                    "desc": "A vision-language model may take left-right direction from the orientation of image content within patches, its vision transformer's (ViT) position co...",
+                    "title": "【arXiv】Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+                    "desc": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14060v1"
+                    "url": "http://arxiv.org/abs/2611.14519v1"
                 },
                 {
-                    "title": "【arXiv】HandsOnAid: Building and Evaluating an Offline First-Aid Assistant for Emergency Response ",
-                    "desc": "Emergencies can occur where there is no phone signal and no ambulance nearby. A small language model on a phone can be helpful in such situations, but...",
+                    "title": "【arXiv】Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+                    "desc": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depen...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14059v1"
+                    "url": "http://arxiv.org/abs/2611.14518v1"
                 },
                 {
-                    "title": "【arXiv】CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution o",
-                    "desc": "Objective: To improve the spatial and temporal resolution of aortic 4D flow MRI through a unified deep learning framework for post-acquisition super-r...",
+                    "title": "【arXiv】AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+                    "desc": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number an...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14058v1"
+                    "url": "http://arxiv.org/abs/2611.14515v1"
                 },
                 {
-                    "title": "【arXiv】Can KV Cache Be Reused Across Model Updates? A DeepSeek-V4-Flash Case Study",
-                    "desc": "Reusing key--value (KV) caches across language model updates could avoid repeated computation of shared context, but changes in model weights raise a ...",
+                    "title": "【arXiv】Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+                    "desc": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirica...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14051v1"
+                    "url": "http://arxiv.org/abs/2611.14514v1"
                 },
                 {
-                    "title": "【arXiv】Structured Confidence Perturbation via Fisher Geometry for Adversarial Training",
-                    "desc": "Adversarial training is often plagued by \"pseudo-attacks\", perturbations that significantly increase the loss value but fail to truly alter the model'...",
+                    "title": "【arXiv】Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: L",
+                    "desc": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14046v1"
+                    "url": "http://arxiv.org/abs/2611.14498v1"
                 },
                 {
-                    "title": "【arXiv】Thermodynamics of words",
-                    "desc": "We introduce the word thermalization hypothesis according to which in a literary work there are effective interactions between words that drive them t...",
+                    "title": "【arXiv】RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for C",
+                    "desc": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchro...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "14小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14039v1"
+                    "url": "http://arxiv.org/abs/2611.14496v1"
                 }
             ]
         },
@@ -274,10 +274,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "X launches its own clipping feature to spur influencer engagement",
-                    "time": "2小时前",
+                    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+                    "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/"
+                    "url": "https://www.qbitai.com/2026/11/509032.html"
                 },
                 {
                     "rank": 2,
@@ -312,52 +312,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625",
-                    "time": "8小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
-                },
-                {
-                    "rank": 3,
-                    "title": "Proximal Ventures raises debut fund to back startups bringing AI to dr",
-                    "time": "6小时前",
-                    "emoji": "🏭",
-                    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/"
-                },
-                {
-                    "rank": 4,
-                    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-                    "time": "5天前",
-                    "emoji": "🌏",
-                    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
-                },
-                {
-                    "rank": 5,
-                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-                    "time": "19小时前",
-                    "emoji": "📉",
                     "url": "https://www.qbitai.com/2026/11/509017.html"
                 },
                 {
-                    "rank": 6,
+                    "rank": 2,
                     "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-                    "time": "19小时前",
-                    "emoji": "🔄",
+                    "time": "昨天",
+                    "emoji": "💰",
                     "url": "https://www.qbitai.com/2026/11/508991.html"
                 },
                 {
-                    "rank": 7,
-                    "title": "Personalized Memory Rubrics: Learning What to Remember per User via Ru",
-                    "time": "14小时前",
-                    "emoji": "🚀",
-                    "url": "http://arxiv.org/abs/2611.14017v1"
+                    "rank": 3,
+                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "time": "2天前",
+                    "emoji": "🏭",
+                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
                 }
             ]
         },
@@ -399,75 +371,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+498,304",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+458,958",
+                    "stars": "+459,007",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+450,369",
+                    "stars": "+453,200",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,308",
+                    "stars": "+394,371",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+371,765",
+                    "stars": "+371,847",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+322,182",
+                    "url": "https://github.com/mattpocock/skills"
+                },
+                {
+                    "rank": 7,
+                    "name": "deepseek-ai/deepseek-harness",
+                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+279,178",
+                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                },
+                {
+                    "rank": 8,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+262,491",
+                    "stars": "+262,777",
                     "url": "https://github.com/NousResearch/hermes-agent"
-                },
-                {
-                    "rank": 6,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+255,208",
-                    "url": "https://github.com/torvalds/linux"
-                },
-                {
-                    "rank": 7,
-                    "name": "react/react",
-                    "desc": "The library for web and native user interfaces.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+252,502",
-                    "url": "https://github.com/react/react"
-                },
-                {
-                    "rank": 8,
-                    "name": "anomalyco/opencode",
-                    "desc": "The open source coding agent.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+225,929",
-                    "url": "https://github.com/anomalyco/opencode"
                 }
             ]
         }
@@ -476,72 +448,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/508828.html"
+            "url": "https://www.qbitai.com/2026/11/509052.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/508798.html"
+            "url": "https://www.qbitai.com/2026/11/509032.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/508787.html"
+            "url": "https://www.qbitai.com/2026/11/509017.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "The backlash about data centers might really just ",
+            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
+            "url": "https://www.qbitai.com/2026/11/508996.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+            "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+            "url": "https://www.qbitai.com/2026/11/508998.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "The Download: empty AI climate claims, and an Nvid",
+            "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+            "url": "https://www.qbitai.com/2026/11/508991.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Innovating with AI in the special chemicals indust",
+            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+            "url": "https://www.qbitai.com/2026/11/508985.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The climate case for AI has not been made",
+            "title": "The Download: Pelosi’s successor targets AI and da",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
+            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Oura to acquire AI-native primary care startup Cou",
+            "title": "Evolving metal extraction processes",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+            "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "PSI is trying to make a business out of AI-driven ",
+            "title": "Medical Image Segmentation: Foundation Model Adapt",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
+            "url": "http://arxiv.org/abs/2611.14519v1"
         }
     ],
     "aiTools": [
@@ -592,31 +564,35 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "AI",
+            "text": "Jensen",
             "size": "large"
         },
         {
-            "text": "OpenAI",
+            "text": "Huang",
+            "size": "medium"
+        },
+        {
+            "text": "Nvidia",
+            "size": "medium"
+        },
+        {
+            "text": "AI",
             "size": "medium"
         },
         {
             "text": "The",
-            "size": "medium"
+            "size": "small"
         },
         {
             "text": "Pelosi",
-            "size": "medium"
-        },
-        {
-            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "model",
+            "text": "CEO",
             "size": "small"
         },
         {
@@ -624,174 +600,38 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Google",
-            "size": "small"
-        },
-        {
-            "text": "Texas",
-            "size": "small"
-        },
-        {
-            "text": "Brazilian",
-            "size": "small"
-        },
-        {
             "text": "&#",
             "size": "small"
         },
         {
-            "text": "its",
+            "text": "Image",
             "size": "small"
         },
         {
-            "text": "Agent",
+            "text": "Foundation",
+            "size": "small"
+        },
+        {
+            "text": "Model",
+            "size": "small"
+        },
+        {
+            "text": "Language",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "速度提了，API价格降了"
+            "snippet": "L4无人化作业走向规模交付"
         },
         {
-            "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "办公AI结束单机模式"
-        },
-        {
-            "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "投毒 → 耗尽预算 → 诱导误判"
-        },
-        {
-            "title": "The backlash about data centers might really just be about electricity",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after w"
-        },
-        {
-            "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Innovating with AI in the special chemicals industry",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the pri"
-        },
-        {
-            "title": "The climate case for AI has not been made",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate "
-        },
-        {
-            "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO "
-        },
-        {
-            "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pur"
-        },
-        {
-            "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower bu"
-        },
-        {
-            "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
-        },
-        {
-            "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them"
-        },
-        {
-            "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known"
-        },
-        {
-            "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to reg"
-        },
-        {
-            "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
-        },
-        {
-            "title": "X-energy gets green light to build its first small modular nuclear reactors",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas."
-        },
-        {
-            "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podc"
-        },
-        {
-            "title": "X launches its own clipping feature to spur influencer engagement",
+            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
-        },
-        {
-            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "加速东部城市型智算中心向E-AIDC演进"
-        },
-        {
-            "title": "Token卷到触觉了！机器人终于有了通用手感",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "蚂蚁灵波开源LingBot-Touch"
-        },
-        {
-            "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "作曲、拍片、3D建模一条龙全包圆"
+            "snippet": ""
         },
         {
             "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
@@ -818,6 +658,12 @@ var siteData = {
             "snippet": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
         },
         {
+            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "加速东部城市型智算中心向E-AIDC演进"
+        },
+        {
             "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
             "category": "AI研究",
             "tag": "research",
@@ -828,6 +674,132 @@ var siteData = {
             "category": "政策法规",
             "tag": "policy",
             "snippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc "
+        },
+        {
+            "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation,"
+        },
+        {
+            "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but t"
+        },
+        {
+            "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each"
+        },
+        {
+            "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses "
+        },
+        {
+            "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an ",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision syste"
+        },
+        {
+            "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Senso",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such"
+        },
+        {
+            "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterpri",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect fail"
+        },
+        {
+            "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Langua"
+        },
+        {
+            "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations "
+        },
+        {
+            "title": "Mechanistic Interpretability Needs a Logic of Inference",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computa"
+        },
+        {
+            "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, "
+        },
+        {
+            "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the p"
+        },
+        {
+            "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video fra"
+        },
+        {
+            "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are mad"
+        },
+        {
+            "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating "
+        },
+        {
+            "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+        },
+        {
+            "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door"
+        },
+        {
+            "title": "Why the data center you dread might never even be built",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delay"
+        },
+        {
+            "title": "Meta is losing its longtime head of  infrastructure",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+        },
+        {
+            "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especi"
+        },
+        {
+            "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to sh"
         }
     ]
 }
