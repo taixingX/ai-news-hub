@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-12 04:46:53
+ * 生成时间: 2026-11-13 03:58:10
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-            "summary": "L4无人化作业走向规模交付",
+            "tag": "重磅 · 应用",
+            "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+            "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/509052.html"
+            "url": "https://www.qbitai.com/2026/11/509281.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
-            "summary": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+            "tag": "头条 · 大模型",
+            "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+            "summary": "模型即将开源",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/509032.html"
+            "url": "https://www.qbitai.com/2026/11/509224.html"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-            "summary": "近亿元融资刚刚落袋",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "What to know about this year’s UN climate talks",
+            "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for th",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/509017.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-            "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "The Download: preserving minds and weighing open AI risks",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/508996.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
         }
     ],
     "quickNews": [
         {
-            "time": "04:46",
-            "text": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+            "time": "03:58",
+            "text": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/509052.html"
+            "url": "https://www.qbitai.com/2026/11/509281.html"
         },
         {
-            "time": "04:46",
-            "text": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+            "time": "03:58",
+            "text": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/509032.html"
+            "url": "https://www.qbitai.com/2026/11/509224.html"
         },
         {
-            "time": "04:46",
-            "text": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+            "time": "03:58",
+            "text": "What to know about this year’s UN climate talks",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/509017.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
         },
         {
-            "time": "04:46",
-            "text": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "time": "03:58",
+            "text": "The Download: preserving minds and weighing open AI risks",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508996.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
         },
         {
-            "time": "04:46",
-            "text": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+            "time": "03:58",
+            "text": "Learning a calibrated decision head from logged bandit feedb",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508998.html"
+            "url": "http://arxiv.org/abs/2611.15572v1"
         },
         {
-            "time": "04:46",
-            "text": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+            "time": "03:58",
+            "text": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508991.html"
+            "url": "http://arxiv.org/abs/2611.15569v1"
         },
         {
-            "time": "04:46",
-            "text": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+            "time": "03:58",
+            "text": "Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Em",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/508985.html"
+            "url": "http://arxiv.org/abs/2611.15568v1"
         },
         {
-            "time": "04:46",
-            "text": "The Download: Pelosi’s successor targets AI and data centers",
+            "time": "03:58",
+            "text": "Testing Conversation Preservation Across LLM APIs: A Rule-Ba",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+            "url": "http://arxiv.org/abs/2611.15543v1"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+                    "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/509052.html",
+                    "url": "https://www.qbitai.com/2026/11/509224.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "L4无人化作业走向规模交付..."
+                    "desc": "模型即将开源..."
                 },
                 {
-                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-                    "source": "量子位",
+                    "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-La",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/11/509017.html"
+                    "url": "http://arxiv.org/abs/2611.15569v1"
                 },
                 {
-                    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
-                    "source": "量子位",
+                    "title": "Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Bel",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508996.html"
+                    "url": "http://arxiv.org/abs/2611.15568v1"
                 },
                 {
-                    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-                    "source": "量子位",
+                    "title": "Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detec",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/508998.html"
+                    "url": "http://arxiv.org/abs/2611.15543v1"
                 },
                 {
-                    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-                    "source": "量子位",
+                    "title": "Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomp",
+                    "source": "arXiv",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/11/508991.html"
+                    "category": "gpt",
+                    "url": "http://arxiv.org/abs/2611.15538v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-                    "desc": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they ...",
+                    "title": "【arXiv】Learning a calibrated decision head from logged bandit feedback",
+                    "desc": "A decision head reads a state and a list of options and returns a probability per option in one forward pass. Once deployed, it usually observes only ...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14519v1"
+                    "url": "http://arxiv.org/abs/2611.15572v1"
                 },
                 {
-                    "title": "【arXiv】Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-                    "desc": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depen...",
+                    "title": "【arXiv】TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Mod",
+                    "desc": "Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and growing reasoning traces. Low-rank...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14518v1"
+                    "url": "http://arxiv.org/abs/2611.15569v1"
                 },
                 {
-                    "title": "【arXiv】AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-                    "desc": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number an...",
+                    "title": "【arXiv】Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Pe",
+                    "desc": "A benchmark score is commonly read as a proxy for model capability. We study the inverse problem: can a model be driven to a target score, and do its ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14515v1"
+                    "url": "http://arxiv.org/abs/2611.15568v1"
                 },
                 {
-                    "title": "【arXiv】Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-                    "desc": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirica...",
+                    "title": "【arXiv】Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silen",
+                    "desc": "LLM applications increasingly rely on translators and compatibility layers to move conversations across APIs. Yet a translated request can be accepted...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14514v1"
+                    "url": "http://arxiv.org/abs/2611.15543v1"
                 },
                 {
-                    "title": "【arXiv】Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: L",
-                    "desc": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and...",
+                    "title": "【arXiv】Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition",
+                    "desc": "Retrieval-augment generation is a prevalent strategy to mitigate hallucinations of LLMs. The attributable RAG (RAGQ) generates quotes for its answers....",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14498v1"
+                    "url": "http://arxiv.org/abs/2611.15538v1"
                 },
                 {
-                    "title": "【arXiv】RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for C",
-                    "desc": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchro...",
+                    "title": "【arXiv】MAGIC: Modality-Aware Gini Inspection for Clinical Hallucination Detection in LMMs",
+                    "desc": "Recent advances in medical large multimodal models (LMMs) have brought promising progress to clinical decision support, yet hallucination, the generat...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.14496v1"
+                    "url": "http://arxiv.org/abs/2611.15530v1"
                 }
             ]
         },
@@ -274,30 +274,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+                    "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/509032.html"
+                    "url": "https://www.qbitai.com/2026/11/509281.html"
                 },
                 {
                     "rank": 2,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "DecArena: Evaluating Large-Scale Decentralized Multi-Agent Collaborati",
+                    "time": "昨天",
+                    "emoji": "💡",
+                    "url": "http://arxiv.org/abs/2611.15521v1"
                 },
                 {
                     "rank": 3,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite",
+                    "time": "昨天",
+                    "emoji": "🎬",
+                    "url": "http://arxiv.org/abs/2611.15515v1"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Nectar launches an AI agent to automate creator discovery and outreach",
+                    "time": "8小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’",
+                    "time": "5小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
                 },
                 {
                     "rank": 6,
@@ -312,24 +320,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+                    "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/509017.html"
+                    "url": "http://arxiv.org/abs/2611.15569v1"
                 },
                 {
                     "rank": 2,
-                    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-                    "time": "昨天",
+                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+                    "time": "3天前",
                     "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/11/508991.html"
+                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
                 },
                 {
                     "rank": 3,
-                    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-                    "time": "2天前",
+                    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+                    "time": "17小时前",
                     "emoji": "🏭",
-                    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/"
+                    "url": "https://www.qbitai.com/2026/11/509381.html"
                 }
             ]
         },
@@ -371,30 +379,30 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+498,304",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,007",
+                    "stars": "+459,063",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+453,200",
+                    "stars": "+455,636",
                     "url": "https://github.com/morluto/rea"
+                },
+                {
+                    "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+401,509",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 4,
@@ -402,7 +410,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,371",
+                    "stars": "+394,408",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -411,7 +419,7 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+371,847",
+                    "stars": "+371,924",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -420,26 +428,26 @@ var siteData = {
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+322,182",
+                    "stars": "+323,119",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
                     "rank": 7,
-                    "name": "deepseek-ai/deepseek-harness",
-                    "desc": "DeepSeek Harness: Everything is a Plugin.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+279,178",
-                    "url": "https://github.com/deepseek-ai/deepseek-harness"
-                },
-                {
-                    "rank": 8,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+262,777",
+                    "stars": "+263,008",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 8,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+255,532",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -448,72 +456,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+            "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/509052.html"
+            "url": "https://www.qbitai.com/2026/11/509281.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+            "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/509032.html"
+            "url": "https://www.qbitai.com/2026/11/509224.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+            "title": "What to know about this year’s UN climate talks",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/509017.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "title": "The Download: preserving minds and weighing open A",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508996.html"
+            "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+            "title": "Learning a calibrated decision head from logged ba",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508998.html"
+            "url": "http://arxiv.org/abs/2611.15572v1"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+            "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compr",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508991.html"
+            "url": "http://arxiv.org/abs/2611.15569v1"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+            "title": "Can We Make an LLM Dumber, or Is It Just Playing D",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/508985.html"
+            "url": "http://arxiv.org/abs/2611.15568v1"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The Download: Pelosi’s successor targets AI and da",
+            "title": "Testing Conversation Preservation Across LLM APIs:",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+            "url": "http://arxiv.org/abs/2611.15543v1"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Evolving metal extraction processes",
+            "title": "Faithful in Steps: Improving Generalization and Ci",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
+            "url": "http://arxiv.org/abs/2611.15538v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Medical Image Segmentation: Foundation Model Adapt",
+            "title": "MAGIC: Modality-Aware Gini Inspection for Clinical",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.14519v1"
+            "url": "http://arxiv.org/abs/2611.15530v1"
         }
     ],
     "aiTools": [
@@ -560,19 +568,15 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
-            "size": "large"
-        },
-        {
-            "text": "Jensen",
+            "text": "Nvidia",
             "size": "large"
         },
         {
             "text": "Huang",
-            "size": "medium"
+            "size": "large"
         },
         {
-            "text": "Nvidia",
+            "text": "Download",
             "size": "medium"
         },
         {
@@ -580,7 +584,15 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "Jensen",
+            "size": "medium"
+        },
+        {
             "text": "The",
+            "size": "small"
+        },
+        {
+            "text": "Learning",
             "size": "small"
         },
         {
@@ -588,218 +600,214 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "UN",
+            "size": "small"
+        },
+        {
+            "text": "KV",
+            "size": "small"
+        },
+        {
             "text": "LLM",
             "size": "small"
         },
         {
-            "text": "CEO",
+            "text": "Mamba",
             "size": "small"
         },
         {
-            "text": "Nancy",
+            "text": "Agent",
             "size": "small"
         },
         {
-            "text": "&#",
+            "text": "VLA",
             "size": "small"
         },
         {
-            "text": "Image",
-            "size": "small"
-        },
-        {
-            "text": "Foundation",
-            "size": "small"
-        },
-        {
-            "text": "Model",
-            "size": "small"
-        },
-        {
-            "text": "Language",
+            "text": "Hugging",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "L4无人化作业走向规模交付"
-        },
-        {
-            "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+            "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
             "category": "AI应用",
             "tag": "application",
-            "snippet": ""
+            "snippet": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
         },
         {
-            "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "近亿元融资刚刚落袋"
-        },
-        {
-            "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
+            "snippet": "模型即将开源"
         },
         {
-            "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "让每一次任务，都成为下一次进步的起点"
+            "title": "What to know about this year’s UN climate talks",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate "
         },
         {
-            "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
-        },
-        {
-            "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "加速东部城市型智算中心向E-AIDC演进"
-        },
-        {
-            "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+            "title": "The Download: preserving minds and weighing open AI risks",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Evolving metal extraction processes",
+            "title": "Learning a calibrated decision head from logged bandit feedback",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "A decision head reads a state and a list of options and returns a probability per option in one forward pass. Once deplo"
+        },
+        {
+            "title": "TraceKV: Policy-Preserving Low-Rank KV Cache Compression for Reasoning Vision-Language Models",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Reasoning vision-language models (VLMs) impose substantial KV cache demands from both large multimodal contexts and grow"
+        },
+        {
+            "title": "Can We Make an LLM Dumber, or Is It Just Playing Dumb? An Empirical Study of Believable Performance ",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A benchmark score is commonly read as a proxy for model capability. We study the inverse problem: can a model be driven "
+        },
+        {
+            "title": "Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Informat",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM applications increasingly rely on translators and compatibility layers to move conversations across APIs. Yet a tran"
+        },
+        {
+            "title": "Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Retrieval-augment generation is a prevalent strategy to mitigate hallucinations of LLMs. The attributable RAG (RAGQ) gen"
+        },
+        {
+            "title": "MAGIC: Modality-Aware Gini Inspection for Clinical Hallucination Detection in LMMs",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Recent advances in medical large multimodal models (LMMs) have brought promising progress to clinical decision support, "
+        },
+        {
+            "title": "SCR-Mamba: Skeleton-conditioned Mamba with cross-scale incremental refinement for efficient 3D human",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Mamba-based methods for video-based 3D human pose estimation can model long sequences with linear complexity, but their "
+        },
+        {
+            "title": "Reading the Table: Sim-to-Real Game State Detection for the Chef's Hat Card Game",
             "category": "政策法规",
             "tag": "policy",
-            "snippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc "
+            "snippet": "Tabletop games offer a compelling scenario to study the interaction between artificial and human agents, combining socia"
         },
         {
-            "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+            "title": "An Approach to Hinton's Mother-Child Proposal: Neural Networks Learning and Preserving Care in a Fin",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation,"
+            "snippet": "Hinton proposed that artificial intelligence should be given \"maternal instincts\" and relate to us as a mother to her ch"
         },
         {
-            "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+            "title": "GHAgentCI: A Dataset of Coding-Agent Invocations in CI Workflow Histories",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Coding agents are increasingly integrated into GitHub Actions to review pull requests, triage issues and modify code. Id"
+        },
+        {
+            "title": "DecArena: Evaluating Large-Scale Decentralized Multi-Agent Collaboration",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Emerging personal AI agents raise fundamental scalability and privacy concerns for centralized multi-agent systems (MASs"
+        },
+        {
+            "title": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Personal AI agents now persist: they hold accounts, mailboxes, long-term memory, and open-ended task streams, yet the do"
+        },
+        {
+            "title": "Real Pairs Are Not Enough: Physically Anchored Supervision for Volumetric CT Super-Resolution",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but t"
+            "snippet": "Volumetric CT super-resolution (SR) models are commonly trained on synthetic or physically acquired pairs of low-resolut"
         },
         {
-            "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each"
+            "title": "ReShap: Interpretable Reinforcement Learning for High-Dimensional Multi-Action Settings",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Deep Reinforcement Learning (RL) plays a crucial role in tackling complex tasks, yet its reliance on deep neural network"
         },
         {
-            "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+            "title": "What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Vision-language-action (VLA) models predict chunks of future actions, and when objects move, those chunks go stale befor"
+        },
+        {
+            "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses "
+            "snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acqu"
         },
         {
-            "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an ",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision syste"
-        },
-        {
-            "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Senso",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such"
-        },
-        {
-            "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterpri",
+            "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect fail"
+            "snippet": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant li"
         },
         {
-            "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+            "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships"
+        },
+        {
+            "title": "Microsoft’s Outlook email hit by new outage",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Langua"
+            "snippet": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
         },
         {
-            "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+            "title": "Jensen Huang was having a third affair, Reuters reports",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations "
+            "snippet": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
         },
         {
-            "title": "Mechanistic Interpretability Needs a Logic of Inference",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computa"
+            "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questi",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement "
         },
         {
-            "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+            "title": "The unfolding Jensen Huang scandal: a timeline",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U"
+        },
+        {
+            "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays "
+        },
+        {
+            "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since "
+        },
+        {
+            "title": "Muse can now place calls to US businesses — if you pay",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
+        },
+        {
+            "title": "The backlash about data centers might really just be about electricity",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, "
-        },
-        {
-            "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the p"
-        },
-        {
-            "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video fra"
-        },
-        {
-            "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are mad"
-        },
-        {
-            "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating "
-        },
-        {
-            "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
-        },
-        {
-            "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door"
-        },
-        {
-            "title": "Why the data center you dread might never even be built",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delay"
-        },
-        {
-            "title": "Meta is losing its longtime head of  infrastructure",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
-        },
-        {
-            "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especi"
-        },
-        {
-            "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to sh"
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         }
     ]
 }
