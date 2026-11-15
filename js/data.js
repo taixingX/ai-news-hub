@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-14 03:56:46
+ * 生成时间: 2026-11-15 03:40:24
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "政策 · 法规",
-            "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as indu",
-            "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically po",
-            "source": "MIT Tech Review",
+            "tag": "头条 · 大模型",
+            "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+            "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. B",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+            "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "The Download: COP31’s climate challenge and the quest for immortality",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
-            "source": "MIT Tech Review",
+            "tag": "行业 · 动态",
+            "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders",
+            "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and V",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+            "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         },
         {
             "tag": "政策 · 法规",
-            "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
-            "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and ",
-            "source": "arXiv",
+            "title": "US government grounds all flights across the United States ‘due to extraordinary",
+            "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication i",
+            "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "http://arxiv.org/abs/2611.17336v1"
+            "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
         },
         {
-            "tag": "头条 · 突破",
-            "title": "Unbundling Multimodal Vision Encoding",
-            "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a p",
-            "source": "arXiv",
+            "tag": "头条 · 大模型",
+            "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+            "summary": "狂揽3000万播放量",
+            "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "http://arxiv.org/abs/2611.17334v1"
+            "url": "https://www.qbitai.com/2026/11/510013.html"
         }
     ],
     "quickNews": [
         {
-            "time": "03:56",
-            "text": "Nvidia privately confirmed it could track chips to fight smu",
+            "time": "03:40",
+            "text": "Amazon’s new Kindle Colorsoft is a premium e-reader with a p",
             "hot": true,
-            "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+            "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
         },
         {
-            "time": "03:56",
-            "text": "The Download: COP31’s climate challenge and the quest for im",
+            "time": "03:40",
+            "text": "Jensen Huang’s departure blasts big hole in AI startup fundi",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+            "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         },
         {
-            "time": "03:56",
-            "text": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Sp",
+            "time": "03:40",
+            "text": "US government grounds all flights across the United States ‘",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17336v1"
+            "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
         },
         {
-            "time": "03:56",
-            "text": "Unbundling Multimodal Vision Encoding",
+            "time": "03:40",
+            "text": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17334v1"
+            "url": "https://www.qbitai.com/2026/11/510013.html"
         },
         {
-            "time": "03:56",
-            "text": "TTB: Test-time Baking for Efficient Rendering of Decoder-onl",
+            "time": "03:40",
+            "text": "突发！DeepSeek开放全家桶API",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17331v1"
+            "url": "https://www.qbitai.com/2026/11/510003.html"
         },
         {
-            "time": "03:56",
-            "text": "ArchSpace: Recording, Reviewing, and Referencing LLM Archite",
+            "time": "03:40",
+            "text": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17332v1"
+            "url": "https://www.qbitai.com/2026/11/509995.html"
         },
         {
-            "time": "03:56",
-            "text": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spa",
+            "time": "03:40",
+            "text": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17330v1"
+            "url": "https://www.qbitai.com/2026/11/509827.html"
         },
         {
-            "time": "03:56",
-            "text": "K2V: Generative Keyframing For Physically Plausible Video Ge",
+            "time": "03:40",
+            "text": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
             "hot": false,
-            "url": "http://arxiv.org/abs/2611.17324v1"
+            "url": "https://www.qbitai.com/2026/11/509796.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
-                    "source": "arXiv",
+                    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.17332v1",
+                    "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central foc..."
+                    "desc": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already ow..."
                 },
                 {
-                    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence f",
-                    "source": "arXiv",
+                    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders",
+                    "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "domestic",
-                    "url": "http://arxiv.org/abs/2611.17314v1"
-                },
-                {
-                    "title": "This young startup wants to power floating data centers with the ocean’s heat, a",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
-                    "views": "60.14K",
-                    "comments": "220",
-                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
-                },
-                {
-                    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders",
-                    "source": "TechCrunch AI",
-                    "time": "5小时前",
-                    "views": "50.21K",
-                    "comments": "180",
-                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
                     "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
                 },
                 {
-                    "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-                    "source": "TechCrunch AI",
-                    "time": "4小时前",
+                    "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+                    "source": "量子位",
+                    "time": "昨天",
+                    "views": "60.14K",
+                    "comments": "220",
+                    "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/510013.html"
+                },
+                {
+                    "title": "突发！DeepSeek开放全家桶API",
+                    "source": "量子位",
+                    "time": "昨天",
+                    "views": "50.21K",
+                    "comments": "180",
+                    "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/510003.html"
+                },
+                {
+                    "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+                    "url": "https://www.qbitai.com/2026/11/509995.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17336v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17334v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17331v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17332v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17330v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.17324v1"
@@ -274,24 +274,22 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "AI agent startup LangChain hits $3B valuation",
-                    "time": "8小时前",
+                    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+                    "time": "17小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+                    "url": "https://www.qbitai.com/2026/11/510232.html"
                 },
                 {
                     "rank": 2,
-                    "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-                    "time": "21小时前",
+                    "title": "The AI graveyard: a running list of projects and startups that didn’t ",
+                    "time": "10小时前",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/11/509653.html"
+                    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
                 },
                 {
                     "rank": 3,
-                    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-                    "time": "20小时前",
-                    "emoji": "🎬",
-                    "url": "https://www.qbitai.com/2026/11/509716.html"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
@@ -316,24 +314,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: ",
+                    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs an",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2611.17314v1"
+                    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
                 },
                 {
                     "rank": 2,
-                    "title": "This young startup wants to power floating data centers with the ocean",
-                    "time": "7小时前",
+                    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: ",
+                    "time": "2天前",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/"
-                },
-                {
-                    "rank": 3,
-                    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs an",
-                    "time": "5小时前",
-                    "emoji": "🏭",
-                    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+                    "url": "http://arxiv.org/abs/2611.17314v1"
                 }
             ]
         },
@@ -375,12 +366,12 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+498,819",
-                    "url": "https://github.com/public-apis/public-apis"
+                    "name": "morluto/rea",
+                    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+460,125",
+                    "url": "https://github.com/morluto/rea"
                 },
                 {
                     "rank": 2,
@@ -388,62 +379,62 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,101",
+                    "stars": "+459,142",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
                     "rank": 3,
-                    "name": "morluto/rea",
-                    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+457,918",
-                    "url": "https://github.com/morluto/rea"
-                },
-                {
-                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,405",
+                    "stars": "+394,467",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
-                    "name": "nilbuild/developer-roadmap",
-                    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+371,972",
-                    "url": "https://github.com/nilbuild/developer-roadmap"
-                },
-                {
-                    "rank": 6,
+                    "rank": 4,
                     "name": "vinta/awesome-python",
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+334,597",
+                    "stars": "+334,803",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
+                    "rank": 5,
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+263,434",
+                    "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 6,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+255,715",
+                    "url": "https://github.com/torvalds/linux"
+                },
+                {
                     "rank": 7,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+323,894",
-                    "url": "https://github.com/mattpocock/skills"
+                    "name": "anomalyco/opencode",
+                    "desc": "The open source coding agent.",
+                    "lang": "TypeScript",
+                    "langClass": "lang-typescript",
+                    "stars": "+226,893",
+                    "url": "https://github.com/anomalyco/opencode"
                 },
                 {
                     "rank": 8,
-                    "name": "deepseek-ai/deepseek-harness",
-                    "desc": "DeepSeek Harness: Everything is a Plugin.",
+                    "name": "n8n-io/n8n",
+                    "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+280,604",
-                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                    "stars": "+210,528",
+                    "url": "https://github.com/n8n-io/n8n"
                 }
             ]
         }
@@ -452,72 +443,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Nvidia privately confirmed it could track chips to",
+            "title": "Amazon’s new Kindle Colorsoft is a premium e-reade",
             "heat": "120.0万热度",
-            "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+            "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "The Download: COP31’s climate challenge and the qu",
+            "title": "Jensen Huang’s departure blasts big hole in AI sta",
             "heat": "110.3万热度",
-            "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+            "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Back to Pixels: Lifting Latent Video Diffusion int",
+            "title": "US government grounds all flights across the Unite",
             "heat": "100.6万热度",
-            "url": "http://arxiv.org/abs/2611.17336v1"
+            "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Unbundling Multimodal Vision Encoding",
+            "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17334v1"
+            "url": "https://www.qbitai.com/2026/11/510013.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "TTB: Test-time Baking for Efficient Rendering of D",
+            "title": "突发！DeepSeek开放全家桶API",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17331v1"
+            "url": "https://www.qbitai.com/2026/11/510003.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "ArchSpace: Recording, Reviewing, and Referencing L",
+            "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17332v1"
+            "url": "https://www.qbitai.com/2026/11/509995.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "ProtoVis-Nav: Prototypical Visual Imagination for ",
+            "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17330v1"
+            "url": "https://www.qbitai.com/2026/11/509827.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "K2V: Generative Keyframing For Physically Plausibl",
+            "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17324v1"
+            "url": "https://www.qbitai.com/2026/11/509796.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+            "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17323v1"
+            "url": "https://www.qbitai.com/2026/11/509730.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "BrickFlow: Connectivity-Guided Brick Reconstructio",
+            "title": "The Download: Silicon Valley’s blind spot and Nvid",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.17321v1"
+            "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
         }
     ],
     "aiTools": [
@@ -564,11 +555,11 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
+            "text": "Nvidia",
             "size": "large"
         },
         {
-            "text": "Nvidia",
+            "text": "Download",
             "size": "large"
         },
         {
@@ -576,7 +567,7 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "Huang",
             "size": "medium"
         },
         {
@@ -584,15 +575,11 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Spatial",
-            "size": "small"
-        },
-        {
             "text": "Jensen",
             "size": "small"
         },
         {
-            "text": "Huang",
+            "text": "AI",
             "size": "small"
         },
         {
@@ -604,6 +591,18 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "Spatial",
+            "size": "small"
+        },
+        {
+            "text": "Elon",
+            "size": "small"
+        },
+        {
+            "text": "Musk",
+            "size": "small"
+        },
+        {
             "text": "UN",
             "size": "small"
         },
@@ -612,19 +611,143 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "models",
-            "size": "small"
-        },
-        {
             "text": "Learning",
-            "size": "small"
-        },
-        {
-            "text": "Binary",
             "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already ow"
+        },
+        {
+            "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for s"
+        },
+        {
+            "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting mult"
+        },
+        {
+            "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "狂揽3000万播放量"
+        },
+        {
+            "title": "突发！DeepSeek开放全家桶API",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "官方App功能均可自由组合调用"
+        },
+        {
+            "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "一个时代结束了"
+        },
+        {
+            "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "12.9 北京，来MEET2027现场"
+        },
+        {
+            "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "250名国内顶尖三甲医院医生联合评测"
+        },
+        {
+            "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "比亚迪第1900万辆新能源汽车在西安工厂正式下线"
+        },
+        {
+            "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can "
+        },
+        {
+            "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk,"
+        },
+        {
+            "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to"
+        },
+        {
+            "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""
+        },
+        {
+            "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Even Elon Musk said the monthly fee is \"too high.\""
+        },
+        {
+            "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+        },
+        {
+            "title": "The backlash about data centers might really just be about electricity",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
+        },
+        {
+            "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Evolving metal extraction processes",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc "
+        },
+        {
+            "title": "Where was Nvidia’s security team?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, i"
+        },
+        {
+            "title": "What to know about this year’s UN climate talks",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate "
+        },
+        {
+            "title": "The Download: preserving minds and weighing open AI risks",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
         {
             "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questi",
             "category": "政策法规",
@@ -672,138 +795,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, conten"
-        },
-        {
-            "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipe"
-        },
-        {
-            "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble th"
-        },
-        {
-            "title": "Learning When Diffusion Language Models Should Regenerate",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and"
-        },
-        {
-            "title": "Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Spatial intelligence requires connecting visual observations to the geometry, objects, and persistent state of an enviro"
-        },
-        {
-            "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the ne"
-        },
-        {
-            "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogi",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this wo"
-        },
-        {
-            "title": "Sketching Language Models for Context Attribution",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) "
-        },
-        {
-            "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sud"
-        },
-        {
-            "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical"
-        },
-        {
-            "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-        },
-        {
-            "title": "AI agent startup LangChain hits $3B valuation",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
-        },
-        {
-            "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbin"
-        },
-        {
-            "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting mult"
-        },
-        {
-            "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for s"
-        },
-        {
-            "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already ow"
-        },
-        {
-            "title": "The backlash about data centers might really just be about electricity",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Evolving metal extraction processes",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc "
-        },
-        {
-            "title": "What to know about this year’s UN climate talks",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate "
-        },
-        {
-            "title": "The Download: preserving minds and weighing open AI risks",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "想要什么功能，让Agent自己开发"
-        },
-        {
-            "title": "特斯拉和SpaceX最快下月合并",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "马斯克帝国终极形态。"
         }
     ]
 }
