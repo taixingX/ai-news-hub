@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-17 05:36:47
+ * 生成时间: 2026-11-18 05:00:38
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
-            "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+            "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+            "summary": "斩获80000元奖金",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/510416.html"
+            "url": "https://www.qbitai.com/2026/11/510610.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "今天截止！2026年度AI表彰，错过再等一年！",
-            "summary": "量子位在寻找“能干”的答案",
+            "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+            "summary": "奥特曼首谈黄仁勋离职",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/510382.html"
+            "url": "https://www.qbitai.com/2026/11/510592.html"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-            "summary": "是石科技最新发布多模态模型服务",
+            "tag": "头条 · 大模型",
+            "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+            "summary": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/510369.html"
+            "url": "https://www.qbitai.com/2026/11/510561.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "California state AG sues OpenAI over rogue agent incidents",
-            "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable fo",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+            "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+            "source": "量子位",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+            "url": "https://www.qbitai.com/2026/11/510542.html"
         }
     ],
     "quickNews": [
         {
-            "time": "05:36",
-            "text": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+            "time": "05:00",
+            "text": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/510416.html"
+            "url": "https://www.qbitai.com/2026/11/510610.html"
         },
         {
-            "time": "05:36",
-            "text": "今天截止！2026年度AI表彰，错过再等一年！",
+            "time": "05:00",
+            "text": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510382.html"
+            "url": "https://www.qbitai.com/2026/11/510592.html"
         },
         {
-            "time": "05:36",
-            "text": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+            "time": "05:00",
+            "text": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510369.html"
+            "url": "https://www.qbitai.com/2026/11/510561.html"
         },
         {
-            "time": "05:36",
-            "text": "California state AG sues OpenAI over rogue agent incidents",
+            "time": "05:00",
+            "text": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+            "url": "https://www.qbitai.com/2026/11/510542.html"
         },
         {
-            "time": "05:36",
-            "text": "Uber says hackers stole information on close to 150,000 driv",
+            "time": "05:00",
+            "text": "The open-source movement wants Jensen Huang back",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
         },
         {
-            "time": "05:36",
-            "text": "Apple reveals new Mac security controls as AI agents raise p",
+            "time": "05:00",
+            "text": "Building trustworthy AI by fencing it in, not predicting it",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
         },
         {
-            "time": "05:36",
-            "text": "Cyber giant Infoblox confirms security incident after hacker",
+            "time": "05:00",
+            "text": "The Download: testing tech promises and searching for cognit",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
         },
         {
-            "time": "05:36",
-            "text": "All the questions Nvidia should answer on Tuesday — but prob",
+            "time": "05:00",
+            "text": "Building AI that can work across the enterprise",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+            "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+                    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510416.html",
+                    "url": "https://www.qbitai.com/2026/11/510610.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。..."
+                    "desc": "斩获80000元奖金..."
                 },
                 {
-                    "title": "今天截止！2026年度AI表彰，错过再等一年！",
+                    "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510382.html"
+                    "url": "https://www.qbitai.com/2026/11/510592.html"
                 },
                 {
-                    "title": "California state AG sues OpenAI over rogue agent incidents",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+                    "url": "https://www.qbitai.com/2026/11/510561.html"
                 },
                 {
-                    "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+                    "url": "https://www.qbitai.com/2026/11/510542.html"
                 },
                 {
-                    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company in",
+                    "title": "SEC reportedly investigating Nvidia amid Huang exit",
                     "source": "TechCrunch AI",
                     "time": "7小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "domestic",
-                    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+                    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
-                    "desc": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not e...",
+                    "title": "【arXiv】Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+                    "desc": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised F...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20759v1"
+                    "url": "http://arxiv.org/abs/2611.23229v1"
                 },
                 {
-                    "title": "【arXiv】GPRM: Global Perspective Process Reward Model",
-                    "desc": "Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models, but existing methods are ofte...",
+                    "title": "【arXiv】Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+                    "desc": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window o...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20755v1"
+                    "url": "http://arxiv.org/abs/2611.23228v1"
                 },
                 {
-                    "title": "【arXiv】A Seismic Foundation Model for Dense Feature Extraction",
-                    "desc": "Deep-learning-based seismic interpretation is constrained by scarce high-quality annotations, and most existing models are trained separately for indi...",
+                    "title": "【arXiv】FastFrames: Video Generation at Interactive Latency",
+                    "desc": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual expe...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20745v1"
+                    "url": "http://arxiv.org/abs/2611.23226v1"
                 },
                 {
-                    "title": "【arXiv】Robotic Reward Models in the Foundation-Model Era",
-                    "desc": "Robotic reward models (RRMs) use foundation models to replace per-task reward engineering with reusable, task-conditioned evaluation. Yet under one na...",
+                    "title": "【arXiv】StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+                    "desc": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physi...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20741v1"
+                    "url": "http://arxiv.org/abs/2611.23225v1"
                 },
                 {
-                    "title": "【arXiv】CLIFT: Contrastive LiDAR Instance Features for 3D Pedestrian Tracking",
-                    "desc": "A social robot has to keep track of the people around it over time to plan its motion, a task handled by 3D multi-object tracking. For the LiDAR modal...",
+                    "title": "【arXiv】Do LLM Agents Still Need to Be Told How to Self-Improve?",
+                    "desc": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves....",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20737v1"
+                    "url": "http://arxiv.org/abs/2611.23219v1"
                 },
                 {
-                    "title": "【arXiv】GainCtrl: Predicting Remaining Gains for Efficient LLM Agent Execution",
-                    "desc": "Large language models (LLMs) are widely used to power agents that interact with tools and environments to solve complex tasks. Repeated attempts impro...",
+                    "title": "【arXiv】What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+                    "desc": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "20小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.20736v1"
+                    "url": "http://arxiv.org/abs/2611.23218v1"
                 }
             ]
         },
@@ -274,66 +274,41 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+                    "title": "Building trustworthy AI by fencing it in, not predicting it",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/510369.html"
+                    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
                 },
                 {
                     "rank": 2,
-                    "title": "Apple reveals new Mac security controls as AI agents raise privacy ris",
-                    "time": "8小时前",
-                    "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
-                },
-                {
-                    "rank": 3,
-                    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-                    "time": "6小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
-                },
-                {
-                    "rank": 4,
-                    "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-                    "time": "22小时前",
-                    "emoji": "🔍",
-                    "url": "https://www.qbitai.com/2026/11/510436.html"
-                },
-                {
-                    "rank": 5,
-                    "title": "PEETS: Preference-aware Embeddings with Explicit Tree Structure for Au",
-                    "time": "21小时前",
-                    "emoji": "⚖️",
-                    "url": "http://arxiv.org/abs/2611.20726v1"
-                },
-                {
-                    "rank": 6,
-                    "title": "AgentFaultBench: State-Verified Evaluation of Tool-Fault Recovery",
-                    "time": "21小时前",
-                    "emoji": "🎵",
-                    "url": "http://arxiv.org/abs/2611.20711v1"
-                },
-                {
-                    "rank": 7,
-                    "title": "MemEmo: Evaluating Emotion in Memory Systems",
-                    "time": "20小时前",
-                    "emoji": "📝",
-                    "url": "http://arxiv.org/abs/2611.20733v1"
-                },
-                {
-                    "rank": 8,
                     "title": "Building AI that can work across the enterprise",
-                    "time": "16小时前",
-                    "emoji": "🤖",
+                    "time": "昨天",
+                    "emoji": "💡",
                     "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
                 },
                 {
-                    "rank": 9,
-                    "title": "Building trustworthy AI by fencing it in, not predicting it",
-                    "time": "13小时前",
-                    "emoji": "📊",
-                    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+                    "rank": 3,
+                    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Mode",
+                    "time": "10小时前",
+                    "emoji": "🎬",
+                    "url": "http://arxiv.org/abs/2611.23228v1"
+                },
+                {
+                    "rank": 4,
+                    "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attesta",
+                    "time": "10小时前",
+                    "emoji": "🔍",
+                    "url": "http://arxiv.org/abs/2611.23202v1"
+                },
+                {
+                    "rank": 5,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
+                },
+                {
+                    "rank": 6,
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 }
             ]
         },
@@ -343,17 +318,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘",
+                    "title": "SEC reportedly investigating Nvidia amid Huang exit",
                     "time": "7小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+                    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
                 },
                 {
                     "rank": 2,
-                    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
-                    "time": "21小时前",
+                    "title": "Amazon and Google will together own nearly 30% of Anthropic after its ",
+                    "time": "6小时前",
                     "emoji": "💰",
-                    "url": "https://www.qbitai.com/2026/11/510493.html"
+                    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+                },
+                {
+                    "rank": 3,
+                    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts futur",
+                    "time": "3小时前",
+                    "emoji": "🏭",
+                    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
                 }
             ]
         },
@@ -399,7 +381,7 @@ var siteData = {
                     "desc": "Master programming by recreating your favorite technologies from scratch.",
                     "lang": "Markdown",
                     "langClass": "lang-python",
-                    "stars": "+563,233",
+                    "stars": "+563,514",
                     "url": "https://github.com/codecrafters-io/build-your-own-x"
                 },
                 {
@@ -408,7 +390,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+464,583",
+                    "stars": "+466,675",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -417,7 +399,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,233",
+                    "stars": "+459,270",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -426,7 +408,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,612",
+                    "stars": "+394,699",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -435,7 +417,7 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,188",
+                    "stars": "+372,258",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
@@ -444,7 +426,7 @@ var siteData = {
                     "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
                     "lang": "Unknown",
                     "langClass": "lang-python",
-                    "stars": "+337,794",
+                    "stars": "+338,157",
                     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
                 },
                 {
@@ -453,17 +435,17 @@ var siteData = {
                     "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+335,297",
+                    "stars": "+335,522",
                     "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 8,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+304,771",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+326,888",
+                    "url": "https://github.com/mattpocock/skills"
                 }
             ]
         }
@@ -472,72 +454,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+            "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/510416.html"
+            "url": "https://www.qbitai.com/2026/11/510610.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "今天截止！2026年度AI表彰，错过再等一年！",
+            "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/510382.html"
+            "url": "https://www.qbitai.com/2026/11/510592.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+            "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/510369.html"
+            "url": "https://www.qbitai.com/2026/11/510561.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "California state AG sues OpenAI over rogue agent i",
+            "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+            "url": "https://www.qbitai.com/2026/11/510542.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Uber says hackers stole information on close to 15",
+            "title": "The open-source movement wants Jensen Huang back",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Apple reveals new Mac security controls as AI agen",
+            "title": "Building trustworthy AI by fencing it in, not pred",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Cyber giant Infoblox confirms security incident af",
+            "title": "The Download: testing tech promises and searching ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
+            "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "All the questions Nvidia should answer on Tuesday ",
+            "title": "Building AI that can work across the enterprise",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
+            "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Cybersecurity AI startup Corma reaches $1B valuati",
+            "title": "Waymo suspends freeway rides nationwide after Cali",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+            "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "What to know about this year’s UN climate talks",
+            "title": "SEC reportedly investigating Nvidia amid Huang exi",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+            "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
         }
     ],
     "aiTools": [
@@ -584,138 +566,174 @@ var siteData = {
     ],
     "hotTags": [
         {
+            "text": "Huang",
+            "size": "large"
+        },
+        {
             "text": "Nvidia",
             "size": "large"
         },
         {
-            "text": "Download",
-            "size": "large"
+            "text": "Jensen",
+            "size": "medium"
         },
         {
-            "text": "AI",
+            "text": "CEO",
+            "size": "medium"
+        },
+        {
+            "text": "Download",
             "size": "medium"
         },
         {
             "text": "The",
-            "size": "medium"
-        },
-        {
-            "text": "Apple",
-            "size": "medium"
-        },
-        {
-            "text": "Silicon",
             "size": "small"
         },
         {
-            "text": "Valley",
+            "text": "AI",
             "size": "small"
         },
         {
-            "text": "Model",
+            "text": "Models",
             "size": "small"
         },
         {
-            "text": "LLMs",
+            "text": "Google",
             "size": "small"
         },
         {
-            "text": "Huang",
+            "text": "Human",
             "size": "small"
         },
         {
-            "text": "OpenAI",
+            "text": "its",
             "size": "small"
         },
         {
-            "text": "CEO",
+            "text": "Waymo",
             "size": "small"
         },
         {
-            "text": "UN",
+            "text": "US",
             "size": "small"
         },
         {
-            "text": "Large",
+            "text": "Fine",
             "size": "small"
         },
         {
-            "text": "Efficient",
+            "text": "models",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+            "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。"
+            "snippet": "斩获80000元奖金"
         },
         {
-            "title": "今天截止！2026年度AI表彰，错过再等一年！",
+            "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "量子位在寻找“能干”的答案"
+            "snippet": "奥特曼首谈黄仁勋离职"
         },
         {
-            "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "是石科技最新发布多模态模型服务"
-        },
-        {
-            "title": "California state AG sues OpenAI over rogue agent incidents",
+            "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent inci"
+            "snippet": ""
         },
         {
-            "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+            "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a sec"
+            "snippet": "具身智能的真正价值是“把人的经验、技能复刻出来”"
         },
         {
-            "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features comin"
-        },
-        {
-            "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breac"
-        },
-        {
-            "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when"
-        },
-        {
-            "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 bi"
-        },
-        {
-            "title": "What to know about this year’s UN climate talks",
+            "title": "The open-source movement wants Jensen Huang back",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate "
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
         },
         {
-            "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questi",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement "
+            "title": "Building trustworthy AI by fencing it in, not predicting it",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One"
         },
         {
-            "title": "The Download: COP31’s climate challenge and the quest for immortality",
+            "title": "The Download: testing tech promises and searching for cognitive immortality",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Building AI that can work across the enterprise",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the "
+        },
+        {
+            "title": "Waymo suspends freeway rides nationwide after California DMV order",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place unt"
+        },
+        {
+            "title": "SEC reportedly investigating Nvidia amid Huang exit",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an al"
+        },
+        {
+            "title": "Google joins the tech outage trend by announcing it’s not having one",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actu"
+        },
+        {
+            "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The former CEO offered to return to his top role at the company after his resignation last week."
+        },
+        {
+            "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second w"
+        },
+        {
+            "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+        },
+        {
+            "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's su"
+        },
+        {
+            "title": "Nvidia promises that revenue will keep soaring — for now",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projecte"
+        },
+        {
+            "title": "Stripe backer Atomico calls for Europe to own its success stories",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its "
+        },
+        {
+            "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Sol逼近旗舰性能"
         },
         {
             "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
@@ -730,100 +748,64 @@ var siteData = {
             "snippet": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can "
         },
         {
-            "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk,"
-        },
-        {
-            "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "余承东重新明确分工"
-        },
-        {
-            "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "在华为待了快10000天。"
-        },
-        {
-            "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+            "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
             "category": "行业动态",
             "tag": "industry",
-            "snippet": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。"
+            "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggress"
         },
         {
-            "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+            "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max"
+            "snippet": "英伟达公布了老黄离职后的首份财报"
         },
         {
-            "title": "ANCHOR: Cluster-Grounded 5W1H Extraction via Large-Small Model Collaboration",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Deep semantic understanding of events requires recognizing related events and distinguishing why an event occurs from ho"
-        },
-        {
-            "title": "PEETS: Preference-aware Embeddings with Explicit Tree Structure for Auxiliary Product Bundling",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Auxiliary products such as flight protection and flexible-change services are recommended alongside primary travel purch"
-        },
-        {
-            "title": "AgentFaultBench: State-Verified Evaluation of Tool-Fault Recovery",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Does recovery advice help an agent finish a task after a tool fails? AgentFaultBench evaluates LangGraph and CrewAI agen"
-        },
-        {
-            "title": "QASK-Edit: Adaptive Sparse Attention Across Queries and Key Sources for Efficient Video Editing",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Diffusion Transformers (DiTs) have achieved strong performance in generation based video editing, but suffer from high i"
-        },
-        {
-            "title": "Efficient Multi-View Generation with Iterative Global-Local Proxy Attention",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Generating consistent multi-view RGB images and normal maps from a single input image provides complementary appearance "
-        },
-        {
-            "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+            "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "12月1日，细数AI的未竟之问。"
+            "snippet": "小红书校招沙龙，一群技术高手认真对待年轻人的野心"
         },
         {
-            "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+            "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, b"
+            "snippet": "筛材料、找配方、开发新模型…拿下多项科研任务"
         },
         {
-            "title": "GPRM: Global Perspective Process Reward Model",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models,"
+            "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "瞄准「产业级世界模型」"
         },
         {
-            "title": "A Seismic Foundation Model for Dense Feature Extraction",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Deep-learning-based seismic interpretation is constrained by scarce high-quality annotations, and most existing models a"
+            "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Robotic Reward Models in the Foundation-Model Era",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Robotic reward models (RRMs) use foundation models to replace per-task reward engineering with reusable, task-conditione"
+            "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "82亿美元股票，46天闪电交割"
         },
         {
-            "title": "CLIFT: Contrastive LiDAR Instance Features for 3D Pedestrian Tracking",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "A social robot has to keep track of the people around it over time to plan its motion, a task handled by 3D multi-object"
+            "title": "Research Reports",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "To access a report, click on the corresponding image below."
+        },
+        {
+            "title": "Hydropower hit record lows in the US Southwest this summer",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, accord"
+        },
+        {
+            "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technolo"
         }
     ]
 }
