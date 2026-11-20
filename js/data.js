@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-19 04:55:28
+ * 生成时间: 2026-11-20 04:45:58
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-            "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+            "tag": "重磅 · 应用",
+            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+            "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/510811.html"
+            "url": "https://www.qbitai.com/2026/11/511079.html"
         },
         {
-            "tag": "行业 · 动态",
-            "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-            "summary": "具身全栈玩家",
+            "tag": "头条 · 大模型",
+            "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+            "summary": "语言模型单张3090卡即可运行",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/510821.html"
+            "url": "https://www.qbitai.com/2026/11/511071.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-            "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+            "summary": "国产AI工具实现「一个人就是一个剧组」",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/510737.html"
+            "url": "https://www.qbitai.com/2026/11/510947.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-            "summary": "英伟达公布了老黄离职后的首份财报",
+            "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+            "summary": "氖人寻味！",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/510726.html"
+            "url": "https://www.qbitai.com/2026/11/510922.html"
         }
     ],
     "quickNews": [
         {
-            "time": "04:55",
-            "text": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+            "time": "04:45",
+            "text": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/510811.html"
+            "url": "https://www.qbitai.com/2026/11/511079.html"
         },
         {
-            "time": "04:55",
-            "text": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+            "time": "04:45",
+            "text": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510821.html"
+            "url": "https://www.qbitai.com/2026/11/511071.html"
         },
         {
-            "time": "04:55",
-            "text": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+            "time": "04:45",
+            "text": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510737.html"
+            "url": "https://www.qbitai.com/2026/11/510947.html"
         },
         {
-            "time": "04:55",
-            "text": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+            "time": "04:45",
+            "text": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510726.html"
+            "url": "https://www.qbitai.com/2026/11/510922.html"
         },
         {
-            "time": "04:55",
-            "text": "Roundtables: Inside the Quest for Cognitive Immortality",
+            "time": "04:45",
+            "text": "The AI Hype Index: AI is everywhere",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
         },
         {
-            "time": "04:55",
-            "text": "Hydropower hit record lows in the US Southwest this summer",
+            "time": "04:45",
+            "text": "The Download: AI learns to smell and hydropower struggles",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
         },
         {
-            "time": "04:55",
-            "text": "Research Reports",
+            "time": "04:45",
+            "text": "This smell startup says its AI nose is as good as a human’s",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
         },
         {
-            "time": "04:55",
-            "text": "The Download: Jensen Huang’s open-source dilemma and cogniti",
+            "time": "04:45",
+            "text": "Anthropic’s IPO could deliver $156B to charity",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+                    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510811.html",
+                    "url": "https://www.qbitai.com/2026/11/511071.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "入职Meta刚满一年出头，竟然直接提桶跑路了！..."
+                    "desc": "语言模型单张3090卡即可运行..."
                 },
                 {
-                    "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+                    "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
-                    "category": "domestic",
-                    "url": "https://www.qbitai.com/2026/11/510821.html"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/510947.html"
                 },
                 {
-                    "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+                    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510737.html"
+                    "url": "https://www.qbitai.com/2026/11/510922.html"
                 },
                 {
-                    "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Anthropic’s IPO could deliver $156B to charity",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510726.html"
+                    "category": "domestic",
+                    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
                 },
                 {
-                    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time t",
-                    "source": "TechCrunch AI",
-                    "time": "7小时前",
+                    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot",
+                    "source": "arXiv",
+                    "time": "9小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+                    "url": "http://arxiv.org/abs/2611.26613v1"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
-                    "desc": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance e...",
+                    "title": "【arXiv】Posterior Matching Distillation",
+                    "desc": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network eval...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24941v1"
+                    "url": "http://arxiv.org/abs/2611.26629v1"
                 },
                 {
-                    "title": "【arXiv】$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
-                    "desc": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based w...",
+                    "title": "【arXiv】RL Post-Training in Diffusion Transformers Is Activation Steering",
+                    "desc": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transform...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24940v1"
+                    "url": "http://arxiv.org/abs/2611.26627v1"
                 },
                 {
-                    "title": "【arXiv】Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-                    "desc": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned rep...",
+                    "title": "【arXiv】PlayCraft: Designing Engaging Games from Agent Play Experience",
+                    "desc": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for i...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24936v1"
+                    "url": "http://arxiv.org/abs/2611.26624v1"
                 },
                 {
-                    "title": "【arXiv】Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-                    "desc": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cog...",
+                    "title": "【arXiv】One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Late",
+                    "desc": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual tra...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "10小时前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24932v1"
+                    "url": "http://arxiv.org/abs/2611.26617v1"
                 },
                 {
-                    "title": "【arXiv】Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in th",
-                    "desc": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI st...",
+                    "title": "【arXiv】ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+                    "desc": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly generating high-resolution vi...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "10小时前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24927v1"
+                    "url": "http://arxiv.org/abs/2611.26615v1"
                 },
                 {
-                    "title": "【arXiv】Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-                    "desc": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness...",
+                    "title": "【arXiv】AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+                    "desc": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical a...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "10小时前",
+                    "time": "9小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.24924v1"
+                    "url": "http://arxiv.org/abs/2611.26613v1"
                 }
             ]
         },
@@ -275,37 +275,33 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-                    "time": "刚刚",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/11/511079.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the w",
-                    "time": "5小时前",
+                    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+                    "time": "9小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+                    "url": "http://arxiv.org/abs/2611.26624v1"
                 },
                 {
                     "rank": 3,
-                    "title": "Building trustworthy AI by fencing it in, not predicting it",
-                    "time": "2天前",
+                    "title": "These tech outages are giving Y2K, AI agent style",
+                    "time": "7小时前",
                     "emoji": "🎬",
-                    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+                    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
                 },
                 {
                     "rank": 4,
-                    "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restorat",
-                    "time": "10小时前",
-                    "emoji": "🔍",
-                    "url": "http://arxiv.org/abs/2611.24915v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measureme",
-                    "time": "10小时前",
-                    "emoji": "⚖️",
-                    "url": "http://arxiv.org/abs/2611.24880v1"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -320,17 +316,17 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-                    "time": "昨天",
+                    "title": "Anthropic’s IPO could deliver $156B to charity",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/510821.html"
+                    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
                 },
                 {
                     "rank": 2,
-                    "title": "Anthropic prices IPO at $83 a share, above projected range",
-                    "time": "6小时前",
+                    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+                    "time": "4小时前",
                     "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+                    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
                 }
             ]
         },
@@ -376,71 +372,71 @@ var siteData = {
                     "desc": "Master programming by recreating your favorite technologies from scratch.",
                     "lang": "Markdown",
                     "langClass": "lang-python",
-                    "stars": "+563,731",
+                    "stars": "+563,985",
                     "url": "https://github.com/codecrafters-io/build-your-own-x"
                 },
                 {
                     "rank": 2,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+500,110",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 3,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+468,568",
+                    "stars": "+470,275",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 4,
+                    "rank": 3,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,303",
+                    "stars": "+459,362",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 5,
+                    "rank": 4,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,771",
+                    "stars": "+394,852",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 6,
+                    "rank": 5,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,320",
+                    "stars": "+372,398",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 7,
+                    "rank": 6,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+327,579",
+                    "stars": "+328,265",
                     "url": "https://github.com/mattpocock/skills"
                 },
                 {
+                    "rank": 7,
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+307,366",
+                    "url": "https://github.com/affaan-m/ECC"
+                },
+                {
                     "rank": 8,
-                    "name": "deepseek-ai/deepseek-harness",
-                    "desc": "DeepSeek Harness: Everything is a Plugin.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+283,761",
-                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                    "name": "NousResearch/hermes-agent",
+                    "desc": "The agent that grows with you",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+264,802",
+                    "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
         }
@@ -449,72 +445,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/510811.html"
+            "url": "https://www.qbitai.com/2026/11/511079.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+            "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/510821.html"
+            "url": "https://www.qbitai.com/2026/11/511071.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/510737.html"
+            "url": "https://www.qbitai.com/2026/11/510947.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+            "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/510726.html"
+            "url": "https://www.qbitai.com/2026/11/510922.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "Roundtables: Inside the Quest for Cognitive Immort",
+            "title": "The AI Hype Index: AI is everywhere",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "Hydropower hit record lows in the US Southwest thi",
+            "title": "The Download: AI learns to smell and hydropower st",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "Research Reports",
+            "title": "This smell startup says its AI nose is as good as ",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+            "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The Download: Jensen Huang’s open-source dilemma a",
+            "title": "Anthropic’s IPO could deliver $156B to charity",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能",
+            "title": "Posterior Matching Distillation",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511079.html"
+            "url": "http://arxiv.org/abs/2611.26629v1"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "UltraTex: Aligning Physical Knowledge for High-Fid",
+            "title": "RL Post-Training in Diffusion Transformers Is Acti",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.24941v1"
+            "url": "http://arxiv.org/abs/2611.26627v1"
         }
     ],
     "aiTools": [
@@ -565,11 +561,15 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Huang",
+            "text": "Download",
             "size": "large"
         },
         {
-            "text": "CEO",
+            "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "US",
             "size": "medium"
         },
         {
@@ -577,218 +577,52 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Download",
-            "size": "medium"
-        },
-        {
             "text": "Jensen",
             "size": "small"
         },
         {
-            "text": "Satya",
+            "text": "Huang",
             "size": "small"
         },
         {
-            "text": "Nadella",
+            "text": "Pro",
             "size": "small"
         },
         {
-            "text": "Microsoft",
+            "text": "IPO",
             "size": "small"
         },
         {
-            "text": "Large",
+            "text": "Diffusion",
             "size": "small"
         },
         {
-            "text": "Nvidia",
+            "text": "Self",
             "size": "small"
         },
         {
-            "text": "Musk",
+            "text": "Depth",
             "size": "small"
         },
         {
-            "text": "Agentic",
+            "text": "LLM",
             "size": "small"
         },
         {
-            "text": "Visual",
+            "text": "Mac",
             "size": "small"
         },
         {
-            "text": "US",
+            "text": "Meta",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "入职Meta刚满一年出头，竟然直接提桶跑路了！"
-        },
-        {
-            "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "具身全栈玩家"
-        },
-        {
-            "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "小红书校招沙龙，一群技术高手认真对待年轻人的野心"
-        },
-        {
-            "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "英伟达公布了老黄离职后的首份财报"
-        },
-        {
-            "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technolo"
-        },
-        {
-            "title": "Hydropower hit record lows in the US Southwest this summer",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, accord"
-        },
-        {
-            "title": "Research Reports",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "To access a report, click on the corresponding image below."
-        },
-        {
-            "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
             "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
             "category": "AI应用",
             "tag": "application",
             "snippet": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会"
-        },
-        {
-            "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous"
-        },
-        {
-            "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent"
-        },
-        {
-            "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whe"
-        },
-        {
-            "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
-        },
-        {
-            "title": "Anthropic prices IPO at $83 a share, above projected range",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
-        },
-        {
-            "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in c"
-        },
-        {
-            "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarte"
-        },
-        {
-            "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new chall"
-        },
-        {
-            "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "“I don’t think [Huang is] disloyal to the United States,\" Musk said."
-        },
-        {
-            "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's i"
-        },
-        {
-            "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethin"
-        },
-        {
-            "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging t"
-        },
-        {
-            "title": "Elon Musk says: ‘I’m not MAGA’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term"
-        },
-        {
-            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "国产AI工具实现「一个人就是一个剧组」"
-        },
-        {
-            "title": "The open-source movement wants Jensen Huang back",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "Building trustworthy AI by fencing it in, not predicting it",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One"
-        },
-        {
-            "title": "The Download: testing tech promises and searching for cognitive immortality",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "GPT-6.2难产！OpenAI怕了",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "OpenAI也终于活成了2022年谷歌的样子"
-        },
-        {
-            "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线"
         },
         {
             "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
@@ -797,10 +631,172 @@ var siteData = {
             "snippet": "语言模型单张3090卡即可运行"
         },
         {
+            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "国产AI工具实现「一个人就是一个剧组」"
+        },
+        {
             "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
             "category": "大模型动态",
             "tag": "llm",
             "snippet": "氖人寻味！"
+        },
+        {
+            "title": "The AI Hype Index: AI is everywhere",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the co"
+        },
+        {
+            "title": "The Download: AI learns to smell and hydropower struggles",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "This smell startup says its AI nose is as good as a human’s",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way "
+        },
+        {
+            "title": "Anthropic’s IPO could deliver $156B to charity",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t"
+        },
+        {
+            "title": "Posterior Matching Distillation",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling p"
+        },
+        {
+            "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional a"
+        },
+        {
+            "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of e"
+        },
+        {
+            "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action ",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers su"
+        },
+        {
+            "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "High-resolution generation enables video world models to render fine-grained scene structures and textures, but directly"
+        },
+        {
+            "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots dire"
+        },
+        {
+            "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzi"
+        },
+        {
+            "title": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real softw"
+        },
+        {
+            "title": "Active Feature Acquisition by Distilling an Oracle Teacher",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a pri"
+        },
+        {
+            "title": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle "
+        },
+        {
+            "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynami"
+        },
+        {
+            "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlate",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and st"
+        },
+        {
+            "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept"
+        },
+        {
+            "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Escape UVM Scoreboards",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it mee"
+        },
+        {
+            "title": "The unfolding Jensen Huang scandal: a timeline",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U"
+        },
+        {
+            "title": "These tech outages are giving Y2K, AI agent style",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc"
+        },
+        {
+            "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Uber is testing the new program in three U.S. cities."
+        },
+        {
+            "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make yo"
+        },
+        {
+            "title": "Meta’s new Muse Charm device may cost $300",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upco"
+        },
+        {
+            "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide bett"
+        },
+        {
+            "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea"
+        },
+        {
+            "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternativ"
         }
     ]
 }
