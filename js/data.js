@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-20 04:45:58
+ * 生成时间: 2026-11-21 04:41:00
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "重磅 · 应用",
-            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-            "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会",
+            "tag": "头条 · 大模型",
+            "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+            "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
             "source": "量子位",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/511079.html"
+            "url": "https://www.qbitai.com/2026/11/511426.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
-            "summary": "语言模型单张3090卡即可运行",
+            "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+            "summary": "「Revaluation 价值，另有答案」",
             "source": "量子位",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/511071.html"
+            "url": "https://www.qbitai.com/2026/11/511258.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
-            "summary": "国产AI工具实现「一个人就是一个剧组」",
+            "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+            "summary": "媒体均分登顶历史第一，细节多到爆炸",
             "source": "量子位",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/510947.html"
+            "url": "https://www.qbitai.com/2026/11/511180.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
-            "summary": "氖人寻味！",
+            "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+            "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
             "source": "量子位",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/510922.html"
+            "url": "https://www.qbitai.com/2026/11/511179.html"
         }
     ],
     "quickNews": [
         {
-            "time": "04:45",
-            "text": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+            "time": "04:40",
+            "text": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/511079.html"
+            "url": "https://www.qbitai.com/2026/11/511426.html"
         },
         {
-            "time": "04:45",
-            "text": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+            "time": "04:40",
+            "text": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511071.html"
+            "url": "https://www.qbitai.com/2026/11/511258.html"
         },
         {
-            "time": "04:45",
-            "text": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+            "time": "04:40",
+            "text": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510947.html"
+            "url": "https://www.qbitai.com/2026/11/511180.html"
         },
         {
-            "time": "04:45",
-            "text": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+            "time": "04:40",
+            "text": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/510922.html"
+            "url": "https://www.qbitai.com/2026/11/511179.html"
         },
         {
-            "time": "04:45",
-            "text": "The AI Hype Index: AI is everywhere",
+            "time": "04:40",
+            "text": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+            "url": "https://www.qbitai.com/2026/11/511092.html"
         },
         {
-            "time": "04:45",
-            "text": "The Download: AI learns to smell and hydropower struggles",
+            "time": "04:40",
+            "text": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+            "url": "https://www.qbitai.com/2026/11/511088.html"
         },
         {
-            "time": "04:45",
-            "text": "This smell startup says its AI nose is as good as a human’s",
+            "time": "04:40",
+            "text": "The Download: a living liver, a billion-dollar battery deal,",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
         },
         {
-            "time": "04:45",
-            "text": "Anthropic’s IPO could deliver $156B to charity",
+            "time": "04:40",
+            "text": "A human liver has been kept alive outside the body for a rec",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+            "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+                    "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/511071.html",
+                    "url": "https://www.qbitai.com/2026/11/511426.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "语言模型单张3090卡即可运行..."
+                    "desc": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。..."
                 },
                 {
-                    "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+                    "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510947.html"
+                    "url": "https://www.qbitai.com/2026/11/511258.html"
                 },
                 {
-                    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+                    "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
                     "source": "量子位",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/510922.html"
+                    "url": "https://www.qbitai.com/2026/11/511180.html"
                 },
                 {
-                    "title": "Anthropic’s IPO could deliver $156B to charity",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/511179.html"
                 },
                 {
-                    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot",
-                    "source": "arXiv",
-                    "time": "9小时前",
+                    "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.26613v1"
+                    "url": "https://www.qbitai.com/2026/11/511092.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26629v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26627v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26624v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26617v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26615v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "9小时前",
+                    "time": "昨天",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.26613v1"
@@ -274,24 +274,22 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+                    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/511079.html"
-                },
-                {
-                    "rank": 2,
-                    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
-                    "time": "9小时前",
-                    "emoji": "💡",
                     "url": "http://arxiv.org/abs/2611.26624v1"
                 },
                 {
+                    "rank": 2,
+                    "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+                    "time": "2天前",
+                    "emoji": "💡",
+                    "url": "https://www.qbitai.com/2026/11/511079.html"
+                },
+                {
                     "rank": 3,
-                    "title": "These tech outages are giving Y2K, AI agent style",
-                    "time": "7小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
@@ -313,22 +311,7 @@ var siteData = {
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "Anthropic’s IPO could deliver $156B to charity",
-                    "time": "9小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-                    "time": "4小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
-                }
-            ]
+            "items": []
         },
         "policy": {
             "title": "政策法规",
@@ -368,12 +351,12 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "codecrafters-io/build-your-own-x",
-                    "desc": "Master programming by recreating your favorite technologies from scratch.",
-                    "lang": "Markdown",
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+563,985",
-                    "url": "https://github.com/codecrafters-io/build-your-own-x"
+                    "stars": "+500,516",
+                    "url": "https://github.com/public-apis/public-apis"
                 },
                 {
                     "rank": 2,
@@ -381,7 +364,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+470,275",
+                    "stars": "+471,683",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -390,7 +373,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,362",
+                    "stars": "+459,403",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -399,7 +382,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+394,852",
+                    "stars": "+394,934",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -408,35 +391,35 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,398",
+                    "stars": "+372,464",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
-                    "name": "mattpocock/skills",
-                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+328,265",
-                    "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 7,
                     "name": "affaan-m/ECC",
                     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
                     "lang": "JavaScript",
                     "langClass": "lang-javascript",
-                    "stars": "+307,366",
+                    "stars": "+307,927",
                     "url": "https://github.com/affaan-m/ECC"
                 },
                 {
-                    "rank": 8,
+                    "rank": 7,
                     "name": "NousResearch/hermes-agent",
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+264,802",
+                    "stars": "+265,023",
                     "url": "https://github.com/NousResearch/hermes-agent"
+                },
+                {
+                    "rank": 8,
+                    "name": "torvalds/linux",
+                    "desc": "Linux kernel source tree",
+                    "lang": "C",
+                    "langClass": "lang-python",
+                    "stars": "+256,272",
+                    "url": "https://github.com/torvalds/linux"
                 }
             ]
         }
@@ -445,72 +428,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能",
+            "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/511079.html"
+            "url": "https://www.qbitai.com/2026/11/511426.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+            "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/511071.html"
+            "url": "https://www.qbitai.com/2026/11/511258.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+            "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/510947.html"
+            "url": "https://www.qbitai.com/2026/11/511180.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+            "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/510922.html"
+            "url": "https://www.qbitai.com/2026/11/511179.html"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The AI Hype Index: AI is everywhere",
+            "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+            "url": "https://www.qbitai.com/2026/11/511092.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "The Download: AI learns to smell and hydropower st",
+            "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+            "url": "https://www.qbitai.com/2026/11/511088.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "This smell startup says its AI nose is as good as ",
+            "title": "The Download: a living liver, a billion-dollar bat",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+            "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Anthropic’s IPO could deliver $156B to charity",
+            "title": "A human liver has been kept alive outside the body",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+            "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "Posterior Matching Distillation",
+            "title": "What a billion-dollar deal says about the US batte",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.26629v1"
+            "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "RL Post-Training in Diffusion Transformers Is Acti",
+            "title": "Posterior Matching Distillation",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.26627v1"
+            "url": "http://arxiv.org/abs/2611.26629v1"
         }
     ],
     "aiTools": [
@@ -565,32 +548,16 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "Anthropic",
+            "text": "US",
             "size": "medium"
         },
         {
-            "text": "US",
+            "text": "Pro",
             "size": "medium"
         },
         {
             "text": "The",
             "size": "medium"
-        },
-        {
-            "text": "Jensen",
-            "size": "small"
-        },
-        {
-            "text": "Huang",
-            "size": "small"
-        },
-        {
-            "text": "Pro",
-            "size": "small"
-        },
-        {
-            "text": "IPO",
-            "size": "small"
         },
         {
             "text": "Diffusion",
@@ -609,62 +576,84 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "Mac",
+            "text": "human",
             "size": "small"
         },
         {
-            "text": "Meta",
+            "text": "SenseNova",
+            "size": "small"
+        },
+        {
+            "text": "U1",
+            "size": "small"
+        },
+        {
+            "text": "&#",
+            "size": "small"
+        },
+        {
+            "text": "world",
+            "size": "small"
+        },
+        {
+            "text": "Energy",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会"
-        },
-        {
-            "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+            "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "语言模型单张3090卡即可运行"
+            "snippet": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。"
         },
         {
-            "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+            "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "国产AI工具实现「一个人就是一个剧组」"
+            "snippet": "「Revaluation 价值，另有答案」"
         },
         {
-            "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+            "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "氖人寻味！"
+            "snippet": "媒体均分登顶历史第一，细节多到爆炸"
         },
         {
-            "title": "The AI Hype Index: AI is everywhere",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the co"
+            "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一"
         },
         {
-            "title": "The Download: AI learns to smell and hydropower struggles",
+            "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Kling Image 4.0"
+        },
+        {
+            "title": "AI基建大潮方兴未艾，联想集团最佳财季诞生！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "全球AI生态链领先企业联想集团今日公布截至2026/27财年第二季度业绩"
+        },
+        {
+            "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "This smell startup says its AI nose is as good as a human’s",
+            "title": "A human liver has been kept alive outside the body for a record seven weeks",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way "
+            "snippet": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, open"
         },
         {
-            "title": "Anthropic’s IPO could deliver $156B to charity",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match t"
+            "title": "What a billion-dollar deal says about the US battery market",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteri"
         },
         {
             "title": "Posterior Matching Distillation",
@@ -751,52 +740,46 @@ var siteData = {
             "snippet": "A passing UVM regression shows the design agrees with the reference model on what the scoreboard checks, not that it mee"
         },
         {
-            "title": "The unfolding Jensen Huang scandal: a timeline",
+            "title": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existin"
+        },
+        {
+            "title": "Startup sues Apple in India over tap-to-share contacts feature",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India."
+        },
+        {
+            "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U"
+            "snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too"
         },
         {
-            "title": "These tech outages are giving Y2K, AI agent style",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidenc"
+            "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the "
         },
         {
-            "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+            "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Uber is testing the new program in three U.S. cities."
+            "snippet": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's th"
         },
         {
-            "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make yo"
+            "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technolo"
         },
         {
-            "title": "Meta’s new Muse Charm device may cost $300",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upco"
-        },
-        {
-            "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide bett"
-        },
-        {
-            "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nea"
-        },
-        {
-            "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternativ"
+            "title": "Hydropower hit record lows in the US Southwest this summer",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, accord"
         }
     ]
 }
