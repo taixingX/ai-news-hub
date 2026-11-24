@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-23 04:35:50
+ * 生成时间: 2026-11-24 07:29:30
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI s",
-            "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code ",
+            "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck b",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
         },
         {
-            "tag": "头条 · 大模型",
-            "title": "A tale of two Nvidias",
-            "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech ex",
+            "tag": "重磅 · 应用",
+            "title": "Supertake raises $20M to let AI agents turn your market predictions into stock p",
+            "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your",
             "source": "TechCrunch AI",
-            "time": "昨天",
+            "time": "9小时前",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
-        },
-        {
-            "tag": "行业 · 动态",
-            "title": "Trump says reported FBI database hack is ‘not good’",
-            "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-            "source": "TechCrunch AI",
-            "time": "昨天",
-            "views": "70.6K",
-            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-            "summary": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda",
+            "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
+            "views": "70.6K",
+            "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+        },
+        {
+            "tag": "头条 · 大模型",
+            "title": "Figma employee sues, alleging company forced her to confront harassers",
+            "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discriminat",
+            "source": "TechCrunch AI",
+            "time": "8小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/511855.html"
+            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
         }
     ],
     "quickNews": [
         {
-            "time": "04:35",
-            "text": "Signal restricts mobile screenshots as it confronts ‘existen",
+            "time": "07:29",
+            "text": "Anthropic launches Claude Ship, letting AI agents review, fi",
             "hot": true,
-            "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
         },
         {
-            "time": "04:35",
-            "text": "A tale of two Nvidias",
+            "time": "07:29",
+            "text": "Supertake raises $20M to let AI agents turn your market pred",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
         },
         {
-            "time": "04:35",
-            "text": "Trump says reported FBI database hack is ‘not good’",
+            "time": "07:29",
+            "text": "Elon Musk and others rejoice as Jensen Huang is reinstated a",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
         },
         {
-            "time": "04:35",
-            "text": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+            "time": "07:29",
+            "text": "Figma employee sues, alleging company forced her to confront",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511855.html"
+            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
         },
         {
-            "time": "04:35",
-            "text": "中国计算，走出新的登峰之路",
+            "time": "07:29",
+            "text": "具身行业，终于等来了自己的通用智能时刻",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511849.html"
+            "url": "https://www.qbitai.com/2026/11/512264.html"
         },
         {
-            "time": "04:35",
-            "text": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+            "time": "07:29",
+            "text": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511841.html"
+            "url": "https://www.qbitai.com/2026/11/512252.html"
         },
         {
-            "time": "04:35",
-            "text": "全网疯传！Grok一姐教你如何月提交3000个PR",
+            "time": "07:29",
+            "text": "The AI Hype Index: AI is everywhere",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511830.html"
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
         },
         {
-            "time": "04:35",
-            "text": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+            "time": "07:29",
+            "text": "The Download: AI learns to smell and hydropower struggles",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/511791.html"
+            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI s",
+                    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code ",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+                    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps...."
+                    "desc": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han..."
                 },
                 {
-                    "title": "A tale of two Nvidias",
+                    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+                    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
                 },
                 {
-                    "title": "Trump says reported FBI database hack is ‘not good’",
+                    "title": "Figma employee sues, alleging company forced her to confront harassers",
                     "source": "TechCrunch AI",
-                    "time": "昨天",
+                    "time": "8小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
-                    "category": "domestic",
-                    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+                    "category": "gpt",
+                    "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
                 },
                 {
-                    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+                    "title": "具身行业，终于等来了自己的通用智能时刻",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "5小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/511855.html"
+                    "url": "https://www.qbitai.com/2026/11/512264.html"
                 },
                 {
-                    "title": "中国计算，走出新的登峰之路",
+                    "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
                     "source": "量子位",
-                    "time": "昨天",
+                    "time": "5小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/511849.html"
+                    "url": "https://www.qbitai.com/2026/11/512252.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Optimal Linear Regression Without a Variance",
-                    "desc": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ f...",
+                    "title": "【arXiv】Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+                    "desc": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substa...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27983v1"
+                    "url": "http://arxiv.org/abs/2611.31240v1"
                 },
                 {
-                    "title": "【arXiv】MemOnce: A Scalable Memory Architecture for Large Language Models",
-                    "desc": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, po...",
+                    "title": "【arXiv】Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+                    "desc": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27973v1"
+                    "url": "http://arxiv.org/abs/2611.31239v1"
                 },
                 {
-                    "title": "【arXiv】Non-penetrating World Models",
-                    "desc": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce...",
+                    "title": "【arXiv】Modern Self-Supervised Vision Transformers Are Pareidolic",
+                    "desc": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27963v1"
+                    "url": "http://arxiv.org/abs/2611.31238v1"
                 },
                 {
-                    "title": "【arXiv】Model Carving: Training Transformers That Optimize Their Own Topology",
-                    "desc": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed...",
+                    "title": "【arXiv】Let Vision-Language Models Generate Images through Their Representations",
+                    "desc": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabil...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27962v1"
+                    "url": "http://arxiv.org/abs/2611.31237v1"
                 },
                 {
-                    "title": "【arXiv】DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval",
-                    "desc": "Video corpus moment retrieval asks a system to find, in a large collection of untrimmed videos with subtitles, the video and the time interval that a ...",
+                    "title": "【arXiv】TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+                    "desc": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regio...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27931v1"
+                    "url": "http://arxiv.org/abs/2611.31233v1"
                 },
                 {
-                    "title": "【arXiv】BioEmu2: Scalable Emulation of Biomolecular Dynamics",
-                    "desc": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central cha...",
+                    "title": "【arXiv】Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+                    "desc": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "2天前",
+                    "time": "12小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.27924v1"
+                    "url": "http://arxiv.org/abs/2611.31228v1"
                 }
             ]
         },
@@ -274,20 +274,24 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-                    "time": "昨天",
+                    "title": "Supertake raises $20M to let AI agents turn your market predictions in",
+                    "time": "9小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/511841.html"
+                    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
                 },
                 {
                     "rank": 2,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+                    "time": "3小时前",
+                    "emoji": "💡",
+                    "url": "https://www.qbitai.com/2026/11/512330.html"
                 },
                 {
                     "rank": 3,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Searc",
+                    "time": "12小时前",
+                    "emoji": "🎬",
+                    "url": "http://arxiv.org/abs/2611.31198v1"
                 },
                 {
                     "rank": 4,
@@ -312,31 +316,10 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Trump says reported FBI database hack is ‘not good’",
-                    "time": "昨天",
+                    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+                    "time": "20小时前",
                     "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
-                },
-                {
-                    "rank": 2,
-                    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic bef",
-                    "time": "3小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
-                },
-                {
-                    "rank": 3,
-                    "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Impro",
-                    "time": "2天前",
-                    "emoji": "🏭",
-                    "url": "http://arxiv.org/abs/2611.27919v1"
-                },
-                {
-                    "rank": 4,
-                    "title": "Can a TV be too large? An investigation",
-                    "time": "13小时前",
-                    "emoji": "🌏",
-                    "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/"
+                    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
                 }
             ]
         },
@@ -378,30 +361,30 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
-                    "name": "public-apis/public-apis",
-                    "desc": "A collective list of free APIs",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+500,887",
-                    "url": "https://github.com/public-apis/public-apis"
-                },
-                {
-                    "rank": 2,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+474,368",
+                    "stars": "+476,052",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 3,
+                    "rank": 2,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,510",
+                    "stars": "+459,548",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
+                },
+                {
+                    "rank": 3,
+                    "name": "EbookFoundation/free-programming-books",
+                    "desc": ":books: Freely available programming books",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+402,164",
+                    "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
                     "rank": 4,
@@ -409,7 +392,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+395,069",
+                    "stars": "+395,134",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -418,26 +401,26 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,593",
+                    "stars": "+372,656",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
-                    "name": "awesome-selfhosted/awesome-selfhosted",
-                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-                    "lang": "Unknown",
-                    "langClass": "lang-python",
-                    "stars": "+339,610",
-                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                    "name": "affaan-m/ECC",
+                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+                    "lang": "JavaScript",
+                    "langClass": "lang-javascript",
+                    "stars": "+309,745",
+                    "url": "https://github.com/affaan-m/ECC"
                 },
                 {
                     "rank": 7,
-                    "name": "deepseek-ai/deepseek-harness",
-                    "desc": "DeepSeek Harness: Everything is a Plugin.",
-                    "lang": "TypeScript",
-                    "langClass": "lang-typescript",
-                    "stars": "+285,678",
-                    "url": "https://github.com/deepseek-ai/deepseek-harness"
+                    "name": "practical-tutorials/project-based-learning",
+                    "desc": "Curated list of project-based tutorials",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+290,365",
+                    "url": "https://github.com/practical-tutorials/project-based-learning"
                 },
                 {
                     "rank": 8,
@@ -445,7 +428,7 @@ var siteData = {
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+265,476",
+                    "stars": "+265,732",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
@@ -455,72 +438,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Signal restricts mobile screenshots as it confront",
+            "title": "Anthropic launches Claude Ship, letting AI agents ",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "A tale of two Nvidias",
+            "title": "Supertake raises $20M to let AI agents turn your m",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Trump says reported FBI database hack is ‘not good",
+            "title": "Elon Musk and others rejoice as Jensen Huang is re",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+            "title": "Figma employee sues, alleging company forced her t",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511855.html"
+            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "中国计算，走出新的登峰之路",
+            "title": "具身行业，终于等来了自己的通用智能时刻",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511849.html"
+            "url": "https://www.qbitai.com/2026/11/512264.html"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+            "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511841.html"
+            "url": "https://www.qbitai.com/2026/11/512252.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+            "title": "The AI Hype Index: AI is everywhere",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511830.html"
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+            "title": "The Download: AI learns to smell and hydropower st",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511791.html"
+            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511779.html"
+            "url": "https://www.qbitai.com/2026/11/512305.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/511570.html"
+            "url": "https://www.qbitai.com/2026/11/512297.html"
         }
     ],
     "aiTools": [
@@ -567,7 +550,7 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Download",
+            "text": "Huang",
             "size": "large"
         },
         {
@@ -575,7 +558,11 @@ var siteData = {
             "size": "large"
         },
         {
-            "text": "US",
+            "text": "Download",
+            "size": "medium"
+        },
+        {
+            "text": "Jensen",
             "size": "medium"
         },
         {
@@ -583,146 +570,82 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Models",
-            "size": "medium"
-        },
-        {
-            "text": "KV",
+            "text": "Nvidia",
             "size": "small"
         },
         {
-            "text": "We",
+            "text": "Anthropic",
             "size": "small"
         },
         {
-            "text": "human",
+            "text": "Google",
             "size": "small"
         },
         {
-            "text": "Signal",
+            "text": "Vision",
             "size": "small"
         },
         {
-            "text": "FBI",
+            "text": "CEO",
             "size": "small"
         },
         {
-            "text": "Information",
+            "text": "US",
             "size": "small"
         },
         {
-            "text": "Roundtables",
+            "text": "Search",
             "size": "small"
         },
         {
-            "text": "some",
+            "text": "Reasoning",
             "size": "small"
         },
         {
-            "text": "Southwest",
+            "text": "Generation",
             "size": "small"
         },
         {
-            "text": "Energy",
+            "text": "Self",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+            "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han"
         },
         {
-            "title": "A tale of two Nvidias",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly call"
-        },
-        {
-            "title": "Trump says reported FBI database hack is ‘not good’",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "The FBI is reportedly investigating a hack of the National Crime Information Center."
-        },
-        {
-            "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "中国计算，走出新的登峰之路",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": ""
-        },
-        {
-            "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+            "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
             "category": "AI应用",
             "tag": "application",
-            "snippet": ""
+            "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without havin"
         },
         {
-            "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+            "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in."
         },
         {
-            "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+            "title": "Figma employee sues, alleging company forced her to confront harassers",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": ""
+            "snippet": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
         },
         {
-            "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+            "title": "具身行业，终于等来了自己的通用智能时刻",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "还实现可变形物体操控全球首通"
+            "snippet": "行业苦等多年的预训练通用智能，终于有了答案"
         },
         {
-            "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+            "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "专为本地部署而生"
-        },
-        {
-            "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "还透露了不少训练背后的秘诀"
-        },
-        {
-            "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "To establish a speed limit on AI development, you need to agree on how to measure speed."
-        },
-        {
-            "title": "The best apps to make new friends right now",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
-        },
-        {
-            "title": "‘You Can See Everything’ has made more than $100M worldwide",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
-        },
-        {
-            "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technolo"
-        },
-        {
-            "title": "Hydropower hit record lows in the US Southwest this summer",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, accord"
+            "snippet": "离职员工：我可能走早了"
         },
         {
             "title": "The AI Hype Index: AI is everywhere",
@@ -737,16 +660,16 @@ var siteData = {
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "This smell startup says its AI nose is as good as a human’s",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way "
+            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
         },
         {
-            "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。"
         },
         {
             "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -767,6 +690,18 @@ var siteData = {
             "snippet": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteri"
         },
         {
+            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "12.9 北京，来MEET2027现场"
+        },
+        {
+            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "中国AI数据平台加速崛起"
+        },
+        {
             "title": "The most misunderstood graph in AI just got a major update",
             "category": "AI研究",
             "tag": "research",
@@ -779,34 +714,82 @@ var siteData = {
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Optimal Linear Regression Without a Variance",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finit"
-        },
-        {
-            "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+            "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory s"
+            "snippet": "零Token成本，断网也能自由Vibe Coding"
         },
         {
-            "title": "Non-penetrating World Models",
+            "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of "
+        },
+        {
+            "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "11月19日，方程豹钛9上市，售价27.99万元起"
+        },
+        {
+            "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
+        },
+        {
+            "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing mo"
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Model Carving: Training Transformers That Optimize Their Own Topology",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer"
+            "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
         },
         {
-            "title": "DiTraR: Diverse Scorers and Transcript-Guided Re-ranking for Video Corpus Moment Retrieval",
+            "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+        },
+        {
+            "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
+        },
+        {
+            "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of us"
+        },
+        {
+            "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide actio"
+        },
+        {
+            "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
             "category": "AI资讯",
             "tag": "paper",
-            "snippet": "Video corpus moment retrieval asks a system to find, in a large collection of untrimmed videos with subtitles, the video"
+            "snippet": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extend"
+        },
+        {
+            "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
+            "category": "AI资讯",
+            "tag": "paper",
+            "snippet": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguo"
         }
     ]
 }
