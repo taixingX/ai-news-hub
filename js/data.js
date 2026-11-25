@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-24 07:29:30
+ * 生成时间: 2026-11-25 05:58:39
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -10,93 +10,93 @@ var siteData = {
     "carouselSlides": [
         {
             "tag": "头条 · 大模型",
-            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code ",
-            "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck b",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+            "summary": "12.9 北京，来MEET2027现场",
+            "source": "量子位",
+            "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            "url": "https://www.qbitai.com/2026/11/512329.html"
         },
         {
             "tag": "重磅 · 应用",
-            "title": "Supertake raises $20M to let AI agents turn your market predictions into stock p",
-            "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+            "summary": "中国AI数据平台加速崛起",
+            "source": "量子位",
+            "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+            "url": "https://www.qbitai.com/2026/11/512330.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda",
-            "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-            "source": "TechCrunch AI",
-            "time": "9小时前",
+            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+            "source": "量子位",
+            "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+            "url": "https://www.qbitai.com/2026/11/512305.html"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Figma employee sues, alleging company forced her to confront harassers",
-            "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discriminat",
-            "source": "TechCrunch AI",
-            "time": "8小时前",
+            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+            "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+            "source": "量子位",
+            "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+            "url": "https://www.qbitai.com/2026/11/512297.html"
         }
     ],
     "quickNews": [
         {
-            "time": "07:29",
-            "text": "Anthropic launches Claude Ship, letting AI agents review, fi",
+            "time": "05:58",
+            "text": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
             "hot": true,
-            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            "url": "https://www.qbitai.com/2026/11/512329.html"
         },
         {
-            "time": "07:29",
-            "text": "Supertake raises $20M to let AI agents turn your market pred",
+            "time": "05:58",
+            "text": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+            "url": "https://www.qbitai.com/2026/11/512330.html"
         },
         {
-            "time": "07:29",
-            "text": "Elon Musk and others rejoice as Jensen Huang is reinstated a",
+            "time": "05:58",
+            "text": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+            "url": "https://www.qbitai.com/2026/11/512305.html"
         },
         {
-            "time": "07:29",
-            "text": "Figma employee sues, alleging company forced her to confront",
+            "time": "05:58",
+            "text": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+            "url": "https://www.qbitai.com/2026/11/512297.html"
         },
         {
-            "time": "07:29",
+            "time": "05:58",
             "text": "具身行业，终于等来了自己的通用智能时刻",
             "hot": false,
             "url": "https://www.qbitai.com/2026/11/512264.html"
         },
         {
-            "time": "07:29",
-            "text": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+            "time": "05:58",
+            "text": "A legendary philosopher isn’t buying Anthropic’s consciousne",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/512252.html"
+            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
         },
         {
-            "time": "07:29",
-            "text": "The AI Hype Index: AI is everywhere",
+            "time": "05:58",
+            "text": "The Download: AI’s judgment problem and carbon removal’s cro",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
         },
         {
-            "time": "07:29",
-            "text": "The Download: AI learns to smell and hydropower struggles",
+            "time": "05:58",
+            "text": "Why using rocks for carbon removal could eventually reduce c",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
         }
     ],
     "sections": {
@@ -127,42 +127,42 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code ",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+                    "url": "https://www.qbitai.com/2026/11/512329.html",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han..."
+                    "desc": "12.9 北京，来MEET2027现场..."
                 },
                 {
-                    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda",
-                    "source": "TechCrunch AI",
-                    "time": "9小时前",
+                    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+                    "url": "https://www.qbitai.com/2026/11/512305.html"
                 },
                 {
-                    "title": "Figma employee sues, alleging company forced her to confront harassers",
-                    "source": "TechCrunch AI",
-                    "time": "8小时前",
+                    "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+                    "source": "量子位",
+                    "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+                    "url": "https://www.qbitai.com/2026/11/512297.html"
                 },
                 {
                     "title": "具身行业，终于等来了自己的通用智能时刻",
                     "source": "量子位",
-                    "time": "5小时前",
+                    "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
@@ -170,14 +170,14 @@ var siteData = {
                     "url": "https://www.qbitai.com/2026/11/512264.html"
                 },
                 {
-                    "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
-                    "source": "量子位",
-                    "time": "5小时前",
+                    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+                    "source": "MIT Tech Review",
+                    "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/512252.html"
+                    "category": "domestic",
+                    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-                    "desc": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substa...",
+                    "title": "【arXiv】OmniAct: One Policy, One Million Embodiments",
+                    "desc": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's cap...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31240v1"
+                    "url": "http://arxiv.org/abs/2611.33158v1"
                 },
                 {
-                    "title": "【arXiv】Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-                    "desc": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extends far beyond what was captured...",
+                    "title": "【arXiv】PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+                    "desc": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches ...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31239v1"
+                    "url": "http://arxiv.org/abs/2611.33157v1"
                 },
                 {
-                    "title": "【arXiv】Modern Self-Supervised Vision Transformers Are Pareidolic",
-                    "desc": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguous stimulus.We find a similar ...",
+                    "title": "【arXiv】DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+                    "desc": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of th...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31238v1"
+                    "url": "http://arxiv.org/abs/2611.33153v1"
                 },
                 {
-                    "title": "【arXiv】Let Vision-Language Models Generate Images through Their Representations",
-                    "desc": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabil...",
+                    "title": "【arXiv】BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scien",
+                    "desc": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large a...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31237v1"
+                    "url": "http://arxiv.org/abs/2611.33151v1"
                 },
                 {
-                    "title": "【arXiv】TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
-                    "desc": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regio...",
+                    "title": "【arXiv】CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+                    "desc": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories,...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31233v1"
+                    "url": "http://arxiv.org/abs/2611.33148v1"
                 },
                 {
-                    "title": "【arXiv】Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
-                    "desc": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking...",
+                    "title": "【arXiv】One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+                    "desc": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "12小时前",
+                    "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.31228v1"
+                    "url": "http://arxiv.org/abs/2611.33147v1"
                 }
             ]
         },
@@ -274,34 +274,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Supertake raises $20M to let AI agents turn your market predictions in",
-                    "time": "9小时前",
-                    "emoji": "🔥",
-                    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-                },
-                {
-                    "rank": 2,
                     "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-                    "time": "3小时前",
-                    "emoji": "💡",
+                    "time": "昨天",
+                    "emoji": "🔥",
                     "url": "https://www.qbitai.com/2026/11/512330.html"
                 },
                 {
+                    "rank": 2,
+                    "title": "Even the best AI agents struggle with everyday life",
+                    "time": "8小时前",
+                    "emoji": "💡",
+                    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+                },
+                {
                     "rank": 3,
-                    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Searc",
-                    "time": "12小时前",
+                    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Mus",
+                    "time": "8小时前",
                     "emoji": "🎬",
-                    "url": "http://arxiv.org/abs/2611.31198v1"
+                    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
                 },
                 {
                     "rank": 4,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "Maple raises $5.3M to build AI products that protect your data, even f",
+                    "time": "8小时前",
+                    "emoji": "🔍",
+                    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
                 },
                 {
                     "rank": 5,
-                    "title": "AI应用资讯持续更新中...",
-                    "time": "今天"
+                    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+                    "time": "11小时前",
+                    "emoji": "⚖️",
+                    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
                 },
                 {
                     "rank": 6,
@@ -317,9 +321,16 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-                    "time": "20小时前",
+                    "time": "昨天",
                     "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+                },
+                {
+                    "rank": 2,
+                    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+                    "time": "11小时前",
+                    "emoji": "💰",
+                    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
                 }
             ]
         },
@@ -365,7 +376,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+476,052",
+                    "stars": "+477,444",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -374,7 +385,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,548",
+                    "stars": "+459,590",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -383,7 +394,7 @@ var siteData = {
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+402,164",
+                    "stars": "+402,236",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -392,7 +403,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+395,134",
+                    "stars": "+395,174",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -401,26 +412,26 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,656",
+                    "stars": "+372,709",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
-                    "name": "affaan-m/ECC",
-                    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-                    "lang": "JavaScript",
-                    "langClass": "lang-javascript",
-                    "stars": "+309,745",
-                    "url": "https://github.com/affaan-m/ECC"
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+332,344",
+                    "url": "https://github.com/mattpocock/skills"
                 },
                 {
                     "rank": 7,
-                    "name": "practical-tutorials/project-based-learning",
-                    "desc": "Curated list of project-based tutorials",
-                    "lang": "Python",
-                    "langClass": "lang-python",
-                    "stars": "+290,365",
-                    "url": "https://github.com/practical-tutorials/project-based-learning"
+                    "name": "obra/superpowers",
+                    "desc": "An agentic skills framework & software development methodology that works.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+325,979",
+                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
@@ -428,7 +439,7 @@ var siteData = {
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+265,732",
+                    "stars": "+265,951",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
@@ -438,30 +449,30 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "Anthropic launches Claude Ship, letting AI agents ",
+            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            "url": "https://www.qbitai.com/2026/11/512329.html"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "Supertake raises $20M to let AI agents turn your m",
+            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+            "url": "https://www.qbitai.com/2026/11/512330.html"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "Elon Musk and others rejoice as Jensen Huang is re",
+            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
+            "url": "https://www.qbitai.com/2026/11/512305.html"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Figma employee sues, alleging company forced her t",
+            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/"
+            "url": "https://www.qbitai.com/2026/11/512297.html"
         },
         {
             "rank": 5,
@@ -473,37 +484,37 @@ var siteData = {
         {
             "rank": 6,
             "top3": false,
-            "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
+            "title": "A legendary philosopher isn’t buying Anthropic’s c",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/512252.html"
+            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "The AI Hype Index: AI is everywhere",
+            "title": "The Download: AI’s judgment problem and carbon rem",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "The Download: AI learns to smell and hydropower st",
+            "title": "Why using rocks for carbon removal could eventuall",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/"
+            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "title": "In all-hands meeting, Jensen Huang thanks White Ho",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/512305.html"
+            "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆",
+            "title": "Even the best AI agents struggle with everyday lif",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/512297.html"
+            "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
         }
     ],
     "aiTools": [
@@ -550,27 +561,27 @@ var siteData = {
     ],
     "hotTags": [
         {
-            "text": "Huang",
-            "size": "large"
-        },
-        {
             "text": "AI",
             "size": "large"
         },
         {
             "text": "Download",
-            "size": "medium"
-        },
-        {
-            "text": "Jensen",
-            "size": "medium"
+            "size": "large"
         },
         {
             "text": "The",
             "size": "medium"
         },
         {
-            "text": "Nvidia",
+            "text": "Huang",
+            "size": "medium"
+        },
+        {
+            "text": "Language",
+            "size": "medium"
+        },
+        {
+            "text": "Models",
             "size": "small"
         },
         {
@@ -578,86 +589,50 @@ var siteData = {
             "size": "small"
         },
         {
+            "text": "Jensen",
+            "size": "small"
+        },
+        {
+            "text": "One",
+            "size": "small"
+        },
+        {
+            "text": "Embodied",
+            "size": "small"
+        },
+        {
+            "text": "Existing",
+            "size": "small"
+        },
+        {
+            "text": "Learning",
+            "size": "small"
+        },
+        {
             "text": "Google",
             "size": "small"
         },
         {
-            "text": "Vision",
+            "text": "Nvidia",
             "size": "small"
         },
         {
-            "text": "CEO",
-            "size": "small"
-        },
-        {
-            "text": "US",
-            "size": "small"
-        },
-        {
-            "text": "Search",
-            "size": "small"
-        },
-        {
-            "text": "Reasoning",
-            "size": "small"
-        },
-        {
-            "text": "Generation",
-            "size": "small"
-        },
-        {
-            "text": "Self",
+            "text": "Meta",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents han"
+            "snippet": "12.9 北京，来MEET2027现场"
         },
         {
-            "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
             "category": "AI应用",
             "tag": "application",
-            "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without havin"
-        },
-        {
-            "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in."
-        },
-        {
-            "title": "Figma employee sues, alleging company forced her to confront harassers",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination."
-        },
-        {
-            "title": "具身行业，终于等来了自己的通用智能时刻",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "行业苦等多年的预训练通用智能，终于有了答案"
-        },
-        {
-            "title": "老黄回归现场盛况空前！员工人山人海夹道欢迎，“哪里领入职电脑”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "离职员工：我可能走早了"
-        },
-        {
-            "title": "The AI Hype Index: AI is everywhere",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the co"
-        },
-        {
-            "title": "The Download: AI learns to smell and hydropower struggles",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "中国AI数据平台加速崛起"
         },
         {
             "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
@@ -672,6 +647,78 @@ var siteData = {
             "snippet": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。"
         },
         {
+            "title": "具身行业，终于等来了自己的通用智能时刻",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "行业苦等多年的预训练通用智能，终于有了答案"
+        },
+        {
+            "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
+        },
+        {
+            "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of "
+        },
+        {
+            "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+        },
+        {
+            "title": "Even the best AI agents struggle with everyday life",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to co"
+        },
+        {
+            "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+        },
+        {
+            "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private dat"
+        },
+        {
+            "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels."
+        },
+        {
+            "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+        },
+        {
+            "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'"
+        },
+        {
+            "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelli"
+        },
+        {
             "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
             "category": "AI研究",
             "tag": "research",
@@ -682,24 +729,6 @@ var siteData = {
             "category": "AI研究",
             "tag": "research",
             "snippet": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, open"
-        },
-        {
-            "title": "What a billion-dollar deal says about the US battery market",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteri"
-        },
-        {
-            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "12.9 北京，来MEET2027现场"
-        },
-        {
-            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "中国AI数据平台加速崛起"
         },
         {
             "title": "The most misunderstood graph in AI just got a major update",
@@ -714,16 +743,16 @@ var siteData = {
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+            "title": "Google Cloud 出海峰会报名开启",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "零Token成本，断网也能自由Vibe Coding"
+            "snippet": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
         },
         {
-            "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of "
+            "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "端侧老炮辛米尔，打通物理AI规模化落地之路"
         },
         {
             "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
@@ -744,52 +773,34 @@ var siteData = {
             "snippet": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
         },
         {
-            "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+            "title": "Data centers are getting their own natural gas power plants",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait th"
+        },
+        {
+            "title": "The Download: AI’s gas power boom and a consciousness reality check",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+            "title": "Raising the stakes for enterprise networks with AI modernization",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+            "snippet": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quic"
         },
         {
-            "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+            "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+            "category": "行业动态",
+            "tag": "industry",
+            "snippet": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
         },
         {
-            "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of us"
-        },
-        {
-            "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide actio"
-        },
-        {
-            "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Exploring a scene from as little as a single photo requires generating a long, camera-controlled walkthrough that extend"
-        },
-        {
-            "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "In human perception, pareidolia is the tendency to perceive a meaningful pattern, such as a face, in a random or ambiguo"
+            "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exp"
         }
     ]
 }
