@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-25 05:58:39
+ * 生成时间: 2026-11-26 05:51:30
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-            "summary": "12.9 北京，来MEET2027现场",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "The Download: AI’s gas power boom and a consciousness reality check",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of ",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://www.qbitai.com/2026/11/512329.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
         },
         {
-            "tag": "重磅 · 应用",
-            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-            "summary": "中国AI数据平台加速崛起",
-            "source": "量子位",
+            "tag": "独家 · 研究",
+            "title": "Data centers are getting their own natural gas power plants",
+            "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the ele",
+            "source": "MIT Tech Review",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://www.qbitai.com/2026/11/512330.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-            "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+            "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experienc",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://www.qbitai.com/2026/11/512305.html"
+            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-            "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-            "source": "量子位",
-            "time": "昨天",
+            "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+            "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have ",
+            "source": "TechCrunch AI",
+            "time": "9小时前",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://www.qbitai.com/2026/11/512297.html"
+            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
         }
     ],
     "quickNews": [
         {
-            "time": "05:58",
-            "text": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+            "time": "05:51",
+            "text": "The Download: AI’s gas power boom and a consciousness realit",
             "hot": true,
-            "url": "https://www.qbitai.com/2026/11/512329.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
         },
         {
-            "time": "05:58",
-            "text": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+            "time": "05:51",
+            "text": "Data centers are getting their own natural gas power plants",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/512330.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
         },
         {
-            "time": "05:58",
-            "text": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "time": "05:51",
+            "text": "OpenAI says heavy ChatGPT users may hit limits sooner as it ",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/512305.html"
+            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
-            "time": "05:58",
-            "text": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+            "time": "05:51",
+            "text": "Jensen Huang broke Nvidia’s code of conduct, and his employe",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/512297.html"
+            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
         },
         {
-            "time": "05:58",
-            "text": "具身行业，终于等来了自己的通用智能时刻",
+            "time": "05:51",
+            "text": "The canceled Tesla Cybertruck is the fastest-selling used tr",
             "hot": false,
-            "url": "https://www.qbitai.com/2026/11/512264.html"
+            "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
         },
         {
-            "time": "05:58",
-            "text": "A legendary philosopher isn’t buying Anthropic’s consciousne",
+            "time": "05:51",
+            "text": "FCC approves SpaceX plan to put AI data centers in space",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         },
         {
-            "time": "05:58",
-            "text": "The Download: AI’s judgment problem and carbon removal’s cro",
+            "time": "05:51",
+            "text": "S&P considers Nvidia credit downgrade over governance and ‘k",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
         },
         {
-            "time": "05:58",
-            "text": "Why using rocks for carbon removal could eventually reduce c",
+            "time": "05:51",
+            "text": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+            "url": "https://www.qbitai.com/2026/11/512819.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/512329.html",
+                    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "12.9 北京，来MEET2027现场..."
+                    "desc": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences...."
                 },
                 {
-                    "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/512305.html"
+                    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
                 },
                 {
-                    "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+                    "source": "TechCrunch AI",
+                    "time": "9小时前",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/512297.html"
+                    "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
                 },
                 {
-                    "title": "具身行业，终于等来了自己的通用智能时刻",
-                    "source": "量子位",
-                    "time": "昨天",
+                    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+                    "source": "TechCrunch AI",
+                    "time": "7小时前",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://www.qbitai.com/2026/11/512264.html"
+                    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
                 },
                 {
-                    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-                    "source": "MIT Tech Review",
-                    "time": "昨天",
+                    "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+                    "source": "量子位",
+                    "time": "5小时前",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
-                    "category": "domestic",
-                    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+                    "category": "gpt",
+                    "url": "https://www.qbitai.com/2026/11/512819.html"
                 }
             ]
         },
@@ -201,70 +201,70 @@ var siteData = {
             "layout": "list",
             "items": [
                 {
-                    "title": "【arXiv】OmniAct: One Policy, One Million Embodiments",
-                    "desc": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's cap...",
+                    "title": "【arXiv】AnyCam: Anything Can Represent Camera for Video Generation",
+                    "desc": "Camera-controlled video generation re-renders a video along a target camera trajectory, yet moving the camera around an object, the most natural way t...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33158v1"
+                    "url": "http://arxiv.org/abs/2611.34944v1"
                 },
                 {
-                    "title": "【arXiv】PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
-                    "desc": "The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches ...",
+                    "title": "【arXiv】Tracking Any Point with Agentic Visual Reasoning",
+                    "desc": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. Howev...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33157v1"
+                    "url": "http://arxiv.org/abs/2611.34943v1"
                 },
                 {
-                    "title": "【arXiv】DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-                    "desc": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of th...",
+                    "title": "【arXiv】Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+                    "desc": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly ...",
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33153v1"
+                    "url": "http://arxiv.org/abs/2611.34942v1"
                 },
                 {
-                    "title": "【arXiv】BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scien",
-                    "desc": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large a...",
+                    "title": "【arXiv】Improving and Expanding Video Editing Capabilities Without Videos",
+                    "desc": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecti...",
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33151v1"
+                    "url": "http://arxiv.org/abs/2611.34941v1"
                 },
                 {
-                    "title": "【arXiv】CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
-                    "desc": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories,...",
+                    "title": "【arXiv】LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Pr",
+                    "desc": "We present LuxAvatar, a feed-forward framework for real-time head avatar animation and relighting from a single portrait. To achieve both 3D controlla...",
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33148v1"
+                    "url": "http://arxiv.org/abs/2611.34940v1"
                 },
                 {
-                    "title": "【arXiv】One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
-                    "desc": "Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors...",
+                    "title": "【arXiv】A Mesh for Every Moment",
+                    "desc": "We present MEMO (a Mesh for Every MOment), a method that reconstructs the geometry of complete dynamic scenes, captured by multiple synchronized camer...",
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
                     "time": "10小时前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
-                    "url": "http://arxiv.org/abs/2611.33147v1"
+                    "url": "http://arxiv.org/abs/2611.34939v1"
                 }
             ]
         },
@@ -274,38 +274,32 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-                    "time": "昨天",
+                    "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+                    "time": "15小时前",
                     "emoji": "🔥",
-                    "url": "https://www.qbitai.com/2026/11/512330.html"
+                    "url": "https://www.qbitai.com/2026/11/512582.html"
                 },
                 {
                     "rank": 2,
-                    "title": "Even the best AI agents struggle with everyday life",
-                    "time": "8小时前",
+                    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+                    "time": "10小时前",
                     "emoji": "💡",
-                    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+                    "url": "http://arxiv.org/abs/2611.34934v1"
                 },
                 {
                     "rank": 3,
-                    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Mus",
-                    "time": "8小时前",
-                    "emoji": "🎬",
-                    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 4,
-                    "title": "Maple raises $5.3M to build AI products that protect your data, even f",
-                    "time": "8小时前",
-                    "emoji": "🔍",
-                    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 5,
-                    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-                    "time": "11小时前",
-                    "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+                    "title": "AI应用资讯持续更新中...",
+                    "time": "今天"
                 },
                 {
                     "rank": 6,
@@ -321,16 +315,9 @@ var siteData = {
                 {
                     "rank": 1,
                     "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-                    "time": "昨天",
+                    "time": "2天前",
                     "emoji": "🔥",
                     "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
-                },
-                {
-                    "rank": 2,
-                    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-                    "time": "11小时前",
-                    "emoji": "💰",
-                    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
                 }
             ]
         },
@@ -376,7 +363,7 @@ var siteData = {
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+477,444",
+                    "stars": "+478,729",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
@@ -385,7 +372,7 @@ var siteData = {
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,590",
+                    "stars": "+459,649",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
@@ -394,7 +381,7 @@ var siteData = {
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+402,236",
+                    "stars": "+402,302",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
@@ -403,7 +390,7 @@ var siteData = {
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+395,174",
+                    "stars": "+395,246",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
@@ -412,26 +399,26 @@ var siteData = {
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,709",
+                    "stars": "+372,794",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
                     "rank": 6,
+                    "name": "awesome-selfhosted/awesome-selfhosted",
+                    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+                    "lang": "Unknown",
+                    "langClass": "lang-python",
+                    "stars": "+340,559",
+                    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
+                },
+                {
+                    "rank": 7,
                     "name": "mattpocock/skills",
                     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
                     "lang": "Shell",
                     "langClass": "lang-bash",
-                    "stars": "+332,344",
+                    "stars": "+333,034",
                     "url": "https://github.com/mattpocock/skills"
-                },
-                {
-                    "rank": 7,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+325,979",
-                    "url": "https://github.com/obra/superpowers"
                 },
                 {
                     "rank": 8,
@@ -439,7 +426,7 @@ var siteData = {
                     "desc": "The agent that grows with you",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+265,951",
+                    "stars": "+266,155",
                     "url": "https://github.com/NousResearch/hermes-agent"
                 }
             ]
@@ -449,72 +436,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+            "title": "The Download: AI’s gas power boom and a consciousn",
             "heat": "120.0万热度",
-            "url": "https://www.qbitai.com/2026/11/512329.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+            "title": "Data centers are getting their own natural gas pow",
             "heat": "110.3万热度",
-            "url": "https://www.qbitai.com/2026/11/512330.html"
+            "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "title": "OpenAI says heavy ChatGPT users may hit limits soo",
             "heat": "100.6万热度",
-            "url": "https://www.qbitai.com/2026/11/512305.html"
+            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆",
+            "title": "Jensen Huang broke Nvidia’s code of conduct, and h",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/512297.html"
+            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "具身行业，终于等来了自己的通用智能时刻",
+            "title": "The canceled Tesla Cybertruck is the fastest-selli",
             "heat": "",
-            "url": "https://www.qbitai.com/2026/11/512264.html"
+            "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "A legendary philosopher isn’t buying Anthropic’s c",
+            "title": "FCC approves SpaceX plan to put AI data centers in",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "The Download: AI’s judgment problem and carbon rem",
+            "title": "S&P considers Nvidia credit downgrade over governa",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/"
+            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "Why using rocks for carbon removal could eventuall",
+            "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
+            "url": "https://www.qbitai.com/2026/11/512819.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "In all-hands meeting, Jensen Huang thanks White Ho",
+            "title": "The most misunderstood graph in AI just got a majo",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+            "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Even the best AI agents struggle with everyday lif",
+            "title": "The Download: inside the quest to make our minds i",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+            "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
         }
     ],
     "aiTools": [
@@ -573,84 +560,132 @@ var siteData = {
             "size": "medium"
         },
         {
-            "text": "Huang",
+            "text": "Nvidia",
             "size": "medium"
-        },
-        {
-            "text": "Language",
-            "size": "medium"
-        },
-        {
-            "text": "Models",
-            "size": "small"
         },
         {
             "text": "Anthropic",
+            "size": "medium"
+        },
+        {
+            "text": "America",
             "size": "small"
         },
         {
-            "text": "Jensen",
+            "text": "models",
             "size": "small"
         },
         {
-            "text": "One",
+            "text": "&#",
             "size": "small"
         },
         {
-            "text": "Embodied",
+            "text": "Data",
             "size": "small"
         },
         {
-            "text": "Existing",
+            "text": "OpenAI",
             "size": "small"
         },
         {
-            "text": "Learning",
+            "text": "ChatGPT",
             "size": "small"
         },
         {
-            "text": "Google",
+            "text": "Chat",
             "size": "small"
         },
         {
-            "text": "Nvidia",
+            "text": "Work",
             "size": "small"
         },
         {
-            "text": "Meta",
+            "text": "Tesla",
+            "size": "small"
+        },
+        {
+            "text": "Cybertruck",
             "size": "small"
         }
     ],
     "searchData": [
         {
-            "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "12.9 北京，来MEET2027现场"
+            "title": "The Download: AI’s gas power boom and a consciousness reality check",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "中国AI数据平台加速崛起"
+            "title": "Data centers are getting their own natural gas power plants",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait th"
         },
         {
-            "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+            "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。"
+            "snippet": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
         },
         {
-            "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+            "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。"
+            "snippet": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences."
         },
         {
-            "title": "具身行业，终于等来了自己的通用智能时刻",
+            "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "行业苦等多年的预训练通用智能，终于有了答案"
+            "snippet": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 6"
+        },
+        {
+            "title": "FCC approves SpaceX plan to put AI data centers in space",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, beca"
+        },
+        {
+            "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+        },
+        {
+            "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "合着全让A➗揽了"
+        },
+        {
+            "title": "The most misunderstood graph in AI just got a major update",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an ex"
+        },
+        {
+            "title": "The Download: inside the quest to make our minds immortal",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "李斌坦言：不做AI变革可能活不下去"
+        },
+        {
+            "title": "沈向洋刚讲了好多AI非共识啊",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "“灵巧手是人类最后的尊严”"
+        },
+        {
+            "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "叠满海淀最强AI Buff。"
         },
         {
             "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -671,136 +706,88 @@ var siteData = {
             "snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of "
         },
         {
-            "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+            "title": "AI is straining America’s open records systems",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property "
+        },
+        {
+            "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+            "snippet": "揭秘General Looped Model"
         },
         {
-            "title": "Even the best AI agents struggle with everyday life",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to co"
-        },
-        {
-            "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
-        },
-        {
-            "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private dat"
-        },
-        {
-            "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels."
-        },
-        {
-            "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
-        },
-        {
-            "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'"
-        },
-        {
-            "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelli"
-        },
-        {
-            "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+            "title": "The Download: AI swamping open records, and firefighting for permafrost",
             "category": "AI研究",
             "tag": "research",
             "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
         },
         {
-            "title": "A human liver has been kept alive outside the body for a record seven weeks",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, open"
-        },
-        {
-            "title": "The most misunderstood graph in AI just got a major update",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an ex"
-        },
-        {
-            "title": "The Download: inside the quest to make our minds immortal",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Google Cloud 出海峰会报名开启",
+            "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行"
+            "snippet": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA"
         },
         {
-            "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+            "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。"
+        },
+        {
+            "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+            "snippet": "贯通具⾝智能研发流程"
         },
         {
-            "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+            "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
             "category": "大模型动态",
             "tag": "llm",
             "snippet": ""
         },
         {
-            "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+            "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "11月19日，方程豹钛9上市，售价27.99万元起"
+            "snippet": "商汤SenseNova U1.6"
         },
         {
-            "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+            "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
             "category": "大模型动态",
             "tag": "llm",
-            "snippet": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场"
+            "snippet": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victim"
         },
         {
-            "title": "Data centers are getting their own natural gas power plants",
+            "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, incl"
+        },
+        {
+            "title": "How data centers are driving a US natural-gas boom",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait th"
+            "snippet": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. J"
         },
         {
-            "title": "The Download: AI’s gas power boom and a consciousness reality check",
+            "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The password manager maker said an attacker gained access to an employee's corporate account and took some information a"
+        },
+        {
+            "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+            "snippet": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety fail"
         },
         {
-            "title": "Raising the stakes for enterprise networks with AI modernization",
+            "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
             "category": "AI研究",
             "tag": "research",
-            "snippet": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quic"
-        },
-        {
-            "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
-        },
-        {
-            "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exp"
+            "snippet": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even "
         }
     ]
 }
