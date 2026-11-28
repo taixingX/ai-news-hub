@@ -1,7 +1,7 @@
 /**
  * =======================================
  * AI全球资讯 - 数据文件（自动生成）
- * 生成时间: 2026-11-27 05:44:38
+ * 生成时间: 2026-11-28 05:24:44
  * 请勿手动编辑此文件，内容由 fetch_news.py 自动生成
  * =======================================
  */
@@ -9,94 +9,94 @@
 var siteData = {
     "carouselSlides": [
         {
-            "tag": "头条 · 大模型",
-            "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-            "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+            "tag": "政策 · 法规",
+            "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+            "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand an",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "100.0K",
             "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
-            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+            "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         },
         {
-            "tag": "独家 · 研究",
-            "title": "FCC approves SpaceX plan to put AI data centers in space",
-            "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scien",
+            "tag": "头条 · 大模型",
+            "title": "Is Alice Huang a spy or not?",
+            "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed ex",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "85.3K",
             "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
-            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+            "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-            "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experienc",
+            "title": "X finally gets parental controls after 20 years",
+            "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and g",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "70.6K",
             "bg": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
-            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+            "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
         },
         {
             "tag": "头条 · 大模型",
-            "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-            "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have ",
+            "title": "A month with the iPhone Duo has changed how I use my phone",
+            "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily",
             "source": "TechCrunch AI",
             "time": "昨天",
             "views": "55.9K",
             "bg": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
-            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+            "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
         }
     ],
     "quickNews": [
         {
-            "time": "05:44",
-            "text": "S&P considers Nvidia credit downgrade over governance and ‘k",
+            "time": "05:24",
+            "text": "Nvidia hits pause on chip shipments to Southeast Asia",
             "hot": true,
-            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+            "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         },
         {
-            "time": "05:44",
-            "text": "FCC approves SpaceX plan to put AI data centers in space",
+            "time": "05:24",
+            "text": "Is Alice Huang a spy or not?",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+            "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
         },
         {
-            "time": "05:44",
-            "text": "OpenAI says heavy ChatGPT users may hit limits sooner as it ",
+            "time": "05:24",
+            "text": "X finally gets parental controls after 20 years",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+            "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
         },
         {
-            "time": "05:44",
-            "text": "Jensen Huang broke Nvidia’s code of conduct, and his employe",
+            "time": "05:24",
+            "text": "A month with the iPhone Duo has changed how I use my phone",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+            "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
         },
         {
-            "time": "05:44",
-            "text": "The canceled Tesla Cybertruck is the fastest-selling used tr",
+            "time": "05:24",
+            "text": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
             "hot": false,
-            "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+            "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
         },
         {
-            "time": "05:44",
-            "text": "How data centers are driving a US natural-gas boom",
+            "time": "05:24",
+            "text": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+            "url": "https://www.qbitai.com/2026/11/513194.html"
         },
         {
-            "time": "05:44",
-            "text": "The Download: AI swamping open records, and firefighting for",
+            "time": "05:24",
+            "text": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+            "url": "https://www.qbitai.com/2026/11/513211.html"
         },
         {
-            "time": "05:44",
-            "text": "AI is straining America’s open records systems",
+            "time": "05:24",
+            "text": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
             "hot": false,
-            "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+            "url": "https://www.qbitai.com/2026/11/513163.html"
         }
     ],
     "sections": {
@@ -127,57 +127,57 @@ var siteData = {
             ],
             "items": [
                 {
-                    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+                    "title": "Is Alice Huang a spy or not?",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "80.0K",
                     "comments": "300",
                     "bg": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+                    "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
                     "featured": true,
                     "tag": "重磅",
-                    "desc": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating...."
+                    "desc": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia ..."
                 },
                 {
-                    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+                    "title": "X finally gets parental controls after 20 years",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "70.7K",
                     "comments": "260",
                     "bg": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+                    "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
                 },
                 {
-                    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+                    "title": "A month with the iPhone Duo has changed how I use my phone",
                     "source": "TechCrunch AI",
                     "time": "昨天",
                     "views": "60.14K",
                     "comments": "220",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+                    "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
                 },
                 {
-                    "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-                    "source": "TechCrunch AI",
+                    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "50.21K",
                     "comments": "180",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "gpt",
-                    "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+                    "url": "https://www.qbitai.com/2026/11/513194.html"
                 },
                 {
-                    "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
-                    "source": "arXiv",
+                    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+                    "source": "量子位",
                     "time": "昨天",
                     "views": "40.28K",
                     "comments": "140",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "gpt",
-                    "url": "http://arxiv.org/abs/2611.34928v1"
+                    "url": "https://www.qbitai.com/2026/11/513125.html"
                 }
             ]
         },
@@ -206,7 +206,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #fccb90 0%, #d57eeb 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34944v1"
@@ -217,7 +217,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34943v1"
@@ -228,7 +228,7 @@ var siteData = {
                     "tag": "技术报告",
                     "tagClass": "tag-blue",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f5576c 0%, #ff6a88 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34942v1"
@@ -239,7 +239,7 @@ var siteData = {
                     "tag": "基准测试",
                     "tagClass": "tag-red",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #43e97b 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34941v1"
@@ -250,7 +250,7 @@ var siteData = {
                     "tag": "论文解读",
                     "tagClass": "tag-purple",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34940v1"
@@ -261,7 +261,7 @@ var siteData = {
                     "tag": "学术会议",
                     "tagClass": "tag-orange",
                     "source": "arXiv",
-                    "time": "昨天",
+                    "time": "2天前",
                     "bg": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
                     "category": "paper",
                     "url": "http://arxiv.org/abs/2611.34939v1"
@@ -274,38 +274,38 @@ var siteData = {
             "items": [
                 {
                     "rank": 1,
-                    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+                    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
                     "time": "昨天",
                     "emoji": "🔥",
-                    "url": "http://arxiv.org/abs/2611.34934v1"
+                    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
                 },
                 {
                     "rank": 2,
-                    "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-                    "time": "3小时前",
+                    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+                    "time": "昨天",
                     "emoji": "💡",
-                    "url": "https://www.qbitai.com/2026/11/513087.html"
+                    "url": "https://www.qbitai.com/2026/11/513211.html"
                 },
                 {
                     "rank": 3,
                     "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-                    "time": "1小时前",
+                    "time": "昨天",
                     "emoji": "🎬",
                     "url": "https://www.qbitai.com/2026/11/513163.html"
                 },
                 {
                     "rank": 4,
                     "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
-                    "time": "1小时前",
+                    "time": "昨天",
                     "emoji": "🔍",
                     "url": "https://www.qbitai.com/2026/11/513155.html"
                 },
                 {
                     "rank": 5,
-                    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-                    "time": "13小时前",
+                    "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+                    "time": "2天前",
                     "emoji": "⚖️",
-                    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
+                    "url": "http://arxiv.org/abs/2611.34934v1"
                 },
                 {
                     "rank": 6,
@@ -317,15 +317,7 @@ var siteData = {
         "industry": {
             "title": "行业动态",
             "icon": "📊",
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-                    "time": "3天前",
-                    "emoji": "🔥",
-                    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/"
-                }
-            ]
+            "items": []
         },
         "policy": {
             "title": "政策法规",
@@ -365,75 +357,75 @@ var siteData = {
             "projects": [
                 {
                     "rank": 1,
+                    "name": "public-apis/public-apis",
+                    "desc": "A collective list of free APIs",
+                    "lang": "Python",
+                    "langClass": "lang-python",
+                    "stars": "+501,847",
+                    "url": "https://github.com/public-apis/public-apis"
+                },
+                {
+                    "rank": 2,
                     "name": "morluto/rea",
                     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+480,081",
+                    "stars": "+481,328",
                     "url": "https://github.com/morluto/rea"
                 },
                 {
-                    "rank": 2,
+                    "rank": 3,
                     "name": "freeCodeCamp/freeCodeCamp",
                     "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+459,685",
+                    "stars": "+459,686",
                     "url": "https://github.com/freeCodeCamp/freeCodeCamp"
                 },
                 {
-                    "rank": 3,
+                    "rank": 4,
                     "name": "EbookFoundation/free-programming-books",
                     "desc": ":books: Freely available programming books",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+402,349",
+                    "stars": "+402,381",
                     "url": "https://github.com/EbookFoundation/free-programming-books"
                 },
                 {
-                    "rank": 4,
+                    "rank": 5,
                     "name": "openclaw/openclaw",
                     "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+395,322",
+                    "stars": "+395,364",
                     "url": "https://github.com/openclaw/openclaw"
                 },
                 {
-                    "rank": 5,
+                    "rank": 6,
                     "name": "nilbuild/developer-roadmap",
                     "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
                     "lang": "TypeScript",
                     "langClass": "lang-typescript",
-                    "stars": "+372,852",
+                    "stars": "+372,912",
                     "url": "https://github.com/nilbuild/developer-roadmap"
                 },
                 {
-                    "rank": 6,
-                    "name": "obra/superpowers",
-                    "desc": "An agentic skills framework & software development methodology that works.",
-                    "lang": "Shell",
-                    "langClass": "lang-bash",
-                    "stars": "+327,653",
-                    "url": "https://github.com/obra/superpowers"
-                },
-                {
                     "rank": 7,
-                    "name": "NousResearch/hermes-agent",
-                    "desc": "The agent that grows with you",
+                    "name": "vinta/awesome-python",
+                    "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
                     "lang": "Python",
                     "langClass": "lang-python",
-                    "stars": "+266,452",
-                    "url": "https://github.com/NousResearch/hermes-agent"
+                    "stars": "+337,605",
+                    "url": "https://github.com/vinta/awesome-python"
                 },
                 {
                     "rank": 8,
-                    "name": "torvalds/linux",
-                    "desc": "Linux kernel source tree",
-                    "lang": "C",
-                    "langClass": "lang-python",
-                    "stars": "+256,931",
-                    "url": "https://github.com/torvalds/linux"
+                    "name": "mattpocock/skills",
+                    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+                    "lang": "Shell",
+                    "langClass": "lang-bash",
+                    "stars": "+334,364",
+                    "url": "https://github.com/mattpocock/skills"
                 }
             ]
         }
@@ -442,72 +434,72 @@ var siteData = {
         {
             "rank": 1,
             "top3": true,
-            "title": "S&P considers Nvidia credit downgrade over governa",
+            "title": "Nvidia hits pause on chip shipments to Southeast A",
             "heat": "120.0万热度",
-            "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+            "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
         },
         {
             "rank": 2,
             "top3": true,
-            "title": "FCC approves SpaceX plan to put AI data centers in",
+            "title": "Is Alice Huang a spy or not?",
             "heat": "110.3万热度",
-            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+            "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
         },
         {
             "rank": 3,
             "top3": true,
-            "title": "OpenAI says heavy ChatGPT users may hit limits soo",
+            "title": "X finally gets parental controls after 20 years",
             "heat": "100.6万热度",
-            "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+            "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
         },
         {
             "rank": 4,
             "top3": false,
-            "title": "Jensen Huang broke Nvidia’s code of conduct, and h",
+            "title": "A month with the iPhone Duo has changed how I use ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+            "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/"
         },
         {
             "rank": 5,
             "top3": false,
-            "title": "The canceled Tesla Cybertruck is the fastest-selli",
+            "title": "Grand Theft Auto VI proves why efficiency isn’t a ",
             "heat": "",
-            "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/"
+            "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/"
         },
         {
             "rank": 6,
             "top3": false,
-            "title": "How data centers are driving a US natural-gas boom",
+            "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+            "url": "https://www.qbitai.com/2026/11/513194.html"
         },
         {
             "rank": 7,
             "top3": false,
-            "title": "The Download: AI swamping open records, and firefi",
+            "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
+            "url": "https://www.qbitai.com/2026/11/513211.html"
         },
         {
             "rank": 8,
             "top3": false,
-            "title": "AI is straining America’s open records systems",
+            "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
             "heat": "",
-            "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+            "url": "https://www.qbitai.com/2026/11/513163.html"
         },
         {
             "rank": 9,
             "top3": false,
-            "title": "AnyCam: Anything Can Represent Camera for Video Ge",
+            "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.34944v1"
+            "url": "https://www.qbitai.com/2026/11/513155.html"
         },
         {
             "rank": 10,
             "top3": false,
-            "title": "Tracking Any Point with Agentic Visual Reasoning",
+            "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
             "heat": "",
-            "url": "http://arxiv.org/abs/2611.34943v1"
+            "url": "https://www.qbitai.com/2026/11/513125.html"
         }
     ],
     "aiTools": [
@@ -574,11 +566,23 @@ var siteData = {
             "size": "medium"
         },
         {
+            "text": "Innovators",
+            "size": "small"
+        },
+        {
+            "text": "Under",
+            "size": "small"
+        },
+        {
+            "text": "Avi",
+            "size": "small"
+        },
+        {
             "text": "America",
             "size": "small"
         },
         {
-            "text": "Anthropic",
+            "text": "Every",
             "size": "small"
         },
         {
@@ -590,31 +594,103 @@ var siteData = {
             "size": "small"
         },
         {
-            "text": "FCC",
-            "size": "small"
-        },
-        {
-            "text": "OpenAI",
-            "size": "small"
-        },
-        {
-            "text": "ChatGPT",
-            "size": "small"
-        },
-        {
-            "text": "Chat",
-            "size": "small"
-        },
-        {
-            "text": "Work",
+            "text": "Alice",
             "size": "small"
         },
         {
             "text": "Jensen",
             "size": "small"
+        },
+        {
+            "text": "video",
+            "size": "small"
         }
     ],
     "searchData": [
+        {
+            "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+            "category": "政策法规",
+            "tag": "policy",
+            "snippet": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U"
+        },
+        {
+            "title": "Is Alice Huang a spy or not?",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia "
+        },
+        {
+            "title": "X finally gets parental controls after 20 years",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to ma"
+        },
+        {
+            "title": "A month with the iPhone Duo has changed how I use my phone",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I "
+        },
+        {
+            "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful"
+        },
+        {
+            "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": "企业需要有用的 AI"
+        },
+        {
+            "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0"
+        },
+        {
+            "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "Quickwit查询总耗时降31%，最高降87%"
+        },
+        {
+            "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+            "category": "AI应用",
+            "tag": "application",
+            "snippet": "3D生成的竞争重点正在从“能看”转向“能用”"
+        },
+        {
+            "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+            "category": "大模型动态",
+            "tag": "llm",
+            "snippet": ""
+        },
+        {
+            "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "The next generation of bionic hands is here—and they can feel",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is diff"
+        },
+        {
+            "title": "The Download: AI’s gas power boom and a consciousness reality check",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
+        },
+        {
+            "title": "Data centers are getting their own natural gas power plants",
+            "category": "AI研究",
+            "tag": "research",
+            "snippet": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait th"
+        },
         {
             "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
             "category": "大模型动态",
@@ -710,90 +786,6 @@ var siteData = {
             "category": "AI资讯",
             "tag": "paper",
             "snippet": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improve"
-        },
-        {
-            "title": "Attack Policy Selection can Mislead Monitor Evaluators",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated b"
-        },
-        {
-            "title": "DynMF2: Rigid Motion Factorization by Expectation-Maximization for Monocular 4D Reconstruction and M",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "A single casual video leaves a moving scene under-determined: a point seen once from each place can slide toward or away"
-        },
-        {
-            "title": "High-Fidelity Image Matting with Pixel-Space Diffusion Transformers",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Diffusion models have shown strong potential for image matting by transferring generative priors learned from large-scal"
-        },
-        {
-            "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answer"
-        },
-        {
-            "title": "Mixture-of-Loops Transformer",
-            "category": "AI资讯",
-            "tag": "paper",
-            "snippet": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing the"
-        },
-        {
-            "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privac"
-        },
-        {
-            "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts the"
-        },
-        {
-            "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-            "category": "政策法规",
-            "tag": "policy",
-            "snippet": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U"
-        },
-        {
-            "title": "Is Alice Huang a spy or not?",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia "
-        },
-        {
-            "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
-            "category": "AI应用",
-            "tag": "application",
-            "snippet": "11月26日，“乾崑生态 共赴热爱”华为乾崑生态大会在广州南沙体育馆举行。"
-        },
-        {
-            "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
-            "category": "大模型动态",
-            "tag": "llm",
-            "snippet": "担心课题被AI抢先，该怎么办？"
-        },
-        {
-            "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir"
-        },
-        {
-            "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
-            "category": "AI研究",
-            "tag": "research",
-            "snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going o"
-        },
-        {
-            "title": "Why using rocks for carbon removal could eventually reduce crop growth",
-            "category": "行业动态",
-            "tag": "industry",
-            "snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of "
         }
     ]
 }
